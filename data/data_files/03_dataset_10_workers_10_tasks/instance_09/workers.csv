@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+40.0,"['linux', 'system admin', 'mysql', 'unix', 'web hosting']",500.0,w0499
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1753.0,w1737
+10.0,"['translation', 'arabic', 'proofreading', 'academic writing']",325.0,w0324
+30.0,['translation'],303.0,w0302
+30.0,['translation'],288.0,w0287
+35.0,['translation'],1478.0,w1471
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283
+15.0,"['linux', 'system admin', 'asterisk pbx', 'apache', 'voip']",1288.0,w1284
+35.0,"['php', 'mysql', 'html', 'linux']",431.0,w0430
+5.0,"['translation', 'internet marketing']",1248.0,w1244

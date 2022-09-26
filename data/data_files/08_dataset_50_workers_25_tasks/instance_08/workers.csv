@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+11.0,"['seo', 'html', 'css', 'php']",645.0,w0644
+30.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'flyer design']",101.0,w0100
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+10.0,"['link building', 'internet marketing', 'seo', 'advertising']",1242.0,w1238
+8.0,"['logo design', 'graphic design', 'banner design', 'flyer design', 'brochure design']",789.0,w0788
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustration', 'photoshop design']",848.0,w0847
+8.0,"['video services', 'videography']",1597.0,w1585
+35.0,"['mobile phone', 'facebook marketing', 'iphone', 'php']",337.0,w0336
+5.0,"['data entry', 'excel', 'editing', 'research', 'copywriting']",782.0,w0781
+10.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 'flyer design']",649.0,w0648
+10.0,"['data entry', 'internet marketing', 'marketing', 'advertising', 'excel']",1562.0,w1551
+80.0,"['web scraping', 'excel', 'data entry', 'php', 'mysql']",465.0,w0464
+20.0,"['html', 'user interface / ia', 'php', 'ecommerce']",406.0,w0405
+13.0,"['mysql', 'php', 'database administration', 'data processing']",417.0,w0416
+17.0,"['photoshop', 'graphic design', 'logo design', 'illustrator', 'photoshop design']",316.0,w0315
+6.0,"['data entry', 'data processing', 'game design', 'copy typing']",1384.0,w1380
+10.0,"['classifieds posting', 'data entry', 'data processing', 'marketing', 'excel']",1551.0,w1541
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'advertising']",18.0,w0018
+30.0,"['jquery / prototype', 'css', 'javascript', 'drupal']",671.0,w0670
+24.0,"['financial markets', 'web scraping', 'php', 'software architecture', 'c programming']",1637.0,w1623
+15.0,"['graphic design', 'photoshop', 'photoshop design', 't-shirts', 'logo design']",268.0,w0267
+10.0,"['data entry', 'javascript', 'mysql', 'asp']",468.0,w0467
+12.0,"['linux', 'apache', 'system admin']",1195.0,w1191
+10.0,"['php', 'wordpress', 'html', 'mysql', 'cms']",253.0,w0252
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",198.0,w0197
+10.0,"['joomla', 'html', 'php', 'css', 'website design']",823.0,w0822
+4.0,"['data entry', 'excel', 'data processing']",1283.0,w1279
+8.0,"['data entry', 'research']",1318.0,w1314
+25.0,"['data processing', 'data entry', 'graphic design', 'photoshop', 'excel']",945.0,w0942
+8.0,"['php', 'html', 'wordpress', 'linux', 'seo']",1209.0,w1205
+10.0,"['anything goes', 'seo', 'wordpress', 'articles', 'website design']",912.0,w0909
+10.0,"['data processing', 'data entry', 'excel']",1225.0,w1221
+10.0,"['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing']",828.0,w0827
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+20.0,"['joomla', 'virtuemart', 'php', 'mysql', 'website design']",358.0,w0357
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+30.0,"['graphic design', 'html', 'css', 'ecommerce']",560.0,w0559
+12.0,"['php', 'project management', 'javascript', 'internet marketing', 'asp']",1698.0,w1682
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1664.0,w1649
+10.0,"['php', 'mysql', 'website management', 'joomla', 'javascript']",1390.0,w1386
+20.0,"['social networking', 'facebook marketing', 'user interface / ia', 'logo design', 'php']",1053.0,w1050
+35.0,"['graphic design', 'php', 'cms', 'website design']",1686.0,w1671
+5.0,['data entry'],1520.0,w1511
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts']",444.0,w0443
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",179.0,w0178
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+5.0,"['seo', 'link building']",1738.0,w1722
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",493.0,w0492
+15.0,"['php', 'html', 'javascript', 'joomla', 'website design']",1000.0,w0997

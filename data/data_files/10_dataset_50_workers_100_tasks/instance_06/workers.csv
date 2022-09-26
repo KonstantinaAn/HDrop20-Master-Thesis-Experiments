@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+12.0,"['link building', 'seo', 'internet marketing', 'data entry']",1606.0,w1594
+18.0,"['graphic design', 'powerpoint', 'photoshop']",1443.0,w1438
+12.0,"['animation', 'video services', '3d animation', 'after effects', 'videography']",66.0,w0066
+5.0,"['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords']",31.0,w0031
+10.0,"['website design', 'graphic design', 'wordpress', 'photoshop design', 'photoshop']",1359.0,w1355
+10.0,"['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing']",828.0,w0827
+20.0,"['photoshop', 'graphic design', 'photo editing', 'photography', 'logo design']",705.0,w0704
+13.0,"['joomla', 'php', 'html', 'css', 'website design']",196.0,w0195
+20.0,"['javascript', 'php', 'html', 'css', 'website design']",121.0,w0120
+12.0,"['php', 'html', 'mysql', 'javascript', 'ajax']",637.0,w0636
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",197.0,w0196
+4.0,"['data entry', 'data processing', 'seo']",1754.0,w1738
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+14.0,"['translation', 'korean', 'copywriting']",592.0,w0591
+25.0,"['php', 'website design', 'magento', 'javascript', 'wordpress']",350.0,w0349
+30.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'flyer design']",101.0,w0100
+20.0,"['.net', 'asp', 'mysql', 'javascript', 'php']",1302.0,w1298
+25.0,"['graphic design', 'banner design', 'html', 'website design', 'logo design']",914.0,w0911
+15.0,"['graphic design', 'logo design']",1064.0,w1061
+4.0,"['articles', 'article rewriting', 'copywriting', 'editing']",1261.0,w1257
+6.0,"['data entry', 'virtuemart', 'excel', 'data processing', 'magento']",787.0,w0786
+15.0,"['graphic design', 'illustration', 'photoshop']",156.0,w0155
+10.0,"['graphic design', 'logo design']",969.0,w0966
+25.0,"['php', 'mysql', 'html', 'ajax', 'javascript']",1762.0,w1746
+19.0,"['linux', 'system admin', 'apache', 'web hosting', 'windows server']",1115.0,w1112
+5.0,"['php', 'engineering', 'mysql', 'electronics']",1679.0,w1664
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+20.0,"['php', 'html', 'css', 'wordpress', 'c programming']",781.0,w0780
+10.0,"['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting']",1756.0,w1740
+10.0,"['android', 'php', 'iphone', 'html', 'javascript']",484.0,w0483
+14.0,"['website design', 'graphic design', 'html', 'psd to html', 'wordpress']",219.0,w0218
+5.0,"['data entry', 'web search', 'excel', 'data processing', 'web scraping']",1636.0,w1622
+8.0,"['3ds max', 'graphic design', 'photoshop', '3d modelling']",1022.0,w1019
+25.0,"['video services', 'graphic design', 'photo editing', 'animation']",1144.0,w1140
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",286.0,w0285
+15.0,"['after effects', '3d animation', 'animation', 'video services', 'photoshop']",336.0,w0335
+25.0,"['mechanical engineering', 'project management']",1133.0,w1129
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+25.0,"['graphic design', 'banner design', 'logo design', 'website design', 'html']",496.0,w0495
+20.0,"['php', 'javascript', 'jquery / prototype', 'mysql']",307.0,w0306
+10.0,"['php', 'html', 'website design', 'ecommerce', 'graphic design']",399.0,w0398
+10.0,"['3ds max', 'autocad', '3d modelling']",1320.0,w1316
+10.0,"['html', 'website design', 'graphic design']",1327.0,w1323
+10.0,"['php', 'drupal', '.net', 'javascript', 'software architecture']",20.0,w0020
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+10.0,"['php', 'project management', 'script install', '.net', 'windows desktop']",1561.0,w1550
+10.0,"['c programming', 'c++ programming', 'java', 'algorithm']",1744.0,w1728
+10.0,['java'],1084.0,w1081
+15.0,"['virtual assistant', 'php', 'data entry', 'article rewriting', 'sales']",212.0,w0211

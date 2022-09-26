@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['embedded software', 'microcontroller', 'c programming', 'electronics']",613.0,w0612
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+10.0,"['ghostwriting', 'graphic design', 'articles', 'logo design']",1148.0,w1144
+12.0,"['3d rendering', '3ds max', '3d animation', '3d modelling', 'photoshop']",665.0,w0664
+10.0,['3d modelling'],1281.0,w1277
+20.0,"['graphic design', 'website design', 'photoshop', 'photoshop design', 'indesign']",88.0,w0087
+12.0,"['photoshop', '3d modelling', '3d rendering', 'graphic design', 'illustrator']",1155.0,w1151
+22.0,"['article rewriting', 'articles', 'internet marketing', 'technical writing', 'blog']",985.0,w0982
+20.0,"['javascript', 'php', 'html', 'css', 'website design']",121.0,w0120
+6.0,"['php', 'java']",1243.0,w1239
+20.0,"['wordpress', 'php', 'website design', 'html', 'css']",295.0,w0294
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+15.0,"['ipad', 'mobile phone', 'iphone', 'android']",396.0,w0395
+15.0,"['logo design', 'graphic design', 'photoshop', 'illustrator', 'banner design']",965.0,w0962
+15.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",749.0,w0748
+20.0,"['articles', 'copywriting', 'article rewriting', 'ghostwriting', 'blog']",166.0,w0165
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",179.0,w0178
+4.0,"['research', 'virtual assistant']",1631.0,w1617
+10.0,"['php', 'project management', 'script install', '.net', 'windows desktop']",1561.0,w1550
+20.0,"['c++ programming', 'website design', 'wordpress', 'html']",607.0,w0606
+13.0,"['creative writing', 'articles', 'anything goes', 'data entry', 'copy typing']",729.0,w0728
+10.0,['logo design'],1529.0,w1520
+15.0,"['graphic design', 'flash', 'website design', 'logo design']",1735.0,w1719
+6.0,"['anything goes', 'virtual assistant']",1693.0,w1678
+15.0,"['graphic design', 'logo design', 'illustrator', 'wordpress']",598.0,w0597
+10.0,"['graphic design', 'html', 'website design', 'css']",824.0,w0823
+10.0,"['graphic design', 'illustrator', 'logo design', 'illustration', 'photoshop']",362.0,w0361
+15.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 't-shirts']",718.0,w0717
+7.0,"['data entry', 'seo', 'excel', 'wordpress', 'pdf']",725.0,w0724
+15.0,"['css', 'php', 'html', 'website design', 'wordpress']",375.0,w0374
+12.0,"['html', 'website design', 'css', 'php', 'wordpress']",630.0,w0629
+12.0,"['translation', '3d modelling', 'autocad']",790.0,w0789
+20.0,"['mysql', 'php', 'linux', 'system admin']",1044.0,w1041
+20.0,"['software architecture', 'c programming', 'php', 'visual basic', 'html']",1274.0,w1270
+15.0,"['illustration', 'caricature &amp; cartoons', 'illustrator']",392.0,w0391
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+10.0,"['graphic design', 'logo design']",969.0,w0966
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",162.0,w0161
+10.0,"['illustration', 'graphic design', 'animation', 'photoshop', 'illustrator']",946.0,w0943
+10.0,"['ajax', 'copywriting', 'website design', 'php', 'jquery / prototype']",1689.0,w1674
+25.0,"['c++ programming', 'c programming']",1085.0,w1082
+10.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'banner design']",318.0,w0317
+25.0,"['android', 'linux', 'embedded software', 'c programming', 'electronics']",110.0,w0109
+10.0,"['blog', 'articles']",1704.0,w1688
+5.0,['photoshop'],997.0,w0994
+7.0,"['php', 'javascript', 'mysql']",1354.0,w1350
+5.0,"['video broadcasting', 'linux', 'video services']",1627.0,w1613
+25.0,"['php', 'flash', 'css', 'xml', 'photoshop']",1715.0,w1699
+10.0,"['3d modelling', '3d rendering']",688.0,w0687
+25.0,"['customer support', 'music', 'audio services', 'voice talent', 'ghostwriting']",353.0,w0352

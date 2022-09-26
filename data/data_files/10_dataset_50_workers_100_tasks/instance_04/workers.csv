@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['photoshop', 'photo editing', 'graphic design']",1460.0,w1454
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",143.0,w0142
+10.0,"['excel', 'finance', 'accounting', 'data entry']",728.0,w0727
+15.0,"['logo design', 'graphic design', 'website design', 'photoshop design']",549.0,w0548
+3.0,"['data entry', 'copy typing', 'excel', 'data processing', 'word']",1423.0,w1418
+35.0,"['video services', 'animation', 'flash', 'after effects', 'graphic design']",6.0,w0006
+25.0,"['graphic design', 'logo design', 'business cards', 'website design']",742.0,w0741
+7.0,"['translation', 'facebook marketing', 'social networking', 'academic writing']",510.0,w0509
+16.0,"['graphic design', 'photoshop', 'logo design', 'banner design', 'illustrator']",92.0,w0091
+15.0,"['graphic design', 'brochure design', 'indesign', 'illustrator']",192.0,w0191
+10.0,"['software architecture', 'linux', 'c++ programming', 'android']",403.0,w0402
+9.0,['excel'],1382.0,w1378
+2.0,"['audio services', 'virtual assistant', 'anything goes']",1217.0,w1213
+10.0,"['academic writing', 'telecommunications engineering']",1314.0,w1310
+10.0,"['marketing', 'leads']",993.0,w0990
+20.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'audio services']",1307.0,w1303
+15.0,"['translation', 'data entry', 'audio services', 'data processing']",1660.0,w1645
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",710.0,w0709
+6.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting']",45.0,w0045
+10.0,"['graphic design', 'indesign', 'banner design']",1604.0,w1592
+20.0,"['video services', 'animation', 'after effects', '3d animation', '3d rendering']",23.0,w0023
+18.0,"['video services', 'after effects', 'videography', 'animation', '3d animation']",569.0,w0568
+25.0,"['php', 'iphone', 'ajax', 'jquery / prototype']",368.0,w0367
+20.0,"['ghostwriting', 'articles', 'copywriting', 'ebooks', 'article rewriting']",606.0,w0605
+15.0,"['graphic design', 'logo design']",1149.0,w1145
+25.0,"['iphone', 'mobile phone', 'android', 'ipad']",788.0,w0787
+3.0,"['php', 'word', 'mysql', 'powerpoint', 'html']",1107.0,w1104
+10.0,['electronic forms'],894.0,w0891
+30.0,"['wordpress', 'graphic design', 'website design', 'photoshop design', 'html']",165.0,w0164
+10.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",326.0,w0325
+6.0,['transcription'],1398.0,w1394
+2.0,"['css', 'website design', 'html', 'wordpress', 'php']",1089.0,w1086
+5.0,"['wordpress', 'css', 'html', 'psd to html', 'jquery / prototype']",798.0,w0797
+4.0,['unity 3d'],1129.0,w1126
+20.0,"['illustrator', 'caricature &amp; cartoons', 'illustration']",1072.0,w1069
+10.0,"['jquery / prototype', 'css', 'html']",1386.0,w1382
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1582.0,w1570
+9.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",1638.0,w1624
+5.0,['translation'],1696.0,w1680
+7.0,"['graphic design', 'logo design']",1459.0,w1453
+15.0,"['website design', 'graphic design', 'php', 'joomla', 'social networking']",810.0,w0809
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+10.0,"['academic writing', 'article rewriting', 'research', 'articles', 'copy typing']",517.0,w0516
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1734.0,w1718
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+10.0,['data entry'],1531.0,w1522
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+10.0,"['ghostwriting', 'articles']",1336.0,w1332
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",198.0,w0197

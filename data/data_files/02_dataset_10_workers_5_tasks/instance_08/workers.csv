@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+35.0,"['video services', 'animation', 'flash', 'after effects', 'graphic design']",6.0,w0006
+40.0,"['video services', '3d animation', 'voice talent', 'animation', 'audio services']",373.0,w0372
+30.0,"['linux', 'system admin', 'web hosting', 'shell script']",408.0,w0407
+25.0,"['articles', 'electronics']",1311.0,w1307
+15.0,"['pcb layout', 'electronics', 'electrical engineering', 'microcontroller', 'cad/cam']",634.0,w0633
+10.0,['shell script'],1086.0,w1083
+25.0,"['android', 'linux', 'embedded software', 'c programming', 'electronics']",110.0,w0109
+40.0,"['voice talent', 'audio services', 'video services', 'advertising']",251.0,w0250
+10.0,"['system admin', 'database administration', 'shell script']",1352.0,w1348
+25.0,"['animation', 'after effects', 'video services', 'video broadcasting', 'flash']",1539.0,w1530

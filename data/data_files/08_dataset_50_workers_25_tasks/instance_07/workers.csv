@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+15.0,"['matlab &amp; mathematica', 'algorithm', 'mathematics', 'academic writing', 'electrical engineering']",526.0,w0525
+25.0,"['3d modelling', 'product design', '3d rendering']",745.0,w0744
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+6.0,"['data entry', 'excel', 'web search', 'web scraping', 'photoshop']",35.0,w0035
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",14.0,w0014
+15.0,"['videography', 'video services', 'caricature &amp; cartoons', 'after effects', 'illustration']",1038.0,w1035
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1716.0,w1700
+10.0,"['illustration', 'illustrator', 'graphic design', 'caricature &amp; cartoons', 'photoshop']",405.0,w0404
+15.0,"['internet marketing', 'sem / adwords', 'project management', 'sales']",1031.0,w1028
+20.0,"['php', 'mysql', 'sql', '.net', 'html']",93.0,w0092
+1.0,"['3d rendering', '3d modelling', 'autocad', '3d animation']",580.0,w0579
+15.0,"['sales', 'web hosting']",797.0,w0796
+7.0,"['mysql', 'website design', 'jquery / prototype', 'css']",980.0,w0977
+35.0,"['android', 'mobile phone', 'php', 'ruby on rails', 'java']",152.0,w0151
+6.0,"['3d modelling', 'photoshop', '3ds max']",1018.0,w1015
+15.0,"['indesign', 'graphic design', 'photoshop', 'brochure design']",182.0,w0181
+30.0,"['iphone', 'mobile phone', 'ipad', 'android']",63.0,w0063
+10.0,"['data entry', 'excel', 'data processing']",1663.0,w1648
+3.0,"['data entry', 'excel', 'data processing', 'web search', 'word']",1098.0,w1095
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",198.0,w0197
+8.0,"['translation', 'greek']",1192.0,w1188
+15.0,"['web scraping', 'excel', 'data entry', 'data processing']",235.0,w0234
+5.0,"['translation', 'greek', 'proofreading', 'data processing', 'data entry']",805.0,w0804
+8.0,"['3ds max', 'graphic design', 'photoshop', '3d modelling']",1022.0,w1019
+30.0,"['javascript', 'php', 'ajax', 'jquery / prototype']",1730.0,w1714
+30.0,"['software architecture', 'windows desktop', 'c# programming', '.net']",758.0,w0757
+6.0,"['arabic', 'translation', 'graphic design']",693.0,w0692
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'photoshop design']",1142.0,w1138
+8.0,"['transcription', 'translation', 'word']",856.0,w0855
+5.0,"['data entry', 'excel', 'translation', 'web search']",717.0,w0716
+8.0,"['graphic design', 'logo design', 't-shirts', 'photoshop', 'photoshop design']",584.0,w0583
+10.0,"['php', 'html', 'asp', 'mysql', 'css']",658.0,w0657
+11.0,"['data processing', 'telemarketing']",1517.0,w1508
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+8.0,"['c# programming', '.net', 'sql']",1649.0,w1635
+10.0,"['translation', 'php', 'mysql', 'graphic design', 'delphi']",1135.0,w1131
+5.0,"['data entry', 'data processing', 'virtual assistant', 'web search', 'excel']",845.0,w0844
+10.0,"['data entry', 'excel', 'data processing']",1746.0,w1730
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+30.0,"['accounting', 'finance', 'business analysis', 'academic writing']",82.0,w0081
+5.0,"['translation', 'proofreading', 'blog']",1519.0,w1510
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",172.0,w0171
+50.0,"['article rewriting', 'academic writing', 'copywriting', 'technical writing', 'translation']",1147.0,w1143
+5.0,"['data entry', 'web search', 'excel', 'data processing', 'web scraping']",1636.0,w1622
+5.0,"['data processing', 'data entry', 'bulk marketing', 'excel', 'photo editing']",971.0,w0968
+10.0,"['java', 'jquery / prototype', 'mysql', 'xml', 'javascript']",1207.0,w1203
+15.0,"['javascript', 'jquery / prototype', 'php', 'html']",1300.0,w1296
+25.0,"['microsoft access', 'visual basic', 'database administration', 'sql']",462.0,w0461
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'seo']",871.0,w0868

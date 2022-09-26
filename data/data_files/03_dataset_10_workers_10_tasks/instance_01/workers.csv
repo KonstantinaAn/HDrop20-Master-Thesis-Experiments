@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+50.0,"['facebook marketing', 'social networking', 'internet marketing', 'seo']",44.0,w0044
+30.0,"['accounting', 'finance', 'business analysis', 'academic writing']",82.0,w0081
+6.0,"['seo', 'link building', 'internet marketing', 'marketing', 'articles']",125.0,w0124
+25.0,"['graphic design', 'banner design', 'logo design', 'website design', 'html']",496.0,w0495
+30.0,"['logo design', 'graphic design', 'photoshop', 'banner design', 'website design']",95.0,w0094
+15.0,"['graphic design', 'logo design', 'illustrator', 'banner design', 'brochure design']",610.0,w0609
+30.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'flyer design']",101.0,w0100
+25.0,"['microsoft access', 'excel', 'mysql', 'powerpoint']",250.0,w0249
+5.0,"['reviews', 'copywriting', 'article rewriting', 'articles']",1341.0,w1337
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",300.0,w0299

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+5.0,"['article rewriting', 'technical writing', 'articles']",1483.0,w1475
+25.0,"['software architecture', 'software testing', 'mysql', 'website management']",1554.0,w1544
+25.0,"['proofreading', 'translation', 'editing', 'copywriting', 'graphic design']",140.0,w0139
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",710.0,w0709
+12.0,"['html', 'css', 'ajax', 'graphic design']",495.0,w0494
+10.0,"['anything goes', 'seo', 'wordpress', 'articles', 'website design']",912.0,w0909
+20.0,"['joomla', 'html', 'php', 'website design', 'css']",1262.0,w1258
+45.0,"['asterisk pbx', 'excel', 'translation', 'voip', 'data processing']",1152.0,w1148
+7.0,"['link building', 'seo', 'internet marketing']",1091.0,w1088
+25.0,"['php', 'flash', 'css', 'xml', 'photoshop']",1752.0,w1736
+1.0,"['3d rendering', '3d modelling', 'autocad', '3d animation']",580.0,w0579
+20.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",322.0,w0321
+10.0,"['graphic design', 'logo design', 'photoshop', 'flyer design']",230.0,w0229
+5.0,"['.net', 'c# programming']",1490.0,w1482
+5.0,"['data processing', 'data entry', 'bulk marketing', 'excel', 'photo editing']",971.0,w0968
+17.0,"['graphic design', 'flash', 'logo design', 'website design', 'php']",440.0,w0439
+3.0,"['article rewriting', 'copywriting', 'articles']",1488.0,w1480
+20.0,"['html', 'user interface / ia', 'php', 'ecommerce']",406.0,w0405
+20.0,"['magento', 'website design', 'html', 'css', 'ecommerce']",696.0,w0695
+16.0,"['academic writing', 'excel', 'data processing', 'data entry', 'proofreading']",224.0,w0223

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['email marketing', 'bulk marketing', 'php', 'mysql']",1073.0,w1070
+48.0,"['cad/cam', '3d rendering', 'product design', 'mechanical engineering']",503.0,w0502
+35.0,"['cad/cam', 'mechanical engineering', 'autocad']",761.0,w0760
+10.0,"['graphic design', 'logo design']",1220.0,w1216
+28.0,"['php', 'logo design', 'website design', 'wordpress', 'graphic design']",816.0,w0815
+17.0,"['photoshop', 'graphic design', 'logo design', 'illustrator', 'photoshop design']",316.0,w0315
+10.0,['logo design'],1529.0,w1520
+12.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'illustration']",105.0,w0104
+5.0,"['transcription', 'editing', 'articles', 'copy typing', 'proofreading']",477.0,w0476
+15.0,"['website design', 'php', 'graphic design', 'logo design', 'mysql']",25.0,w0025
+10.0,"['graphic design', 'logo design']",1532.0,w1523
+30.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",215.0,w0214
+20.0,"['articles', 'copywriting', 'article rewriting', 'ghostwriting', 'blog']",166.0,w0165
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+10.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'banner design']",318.0,w0317
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",168.0,w0167
+10.0,"['email marketing', 'bulk marketing']",1362.0,w1358
+15.0,"['php', 'website management', 'logo design', 'website design', 'mysql']",814.0,w0813
+12.0,"['academic writing', 'articles', 'copywriting', 'proofreading']",878.0,w0875
+20.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'brochure design']",112.0,w0111

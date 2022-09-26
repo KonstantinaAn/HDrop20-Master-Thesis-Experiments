@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+21.0,"['software architecture', 'android', 'linux', 'project management', 'windows desktop']",846.0,w0845
+8.0,"['website design', 'html', 'graphic design', 'wordpress', 'seo']",700.0,w0699
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+5.0,"['spanish', 'word', 'transcription', 'translation']",1620.0,w1608
+12.0,"['php', 'html', 'graphic design', 'website design', 'mysql']",64.0,w0064
+7.0,"['audio services', 'data entry', 'music', 'game design']",897.0,w0894
+10.0,"['php', 'html', 'css', 'wordpress', 'website design']",1205.0,w1201
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+10.0,"['electrical engineering', 'microcontroller', 'pcb layout', 'electronics', 'c programming']",735.0,w0734
+10.0,"['html', 'wordpress', 'php', 'website design', 'graphic design']",1292.0,w1288
+25.0,['android'],1342.0,w1338
+15.0,"['linux', 'asterisk pbx', 'web hosting', 'voip']",702.0,w0701
+15.0,"['ipad', 'mobile phone', 'iphone', 'android']",396.0,w0395
+10.0,"['website design', 'html', 'graphic design', 'php', 'psd to html']",145.0,w0144
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+3.0,"['3d modelling', '3d rendering', '3ds max']",1411.0,w1407
+5.0,"['php', 'javascript', 'html', 'mysql', 'css']",766.0,w0765
+30.0,"['linux', 'unix', 'mysql', 'php', 'shell script']",1759.0,w1743

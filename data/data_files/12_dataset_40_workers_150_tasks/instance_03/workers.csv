@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+30.0,"['email marketing', 'data processing', 'excel', 'bulk marketing', 'data entry']",684.0,w0683
+5.0,"['translation', 'greek', 'proofreading', 'data processing', 'data entry']",805.0,w0804
+10.0,"['academic writing', 'article rewriting', 'research', 'technical writing', 'ghostwriting']",459.0,w0458
+10.0,"['html', 'wordpress', 'website design', 'css', 'php']",117.0,w0116
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",710.0,w0709
+8.0,"['facebook marketing', 'php', 'virtual assistant', 'anything goes']",1395.0,w1391
+10.0,"['reviews', 'marketing', 'internet marketing', 'articles', 'blog']",1118.0,w1115
+10.0,"['3d rendering', '3d modelling', 'graphic design', '3ds max', 'illustrator']",523.0,w0522
+6.0,"['data entry', 'excel', 'web search', 'web scraping', 'photoshop']",35.0,w0035
+5.0,"['translation', 'data entry', 'proofreading']",622.0,w0621
+7.0,"['mysql', 'website design', 'jquery / prototype', 'css']",980.0,w0977
+35.0,"['php', 'html', 'website design', 'wordpress', 'mysql']",1069.0,w1066
+7.0,"['matlab &amp; mathematica', 'engineering', 'electronics', 'mathematics', 'electrical engineering']",1408.0,w1404
+10.0,"['articles', 'article rewriting', 'technical writing', 'academic writing', 'blog']",736.0,w0735
+30.0,"['linux', 'unix', 'mysql', 'php', 'shell script']",1759.0,w1743
+12.0,"['php', 'website design', 'project management', 'internet marketing', 'copywriting']",1584.0,w1572
+10.0,"['photoshop', 'graphic design']",1172.0,w1168
+10.0,"['matlab &amp; mathematica', 'mathematics', 'c programming', 'c++ programming', 'algorithm']",963.0,w0960
+20.0,"['anything goes', 'reviews', 'blog', 'article rewriting', 'articles']",1467.0,w1460
+18.0,"['graphic design', 'banner design', 'photoshop', 'logo design', 'brochure design']",470.0,w0469
+15.0,"['php', 'software architecture', 'sql']",759.0,w0758
+25.0,"['software architecture', 'software testing', 'mysql', 'website management']",1554.0,w1544
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+6.0,"['graphic design', 'illustrator', 'photoshop']",888.0,w0885
+25.0,"['css', 'joomla', 'wordpress', 'php', 'cms']",305.0,w0304
+25.0,"['php', 'website design', 'html', 'wordpress', 'css']",498.0,w0497
+9.0,"['3d modelling', '3d rendering', 'graphic design', 'photoshop design', 'photoshop']",436.0,w0435
+15.0,"['graphic design', 'logo design', 'photoshop', 'poster design', 'website design']",425.0,w0424
+20.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'audio services']",1307.0,w1303
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+20.0,"['.net', 'asp', 'mysql', 'javascript', 'php']",1302.0,w1298
+12.0,"['website design', 'php', 'graphic design', 'html', 'wordpress']",29.0,w0029
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+10.0,"['graphic design', 'indesign', 'banner design']",1604.0,w1592
+10.0,"['php', 'html']",186.0,w0185
+13.0,"['joomla', 'php', 'html', 'css', 'website design']",196.0,w0195
+16.0,"['php', 'website design', 'html', 'graphic design', 'seo']",30.0,w0030
+20.0,"['telemarketing', 'marketing', 'bulk marketing', 'internet marketing']",1309.0,w1305
+9.0,"['editing', 'copywriting', 'article rewriting', 'proofreading']",1472.0,w1465
+25.0,"['illustration', 'graphic design', 'photoshop', 'illustrator', 't-shirts']",199.0,w0198

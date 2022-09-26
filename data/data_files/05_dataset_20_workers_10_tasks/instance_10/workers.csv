@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+15.0,"['graphic design', 'photoshop', 't-shirts', 'banner design', 'website design']",664.0,w0663
+30.0,"['graphic design', 'website design', 'php', 'flash', 'photoshop']",1658.0,w1643
+40.0,"['graphic design', 'logo design']",1708.0,w1692
+22.0,"['delphi', 'windows desktop', 'c programming', '.net']",711.0,w0710
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+35.0,"['photoshop', 'graphic design', 'logo design']",1329.0,w1325
+10.0,"['ghostwriting', 'graphic design', 'articles', 'logo design']",1148.0,w1144
+55.0,"['animation', 'video services', '3ds max', '3d rendering']",1507.0,w1499
+15.0,"['logo design', 'graphic design']",1594.0,w1582
+20.0,"['graphic design', 'logo design']",611.0,w0610
+25.0,"['graphic design', 'logo design']",1166.0,w1162
+25.0,"['c# programming', '.net', 'windows desktop', 'software architecture']",861.0,w0859
+30.0,"['graphic design', 'photoshop', 'logo design']",1534.0,w1525
+10.0,"['graphic design', 'logo design', 'articles', 'article rewriting']",722.0,w0721
+10.0,"['graphic design', 'brochure design', 'photoshop', 'flyer design', 'illustrator']",355.0,w0354
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+20.0,"['graphic design', 'photoshop', 'brochure design', 'illustrator', 'photoshop design']",374.0,w0373
+10.0,"['html', 'website design', 'php', 'graphic design', 'article rewriting']",1189.0,w1185
+20.0,"['powerpoint', 'editing', 'pdf', 'graphic design']",1335.0,w1331
+10.0,"['website design', 'graphic design', 'wordpress', 'photoshop design', 'photoshop']",1359.0,w1355

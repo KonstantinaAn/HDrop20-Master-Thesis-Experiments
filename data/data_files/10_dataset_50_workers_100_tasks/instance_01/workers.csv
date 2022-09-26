@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+3.0,"['php', 'word', 'mysql', 'powerpoint', 'html']",1107.0,w1104
+18.0,"['graphic design', 'banner design', 'photoshop', 'logo design', 'brochure design']",470.0,w0469
+15.0,"['microcontroller', 'pcb layout', 'electronics', 'engineering']",873.0,w0870
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+10.0,"['java', 'jquery / prototype', 'mysql', 'xml', 'javascript']",1207.0,w1203
+3.0,"['data entry', 'excel', 'data processing', 'web search', 'word']",1098.0,w1095
+10.0,"['web search', 'data entry', 'excel']",1079.0,w1076
+12.0,"['link building', 'seo', 'internet marketing', 'html', 'website design']",1027.0,w1024
+25.0,"['java', 'mathematics', 'php', 'c++ programming', 'c programming']",75.0,w0074
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+12.0,"['graphic design', 'website design', 'photoshop', 'illustrator', 'php']",780.0,w0779
+5.0,"['editing', 'article rewriting', 'proofreading']",1127.0,w1124
+5.0,"['articles', 'blog', 'article rewriting', 'copywriting', 'seo']",221.0,w0220
+12.0,"['php', 'javascript', 'mysql', 'java', 'css']",309.0,w0308
+10.0,"['article rewriting', 'academic writing', 'translation', 'ghostwriting', 'data entry']",1153.0,w1149
+10.0,"['data processing', 'data entry', 'excel', 'internet marketing', 'seo']",573.0,w0572
+15.0,"['graphic design', 'illustration', 'photoshop']",156.0,w0155
+11.0,"['seo', 'html', 'css', 'php']",645.0,w0644
+18.0,"['website design', 'video services', 'graphic design', 'cms', 'ecommerce']",1011.0,w1008
+10.0,"['translation', 'academic writing', 'article rewriting', 'spanish', 'copywriting']",1032.0,w1029
+10.0,"['html', 'website design', 'wordpress', 'graphic design', 'psd to html']",785.0,w0784
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+15.0,"['html', 'website design', 'php', 'wordpress', 'jquery / prototype']",507.0,w0506
+20.0,"['joomla', 'html', 'php', 'website design', 'css']",1262.0,w1258
+12.0,"['translation', 'system admin', 'software architecture']",346.0,w0345
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1662.0,w1647
+10.0,"['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews']",646.0,w0645
+7.0,"['mysql', 'website design', 'jquery / prototype', 'css']",980.0,w0977
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",633.0,w0632
+12.0,"['php', 'project management', 'javascript', 'internet marketing', 'asp']",1698.0,w1682
+30.0,"['wordpress', 'graphic design', 'website design', 'photoshop design', 'html']",165.0,w0164
+10.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'photoshop design']",938.0,w0935
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+5.0,"['data entry', 'excel', 'web search', 'articles', 'web scraping']",315.0,w0314
+15.0,"['php', 'mysql', 'css', 'javascript', 'jquery / prototype']",552.0,w0551
+12.0,"['animation', 'illustration', '3d animation', 'after effects', 'video services']",739.0,w0738
+25.0,"['anything goes', 'website design', 'graphic design', 'php', 'html']",183.0,w0182
+30.0,"['php', 'html', 'javascript', 'css', 'jquery / prototype']",811.0,w0810
+5.0,"['illustrator', 'illustration', 'caricature &amp; cartoons', 'logo design', 'game design']",1304.0,w1300
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+10.0,"['graphic design', 'logo design', 'banner design']",619.0,w0618
+10.0,"['apache', 'script install', 'system admin']",1495.0,w1487
+20.0,"['link building', 'seo', 'php', 'website design']",473.0,w0472
+10.0,"['matlab &amp; mathematica', 'mathematics', 'c programming', 'c++ programming', 'algorithm']",963.0,w0960
+15.0,"['iphone', 'mobile phone', 'php', 'android', 'ipad']",1037.0,w1034
+20.0,"['academic writing', 'articles', 'ghostwriting', 'copywriting']",429.0,w0428
+25.0,"['android', 'linux', 'embedded software', 'c programming', 'electronics']",110.0,w0109
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+25.0,"['php', 'mysql', 'javascript', 'software architecture', 'xml']",829.0,w0828

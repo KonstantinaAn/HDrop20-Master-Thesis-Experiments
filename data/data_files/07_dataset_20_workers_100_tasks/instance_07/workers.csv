@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+7.0,['mysql'],1278.0,w1274
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+5.0,"['editing', 'article rewriting', 'proofreading']",1127.0,w1124
+20.0,"['php', 'excel', 'web scraping', 'data entry', 'mysql']",601.0,w0600
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+35.0,"['php', 'website design', 'joomla', 'css', 'wordpress']",964.0,w0961
+7.0,"['graphic design', 'logo design']",1057.0,w1054
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",179.0,w0178
+15.0,"['php', 'wordpress', 'javascript', 'website design', 'html']",1051.0,w1048
+10.0,"['copywriting', 'website design']",1569.0,w1557
+10.0,"['logo design', 'caricature &amp; cartoons', 'graphic design', 'photoshop', 'illustration']",1641.0,w1627
+5.0,['excel'],1676.0,w1661
+10.0,"['translation', 'greek', 'technical writing', 'editing']",256.0,w0255
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustration', 'photoshop design']",848.0,w0847
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099
+4.0,"['classifieds posting', 'advertising', 'forum posting']",1687.0,w1672
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+10.0,"['php', 'html', 'website design', 'wordpress', 'css']",273.0,w0272
+25.0,"['excel', 'php', 'visual basic', 'css', 'web scraping']",400.0,w0399

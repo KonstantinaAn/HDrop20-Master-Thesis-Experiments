@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+6.0,"['graphic design', 'logo design']",1628.0,w1614
+9.0,"['graphic design', 'website design', 'photoshop', 'javascript', 'powerpoint']",1669.0,w1654
+20.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",723.0,w0722
+20.0,"['articles', 'copywriting', 'article rewriting', 'ghostwriting', 'blog']",171.0,w0170
+12.0,"['animation', 'video services', '3d animation', 'after effects', 'videography']",66.0,w0066
+30.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",227.0,w0226
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",841.0,w0840
+25.0,"['php', 'mysql', 'javascript', 'html', 'graphic design']",1190.0,w1186
+3.0,"['articles', 'seo', 'copywriting', 'excel', 'article rewriting']",1139.0,w1135
+15.0,"['windows desktop', 'delphi', 'mysql', 'php', 'c programming']",450.0,w0449
+9.0,"['php', 'mysql', 'html', 'xml', 'wordpress']",667.0,w0666
+6.0,"['article rewriting', 'copywriting', 'translation', 'php', 'blog']",676.0,w0675
+9.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",1638.0,w1624
+15.0,"['indesign', 'brochure design', 'graphic design', 'banner design']",520.0,w0519
+8.0,"['translation', 'data entry', 'excel', 'web search', 'research']",438.0,w0437
+12.0,"['website design', 'wordpress', 'php', 'html', 'iphone']",1673.0,w1658
+10.0,"['web hosting', 'anything goes', 'software testing', 'website management']",1674.0,w1659
+20.0,"['graphic design', 'articles', 'html', 'php']",1537.0,w1528
+20.0,"['website design', 'graphic design', 'php', 'flash', 'logo design']",5.0,w0005
+18.0,"['php', 'javascript', 'java', 'graphic design', 'mysql']",678.0,w0677
+16.0,"['academic writing', 'excel', 'data processing', 'data entry', 'proofreading']",224.0,w0223
+5.0,"['.net', 'c# programming']",1490.0,w1482
+20.0,"['metatrader', 'php', 'c programming', 'software architecture', 'sql']",378.0,w0377
+10.0,"['translation', 'spanish', 'pdf']",815.0,w0814
+18.0,"['ghostwriting', 'research', 'article rewriting']",817.0,w0816
+15.0,"['academic writing', 'copywriting', 'articles', 'translation']",1468.0,w1461
+10.0,"['web scraping', 'data entry', 'ruby on rails', 'php', 'mysql']",636.0,w0635
+25.0,"['mathematics', 'matlab &amp; mathematica', 'statistics', 'algorithm', 'engineering']",211.0,w0210
+10.0,"['translation', 'data entry', 'article rewriting', 'proofreading']",245.0,w0244
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing', 'youtube']",100.0,w0099
+15.0,"['website design', 'php', 'graphic design', 'logo design', 'mysql']",25.0,w0025
+5.0,"['customer support', 'virtual assistant']",590.0,w0589
+10.0,"['data entry', 'excel', 'data processing', 'virtual assistant', 'copy typing']",687.0,w0686
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+10.0,"['logo design', 'caricature &amp; cartoons', 'graphic design', 'photoshop', 'illustration']",1641.0,w1627
+30.0,"['php', 'mysql', 'software architecture', 'linux', 'database administration']",570.0,w0569
+11.0,"['voip', 'asterisk pbx', 'windows server']",909.0,w0906
+12.0,"['php', 'link building', 'linux', 'ajax']",1559.0,w1548
+10.0,"['html', 'graphic design', 'php', 'website design']",1257.0,w1253
+15.0,"['php', 'website management', 'logo design', 'website design', 'mysql']",814.0,w0813

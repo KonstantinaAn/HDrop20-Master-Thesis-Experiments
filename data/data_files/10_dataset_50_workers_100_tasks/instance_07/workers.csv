@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+12.0,"['translation', 'articles', 'copywriting', 'article rewriting']",704.0,w0703
+10.0,['3d modelling'],1281.0,w1277
+35.0,"['3d animation', '3d rendering', '3d modelling']",1039.0,w1036
+20.0,"['php', 'mysql', 'website design', 'flash', 'asp']",925.0,w0922
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+50.0,"['software architecture', 'sql', 'xml', 'c# programming', '.net']",957.0,w0954
+12.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'brochure design']",982.0,w0979
+15.0,"['php', 'mysql', 'css', 'ajax']",97.0,w0096
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+15.0,"['3d animation', 'animation', 'after effects', 'video services', '3d modelling']",223.0,w0222
+5.0,"['article rewriting', 'technical writing', 'articles']",1483.0,w1475
+12.0,"['articles', 'copywriting', 'translation']",1427.0,w1422
+15.0,"['banner design', 'photoshop', 'photo editing', 'logo design']",1193.0,w1189
+6.0,"['blog', 'anything goes', 'articles']",583.0,w0582
+3.0,"['marketing', 'photoshop', 'social networking']",1404.0,w1400
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+8.0,"['graphic design', 'photoshop', 'visual basic']",1026.0,w1023
+5.0,"['graphic design', 'logo design', 'photoshop']",1494.0,w1486
+15.0,"['audio services', 'translation', 'articles', 'voice talent']",571.0,w0570
+7.0,"['translation', 'spanish']",1162.0,w1158
+7.0,"['illustration', 'photoshop design']",708.0,w0707
+20.0,"['telemarketing', 'marketing', 'bulk marketing', 'internet marketing']",1309.0,w1305
+20.0,"['linux', 'amazon web services', 'mysql', 'system admin']",933.0,w0930
+12.0,"['photoshop', '3d modelling', '3d rendering', 'graphic design', 'illustrator']",1155.0,w1151
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1716.0,w1700
+5.0,"['php', 'wordpress', 'css', 'html', 'website design']",644.0,w0643
+10.0,"['data entry', 'excel', 'data processing']",1663.0,w1648
+30.0,"['flash', 'actionscript', 'javascript', 'xml', 'php']",859.0,w0858
+20.0,"['android', 'mobile phone', 'php', 'mysql', 'software architecture']",106.0,w0105
+20.0,"['graphic design', 'photoshop', 'logo design', 'illustrator']",652.0,w0651
+5.0,"['software testing', 'php', 'mysql', 'software architecture', 'engineering']",1567.0,w1555
+10.0,"['seo', 'link building', 'internet marketing', 'data entry']",1333.0,w1329
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+5.0,"['.net', 'c# programming']",1490.0,w1482
+6.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting']",45.0,w0045
+10.0,"['reviews', 'marketing', 'internet marketing', 'articles', 'blog']",1118.0,w1115
+10.0,"['logo design', 'graphic design', 'photoshop', 'website design', 'banner design']",59.0,w0059
+10.0,"['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management']",91.0,w0090
+10.0,"['data processing', 'data entry', 'excel']",1225.0,w1221
+12.0,"['animation', 'video services', '3d animation', 'after effects', 'videography']",66.0,w0066
+7.0,"['translation', 'facebook marketing', 'social networking', 'academic writing']",510.0,w0509
+20.0,"['articles', 'copywriting', 'article rewriting', 'editing']",1648.0,w1634
+10.0,"['articles', 'copywriting', 'ghostwriting']",1644.0,w1630
+5.0,['transcription'],1651.0,w1637
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+15.0,"['graphic design', 'photoshop', 'logo design', 'indesign']",464.0,w0463
+10.0,['link building'],1566.0,w1554
+20.0,"['php', 'html', 'css', 'javascript', 'jquery / prototype']",531.0,w0530
+20.0,"['autocad', 'cad/cam', '3d modelling', 'engineering']",274.0,w0273
+15.0,"['photoshop', 'photo editing', 'photoshop design', '3d modelling']",1317.0,w1313

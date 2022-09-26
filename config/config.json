@@ -13,8 +13,8 @@
             "instance_2": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\real_data\\test_real_dir\\instance_2\\"
           },
           "n_m": [
-            10,
-            5
+            50,
+            50
           ],
           "instance_keys": [
             "instance_2"
@@ -60,22 +60,22 @@
     "workers_filename": "workers",
     "datasets_paths": {
       "dataset_01": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_20_workers_50_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_10\\"
         },
         "n_m": [
-          50,
-          20
+          10,
+          5
         ],
         "instance_keys": [
           "instance_01",
@@ -91,22 +91,22 @@
         ]
       },
       "dataset_02": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_50_workers_50_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_10\\"
         },
         "n_m": [
-          50,
-          50
+          5,
+          10
         ],
         "instance_keys": [
           "instance_01",
@@ -122,22 +122,22 @@
         ]
       },
       "dataset_03": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_20_workers_100_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\03_dataset_10_workers_10_tasks\\instance_10\\"
         },
         "n_m": [
-          100,
-          20
+          10,
+          10
         ],
         "instance_keys": [
           "instance_01",
@@ -153,22 +153,22 @@
         ]
       },
       "dataset_04": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_50_workers_100_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\04_dataset_10_workers_20_tasks\\instance_10\\"
         },
         "n_m": [
-          100,
-          50
+          20,
+          10
         ],
         "instance_keys": [
           "instance_01",
@@ -184,21 +184,21 @@
         ]
       },
       "dataset_05": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_200_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\05_dataset_20_workers_10_tasks\\instance_10\\"
         },
         "n_m": [
-          200,
+          10,
           20
         ],
         "instance_keys": [
@@ -215,22 +215,22 @@
         ]
       },
       "dataset_06": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_50_workers_200_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\06_dataset_20_workers_50_tasks\\instance_10\\"
         },
         "n_m": [
-          200,
-          50
+          50,
+          20
         ],
         "instance_keys": [
           "instance_01",
@@ -246,22 +246,22 @@
         ]
       },
       "dataset_07": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_50_workers_400_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\07_dataset_20_workers_100_tasks\\instance_10\\"
         },
         "n_m": [
-          400,
-          50
+          100,
+          20
         ],
         "instance_keys": [
           "instance_01",
@@ -277,22 +277,146 @@
         ]
       },
       "dataset_08": {
-        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\",
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\",
         "instances": {
-          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_01\\",
-          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_02\\",
-          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_03\\",
-          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_04\\",
-          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_05\\",
-          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_06\\",
-          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_07\\",
-          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_08\\",
-          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_09\\",
-          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_100_workers_400_tasks\\instance_10\\"
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\08_dataset_50_workers_25_tasks\\instance_10\\"
         },
         "n_m": [
-          400,
-          100
+          25,
+          50
+        ],
+        "instance_keys": [
+          "instance_01",
+          "instance_02",
+          "instance_03",
+          "instance_04",
+          "instance_05",
+          "instance_06",
+          "instance_07",
+          "instance_08",
+          "instance_09",
+          "instance_10"
+        ]
+      },
+      "dataset_09": {
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\",
+        "instances": {
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\09_dataset_50_workers_50_tasks\\instance_10\\"
+        },
+        "n_m": [
+          50,
+          50
+        ],
+        "instance_keys": [
+          "instance_01",
+          "instance_02",
+          "instance_03",
+          "instance_04",
+          "instance_05",
+          "instance_06",
+          "instance_07",
+          "instance_08",
+          "instance_09",
+          "instance_10"
+        ]
+      },
+      "dataset_10": {
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\",
+        "instances": {
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_10\\"
+        },
+        "n_m": [
+          100,
+          50
+        ],
+        "instance_keys": [
+          "instance_01",
+          "instance_02",
+          "instance_03",
+          "instance_04",
+          "instance_05",
+          "instance_06",
+          "instance_07",
+          "instance_08",
+          "instance_09",
+          "instance_10"
+        ]
+      },
+      "dataset_11": {
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\",
+        "instances": {
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\11_dataset_20_workers_100_tasks\\instance_10\\"
+        },
+        "n_m": [
+          100,
+          20
+        ],
+        "instance_keys": [
+          "instance_01",
+          "instance_02",
+          "instance_03",
+          "instance_04",
+          "instance_05",
+          "instance_06",
+          "instance_07",
+          "instance_08",
+          "instance_09",
+          "instance_10"
+        ]
+      },
+      "dataset_12": {
+        "path": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\",
+        "instances": {
+          "instance_01": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_01\\",
+          "instance_02": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_02\\",
+          "instance_03": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_03\\",
+          "instance_04": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_04\\",
+          "instance_05": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_05\\",
+          "instance_06": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_06\\",
+          "instance_07": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_07\\",
+          "instance_08": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_08\\",
+          "instance_09": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_09\\",
+          "instance_10": "C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\12_dataset_40_workers_150_tasks\\instance_10\\"
+        },
+        "n_m": [
+          150,
+          40
         ],
         "instance_keys": [
           "instance_01",
@@ -316,7 +440,11 @@
       "dataset_05",
       "dataset_06",
       "dataset_07",
-      "dataset_08"
+      "dataset_08",
+      "dataset_09",
+      "dataset_10",
+      "dataset_11",
+      "dataset_12"
     ]
   },
 

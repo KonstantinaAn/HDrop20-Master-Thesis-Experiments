@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+3.0,"['data entry', 'excel']",1565.0,w1553
+30.0,"['java', 'c++ programming', 'algorithm']",1722.0,w1706
+8.0,"['graphic design', 'illustrator', 'logo design', 'photoshop design', 'photoshop']",1111.0,w1108
+7.0,"['translation', 'facebook marketing', 'social networking', 'academic writing']",510.0,w0509
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+35.0,"['iphone', 'mobile phone', 'ipad']",282.0,w0281
+40.0,"['photo editing', 'graphic design', 'logo design']",1612.0,w1600
+3.0,"['data entry', 'web scraping', 'web search', 'excel', 'data processing']",771.0,w0770
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+20.0,"['c++ programming', 'matlab &amp; mathematica', 'electrical engineering', 'electronics', 'mathematics']",1008.0,w1005
+30.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",215.0,w0214
+10.0,"['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management']",91.0,w0090
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+10.0,"['linux', 'voip', 'unix', 'asterisk pbx']",1255.0,w1251
+10.0,['3d modelling'],1281.0,w1277
+6.0,"['graphic design', 'banner design', 'photoshop', 'logo design', 'illustrator']",1413.0,w1409
+10.0,"['php', 'wordpress', 'html', 'mysql', 'cms']",263.0,w0262
+20.0,"['photoshop', '3d modelling', '3d animation', 'video services', 'after effects']",677.0,w0676
+7.0,"['translation', 'arabic', 'transcription', 'editing', 'audio services']",458.0,w0457
+8.0,"['transcription', 'translation', 'word']",856.0,w0855
+10.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'photoshop design']",938.0,w0935
+15.0,"['mysql', 'asp', '.net']",1379.0,w1375
+20.0,"['proofreading', 'academic writing', 'editing', 'technical writing', 'research']",284.0,w0283
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1361.0,w1357
+45.0,"['business plans', 'copywriting', 'academic writing', 'technical writing', 'business analysis']",721.0,w0720
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",633.0,w0632
+15.0,"['3d animation', '3d modelling', '3ds max', '3d rendering', 'animation']",695.0,w0694
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",492.0,w0491
+10.0,"['electrical engineering', 'microcontroller', 'pcb layout', 'electronics', 'c programming']",735.0,w0734
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+30.0,"['copywriting', 'articles', 'ghostwriting', 'blog', 'article rewriting']",1446.0,w1441
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",300.0,w0299
+15.0,"['javascript', 'jquery / prototype', 'php', 'html']",1300.0,w1296
+20.0,"['3d modelling', 'videography', 'graphic design', 'photoshop']",1034.0,w1031
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1582.0,w1570
+3.0,"['3d modelling', '3d rendering', '3ds max']",1411.0,w1407
+20.0,"['.net', 'asp', 'mysql', 'javascript', 'php']",1302.0,w1298
+8.0,"['3ds max', 'graphic design', 'photoshop', '3d modelling']",1022.0,w1019
+10.0,"['php', 'html', 'website design', 'joomla']",1611.0,w1599
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+35.0,"['seo', 'link building']",1757.0,w1741
+7.0,"['marketing', 'internet marketing', 'data entry', 'social networking']",1376.0,w1372
+15.0,"['microsoft access', 'sql', 'excel', 'mysql', '.net']",712.0,w0711
+15.0,"['php', 'javascript', 'html', 'ajax', 'c programming']",604.0,w0603
+15.0,"['ipad', 'mobile phone', 'iphone', 'android']",396.0,w0395
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+22.0,"['delphi', 'windows desktop', 'c programming', '.net']",711.0,w0710
+9.0,"['php', 'mysql', 'html', 'xml', 'wordpress']",667.0,w0666
+5.0,"['transcription', 'editing', 'articles', 'copy typing', 'proofreading']",477.0,w0476

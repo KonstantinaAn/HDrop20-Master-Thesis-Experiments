@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['illustration', 'graphic design', 'animation', 'photoshop', 'illustrator']",946.0,w0943
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+7.0,"['mysql', 'website design', 'jquery / prototype', 'css']",980.0,w0977
+15.0,"['graphic design', 'logo design']",1064.0,w1061
+1.0,"['3d rendering', '3d modelling', 'autocad', '3d animation']",580.0,w0579
+15.0,"['academic writing', 'creative writing']",681.0,w0680
+6.0,['wordpress'],1396.0,w1392
+5.0,"['customer support', 'virtual assistant']",590.0,w0589
+35.0,"['php', 'social networking', 'wordpress', 'facebook marketing', 'javascript']",679.0,w0678
+35.0,"['php', 'magento', 'javascript', 'psd to html', 'mysql']",1096.0,w1093
+20.0,"['graphic design', 'logo design', 'banner design', 'stationery design']",1052.0,w1049
+35.0,"['php', 'mysql', 'html', 'linux']",431.0,w0430
+5.0,"['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords']",31.0,w0031
+10.0,"['php', 'html', 'website design', 'wordpress', 'css']",273.0,w0272
+20.0,"['visual basic', 'c programming', 'mysql', 'php']",1099.0,w1096
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1647.0,w1633
+12.0,"['seo', 'internet marketing', 'wordpress', 'website design']",486.0,w0485
+25.0,"['logo design', 'illustration', 'caricature &amp; cartoons', 'css', 'graphic design']",655.0,w0654
+15.0,"['graphic design', 'logo design']",1442.0,w1437
+5.0,"['graphic design', 'logo design', 'photoshop', 'autocad', 'illustrator']",727.0,w0726
+10.0,"['translation', 'research']",737.0,w0736
+5.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 'banner design']",556.0,w0555
+7.0,"['data entry', 'web scraping', 'web search', 'excel']",1136.0,w1132
+16.0,"['academic writing', 'excel', 'data processing', 'data entry', 'proofreading']",224.0,w0223
+4.0,"['classifieds posting', 'advertising', 'forum posting']",1687.0,w1672
+35.0,"['php', 'html', 'website design', 'wordpress', 'mysql']",1069.0,w1066
+20.0,"['c++ programming', 'matlab &amp; mathematica', 'electrical engineering', 'electronics', 'mathematics']",1008.0,w1005
+10.0,"['excel', 'data processing', 'copy typing', 'word', 'data entry']",764.0,w0763
+12.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'illustration']",105.0,w0104
+8.0,"['c# programming', '.net', 'sql']",1649.0,w1635
+10.0,"['data processing', 'data entry', 'excel', 'internet marketing', 'seo']",573.0,w0572
+9.0,"['php', 'web hosting', 'ajax', 'mysql', 'javascript']",990.0,w0987
+15.0,"['arduino', 'electronics']",1185.0,w1181
+20.0,"['telemarketing', 'marketing', 'bulk marketing', 'internet marketing']",1309.0,w1305
+25.0,"['php', 'mysql', 'javascript', 'html']",15.0,w0015
+12.0,"['3d modelling', '3d rendering', '3ds max']",1180.0,w1176
+10.0,"['java', 'software architecture', 'javascript', '.net', 'sql']",1310.0,w1306
+12.0,"['translation', 'german']",540.0,w0539
+5.0,['translation'],1696.0,w1680
+15.0,"['graphic design', 'logo design', 'illustrator', 'wordpress']",598.0,w0597
+15.0,"['php', 'wordpress', 'copywriting', 'translation']",904.0,w0901
+5.0,"['data entry', 'excel', 'translation', 'web search']",717.0,w0716
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+10.0,"['php', 'software architecture', 'c programming', 'wordpress', 'linux']",475.0,w0474
+15.0,"['php', 'css', 'html', 'website design', 'jquery / prototype']",865.0,w0862
+20.0,"['perl', 'php', 'mysql', 'script install', 'linux']",352.0,w0351
+10.0,"['php', 'mysql', 'linux', 'virtual assistant', 'graphic design']",547.0,w0546
+10.0,"['matlab &amp; mathematica', 'mathematics', 'c programming', 'c++ programming', 'algorithm']",963.0,w0960
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",709.0,w0708
+25.0,"['php', 'mysql', 'website design', 'xml', 'web scraping']",293.0,w0292

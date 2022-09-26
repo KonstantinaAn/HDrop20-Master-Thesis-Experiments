@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+12.0,"['wordpress', 'html', 'php', 'website design', 'graphic design']",1375.0,w1371
+8.0,"['article rewriting', 'blog', 'articles']",1487.0,w1479
+15.0,"['graphic design', 'logo design']",1024.0,w1021
+25.0,"['.net', 'windows desktop', 'c programming', 'c# programming', 'visual basic']",558.0,w0557
+20.0,"['php', 'translation', 'mysql', 'wordpress', 'javascript']",1218.0,w1214
+7.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",1028.0,w1025
+18.0,"['graphic design', 'powerpoint', 'photoshop']",1443.0,w1438
+5.0,['facebook marketing'],1473.0,w1466
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099
+10.0,"['data entry', 'excel', 'data processing']",1746.0,w1730
+10.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 'flyer design']",649.0,w0648
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+15.0,"['graphic design', 'illustration', 'photoshop']",156.0,w0155
+9.0,"['photoshop', 'photo editing', 'graphic design', 'photoshop design', 'website design']",306.0,w0305
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustration', 'photoshop design']",848.0,w0847
+40.0,"['php', 'mysql', 'javascript', 'html', 'wordpress']",372.0,w0371
+35.0,"['website design', 'wordpress', 'cms', 'graphic design', 'facebook marketing']",1702.0,w1686
+25.0,"['graphic design', 'photoshop', 'banner design', 'business cards']",467.0,w0466
+8.0,"['graphic design', 'logo design', 'banner design', 'illustrator']",593.0,w0592
+15.0,"['php', 'website design', 'mysql', 'graphic design', 'seo']",69.0,w0069
+12.0,['academic writing'],1456.0,w1451
+20.0,"['graphic design', 'logo design', 'illustrator', 'photoshop', 'business cards']",137.0,w0136
+5.0,"['spanish', 'word', 'transcription', 'translation']",1620.0,w1608
+10.0,"['javascript', '.net', 'asp', 'visual basic', 'windows desktop']",1678.0,w1663
+15.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",749.0,w0748
+25.0,"['.net', 'asp', 'visual basic', 'sql']",989.0,w0986
+30.0,"['indesign', 'graphic design', 'illustrator', 'photoshop', 'brochure design']",612.0,w0611
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338
+10.0,"['graphic design', 'photoshop', 'flyer design', 'logo design']",800.0,w0799
+12.0,"['photoshop', '3d modelling', '3d rendering', 'graphic design', 'illustrator']",1155.0,w1151
+25.0,"['c# programming', '.net', 'android', 'java']",1264.0,w1260
+10.0,"['web search', 'data entry', 'excel', 'virtual assistant']",733.0,w0732
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+9.0,"['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics']",880.0,w0877
+25.0,"['game design', 'java', 'android']",1707.0,w1691
+25.0,"['linux', 'system admin', 'script install', 'apache']",1761.0,w1745
+10.0,"['css', 'website design', 'javascript', 'html', 'php']",1284.0,w1280
+15.0,"['software architecture', 'php', 'web scraping', 'excel', 'data entry']",39.0,w0039
+30.0,"['php', 'html', 'website design', 'css', 'graphic design']",184.0,w0183
+20.0,"['ghostwriting', 'articles', 'copywriting', 'ebooks', 'article rewriting']",606.0,w0605
+13.0,['graphic design'],1228.0,w1224
+20.0,"['javascript', 'php', 'html', 'css', 'website design']",121.0,w0120
+5.0,"['article rewriting', 'technical writing', 'articles']",1483.0,w1475
+25.0,"['graphic design', 'photography']",1655.0,w1640
+7.0,"['spanish', 'data entry', 'word', 'copy typing']",972.0,w0969
+15.0,"['php', 'mysql', 'css', 'javascript', 'jquery / prototype']",552.0,w0551
+10.0,"['graphic design', 'logo design']",1220.0,w1216
+25.0,"['graphic design', 'photography']",1739.0,w1723
+15.0,"['graphic design', 'illustration', 'internet marketing', 'photoshop design', 'anything goes']",730.0,w0729

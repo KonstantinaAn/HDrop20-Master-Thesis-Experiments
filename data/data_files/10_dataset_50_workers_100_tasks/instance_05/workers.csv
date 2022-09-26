@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts']",444.0,w0443
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099
+15.0,"['website design', 'graphic design', 'wordpress', 'logo design', 'ecommerce']",726.0,w0725
+8.0,"['articles', 'article rewriting']",1481.0,w1473
+5.0,"['video broadcasting', 'linux', 'video services']",1627.0,w1613
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+15.0,"['php', 'wordpress', 'copywriting', 'translation']",904.0,w0901
+10.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 'flyer design']",649.0,w0648
+15.0,"['website design', 'graphic design', 'php', 'html', 'wordpress']",54.0,w0054
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'web scraping']",99.0,w0098
+30.0,"['graphic design', 'website design', 'php', 'flash', 'photoshop']",1658.0,w1643
+21.0,"['graphic design', 'logo design', 'photoshop', 'business cards', 'illustrator']",335.0,w0334
+5.0,"['data entry', 'excel', 'translation', 'web search']",717.0,w0716
+30.0,"['php', 'java', 'mysql', 'software architecture', 'c++ programming']",151.0,w0150
+25.0,"['php', 'css', 'html', 'wordpress', 'photoshop']",538.0,w0537
+10.0,"['classifieds posting', 'data entry', 'data processing', 'marketing', 'excel']",1551.0,w1541
+20.0,"['web hosting', 'mysql', 'software testing', 'php', 'perl']",1726.0,w1710
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+15.0,"['3d animation', '3d rendering', '3d modelling']",752.0,w0751
+15.0,"['website design', 'graphic design', 'html', 'photoshop', 'user interface / ia']",237.0,w0236
+4.0,"['articles', 'copywriting', 'blog', 'article rewriting', 'technical writing']",391.0,w0390
+15.0,"['graphic design', 'logo design', 'website design', 'banner design', 'photoshop']",50.0,w0050
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+12.0,"['php', 'wordpress', 'joomla', 'website design', 'graphic design']",1755.0,w1739
+8.0,"['graphic design', 'logo design', 'illustrator', 'illustration', 'flyer design']",1491.0,w1483
+15.0,"['php', 'wordpress', 'javascript', 'website design', 'html']",1051.0,w1048
+8.0,"['logo design', 'graphic design', 'photoshop', 'illustration', 'website design']",1328.0,w1324
+20.0,"['flash', 'photoshop', 'graphic design', 'logo design', 'videography']",367.0,w0366
+12.0,"['php', 'wordpress', 'joomla', 'website design', 'graphic design']",1718.0,w1702
+10.0,"['php', 'html']",1748.0,w1732
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+35.0,"['graphic design', 'banner design', 'website design', 'photoshop', 'logo design']",133.0,w0132
+15.0,"['internet marketing', 'sem / adwords']",1232.0,w1228
+35.0,"['php', 'social networking', 'wordpress', 'facebook marketing', 'javascript']",679.0,w0678
+15.0,"['photoshop', 'graphic design', 'logo design']",1712.0,w1696
+10.0,"['link building', 'internet marketing', 'seo', 'advertising']",1242.0,w1238
+28.0,"['php', 'logo design', 'website design', 'wordpress', 'graphic design']",816.0,w0815
+8.0,"['c# programming', '.net', 'sql']",1649.0,w1635
+25.0,"['graphic design', 'logo design', 'html', 'php', 'photoshop']",207.0,w0206
+5.0,['telemarketing'],1706.0,w1690
+15.0,"['html', 'website design', 'php', 'wordpress', 'jquery / prototype']",507.0,w0506
+10.0,"['business cards', 'graphic design', 'stationery design']",1732.0,w1716
+17.0,"['graphic design', 'flash', 'logo design', 'website design', 'php']",440.0,w0439
+5.0,"['pdf', 'editing', 'graphic design', 'javascript']",1357.0,w1353
+12.0,"['animation', 'illustration', '3d animation', 'after effects', 'video services']",739.0,w0738
+20.0,"['graphic design', 'banner design', 'c# programming', 'html', 'php']",882.0,w0879
+9.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",1638.0,w1624
+10.0,['graphic design'],1332.0,w1328
+3.0,"['logo design', 'photoshop', 'illustrator', 'photoshop design', 'excel']",806.0,w0805

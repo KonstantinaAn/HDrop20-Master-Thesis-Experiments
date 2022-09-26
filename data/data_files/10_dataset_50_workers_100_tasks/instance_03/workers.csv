@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+5.0,"['web search', 'data entry', 'web scraping']",1383.0,w1379
+12.0,"['3d modelling', '3d rendering', '3ds max']",1180.0,w1176
+10.0,"['after effects', 'videography', 'animation']",1120.0,w1117
+5.0,"['data entry', 'excel', 'editing', 'research', 'copywriting']",782.0,w0781
+20.0,"['wordpress', 'php', 'website design', 'html', 'css']",295.0,w0294
+3.0,"['articles', 'seo', 'copywriting', 'excel', 'article rewriting']",1139.0,w1135
+8.0,"['photoshop', 'graphic design', 'logo design']",955.0,w0952
+19.0,"['linux', 'system admin', 'apache', 'web hosting', 'windows server']",1115.0,w1112
+20.0,"['excel', 'data processing', 'data entry', 'photoshop', 'visual basic']",135.0,w0134
+20.0,"['html', 'php', 'mysql', 'internet marketing', 'website design']",1469.0,w1462
+15.0,"['website design', 'graphic design', 'html', 'photoshop', 'user interface / ia']",237.0,w0236
+27.0,"['php', 'website design', 'html', 'graphic design', 'seo']",813.0,w0812
+15.0,"['php', 'website design', 'html', 'software architecture']",755.0,w0754
+30.0,"['php', 'java', 'mysql', 'software architecture', 'c++ programming']",151.0,w0150
+4.0,"['data entry', 'excel', 'virtual assistant', 'web scraping', 'research']",432.0,w0431
+5.0,"['graphic design', 'facebook marketing', 'photoshop', 'illustrator', 'data entry']",1451.0,w1446
+10.0,"['html', 'wordpress', 'website design', 'css', 'php']",117.0,w0116
+7.0,"['data entry', 'data processing', 'excel', 'web search', 'virtual assistant']",1241.0,w1237
+6.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'website design']",979.0,w0976
+10.0,"['translation', 'polish']",770.0,w0769
+10.0,"['web scraping', 'data entry', 'ruby on rails', 'php', 'mysql']",636.0,w0635
+18.0,"['php', 'asterisk pbx', 'mysql']",1252.0,w1248
+25.0,"['mathematics', 'matlab &amp; mathematica', 'statistics', 'algorithm', 'engineering']",211.0,w0210
+12.0,"['logo design', 'css', 'graphic design', 'illustration']",1555.0,w1545
+40.0,"['graphic design', 'website design', 'photoshop', 'illustrator', 'illustration']",426.0,w0425
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+10.0,"['excel', 'javascript', 'visual basic', 'php']",490.0,w0489
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338
+10.0,"['translation', 'greek', 'technical writing', 'editing']",256.0,w0255
+30.0,"['php', 'perl', 'script install', 'mysql', 'website design']",778.0,w0777
+7.0,"['caricature &amp; cartoons', 'poster design']",1301.0,w1297
+12.0,"['link building', 'seo', 'internet marketing', 'data entry']",1606.0,w1594
+10.0,['graphic design'],1140.0,w1136
+15.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'illustrator']",52.0,w0052
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+11.0,"['html', 'php', 'mysql', 'wordpress']",1125.0,w1122
+15.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",768.0,w0767
+30.0,"['php', 'website design', 'xml', 'linux', 'mysql']",1749.0,w1733
+10.0,"['seo', 'facebook marketing', 'internet marketing', 'social networking']",111.0,w0110
+15.0,"['metatrader', 'c++ programming', 'c programming', 'web scraping', 'software architecture']",364.0,w0363
+30.0,"['indesign', 'graphic design', 'illustrator', 'photoshop', 'brochure design']",612.0,w0611
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099
+15.0,"['php', 'wordpress', 'html', 'css', 'data entry']",331.0,w0330
+13.0,"['creative writing', 'articles', 'anything goes', 'data entry', 'copy typing']",729.0,w0728
+20.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'business cards']",478.0,w0477
+20.0,"['video services', 'animation', 'after effects', '3d animation', '3d rendering']",23.0,w0023
+30.0,"['php', 'script install', 'html', 'wordpress', 'website design']",414.0,w0413
+6.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting']",45.0,w0045
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+10.0,"['php', 'html', 'website design', 'ecommerce', 'graphic design']",399.0,w0398
