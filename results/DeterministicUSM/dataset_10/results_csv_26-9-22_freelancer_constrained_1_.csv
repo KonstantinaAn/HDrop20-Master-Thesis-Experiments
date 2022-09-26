@@ -1,0 +1,660 @@
+Official_Experiment_dUSM_dataset_10_instance_01_0_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_01\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_01\\workers.csv', 'workers': {'w0345', 'w0314', 'w0469', 'w1034', 'w0784', 'w0779', 'w0645', 'w1647', 'w1149', 'w0977', 'w0428', 'w0551', 'w0155', 'w0572', 'w1487', 'w0960', 'w1124', 'w1104', 'w1095', 'w0738', 'w0618', 'w0828', 'w0935', 'w0644', 'w1029', 'w1116', 'w0220', 'w0164', 'w1449', 'w1258', 'w0182', 'w1033', 'w1203', 'w0074', 'w0526', 'w0540', 'w1682', 'w0247', 'w0308', 'w1008', 'w0109', 'w0753', 'w1076', 'w0810', 'w0472', 'w0870', 'w1024', 'w1300', 'w0632', 'w0506'}, 'workers_df':     cost  ... y_star_index
+0    3.0  ...          0.0
+1   18.0  ...          0.0
+2   15.0  ...          0.0
+3   18.0  ...          1.0
+4   10.0  ...          0.0
+5    3.0  ...          0.0
+6   10.0  ...          0.0
+7   12.0  ...          0.0
+8   25.0  ...          0.0
+9   10.0  ...          1.0
+10  12.0  ...          0.0
+11   5.0  ...          1.0
+12   5.0  ...          1.0
+13  12.0  ...          0.0
+14  10.0  ...          1.0
+15  10.0  ...          0.0
+16  15.0  ...          0.0
+17  11.0  ...          0.0
+18  18.0  ...          0.0
+19  10.0  ...          0.0
+20  10.0  ...          0.0
+21  10.0  ...          1.0
+22  15.0  ...          0.0
+23  20.0  ...          0.0
+24  12.0  ...          0.0
+25   5.0  ...          0.0
+26  10.0  ...          0.0
+27   7.0  ...          0.0
+28  20.0  ...          0.0
+29  12.0  ...          0.0
+30  30.0  ...          0.0
+31  10.0  ...          0.0
+32   8.0  ...          0.0
+33  10.0  ...          1.0
+34   5.0  ...          0.0
+35  15.0  ...          0.0
+36  12.0  ...          1.0
+37  25.0  ...          0.0
+38  30.0  ...          0.0
+39   5.0  ...          0.0
+40  10.0  ...          0.0
+41  10.0  ...          0.0
+42  10.0  ...          1.0
+43  20.0  ...          0.0
+44  10.0  ...          1.0
+45  15.0  ...          0.0
+46  20.0  ...          0.0
+47  25.0  ...          0.0
+48  15.0  ...          0.0
+49  25.0  ...          0.0
+
+[50 rows x 5 columns], 'tasks_df':                         skill  skill_id  valuation  x_star_index
+0      covers &amp; packaging        44          9           0.0
+1                  sharepoint       132          7           0.0
+2               poster design       116          8           0.0
+3                      polish       115          5           0.0
+4                         xxx       173         12           0.0
+..                        ...       ...        ...           ...
+129  matlab &amp; mathematica         0          0           0.0
+130              mobile phone         0          0           0.0
+131                   android         0          0           0.0
+132         embedded software         0          0           0.0
+133                     flash         0          0           0.0
+
+[134 rows x 4 columns], 'task_set': {'ruby on rails', 'book writing', 'advertising', 'sem / adwords', 'embedded software', 'website management', 'joomla', 'system admin', 'sharepoint', 'unix', 'xml', 'website design', 'c++ programming', 'german', 'actionscript', 'arabic', 'brochure design', 'classifieds posting', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 'mathematics', 'engineering', 'apache', 'latex', 'software architecture', 'mac os', 'windows desktop', 'robotics', 'videography', 'pcb layout', 'animation', 'spanish', 'concept design', 'music', 'product design', 'virtuemart', 'excel', 'visual basic', 'ipad', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', '3d rendering', 'psd to html', 'link building', 'copywriting', 'database administration', 'poster design', 'microsoft access', 'telecommunications engineering', 'pdf', 'caricature &amp; cartoons', 'photoshop', 'ghostwriting', 'transcription', 'web hosting', 'proofreading', 'c programming', 'c# programming', 'word', 'reviews', '3d animation', 'business analysis', 'flyer design', '3ds max', 'algorithm', 'css', 'academic writing', 'video services', 'shell script', 'article rewriting', 'seo', 'stationery design', 'project management', 'flash', 'anything goes', 'technical writing', 'wordpress', 'polish', 'data entry', 'illustration', 'matlab &amp; mathematica', 'asp', 'typography', 'simplified chinese (china)', 'game design', 'script install', 'after effects', 'prestashop', 'ebooks', 'electronic forms', 'android', 'sales', 'internet marketing', 'java', 'ecommerce', 'web scraping', 'mysql', 'xxx', 'business cards', 'copy typing', 'sql', 'iphone', 'linux', '.net', 'web search', 'invitation design', 'translation', 'javascript', 'customer support', 'swedish', 'php', 'microcontroller', 'delphi', 'mobile phone', 'asterisk pbx', 'software testing', 'blog', 'logo design', 'powerpoint', 'perl', 'electronics', 'jquery / prototype', 'editing', 'drupal', 'data processing', 'mechanical engineering', 'photo editing'}, 'worker_task_dict': {'w1104': ['php', 'word', 'mysql', 'powerpoint', 'html'], 'w0469': ['graphic design', 'banner design', 'photoshop', 'logo design', 'brochure design'], 'w0870': ['microcontroller', 'pcb layout', 'electronics', 'engineering'], 'w1116': ['visual basic', '.net', 'asp', 'c# programming', 'sql'], 'w1203': ['java', 'jquery / prototype', 'mysql', 'xml', 'javascript'], 'w1095': ['data entry', 'excel', 'data processing', 'web search', 'word'], 'w1076': ['web search', 'data entry', 'excel'], 'w1024': ['link building', 'seo', 'internet marketing', 'html', 'website design'], 'w0074': ['java', 'mathematics', 'php', 'c++ programming', 'c programming'], 'w0753': ['joomla', 'php', 'html', 'website design', 'advertising'], 'w0779': ['graphic design', 'website design', 'photoshop', 'illustrator', 'php'], 'w1124': ['editing', 'article rewriting', 'proofreading'], 'w0220': ['articles', 'blog', 'article rewriting', 'copywriting', 'seo'], 'w0308': ['php', 'javascript', 'mysql', 'java', 'css'], 'w1149': ['article rewriting', 'academic writing', 'translation', 'ghostwriting', 'data entry'], 'w0572': ['data processing', 'data entry', 'excel', 'internet marketing', 'seo'], 'w0155': ['graphic design', 'illustration', 'photoshop'], 'w0644': ['seo', 'html', 'css', 'php'], 'w1008': ['website design', 'video services', 'graphic design', 'cms', 'ecommerce'], 'w1029': ['translation', 'academic writing', 'article rewriting', 'spanish', 'copywriting'], 'w0784': ['html', 'website design', 'wordpress', 'graphic design', 'psd to html'], 'w1449': ['software testing', 'software architecture', 'php', 'mysql', 'excel'], 'w0506': ['html', 'website design', 'php', 'wordpress', 'jquery / prototype'], 'w1258': ['joomla', 'html', 'php', 'website design', 'css'], 'w0345': ['translation', 'system admin', 'software architecture'], 'w1647': ['photoshop', 'graphic design', 'banner design', 'website design'], 'w0645': ['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews'], 'w0977': ['mysql', 'website design', 'jquery / prototype', 'css'], 'w0632': ['website design', 'graphic design', 'html', 'php', 'seo'], 'w1682': ['php', 'project management', 'javascript', 'internet marketing', 'asp'], 'w0164': ['wordpress', 'graphic design', 'website design', 'photoshop design', 'html'], 'w0935': ['photoshop', 'graphic design', 'illustrator', 'logo design', 'photoshop design'], 'w0247': ['prestashop', 'php', 'html', 'website design', 'css'], 'w0540': ['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design'], 'w0314': ['data entry', 'excel', 'web search', 'articles', 'web scraping'], 'w0551': ['php', 'mysql', 'css', 'javascript', 'jquery / prototype'], 'w0738': ['animation', 'illustration', '3d animation', 'after effects', 'video services'], 'w0182': ['anything goes', 'website design', 'graphic design', 'php', 'html'], 'w0810': ['php', 'html', 'javascript', 'css', 'jquery / prototype'], 'w1300': ['illustrator', 'illustration', 'caricature &amp; cartoons', 'logo design', 'game design'], 'w0526': ['logo design', 'graphic design', 'illustrator'], 'w0618': ['graphic design', 'logo design', 'banner design'], 'w1487': ['apache', 'script install', 'system admin'], 'w0472': ['link building', 'seo', 'php', 'website design'], 'w0960': ['matlab &amp; mathematica', 'mathematics', 'c programming', 'c++ programming', 'algorithm'], 'w1034': ['iphone', 'mobile phone', 'php', 'android', 'ipad'], 'w0428': ['academic writing', 'articles', 'ghostwriting', 'copywriting'], 'w0109': ['android', 'linux', 'embedded software', 'c programming', 'electronics'], 'w1033': ['video services', 'flash', 'after effects', 'animation', '3d animation'], 'w0828': ['php', 'mysql', 'javascript', 'software architecture', 'xml']}, 'task_val_dict': {'covers &amp; packaging': 9, 'sharepoint': 7, 'poster design': 8, 'polish': 5, 'xxx': 12, 'arabic': 5, 'swedish': 7, 'latex': 12, 'virtuemart': 4, 'invitation design': 1, 'simplified chinese (china)': 2, 'telecommunications engineering': 8, 'customer support': 6, 'german': 5, 'ruby on rails': 9, 'electronic forms': 11, 'concept design': 8, 'robotics': 3, 'typography': 2, 'product design': 10, 'book writing': 7, 'music': 7, 'mechanical engineering': 8, 'engineering': 10, 'photo editing': 6, 'pcb layout': 6, 'system admin': 7, 'stationery design': 9, 'software testing': 8, 'ebooks': 10, 'website management': 5, 'c# programming': 8, 'photoshop design': 10, 'script install': 14, 'algorithm': 15, 'cms': 10, 'anything goes': 10, 'advertising': 13, 'xml': 9, 'microsoft access': 15, 'microcontroller': 6, 'windows desktop': 7, 'asterisk pbx': 9, 'mac os': 12, 'apache': 9, 'social networking': 5, 'editing': 11, 'flyer design': 11, 'proofreading': 11, 'web hosting': 6, 'business analysis': 6, 'spanish': 8, '3d rendering': 11, 'delphi': 9, 'ghostwriting': 8, 'sales': 3, 'technical writing': 8, 'sem / adwords': 3, 'perl': 8, 'actionscript': 12, 'drupal': 9, 'database administration': 12, 'copy typing': 11, 'brochure design': 7, 'cad/cam': 7, '3d animation': 4, 'blog': 7, 'ipad': 11, '3ds max': 8, 'transcription': 6, 'videography': 9, 'bulk marketing': 5, 'java': 7, 'business cards': 12, 'visual basic': 9, 'after effects': 7, 'shell script': 1, 'unix': 7, 'pdf': 9, 'classifieds posting': 13, 'illustration': 8, 'banner design': 9, 'c programming': 13, 'logo design': 10, '.net': 12, 'translation': 6, 'photoshop': 9, 'seo': 10, 'html': 10, 'iphone': 10, 'linux': 13, 'php': 14, 'animation': 8, 'software architecture': 7, 'data entry': 4, 'website design': 9, 'illustrator': 7, 'excel': 12, 'video services': 11, 'copywriting': 14, 'word': 0, 'mysql': 0, 'powerpoint': 0, 'graphic design': 0, 'electronics': 0, 'asp': 0, 'sql': 0, 'jquery / prototype': 0, 'javascript': 0, 'data processing': 0, 'web search': 0, 'link building': 0, 'internet marketing': 0, 'mathematics': 0, 'c++ programming': 0, 'joomla': 0, 'article rewriting': 0, 'articles': 0, 'css': 0, 'academic writing': 0, 'ecommerce': 0, 'wordpress': 0, 'psd to html': 0, 'reviews': 0, 'project management': 0, 'prestashop': 0, 'web scraping': 0, 'caricature &amp; cartoons': 0, 'game design': 0, 'matlab &amp; mathematica': 0, 'mobile phone': 0, 'android': 0, 'embedded software': 0, 'flash': 0}, 'worke_cost': {'w1104': 3.0, 'w0469': 18.0, 'w0870': 15.0, 'w1116': 18.0, 'w1203': 10.0, 'w1095': 3.0, 'w1076': 10.0, 'w1024': 12.0, 'w0074': 25.0, 'w0753': 10.0, 'w0779': 12.0, 'w1124': 5.0, 'w0220': 5.0, 'w0308': 12.0, 'w1149': 10.0, 'w0572': 10.0, 'w0155': 15.0, 'w0644': 11.0, 'w1008': 18.0, 'w1029': 10.0, 'w0784': 10.0, 'w1449': 10.0, 'w0506': 15.0, 'w1258': 20.0, 'w0345': 12.0, 'w1647': 5.0, 'w0645': 10.0, 'w0977': 7.0, 'w0632': 20.0, 'w1682': 12.0, 'w0164': 30.0, 'w0935': 10.0, 'w0247': 8.0, 'w0540': 10.0, 'w0314': 5.0, 'w0551': 15.0, 'w0738': 12.0, 'w0182': 25.0, 'w0810': 30.0, 'w1300': 5.0, 'w0526': 10.0, 'w0618': 10.0, 'w1487': 10.0, 'w0472': 20.0, 'w0960': 10.0, 'w1034': 15.0, 'w0428': 20.0, 'w0109': 25.0, 'w1033': 15.0, 'w0828': 25.0}, 'n': 134, 'm': 50, 'solution': {'w0960', 'w1124', 'w0314', 'w0469', 'w1034', 'w1104', 'w0738', 'w0645', 'w1029', 'w1487'}, 'value': 152.0}"
+Official_Experiment_dUSM_dataset_10_instance_02_1_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_02\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_02\\workers.csv', 'workers': {'w1064', 'w0984', 'w0417', 'w0691', 'w0893', 'w0892', 'w0918', 'w0493', 'w1243', 'w0350', 'w1149', 'w0147', 'w1518', 'w0882', 'w1372', 'w1668', 'w1548', 'w0742', 'w1214', 'w0631', 'w1479', 'w0644', 'w0478', 'w0598', 'w0827', 'w0268', 'w1096', 'w1203', 'w0700', 'w0442', 'w0410', 'w0913', 'w0817', 'w0224', 'w1478', 'w0723', 'w0342', 'w0385', 'w0349', 'w0753', 'w0344', 'w0639', 'w1606', 'w0810', 'w1056', 'w0072', 'w1636', 'w0301', 'w1186', 'w0402'}, 'workers_df':     cost  ... y_star_index
+0    7.0  ...          1.0
+1    7.0  ...          0.0
+2   10.0  ...          1.0
+3   10.0  ...          0.0
+4    7.0  ...          1.0
+5   18.0  ...          0.0
+6   10.0  ...          1.0
+7   20.0  ...          0.0
+8   20.0  ...          0.0
+9   25.0  ...          0.0
+10  15.0  ...          0.0
+11  30.0  ...          0.0
+12  10.0  ...          1.0
+13  10.0  ...          1.0
+14  15.0  ...          0.0
+15  10.0  ...          1.0
+16  11.0  ...          0.0
+17  15.0  ...          0.0
+18  25.0  ...          0.0
+19  18.0  ...          0.0
+20  12.0  ...          0.0
+21  15.0  ...          0.0
+22  10.0  ...          0.0
+23  10.0  ...          0.0
+24  10.0  ...          0.0
+25  20.0  ...          0.0
+26  15.0  ...          0.0
+27  20.0  ...          0.0
+28  20.0  ...          0.0
+29  25.0  ...          0.0
+30  15.0  ...          0.0
+31  30.0  ...          0.0
+32  20.0  ...          0.0
+33  30.0  ...          0.0
+34   8.0  ...          0.0
+35  14.0  ...          0.0
+36  20.0  ...          0.0
+37  10.0  ...          0.0
+38   8.0  ...          0.0
+39  20.0  ...          0.0
+40   1.0  ...          0.0
+41  20.0  ...          1.0
+42  25.0  ...          0.0
+43  20.0  ...          0.0
+44   8.0  ...          0.0
+45  16.0  ...          0.0
+46  15.0  ...          0.0
+47  10.0  ...          1.0
+48  16.0  ...          0.0
+49  10.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                   skill  skill_id  valuation  x_star_index
+0            sharepoint       132          8           0.0
+1    microsoft exchange       102         15           0.0
+2                arabic        17          8           0.0
+3              japanese        82          7           0.0
+4            virtuemart       159         10           0.0
+..                  ...       ...        ...           ...
+120                ipad         0          0           0.0
+121    photoshop design         0          0           0.0
+122     windows desktop         0          0           0.0
+123                blog         0          0           0.0
+124          prestashop         0          0           0.0
+
+[125 rows x 4 columns], 'task_set': {'greek', 'book writing', 'advertising', 'sem / adwords', 'embedded software', 'joomla', 'indesign', 'system admin', 'sharepoint', 'unix', 'xml', 'python', 'website design', 'c++ programming', 'travel writing', 'german', 'arabic', 'bootstrap', 'brochure design', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cms', 't-shirts', 'engineering', 'leads', 'latex', 'software architecture', 'photo editing', 'mac os', 'windows desktop', 'videography', 'animation', 'spanish', 'music', 'virtuemart', 'facebook marketing', 'visual basic', 'ipad', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', '3d rendering', 'link building', 'copywriting', 'poster design', 'microsoft access', 'telecommunications engineering', 'pdf', 'caricature &amp; cartoons', 'photoshop', 'ghostwriting', 'transcription', 'voip', 'web hosting', 'audio services', 'proofreading', 'microsoft exchange', 'c programming', 'c# programming', 'photography', 'word', 'electrical engineering', 'academic writing', '3d animation', 'algorithm', 'css', 'video services', 'article rewriting', 'financial markets', 'seo', 'stationery design', 'project management', 'flash', 'marketing', 'wordpress', 'polish', 'email marketing', 'data entry', 'magento', 'accounting', 'illustration', 'ajax', 'asp', 'typography', 'script install', 'after effects', 'prestashop', 'ebooks', 'business plans', 'electronic forms', 'android', 'sales', 'internet marketing', 'forum posting', 'ecommerce', 'java', 'mysql', 'business cards', 'iphone', 'linux', '.net', 'web search', 'invitation design', 'japanese', 'telemarketing', 'statistics', 'javascript', 'php', 'delphi', 'mobile phone', 'asterisk pbx', 'blog', 'logo design', 'powerpoint', 'electronics', 'perl', 'jquery / prototype', 'editing', 'drupal', 'translation', 'reviews'}, 'worker_task_dict': {'w1372': ['marketing', 'internet marketing', 'data entry', 'social networking'], 'w0892': ['graphic design', 'photoshop', 'caricature &amp; cartoons', 'illustration'], 'w1149': ['article rewriting', 'academic writing', 'translation', 'ghostwriting', 'data entry'], 'w1203': ['java', 'jquery / prototype', 'mysql', 'xml', 'javascript'], 'w1064': ['wordpress', 'web search', 'data entry'], 'w0147': ['graphic design', 'website design', 'logo design', 'html', 'php'], 'w0753': ['joomla', 'php', 'html', 'website design', 'advertising'], 'w1096': ['visual basic', 'c programming', 'mysql', 'php'], 'w0268': ['php', 'mysql', 'html', 'jquery / prototype'], 'w0350': ['wordpress', 'graphic design', 'website design', 'html', 'css'], 'w0882': ['php', 'javascript', 'html'], 'w0810': ['php', 'html', 'javascript', 'css', 'jquery / prototype'], 'w0700': ['animation', 'after effects', 'video services', '3d animation', 'flash'], 'w0410': ['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration'], 'w0385': ['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting'], 'w0402': ['software architecture', 'linux', 'c++ programming', 'android'], 'w0644': ['seo', 'html', 'css', 'php'], 'w0442': ['graphic design', 'logo design', 'photoshop', '3d rendering'], 'w0349': ['php', 'website design', 'magento', 'javascript', 'wordpress'], 'w1636': ['graphic design', 'illustration', 'caricature &amp; cartoons', 'illustrator', 'photoshop'], 'w1548': ['php', 'link building', 'linux', 'ajax'], 'w0913': ['.net', 'html', 'jquery / prototype', 'c# programming'], 'w0301': ['graphic design', 'photoshop', 'website design', 'html', 'banner design'], 'w1668': ['css', 'php', 'ajax', 'javascript', 'website design'], 'w0827': ['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing'], 'w0344': ['software architecture', 'php', 'mysql', 'web hosting', 'perl'], 'w0598': ['php', 'software architecture', 'website design', 'asp', 'android'], 'w0417': ['iphone', 'mobile phone', 'android', 'ipad', 'ajax'], 'w0072': ['php', 'website design', 'html', 'graphic design', 'mysql'], 'w1186': ['php', 'mysql', 'javascript', 'html', 'graphic design'], 'w0918': ['logo design', 'illustration', 'graphic design'], 'w0742': ['php', 'graphic design', 'android', 'html', 'jquery / prototype'], 'w0893': ['php', 'javascript', 'website design', 'html', 'css'], 'w0817': ['php', 'ecommerce', 'drupal', 'css', 'html'], 'w1056': ['photoshop', 'graphic design', 'photoshop design', 'logo design'], 'w1518': ['php', 'project management', 'windows desktop'], 'w1214': ['php', 'translation', 'mysql', 'wordpress', 'javascript'], 'w0342': ['php', 'website design', 'html', 'wordpress', 'graphic design'], 'w1243': ['mysql', 'php', 'wordpress'], 'w0631': ['website design', 'graphic design', 'html', 'php', 'seo'], 'w0723': ['logo design', 'data entry', 'graphic design'], 'w1606': ['engineering', 'sales', 'project management'], 'w0639': ['php', 'wordpress', 'website design', 'joomla', 'css'], 'w0224': ['php', 'html', 'website design', 'graphic design', 'joomla'], 'w1479': ['article rewriting', 'blog', 'articles'], 'w0478': ['php', 'html', 'wordpress', 'css', 'graphic design'], 'w0984': ['graphic design', 'illustrator', 'photoshop', 'logo design'], 'w1478': ['javascript', 'c# programming', 'perl', 'python', 'java'], 'w0493': ['prestashop', 'php', 'html', 'internet marketing', 'seo'], 'w0691': ['graphic design', 'photoshop', 'powerpoint', 'logo design', 'brochure design']}, 'task_val_dict': {'sharepoint': 8, 'microsoft exchange': 15, 'arabic': 8, 'japanese': 7, 'virtuemart': 10, 'latex': 6, 'embedded software': 4, 'financial markets': 8, 'forum posting': 10, 'telemarketing': 5, 'polish': 10, 'german': 9, 'bootstrap': 12, 'typography': 8, 'invitation design': 12, 'covers &amp; packaging': 10, 'travel writing': 12, 'telecommunications engineering': 11, 'electronic forms': 12, 'poster design': 11, 'stationery design': 15, 'social networking': 7, 'statistics': 13, 'greek': 12, 'accounting': 6, 'drupal': 9, 'java': 9, 'powerpoint': 9, 'project management': 9, 'cms': 6, 'visual basic': 12, 'email marketing': 12, 't-shirts': 8, 'link building': 7, 'delphi': 11, 'spanish': 11, 'business plans': 7, 'music': 14, 'audio services': 2, 'unix': 11, 'script install': 11, 'photo editing': 7, 'proofreading': 13, 'transcription': 12, 'videography': 8, 'pdf': 10, 'marketing': 8, 'ghostwriting': 10, 'engineering': 7, 'electrical engineering': 10, 'after effects': 12, 'leads': 8, 'bulk marketing': 6, 'business cards': 10, 'reviews': 7, 'electronics': 10, 'advertising': 6, 'algorithm': 12, 'asterisk pbx': 8, 'indesign': 9, 'web search': 6, 'sem / adwords': 6, 'xml': 11, 'web hosting': 10, 'photography': 10, 'voip': 11, 'ecommerce': 9, 'editing': 12, 'python': 13, 'c++ programming': 10, 'ajax': 9, 'book writing': 7, 'microsoft access': 12, 'sales': 12, 'system admin': 8, 'mac os': 11, 'brochure design': 5, 'ebooks': 7, '3d rendering': 12, 'word': 9, 'android': 10, 'logo design': 9, 'banner design': 7, 'html': 17, 'article rewriting': 11, 'php': 8, 'c programming': 10, 'illustration': 10, 'joomla': 5, 'academic writing': 9, 'javascript': 3, 'seo': 8, 'mobile phone': 5, 'video services': 8, 'wordpress': 7, '.net': 9, 'software architecture': 10, 'css': 4, 'illustrator': 9, 'linux': 7, 'internet marketing': 0, 'data entry': 0, 'graphic design': 0, 'photoshop': 0, 'caricature &amp; cartoons': 0, 'translation': 0, 'jquery / prototype': 0, 'mysql': 0, 'website design': 0, 'animation': 0, '3d animation': 0, 'flash': 0, 'articles': 0, 'copywriting': 0, 'magento': 0, 'c# programming': 0, 'facebook marketing': 0, 'perl': 0, 'asp': 0, 'iphone': 0, 'ipad': 0, 'photoshop design': 0, 'windows desktop': 0, 'blog': 0, 'prestashop': 0}, 'worke_cost': {'w1372': 7.0, 'w0892': 7.0, 'w1149': 10.0, 'w1203': 10.0, 'w1064': 7.0, 'w0147': 18.0, 'w0753': 10.0, 'w1096': 20.0, 'w0268': 20.0, 'w0350': 25.0, 'w0882': 15.0, 'w0810': 30.0, 'w0700': 10.0, 'w0410': 10.0, 'w0385': 15.0, 'w0402': 10.0, 'w0644': 11.0, 'w0442': 15.0, 'w0349': 25.0, 'w1636': 18.0, 'w1548': 12.0, 'w0913': 15.0, 'w0301': 10.0, 'w1668': 10.0, 'w0827': 10.0, 'w0344': 20.0, 'w0598': 15.0, 'w0417': 20.0, 'w0072': 20.0, 'w1186': 25.0, 'w0918': 15.0, 'w0742': 30.0, 'w0893': 20.0, 'w0817': 30.0, 'w1056': 8.0, 'w1518': 14.0, 'w1214': 20.0, 'w0342': 10.0, 'w1243': 8.0, 'w0631': 20.0, 'w0723': 1.0, 'w1606': 20.0, 'w0639': 25.0, 'w0224': 20.0, 'w1479': 8.0, 'w0478': 16.0, 'w0984': 15.0, 'w1478': 10.0, 'w0493': 16.0, 'w0691': 10.0}, 'n': 125, 'm': 50, 'solution': {'w1372', 'w1064', 'w1096', 'w1548', 'w1203', 'w0691', 'w0700', 'w0493', 'w1149', 'w0827'}, 'value': 106.0}"
+Official_Experiment_dUSM_dataset_10_instance_03_2_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_03\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_03\\workers.csv', 'workers': {'w1237', 'w1545', 'w1446', 'w1176', 'w0150', 'w0110', 'w1135', 'w0338', 'w0611', 'w0413', 'w0754', 'w1122', 'w1297', 'w1117', 'w0769', 'w0728', 'w0781', 'w0812', 'w0431', 'w0767', 'w0777', 'w1449', 'w0489', 'w1594', 'w1462', 'w1112', 'w0052', 'w0635', 'w0976', 'w0210', 'w0740', 'w1733', 'w0045', 'w0425', 'w0023', 'w0255', 'w0876', 'w0236', 'w0952', 'w0398', 'w1248', 'w0477', 'w0363', 'w0134', 'w1136', 'w1379', 'w1099', 'w0330', 'w0294', 'w0116'}, 'workers_df':     cost  ... y_star_index
+0    5.0  ...          1.0
+1   12.0  ...          1.0
+2   10.0  ...          0.0
+3    5.0  ...          1.0
+4   20.0  ...          0.0
+5    3.0  ...          1.0
+6    8.0  ...          0.0
+7   19.0  ...          0.0
+8   20.0  ...          0.0
+9   20.0  ...          0.0
+10  15.0  ...          0.0
+11  27.0  ...          0.0
+12  15.0  ...          0.0
+13  30.0  ...          0.0
+14   4.0  ...          0.0
+15   5.0  ...          0.0
+16  10.0  ...          0.0
+17   7.0  ...          0.0
+18   6.0  ...          0.0
+19  10.0  ...          0.0
+20  10.0  ...          0.0
+21  18.0  ...          0.0
+22  25.0  ...          0.0
+23  12.0  ...          0.0
+24  40.0  ...          0.0
+25   8.0  ...          1.0
+26  10.0  ...          0.0
+27   5.0  ...          1.0
+28  10.0  ...          0.0
+29  30.0  ...          1.0
+30   7.0  ...          1.0
+31  12.0  ...          0.0
+32  10.0  ...          0.0
+33  15.0  ...          0.0
+34  10.0  ...          0.0
+35  11.0  ...          0.0
+36  15.0  ...          0.0
+37  30.0  ...          0.0
+38  10.0  ...          0.0
+39  15.0  ...          1.0
+40  30.0  ...          0.0
+41   5.0  ...          1.0
+42  15.0  ...          0.0
+43  13.0  ...          0.0
+44  20.0  ...          0.0
+45  20.0  ...          0.0
+46  30.0  ...          0.0
+47   6.0  ...          0.0
+48  10.0  ...          0.0
+49  10.0  ...          0.0
+
+[50 rows x 5 columns], 'tasks_df':                               skill  skill_id  valuation  x_star_index
+0                            oracle       106          5           0.0
+1    telecommunications engineering       146         10           0.0
+2                            polish       115         11           0.0
+3                            arabic        17          7           0.0
+4                        virtuemart       159          9           0.0
+..                              ...       ...        ...           ...
+123                     copy typing         0          0           0.0
+124                            blog         0          0           0.0
+125                    ghostwriting         0          0           0.0
+126                software testing         0          0           0.0
+127                       ecommerce         0          0           0.0
+
+[128 rows x 4 columns], 'task_set': {'ruby on rails', 'greek', 'book writing', 'advertising', 'embedded software', 'website management', 'joomla', 'system admin', 'indesign', 'sharepoint', 'unix', 'xml', 'creative writing', 'website design', 'c++ programming', 'video broadcasting', 'arabic', 'bootstrap', 'brochure design', 'classifieds posting', 'html', 'social networking', 'illustrator', 'graphic design', 'cad/cam', 'mathematics', 't-shirts', 'engineering', 'apache', 'latex', 'software architecture', 'windows desktop', 'videography', 'animation', 'product design', 'virtuemart', 'excel', 'facebook marketing', 'visual basic', 'banner design', 'articles', '3d rendering', 'psd to html', 'user interface / ia', 'link building', 'copywriting', 'poster design', 'telecommunications engineering', 'caricature &amp; cartoons', 'photoshop', 'voip', 'transcription', 'ghostwriting', 'finance', 'web hosting', 'proofreading', 'microsoft exchange', 'c programming', 'c# programming', 'electrical engineering', '3d animation', 'academic writing', '3ds max', 'algorithm', 'css', 'business analysis', 'video services', 'article rewriting', 'financial markets', 'seo', 'stationery design', 'anything goes', 'marketing', 'technical writing', 'wordpress', 'polish', 'windows server', 'korean', 'data entry', 'magento', 'accounting', 'illustration', 'matlab &amp; mathematica', 'ajax', 'asp', 'typography', 'game design', 'script install', 'after effects', 'youtube', 'business plans', 'electronic forms', 'sales', 'internet marketing', 'forum posting', 'java', 'ecommerce', 'web scraping', 'mysql', 'business cards', 'copy typing', 'sql', 'oracle', 'linux', 'web search', 'translation', 'telemarketing', 'statistics', 'javascript', 'customer support', 'php', 'metatrader', 'microcontroller', 'asterisk pbx', 'software testing', 'blog', 'logo design', 'virtual assistant', 'electronics', 'perl', 'powerpoint', 'research', 'jquery / prototype', '3d modelling', 'editing', 'data processing', 'mechanical engineering', 'photo editing'}, 'worker_task_dict': {'w1379': ['web search', 'data entry', 'web scraping'], 'w1176': ['3d modelling', '3d rendering', '3ds max'], 'w1117': ['after effects', 'videography', 'animation'], 'w0781': ['data entry', 'excel', 'editing', 'research', 'copywriting'], 'w0294': ['wordpress', 'php', 'website design', 'html', 'css'], 'w1135': ['articles', 'seo', 'copywriting', 'excel', 'article rewriting'], 'w0952': ['photoshop', 'graphic design', 'logo design'], 'w1112': ['linux', 'system admin', 'apache', 'web hosting', 'windows server'], 'w0134': ['excel', 'data processing', 'data entry', 'photoshop', 'visual basic'], 'w1462': ['html', 'php', 'mysql', 'internet marketing', 'website design'], 'w0236': ['website design', 'graphic design', 'html', 'photoshop', 'user interface / ia'], 'w0812': ['php', 'website design', 'html', 'graphic design', 'seo'], 'w0754': ['php', 'website design', 'html', 'software architecture'], 'w0150': ['php', 'java', 'mysql', 'software architecture', 'c++ programming'], 'w0431': ['data entry', 'excel', 'virtual assistant', 'web scraping', 'research'], 'w1446': ['graphic design', 'facebook marketing', 'photoshop', 'illustrator', 'data entry'], 'w0116': ['html', 'wordpress', 'website design', 'css', 'php'], 'w1237': ['data entry', 'data processing', 'excel', 'web search', 'virtual assistant'], 'w0976': ['graphic design', 'logo design', 'photoshop', 'illustrator', 'website design'], 'w0769': ['translation', 'polish'], 'w0635': ['web scraping', 'data entry', 'ruby on rails', 'php', 'mysql'], 'w1248': ['php', 'asterisk pbx', 'mysql'], 'w0210': ['mathematics', 'matlab &amp; mathematica', 'statistics', 'algorithm', 'engineering'], 'w1545': ['logo design', 'css', 'graphic design', 'illustration'], 'w0425': ['graphic design', 'website design', 'photoshop', 'illustrator', 'illustration'], 'w0740': ['accounting', 'finance', 'business analysis', 'academic writing'], 'w0489': ['excel', 'javascript', 'visual basic', 'php'], 'w0338': ['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel'], 'w0255': ['translation', 'greek', 'technical writing', 'editing'], 'w0777': ['php', 'perl', 'script install', 'mysql', 'website design'], 'w1297': ['caricature &amp; cartoons', 'poster design'], 'w1594': ['link building', 'seo', 'internet marketing', 'data entry'], 'w1136': ['graphic design'], 'w0052': ['graphic design', 'logo design', 'photoshop', 'banner design', 'illustrator'], 'w0876': ['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation'], 'w1122': ['html', 'php', 'mysql', 'wordpress'], 'w0767': ['website design', 'html', 'php', 'graphic design', 'wordpress'], 'w1733': ['php', 'website design', 'xml', 'linux', 'mysql'], 'w0110': ['seo', 'facebook marketing', 'internet marketing', 'social networking'], 'w0363': ['metatrader', 'c++ programming', 'c programming', 'web scraping', 'software architecture'], 'w0611': ['indesign', 'graphic design', 'illustrator', 'photoshop', 'brochure design'], 'w1099': ['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design'], 'w0330': ['php', 'wordpress', 'html', 'css', 'data entry'], 'w0728': ['creative writing', 'articles', 'anything goes', 'data entry', 'copy typing'], 'w0477': ['graphic design', 'logo design', 'photoshop', 'banner design', 'business cards'], 'w0023': ['video services', 'animation', 'after effects', '3d animation', '3d rendering'], 'w0413': ['php', 'script install', 'html', 'wordpress', 'website design'], 'w0045': ['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting'], 'w1449': ['software testing', 'software architecture', 'php', 'mysql', 'excel'], 'w0398': ['php', 'html', 'website design', 'ecommerce', 'graphic design']}, 'task_val_dict': {'oracle': 5, 'telecommunications engineering': 10, 'polish': 11, 'arabic': 7, 'virtuemart': 9, 'latex': 13, 'product design': 8, 'forum posting': 6, 'sharepoint': 6, 'typography': 6, 'korean': 6, 'electronic forms': 8, 'financial markets': 3, 'bootstrap': 8, 'customer support': 8, 'microsoft exchange': 9, 'embedded software': 8, 'poster design': 7, 'ruby on rails': 9, 'telemarketing': 2, 'finance': 9, 'script install': 13, 'book writing': 11, 'perl': 13, 'advertising': 5, 'link building': 6, 'cad/cam': 7, 'asp': 11, 'mechanical engineering': 8, 'system admin': 5, 'unix': 10, 'accounting': 9, 'electronics': 9, 'video broadcasting': 9, '3d rendering': 9, 'business cards': 9, 'algorithm': 11, 'youtube': 4, 'windows desktop': 5, 'voip': 15, 'magento': 8, '3ds max': 7, 'stationery design': 5, 'website management': 8, 'brochure design': 12, 'after effects': 10, 'visual basic': 11, 'proofreading': 10, 'microcontroller': 8, 'business plans': 4, 'powerpoint': 8, 'photo editing': 8, 'engineering': 10, 'web search': 10, 'sql': 8, 'jquery / prototype': 10, 'ajax': 8, 'xml': 10, 'classifieds posting': 13, 'research': 10, 'c++ programming': 12, '3d animation': 4, 'c# programming': 10, 'windows server': 9, 'matlab &amp; mathematica': 9, 'metatrader': 9, '3d modelling': 9, 'caricature &amp; cartoons': 9, 'game design': 9, 'sales': 7, 'greek': 6, 'electrical engineering': 8, 't-shirts': 10, 'videography': 5, 'editing': 12, 'psd to html': 12, 'technical writing': 7, 'asterisk pbx': 8, 'transcription': 6, 'marketing': 5, 'copywriting': 4, 'academic writing': 5, 'mysql': 5, 'seo': 3, 'graphic design': 13, 'article rewriting': 8, 'data processing': 7, 'video services': 8, 'illustration': 11, 'photoshop': 9, 'linux': 9, 'php': 4, 'software architecture': 10, 'data entry': 9, 'articles': 8, 'joomla': 11, 'internet marketing': 9, 'c programming': 5, 'website design': 12, 'wordpress': 6, 'web scraping': 0, 'animation': 0, 'excel': 0, 'html': 0, 'css': 0, 'logo design': 0, 'apache': 0, 'web hosting': 0, 'user interface / ia': 0, 'java': 0, 'virtual assistant': 0, 'facebook marketing': 0, 'illustrator': 0, 'translation': 0, 'mathematics': 0, 'statistics': 0, 'business analysis': 0, 'javascript': 0, 'banner design': 0, 'social networking': 0, 'indesign': 0, 'creative writing': 0, 'anything goes': 0, 'copy typing': 0, 'blog': 0, 'ghostwriting': 0, 'software testing': 0, 'ecommerce': 0}, 'worke_cost': {'w1379': 5.0, 'w1176': 12.0, 'w1117': 10.0, 'w0781': 5.0, 'w0294': 20.0, 'w1135': 3.0, 'w0952': 8.0, 'w1112': 19.0, 'w0134': 20.0, 'w1462': 20.0, 'w0236': 15.0, 'w0812': 27.0, 'w0754': 15.0, 'w0150': 30.0, 'w0431': 4.0, 'w1446': 5.0, 'w0116': 10.0, 'w1237': 7.0, 'w0976': 6.0, 'w0769': 10.0, 'w0635': 10.0, 'w1248': 18.0, 'w0210': 25.0, 'w1545': 12.0, 'w0425': 40.0, 'w0740': 8.0, 'w0489': 10.0, 'w0338': 5.0, 'w0255': 10.0, 'w0777': 30.0, 'w1297': 7.0, 'w1594': 12.0, 'w1136': 10.0, 'w0052': 15.0, 'w0876': 10.0, 'w1122': 11.0, 'w0767': 15.0, 'w1733': 30.0, 'w0110': 10.0, 'w0363': 15.0, 'w0611': 30.0, 'w1099': 5.0, 'w0330': 15.0, 'w0728': 13.0, 'w0477': 20.0, 'w0023': 20.0, 'w0413': 30.0, 'w0045': 6.0, 'w1449': 10.0, 'w0398': 10.0}, 'n': 128, 'm': 50, 'solution': {'w1237', 'w1297', 'w1117', 'w0769', 'w0781', 'w0210', 'w1545', 'w1176', 'w0777', 'w1135'}, 'value': 118.0}"
+Official_Experiment_dUSM_dataset_10_instance_04_3_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_04\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_04\\workers.csv', 'workers': {'w0509', 'w1069', 'w1310', 'w0787', 'w0451', 'w1418', 'w1213', 'w0006', 'w1394', 'w0367', 'w1086', 'w0809', 'w0797', 'w1126', 'w0142', 'w1680', 'w0891', 'w1382', 'w0548', 'w1592', 'w0990', 'w1104', 'w0191', 'w0605', 'w1718', 'w1241', 'w0164', 'w0091', 'w0566', 'w0568', 'w0325', 'w0045', 'w1454', 'w1378', 'w1549', 'w0516', 'w0023', 'w1570', 'w0727', 'w0709', 'w1453', 'w1645', 'w1332', 'w1624', 'w0197', 'w0741', 'w1145', 'w0402', 'w1303', 'w1522'}, 'workers_df':     cost  ... y_star_index
+0   10.0  ...          0.0
+1   20.0  ...          0.0
+2   10.0  ...          0.0
+3   15.0  ...          0.0
+4    3.0  ...          1.0
+5   35.0  ...          0.0
+6   25.0  ...          0.0
+7    7.0  ...          1.0
+8   16.0  ...          0.0
+9   15.0  ...          1.0
+10  10.0  ...          1.0
+11   9.0  ...          0.0
+12   2.0  ...          1.0
+13  10.0  ...          0.0
+14  10.0  ...          0.0
+15  20.0  ...          0.0
+16  15.0  ...          0.0
+17  15.0  ...          0.0
+18   6.0  ...          1.0
+19  10.0  ...          0.0
+20  20.0  ...          0.0
+21  18.0  ...          1.0
+22  25.0  ...          0.0
+23  20.0  ...          0.0
+24  15.0  ...          0.0
+25  25.0  ...          0.0
+26   3.0  ...          1.0
+27  10.0  ...          0.0
+28  30.0  ...          0.0
+29  10.0  ...          0.0
+30   6.0  ...          0.0
+31   2.0  ...          0.0
+32   5.0  ...          0.0
+33   4.0  ...          0.0
+34  20.0  ...          0.0
+35  10.0  ...          0.0
+36  15.0  ...          1.0
+37   9.0  ...          0.0
+38   5.0  ...          0.0
+39   7.0  ...          0.0
+40  15.0  ...          0.0
+41  10.0  ...          1.0
+42  10.0  ...          0.0
+43  10.0  ...          0.0
+44  15.0  ...          0.0
+45  12.0  ...          0.0
+46  10.0  ...          0.0
+47  10.0  ...          0.0
+48  10.0  ...          0.0
+49  15.0  ...          0.0
+
+[50 rows x 5 columns], 'tasks_df':              skill  skill_id  valuation  x_star_index
+0       sharepoint       132          6           0.0
+1          arduino        18         10           0.0
+2           oracle       106         12           0.0
+3        bootstrap        28          6           0.0
+4       virtuemart       159         13           0.0
+..             ...       ...        ...           ...
+116    psd to html         0          0           0.0
+117         joomla         0          0           0.0
+118            seo         0          0           0.0
+119   3d modelling         0          0           0.0
+120  link building         0          0           0.0
+
+[121 rows x 4 columns], 'task_set': {'ruby on rails', 'greek', 'advertising', 'website management', 'joomla', 'indesign', 'sharepoint', 'unix', 'xml', 'python', 'website design', 'c++ programming', 'german', 'bootstrap', 'brochure design', 'classifieds posting', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 'engineering', 'leads', 'latex', 'software architecture', 'photo editing', 'mac os', 'robotics', 'videography', 'pcb layout', 'animation', 'spanish', 'concept design', 'music', 'virtuemart', 'facebook marketing', 'excel', 'visual basic', 'ipad', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', '3d rendering', 'psd to html', 'link building', 'copywriting', 'database administration', 'poster design', 'microsoft access', 'telecommunications engineering', 'pdf', 'caricature &amp; cartoons', 'photoshop', 'ghostwriting', 'transcription', 'finance', 'proofreading', 'audio services', 'microsoft exchange', 'c# programming', 'word', 'electrical engineering', 'business analysis', 'academic writing', '3ds max', '3d animation', 'css', 'video services', 'shell script', 'article rewriting', 'seo', 'project management', 'flash', 'anything goes', 'marketing', 'wordpress', 'polish', 'data entry', 'accounting', 'illustration', 'ajax', 'game design', 'after effects', 'ebooks', 'business plans', 'electronic forms', 'unity 3d', 'android', 'forum posting', 'ecommerce', 'web scraping', 'mysql', 'business cards', 'copy typing', 'arduino', 'iphone', 'oracle', 'linux', 'invitation design', 'telemarketing', 'customer support', 'php', 'metatrader', 'delphi', 'mobile phone', 'asterisk pbx', 'blog', 'virtual assistant', 'logo design', 'powerpoint', 'perl', 'research', 'jquery / prototype', '3d modelling', 'data processing', 'drupal', 'translation', 'internet marketing'}, 'worker_task_dict': {'w1454': ['photoshop', 'photo editing', 'graphic design'], 'w0142': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration'], 'w0727': ['excel', 'finance', 'accounting', 'data entry'], 'w0548': ['logo design', 'graphic design', 'website design', 'photoshop design'], 'w1418': ['data entry', 'copy typing', 'excel', 'data processing', 'word'], 'w0006': ['video services', 'animation', 'flash', 'after effects', 'graphic design'], 'w0741': ['graphic design', 'logo design', 'business cards', 'website design'], 'w0509': ['translation', 'facebook marketing', 'social networking', 'academic writing'], 'w0091': ['graphic design', 'photoshop', 'logo design', 'banner design', 'illustrator'], 'w0191': ['graphic design', 'brochure design', 'indesign', 'illustrator'], 'w0402': ['software architecture', 'linux', 'c++ programming', 'android'], 'w1378': ['excel'], 'w1213': ['audio services', 'virtual assistant', 'anything goes'], 'w1310': ['academic writing', 'telecommunications engineering'], 'w0990': ['marketing', 'leads'], 'w1303': ['photoshop', 'graphic design', 'illustrator', 'logo design', 'audio services'], 'w1645': ['translation', 'data entry', 'audio services', 'data processing'], 'w0709': ['academic writing', 'powerpoint', 'project management', 'data entry', 'articles'], 'w0045': ['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting'], 'w1592': ['graphic design', 'indesign', 'banner design'], 'w0023': ['video services', 'animation', 'after effects', '3d animation', '3d rendering'], 'w0568': ['video services', 'after effects', 'videography', 'animation', '3d animation'], 'w0367': ['php', 'iphone', 'ajax', 'jquery / prototype'], 'w0605': ['ghostwriting', 'articles', 'copywriting', 'ebooks', 'article rewriting'], 'w1145': ['graphic design', 'logo design'], 'w0787': ['iphone', 'mobile phone', 'android', 'ipad'], 'w1104': ['php', 'word', 'mysql', 'powerpoint', 'html'], 'w0891': ['electronic forms'], 'w0164': ['wordpress', 'graphic design', 'website design', 'photoshop design', 'html'], 'w0325': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration'], 'w1394': ['transcription'], 'w1086': ['css', 'website design', 'html', 'wordpress', 'php'], 'w0797': ['wordpress', 'css', 'html', 'psd to html', 'jquery / prototype'], 'w1126': ['unity 3d'], 'w1069': ['illustrator', 'caricature &amp; cartoons', 'illustration'], 'w1382': ['jquery / prototype', 'css', 'html'], 'w1570': ['flash', 'website management', 'photoshop', 'xml', 'css'], 'w1624': ['graphic design', 'logo design', 'photoshop', 'banner design', 'website design'], 'w1680': ['translation'], 'w1453': ['graphic design', 'logo design'], 'w0809': ['website design', 'graphic design', 'php', 'joomla', 'social networking'], 'w1241': ['internet marketing', 'seo', 'css', 'html', 'advertising'], 'w0516': ['academic writing', 'article rewriting', 'research', 'articles', 'copy typing'], 'w0451': ['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects'], 'w1718': ['flash', 'website management', 'photoshop', 'xml', 'css'], 'w1549': ['php', 'link building', 'linux', 'ajax'], 'w1522': ['data entry'], 'w0566': ['data entry', 'excel', 'html', 'web scraping', 'website design'], 'w1332': ['ghostwriting', 'articles'], 'w0197': ['translation', 'spanish', 'data entry', 'articles', 'copywriting']}, 'task_val_dict': {'sharepoint': 6, 'arduino': 10, 'oracle': 12, 'bootstrap': 6, 'virtuemart': 13, 'forum posting': 11, 'concept design': 9, 'customer support': 11, 'robotics': 11, 'poster design': 12, 'microsoft exchange': 6, 'polish': 10, 'german': 12, 'ruby on rails': 7, 'electronic forms': 11, 'invitation design': 7, 'covers &amp; packaging': 12, 'unity 3d': 10, 'telemarketing': 9, 'latex': 9, 'finance': 2, 'pdf': 13, 'music': 7, 'asterisk pbx': 4, 'ecommerce': 11, 'ajax': 10, 'cms': 17, 'mac os': 7, 'blog': 8, 'copy typing': 10, 'c# programming': 3, 'website management': 12, 'visual basic': 9, 'powerpoint': 13, 'accounting': 10, '3ds max': 7, 'delphi': 8, 'electrical engineering': 10, 'c++ programming': 16, 'game design': 11, 'database administration': 7, 'business plans': 16, 'social networking': 11, 'research': 6, 'word': 16, 'jquery / prototype': 13, 'ghostwriting': 7, 'greek': 8, 'proofreading': 4, 'perl': 13, 'drupal': 9, 'cad/cam': 10, 'leads': 12, 'spanish': 12, 'transcription': 9, 'pcb layout': 8, 'anything goes': 9, 'photoshop design': 3, 'python': 14, 'indesign': 12, 'caricature &amp; cartoons': 12, 'videography': 13, 'flash': 7, 'classifieds posting': 9, 'xml': 11, 'advertising': 15, 'ipad': 9, 'business analysis': 6, 'audio services': 11, 'microsoft access': 10, 'bulk marketing': 5, 'shell script': 7, 'brochure design': 11, 'metatrader': 12, 'engineering': 12, 'unix': 11, 'business cards': 10, 'project management': 13, 'virtual assistant': 9, 'after effects': 8, 'facebook marketing': 6, 'animation': 10, 'illustrator': 12, 'php': 1, 'translation': 10, 'logo design': 8, 'internet marketing': 7, 'linux': 11, 'iphone': 9, 'banner design': 8, 'web scraping': 14, 'graphic design': 12, 'excel': 11, 'mobile phone': 5, 'video services': 9, 'article rewriting': 7, 'android': 5, 'articles': 8, 'software architecture': 5, 'data entry': 11, 'photoshop': 0, 'photo editing': 0, 'illustration': 0, 'website design': 0, 'data processing': 0, 'academic writing': 0, 'telecommunications engineering': 0, 'marketing': 0, 'copywriting': 0, '3d animation': 0, '3d rendering': 0, 'ebooks': 0, 'mysql': 0, 'html': 0, 'wordpress': 0, 'css': 0, 'psd to html': 0, 'joomla': 0, 'seo': 0, '3d modelling': 0, 'link building': 0}, 'worke_cost': {'w1454': 10.0, 'w0142': 20.0, 'w0727': 10.0, 'w0548': 15.0, 'w1418': 3.0, 'w0006': 35.0, 'w0741': 25.0, 'w0509': 7.0, 'w0091': 16.0, 'w0191': 15.0, 'w0402': 10.0, 'w1378': 9.0, 'w1213': 2.0, 'w1310': 10.0, 'w0990': 10.0, 'w1303': 20.0, 'w1645': 15.0, 'w0709': 15.0, 'w0045': 6.0, 'w1592': 10.0, 'w0023': 20.0, 'w0568': 18.0, 'w0367': 25.0, 'w0605': 20.0, 'w1145': 15.0, 'w0787': 25.0, 'w1104': 3.0, 'w0891': 10.0, 'w0164': 30.0, 'w0325': 10.0, 'w1394': 6.0, 'w1086': 2.0, 'w0797': 5.0, 'w1126': 4.0, 'w1069': 20.0, 'w1382': 10.0, 'w1570': 15.0, 'w1624': 9.0, 'w1680': 5.0, 'w1453': 7.0, 'w0809': 15.0, 'w1241': 10.0, 'w0516': 10.0, 'w0451': 10.0, 'w1718': 15.0, 'w1549': 12.0, 'w1522': 10.0, 'w0566': 10.0, 'w1332': 10.0, 'w0197': 15.0}, 'n': 121, 'm': 50, 'solution': {'w0509', 'w1592', 'w0990', 'w1213', 'w1418', 'w1104', 'w1394', 'w0797', 'w1126', 'w0891'}, 'value': 145.0}"
+Official_Experiment_dUSM_dataset_10_instance_05_4_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_05\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_05\\workers.csv', 'workers': {'w1353', 'w0443', 'w0751', 'w0901', 'w0150', 'w0334', 'w1690', 'w1324', 'w0537', 'w1643', 'w1739', 'w0738', 'w1328', 'w1483', 'w0439', 'w1116', 'w1613', 'w1731', 'w0054', 'w1541', 'w0678', 'w1696', 'w1238', 'w1635', 'w0805', 'w0879', 'w1473', 'w0615', 'w0247', 'w0815', 'w0648', 'w0753', 'w1716', 'w0725', 'w0098', 'w0236', 'w0716', 'w1702', 'w0206', 'w0366', 'w1710', 'w0390', 'w1228', 'w1099', 'w1624', 'w0132', 'w1732', 'w1048', 'w0050', 'w0506'}, 'workers_df':     cost  ... y_star_index
+0   20.0  ...          0.0
+1   12.0  ...          1.0
+2    5.0  ...          1.0
+3   15.0  ...          0.0
+4    8.0  ...          0.0
+5    5.0  ...          1.0
+6   10.0  ...          1.0
+7   15.0  ...          0.0
+8   10.0  ...          0.0
+9   15.0  ...          0.0
+10  10.0  ...          0.0
+11  30.0  ...          0.0
+12  21.0  ...          0.0
+13   5.0  ...          0.0
+14  30.0  ...          0.0
+15  25.0  ...          0.0
+16  10.0  ...          1.0
+17  20.0  ...          0.0
+18  18.0  ...          0.0
+19  15.0  ...          1.0
+20  15.0  ...          0.0
+21   4.0  ...          1.0
+22  15.0  ...          0.0
+23   2.0  ...          0.0
+24  12.0  ...          0.0
+25   8.0  ...          1.0
+26  15.0  ...          0.0
+27   8.0  ...          0.0
+28  20.0  ...          0.0
+29  12.0  ...          0.0
+30  10.0  ...          0.0
+31   8.0  ...          0.0
+32  35.0  ...          0.0
+33  15.0  ...          1.0
+34  35.0  ...          0.0
+35  15.0  ...          0.0
+36  10.0  ...          0.0
+37  28.0  ...          0.0
+38   8.0  ...          1.0
+39  25.0  ...          0.0
+40   5.0  ...          0.0
+41  15.0  ...          0.0
+42  10.0  ...          0.0
+43  17.0  ...          0.0
+44   5.0  ...          0.0
+45  12.0  ...          0.0
+46  20.0  ...          0.0
+47   9.0  ...          0.0
+48  10.0  ...          0.0
+49   3.0  ...          0.0
+
+[50 rows x 5 columns], 'tasks_df':                  skill  skill_id  valuation  x_star_index
+0    invitation design        79         11           0.0
+1             robotics       126          5           0.0
+2       product design       119          7           0.0
+3           typography       151         10           0.0
+4     electronic forms        57         13           0.0
+..                 ...       ...        ...           ...
+131  stationery design         0          0           0.0
+132                pdf         0          0           0.0
+133            editing         0          0           0.0
+134          animation         0          0           0.0
+135      after effects         0          0           0.0
+
+[136 rows x 4 columns], 'task_set': {'book writing', 'advertising', 'sem / adwords', 'joomla', 'system admin', 'sharepoint', 'xml', 'creative writing', 'python', 'website design', 'c++ programming', 'video broadcasting', 'actionscript', 'bootstrap', 'brochure design', 'classifieds posting', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'mathematics', 'cms', 'engineering', 't-shirts', 'software architecture', 'mac os', 'windows desktop', 'robotics', 'videography', 'animation', 'spanish', 'product design', 'facebook marketing', 'excel', 'visual basic', 'ipad', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', '3d rendering', 'user interface / ia', 'link building', 'copywriting', 'database administration', 'poster design', 'telecommunications engineering', 'pdf', 'caricature &amp; cartoons', 'photoshop', 'transcription', 'finance', 'web hosting', 'proofreading', 'audio services', 'microsoft exchange', 'c programming', 'c# programming', 'photography', '3d animation', 'business analysis', 'academic writing', 'flyer design', 'algorithm', 'css', 'video services', 'shell script', 'article rewriting', 'financial markets', 'seo', 'stationery design', 'project management', 'flash', 'anything goes', 'marketing', 'technical writing', 'wordpress', 'polish', 'windows server', 'email marketing', 'data entry', 'illustration', 'matlab &amp; mathematica', 'asp', 'typography', 'game design', 'after effects', 'prestashop', 'ebooks', 'youtube', 'business plans', 'electronic forms', 'unity 3d', 'android', 'internet marketing', 'java', 'ecommerce', 'web scraping', 'mysql', 'xxx', 'business cards', 'copy typing', 'arduino', 'sql', 'iphone', 'oracle', 'linux', '.net', 'web search', 'invitation design', 'translation', 'statistics', 'telemarketing', 'javascript', 'autocad', 'customer support', 'swedish', 'php', 'metatrader', 'mobile phone', 'asterisk pbx', 'software testing', 'blog', 'logo design', 'powerpoint', 'perl', 'jquery / prototype', '3d modelling', 'voice talent', 'data processing', 'drupal', 'editing', 'mechanical engineering', 'photo editing'}, 'worker_task_dict': {'w0443': ['graphic design', 'logo design', 'photoshop', 't-shirts'], 'w0615': ['android', 'mobile phone', 'java', 'iphone', 'python'], 'w1099': ['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design'], 'w0725': ['website design', 'graphic design', 'wordpress', 'logo design', 'ecommerce'], 'w1473': ['articles', 'article rewriting'], 'w1613': ['video broadcasting', 'linux', 'video services'], 'w0753': ['joomla', 'php', 'html', 'website design', 'advertising'], 'w0901': ['php', 'wordpress', 'copywriting', 'translation'], 'w0648': ['graphic design', 'logo design', 'photoshop', 'photoshop design', 'flyer design'], 'w0054': ['website design', 'graphic design', 'php', 'html', 'wordpress'], 'w0098': ['data entry', 'excel', 'data processing', 'web search', 'web scraping'], 'w1643': ['graphic design', 'website design', 'php', 'flash', 'photoshop'], 'w0334': ['graphic design', 'logo design', 'photoshop', 'business cards', 'illustrator'], 'w0716': ['data entry', 'excel', 'translation', 'web search'], 'w0150': ['php', 'java', 'mysql', 'software architecture', 'c++ programming'], 'w0537': ['php', 'css', 'html', 'wordpress', 'photoshop'], 'w1541': ['classifieds posting', 'data entry', 'data processing', 'marketing', 'excel'], 'w1710': ['web hosting', 'mysql', 'software testing', 'php', 'perl'], 'w1116': ['visual basic', '.net', 'asp', 'c# programming', 'sql'], 'w0751': ['3d animation', '3d rendering', '3d modelling'], 'w0236': ['website design', 'graphic design', 'html', 'photoshop', 'user interface / ia'], 'w0390': ['articles', 'copywriting', 'blog', 'article rewriting', 'technical writing'], 'w0050': ['graphic design', 'logo design', 'website design', 'banner design', 'photoshop'], 'w1731': ['anything goes', 'data entry', 'graphic design', 'php', 'website design'], 'w1739': ['php', 'wordpress', 'joomla', 'website design', 'graphic design'], 'w1483': ['graphic design', 'logo design', 'illustrator', 'illustration', 'flyer design'], 'w1048': ['php', 'wordpress', 'javascript', 'website design', 'html'], 'w1324': ['logo design', 'graphic design', 'photoshop', 'illustration', 'website design'], 'w0366': ['flash', 'photoshop', 'graphic design', 'logo design', 'videography'], 'w1702': ['php', 'wordpress', 'joomla', 'website design', 'graphic design'], 'w1732': ['php', 'html'], 'w0247': ['prestashop', 'php', 'html', 'website design', 'css'], 'w0132': ['graphic design', 'banner design', 'website design', 'photoshop', 'logo design'], 'w1228': ['internet marketing', 'sem / adwords'], 'w0678': ['php', 'social networking', 'wordpress', 'facebook marketing', 'javascript'], 'w1696': ['photoshop', 'graphic design', 'logo design'], 'w1238': ['link building', 'internet marketing', 'seo', 'advertising'], 'w0815': ['php', 'logo design', 'website design', 'wordpress', 'graphic design'], 'w1635': ['c# programming', '.net', 'sql'], 'w0206': ['graphic design', 'logo design', 'html', 'php', 'photoshop'], 'w1690': ['telemarketing'], 'w0506': ['html', 'website design', 'php', 'wordpress', 'jquery / prototype'], 'w1716': ['business cards', 'graphic design', 'stationery design'], 'w0439': ['graphic design', 'flash', 'logo design', 'website design', 'php'], 'w1353': ['pdf', 'editing', 'graphic design', 'javascript'], 'w0738': ['animation', 'illustration', '3d animation', 'after effects', 'video services'], 'w0879': ['graphic design', 'banner design', 'c# programming', 'html', 'php'], 'w1624': ['graphic design', 'logo design', 'photoshop', 'banner design', 'website design'], 'w1328': ['graphic design'], 'w0805': ['logo design', 'photoshop', 'illustrator', 'photoshop design', 'excel']}, 'task_val_dict': {'invitation design': 11, 'robotics': 5, 'product design': 7, 'typography': 10, 'electronic forms': 13, 'sharepoint': 6, 'telecommunications engineering': 12, 'unity 3d': 9, 'microsoft exchange': 9, 'covers &amp; packaging': 6, 'arduino': 9, 'oracle': 9, 'poster design': 9, 'bootstrap': 8, 'creative writing': 3, 'polish': 7, 'xxx': 9, 'swedish': 5, 'financial markets': 4, 'customer support': 7, 'web hosting': 8, 'brochure design': 8, 'autocad': 5, 'mathematics': 7, 'python': 10, 'cms': 7, 'engineering': 10, 'book writing': 14, 'business plans': 10, 'shell script': 11, 'windows server': 10, 'voice talent': 7, 'actionscript': 4, 'ipad': 7, 'copy typing': 9, 'photography': 13, 'matlab &amp; mathematica': 9, 'sem / adwords': 10, 'classifieds posting': 8, 'proofreading': 9, 'bulk marketing': 11, '3d rendering': 6, 'mechanical engineering': 13, '3d modelling': 12, 'algorithm': 12, 'java': 10, 'game design': 6, 'visual basic': 9, 'ebooks': 8, 'c# programming': 5, 'finance': 7, 'advertising': 12, 'web search': 8, 'windows desktop': 5, 'c++ programming': 4, 'asterisk pbx': 5, 'sql': 8, 'project management': 6, 'cad/cam': 5, 'drupal': 7, 'xml': 10, 'mac os': 7, 'video broadcasting': 5, 'audio services': 5, 'marketing': 11, 'system admin': 7, '3d animation': 9, 'photo editing': 9, 'flash': 8, 'spanish': 9, 'powerpoint': 4, 'metatrader': 2, 'social networking': 11, 'statistics': 12, 'business analysis': 12, 'caricature &amp; cartoons': 9, 'database administration': 8, 'transcription': 5, 'technical writing': 12, 'email marketing': 7, 'mobile phone': 10, 'javascript': 3, 'web scraping': 3, 'articles': 7, 'article rewriting': 10, 'css': 2, 'copywriting': 8, 'banner design': 8, 'photoshop': 7, 'logo design': 11, 'graphic design': 11, 'internet marketing': 9, 'wordpress': 5, 'video services': 4, 'illustration': 7, '.net': 10, 'php': 11, 'academic writing': 6, 'c programming': 8, 'html': 4, 't-shirts': 0, 'android': 0, 'iphone': 0, 'youtube': 0, 'website design': 0, 'ecommerce': 0, 'linux': 0, 'joomla': 0, 'translation': 0, 'photoshop design': 0, 'flyer design': 0, 'data entry': 0, 'excel': 0, 'data processing': 0, 'business cards': 0, 'illustrator': 0, 'mysql': 0, 'software architecture': 0, 'software testing': 0, 'perl': 0, 'asp': 0, 'user interface / ia': 0, 'blog': 0, 'anything goes': 0, 'videography': 0, 'prestashop': 0, 'facebook marketing': 0, 'link building': 0, 'seo': 0, 'telemarketing': 0, 'jquery / prototype': 0, 'stationery design': 0, 'pdf': 0, 'editing': 0, 'animation': 0, 'after effects': 0}, 'worke_cost': {'w0443': 20.0, 'w0615': 12.0, 'w1099': 5.0, 'w0725': 15.0, 'w1473': 8.0, 'w1613': 5.0, 'w0753': 10.0, 'w0901': 15.0, 'w0648': 10.0, 'w0054': 15.0, 'w0098': 10.0, 'w1643': 30.0, 'w0334': 21.0, 'w0716': 5.0, 'w0150': 30.0, 'w0537': 25.0, 'w1541': 10.0, 'w1710': 20.0, 'w1116': 18.0, 'w0751': 15.0, 'w0236': 15.0, 'w0390': 4.0, 'w0050': 15.0, 'w1731': 2.0, 'w1739': 12.0, 'w1483': 8.0, 'w1048': 15.0, 'w1324': 8.0, 'w0366': 20.0, 'w1702': 12.0, 'w1732': 10.0, 'w0247': 8.0, 'w0132': 35.0, 'w1228': 15.0, 'w0678': 35.0, 'w1696': 15.0, 'w1238': 10.0, 'w0815': 28.0, 'w1635': 8.0, 'w0206': 25.0, 'w1690': 5.0, 'w0506': 15.0, 'w1716': 10.0, 'w0439': 17.0, 'w1353': 5.0, 'w0738': 12.0, 'w0879': 20.0, 'w1624': 9.0, 'w1328': 10.0, 'w0805': 3.0}, 'n': 136, 'm': 50, 'solution': {'w1353', 'w1324', 'w1541', 'w1238', 'w1473', 'w0615', 'w0751', 'w1116', 'w1613', 'w1731'}, 'value': 112.0}"
+Official_Experiment_dUSM_dataset_10_instance_06_5_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_06\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_06\\workers.csv', 'workers': {'w1438', 'w1298', 'w0786', 'w0451', 'w1355', 'w1738', 'w1323', 'w0591', 'w1746', 'w0042', 'w1019', 'w0196', 'w1061', 'w0155', 'w1664', 'w1081', 'w1140', 'w0966', 'w0120', 'w1728', 'w0066', 'w0495', 'w0827', 'w0636', 'w0911', 'w1550', 'w1594', 'w1112', 'w0540', 'w1622', 'w0100', 'w0483', 'w1316', 'w0704', 'w0031', 'w0780', 'w0195', 'w0218', 'w0349', 'w0306', 'w0285', 'w0753', 'w1254', 'w0398', 'w0020', 'w1257', 'w0335', 'w0211', 'w1740', 'w1129'}, 'workers_df':     cost  ... y_star_index
+0   12.0  ...          0.0
+1   18.0  ...          0.0
+2   12.0  ...          0.0
+3    5.0  ...          1.0
+4   10.0  ...          0.0
+5   10.0  ...          0.0
+6   20.0  ...          0.0
+7   13.0  ...          1.0
+8   20.0  ...          0.0
+9   12.0  ...          0.0
+10  10.0  ...          1.0
+11  15.0  ...          1.0
+12   4.0  ...          0.0
+13  10.0  ...          0.0
+14  14.0  ...          0.0
+15  25.0  ...          0.0
+16  30.0  ...          0.0
+17  20.0  ...          0.0
+18  25.0  ...          0.0
+19  15.0  ...          0.0
+20   4.0  ...          0.0
+21   6.0  ...          1.0
+22  15.0  ...          0.0
+23  10.0  ...          0.0
+24  25.0  ...          0.0
+25  19.0  ...          0.0
+26   5.0  ...          0.0
+27  12.0  ...          0.0
+28  20.0  ...          0.0
+29  10.0  ...          0.0
+30  10.0  ...          1.0
+31  14.0  ...          0.0
+32   5.0  ...          0.0
+33   8.0  ...          0.0
+34  25.0  ...          0.0
+35  10.0  ...          0.0
+36  15.0  ...          0.0
+37  25.0  ...          0.0
+38  10.0  ...          0.0
+39  25.0  ...          0.0
+40  20.0  ...          0.0
+41  10.0  ...          0.0
+42  10.0  ...          1.0
+43  10.0  ...          0.0
+44  10.0  ...          0.0
+45  10.0  ...          0.0
+46  10.0  ...          1.0
+47  10.0  ...          1.0
+48  10.0  ...          0.0
+49  15.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                      skill  skill_id  valuation  x_star_index
+0                  swedish       142          8           0.0
+1      amazon web services        12          3           0.0
+2           product design       119         11           0.0
+3      user interface / ia       154          7           0.0
+4                   korean        87         10           0.0
+..                     ...       ...        ...           ...
+126           web scraping         0          0           0.0
+127           3d rendering         0          0           0.0
+128                 drupal         0          0           0.0
+129  software architecture         0          0           0.0
+130        windows desktop         0          0           0.0
+
+[131 rows x 4 columns], 'task_set': {'greek', 'book writing', 'advertising', 'sem / adwords', 'embedded software', 'joomla', 'indesign', 'system admin', 'sharepoint', 'xml', 'creative writing', 'python', 'website design', 'c++ programming', 'travel writing', 'actionscript', 'brochure design', 'classifieds posting', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'mathematics', 't-shirts', 'engineering', 'apache', 'software architecture', 'photo editing', 'windows desktop', 'robotics', 'videography', 'animation', 'spanish', 'concept design', 'product design', 'facebook marketing', 'excel', 'virtuemart', 'visual basic', 'ipad', 'banner design', 'articles', 'bulk marketing', 'user interface / ia', 'psd to html', '3d rendering', 'link building', 'copywriting', 'database administration', 'poster design', 'photoshop', 'voip', 'ghostwriting', 'finance', 'web hosting', 'audio services', 'proofreading', 'microsoft exchange', 'c programming', 'photography', '3d animation', 'electrical engineering', 'flyer design', '3ds max', 'algorithm', 'css', 'academic writing', 'video services', 'shell script', 'article rewriting', 'seo', 'project management', 'marketing', 'technical writing', 'wordpress', 'amazon web services', 'windows server', 'email marketing', 'korean', 'data entry', 'magento', 'accounting', 'illustration', 'matlab &amp; mathematica', 'ajax', 'asp', 'typography', 'script install', 'after effects', 'prestashop', 'unity 3d', 'android', 'sales', 'internet marketing', 'ecommerce', 'java', 'web scraping', 'mysql', 'xxx', 'business cards', 'copy typing', 'iphone', 'linux', '.net', 'web search', 'invitation design', 'japanese', 'translation', 'telemarketing', 'statistics', 'javascript', 'autocad', 'customer support', 'swedish', 'php', 'metatrader', 'asterisk pbx', 'software testing', 'virtual assistant', 'logo design', 'powerpoint', 'perl', 'electronics', 'jquery / prototype', '3d modelling', 'data processing', 'editing', 'drupal', 'mechanical engineering', 'reviews'}, 'worker_task_dict': {'w1594': ['link building', 'seo', 'internet marketing', 'data entry'], 'w1438': ['graphic design', 'powerpoint', 'photoshop'], 'w0066': ['animation', 'video services', '3d animation', 'after effects', 'videography'], 'w0031': ['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords'], 'w1355': ['website design', 'graphic design', 'wordpress', 'photoshop design', 'photoshop'], 'w0827': ['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing'], 'w0704': ['photoshop', 'graphic design', 'photo editing', 'photography', 'logo design'], 'w0195': ['joomla', 'php', 'html', 'css', 'website design'], 'w0120': ['javascript', 'php', 'html', 'css', 'website design'], 'w0636': ['php', 'html', 'mysql', 'javascript', 'ajax'], 'w0540': ['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design'], 'w0196': ['translation', 'spanish', 'data entry', 'articles', 'copywriting'], 'w1738': ['data entry', 'data processing', 'seo'], 'w1254': ['graphic design', 'photoshop design'], 'w0591': ['translation', 'korean', 'copywriting'], 'w0349': ['php', 'website design', 'magento', 'javascript', 'wordpress'], 'w0100': ['graphic design', 'photoshop', 'illustrator', 'banner design', 'flyer design'], 'w1298': ['.net', 'asp', 'mysql', 'javascript', 'php'], 'w0911': ['graphic design', 'banner design', 'html', 'website design', 'logo design'], 'w1061': ['graphic design', 'logo design'], 'w1257': ['articles', 'article rewriting', 'copywriting', 'editing'], 'w0786': ['data entry', 'virtuemart', 'excel', 'data processing', 'magento'], 'w0155': ['graphic design', 'illustration', 'photoshop'], 'w0966': ['graphic design', 'logo design'], 'w1746': ['php', 'mysql', 'html', 'ajax', 'javascript'], 'w1112': ['linux', 'system admin', 'apache', 'web hosting', 'windows server'], 'w1664': ['php', 'engineering', 'mysql', 'electronics'], 'w0042': ['video services', 'animation', '3d animation', 'after effects', 'graphic design'], 'w0780': ['php', 'html', 'css', 'wordpress', 'c programming'], 'w1740': ['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting'], 'w0483': ['android', 'php', 'iphone', 'html', 'javascript'], 'w0218': ['website design', 'graphic design', 'html', 'psd to html', 'wordpress'], 'w1622': ['data entry', 'web search', 'excel', 'data processing', 'web scraping'], 'w1019': ['3ds max', 'graphic design', 'photoshop', '3d modelling'], 'w1140': ['video services', 'graphic design', 'photo editing', 'animation'], 'w0285': ['graphic design', 'photoshop', 'website design', 'html', 'banner design'], 'w0335': ['after effects', '3d animation', 'animation', 'video services', 'photoshop'], 'w1129': ['mechanical engineering', 'project management'], 'w0451': ['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects'], 'w0495': ['graphic design', 'banner design', 'logo design', 'website design', 'html'], 'w0306': ['php', 'javascript', 'jquery / prototype', 'mysql'], 'w0398': ['php', 'html', 'website design', 'ecommerce', 'graphic design'], 'w1316': ['3ds max', 'autocad', '3d modelling'], 'w1323': ['html', 'website design', 'graphic design'], 'w0020': ['php', 'drupal', '.net', 'javascript', 'software architecture'], 'w0753': ['joomla', 'php', 'html', 'website design', 'advertising'], 'w1550': ['php', 'project management', 'script install', '.net', 'windows desktop'], 'w1728': ['c programming', 'c++ programming', 'java', 'algorithm'], 'w1081': ['java'], 'w0211': ['virtual assistant', 'php', 'data entry', 'article rewriting', 'sales']}, 'task_val_dict': {'swedish': 8, 'amazon web services': 3, 'product design': 11, 'user interface / ia': 7, 'korean': 10, 'invitation design': 3, 'typography': 10, 'xxx': 13, 'japanese': 8, 'microsoft exchange': 10, 'unity 3d': 7, 'creative writing': 9, 'sharepoint': 6, 'customer support': 6, 'poster design': 7, 'embedded software': 13, 'concept design': 3, 'telemarketing': 8, 'robotics': 10, 'travel writing': 13, 'copy typing': 5, 'magento': 10, 'finance': 6, 'email marketing': 15, 'ajax': 8, 'spanish': 12, 'perl': 11, 'advertising': 9, 'algorithm': 10, 'c++ programming': 12, 'book writing': 10, 'electrical engineering': 12, 'ecommerce': 10, 'audio services': 2, 'database administration': 6, 'jquery / prototype': 9, 'brochure design': 8, 'asp': 8, 'bulk marketing': 11, 'business cards': 9, 'script install': 4, 'matlab &amp; mathematica': 9, 'accounting': 8, 'virtual assistant': 10, 'web search': 9, 'visual basic': 15, 'link building': 12, 'indesign': 9, 't-shirts': 13, 'autocad': 7, 'software testing': 12, 'ipad': 12, 'engineering': 11, 'actionscript': 13, 'sales': 13, '3d modelling': 10, 'greek': 12, 'powerpoint': 10, 'apache': 9, 'project management': 9, 'asterisk pbx': 11, 'xml': 14, 'mathematics': 5, 'python': 9, 'photography': 13, 'java': 11, 'classifieds posting': 9, 'marketing': 8, 'social networking': 8, 'shell script': 2, '3ds max': 12, 'voip': 12, 'mechanical engineering': 6, '3d animation': 2, 'proofreading': 9, 'metatrader': 3, 'prestashop': 13, 'statistics': 10, 'reviews': 4, 'flyer design': 10, 'translation': 10, 'javascript': 12, 'website design': 6, 'linux': 11, 'android': 8, 'photoshop': 10, '.net': 8, 'joomla': 8, 'animation': 11, 'logo design': 10, 'css': 14, 'excel': 13, 'video services': 5, 'academic writing': 10, 'graphic design': 10, 'copywriting': 9, 'data processing': 9, 'c programming': 11, 'banner design': 6, 'illustration': 12, 'seo': 0, 'internet marketing': 0, 'data entry': 0, 'after effects': 0, 'videography': 0, 'sem / adwords': 0, 'wordpress': 0, 'photoshop design': 0, 'facebook marketing': 0, 'illustrator': 0, 'photo editing': 0, 'php': 0, 'html': 0, 'mysql': 0, 'articles': 0, 'article rewriting': 0, 'editing': 0, 'virtuemart': 0, 'system admin': 0, 'web hosting': 0, 'windows server': 0, 'electronics': 0, 'ghostwriting': 0, 'technical writing': 0, 'iphone': 0, 'psd to html': 0, 'web scraping': 0, '3d rendering': 0, 'drupal': 0, 'software architecture': 0, 'windows desktop': 0}, 'worke_cost': {'w1594': 12.0, 'w1438': 18.0, 'w0066': 12.0, 'w0031': 5.0, 'w1355': 10.0, 'w0827': 10.0, 'w0704': 20.0, 'w0195': 13.0, 'w0120': 20.0, 'w0636': 12.0, 'w0540': 10.0, 'w0196': 15.0, 'w1738': 4.0, 'w1254': 10.0, 'w0591': 14.0, 'w0349': 25.0, 'w0100': 30.0, 'w1298': 20.0, 'w0911': 25.0, 'w1061': 15.0, 'w1257': 4.0, 'w0786': 6.0, 'w0155': 15.0, 'w0966': 10.0, 'w1746': 25.0, 'w1112': 19.0, 'w1664': 5.0, 'w0042': 12.0, 'w0780': 20.0, 'w1740': 10.0, 'w0483': 10.0, 'w0218': 14.0, 'w1622': 5.0, 'w1019': 8.0, 'w1140': 25.0, 'w0285': 10.0, 'w0335': 15.0, 'w1129': 25.0, 'w0451': 10.0, 'w0495': 25.0, 'w0306': 20.0, 'w0398': 10.0, 'w1316': 10.0, 'w1323': 10.0, 'w0020': 10.0, 'w0753': 10.0, 'w1550': 10.0, 'w1728': 10.0, 'w1081': 10.0, 'w0211': 15.0}, 'n': 131, 'm': 50, 'solution': {'w1438', 'w1664', 'w0786', 'w1112', 'w0451', 'w0540', 'w0591', 'w1728', 'w0636', 'w1550'}, 'value': 136.0}"
+Official_Experiment_dUSM_dataset_10_instance_07_6_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_07\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_07\\workers.csv', 'workers': {'w1221', 'w0509', 'w1729', 'w1634', 'w0059', 'w0530', 'w0707', 'w1115', 'w0954', 'w0222', 'w1475', 'w1486', 'w1305', 'w0651', 'w0570', 'w0930', 'w0858', 'w1700', 'w1630', 'w1023', 'w1151', 'w0066', 'w0703', 'w1329', 'w1731', 'w0643', 'w1189', 'w1554', 'w1033', 'w1637', 'w0273', 'w0922', 'w0463', 'w0045', 'w0979', 'w1648', 'w1482', 'w0105', 'w1158', 'w0876', 'w1277', 'w0090', 'w1313', 'w0359', 'w0096', 'w1422', 'w1036', 'w1400', 'w1555', 'w0582'}, 'workers_df':     cost  ... y_star_index
+0   12.0  ...          0.0
+1   10.0  ...          0.0
+2   35.0  ...          0.0
+3   20.0  ...          0.0
+4    2.0  ...          1.0
+5   50.0  ...          0.0
+6   12.0  ...          0.0
+7   15.0  ...          0.0
+8   10.0  ...          0.0
+9   15.0  ...          0.0
+10   5.0  ...          0.0
+11  12.0  ...          0.0
+12  15.0  ...          0.0
+13   6.0  ...          0.0
+14   3.0  ...          0.0
+15   5.0  ...          0.0
+16   8.0  ...          0.0
+17   5.0  ...          0.0
+18  15.0  ...          0.0
+19   7.0  ...          0.0
+20   7.0  ...          0.0
+21  20.0  ...          0.0
+22  20.0  ...          0.0
+23  12.0  ...          0.0
+24  25.0  ...          0.0
+25   5.0  ...          0.0
+26  10.0  ...          0.0
+27  30.0  ...          0.0
+28  20.0  ...          0.0
+29  20.0  ...          0.0
+30   5.0  ...          1.0
+31  10.0  ...          0.0
+32  15.0  ...          0.0
+33   5.0  ...          1.0
+34   6.0  ...          1.0
+35  10.0  ...          0.0
+36  10.0  ...          0.0
+37  10.0  ...          1.0
+38  10.0  ...          0.0
+39  12.0  ...          1.0
+40   7.0  ...          1.0
+41  20.0  ...          0.0
+42  10.0  ...          0.0
+43   5.0  ...          0.0
+44  14.0  ...          0.0
+45  15.0  ...          1.0
+46  10.0  ...          0.0
+47  20.0  ...          1.0
+48  20.0  ...          0.0
+49  15.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                    skill  skill_id  valuation  x_star_index
+0    amazon web services        12         15           0.0
+1             sharepoint       132         13           0.0
+2             typography       151         11           0.0
+3               robotics       126         14           0.0
+4          ruby on rails       127         10           0.0
+..                   ...       ...        ...           ...
+124                  seo         0          0           0.0
+125         ghostwriting         0          0           0.0
+126     academic writing         0          0           0.0
+127                 word         0          0           0.0
+128          copy typing         0          0           0.0
+
+[129 rows x 4 columns], 'task_set': {'ruby on rails', 'greek', 'sem / adwords', 'embedded software', 'website management', 'system admin', 'indesign', 'sharepoint', 'xml', 'python', 'website design', 'travel writing', 'video broadcasting', 'actionscript', 'brochure design', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 'mathematics', 't-shirts', 'engineering', 'leads', 'latex', 'software architecture', 'photo editing', 'mac os', 'windows desktop', 'robotics', 'videography', 'pcb layout', 'animation', 'spanish', 'music', 'facebook marketing', 'excel', 'visual basic', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', 'user interface / ia', 'psd to html', '3d rendering', 'link building', 'copywriting', 'database administration', 'telecommunications engineering', 'pdf', 'photoshop', 'ghostwriting', 'transcription', 'finance', 'proofreading', 'audio services', 'microsoft exchange', 'c programming', 'c# programming', 'word', '3d animation', 'business analysis', 'flyer design', 'academic writing', 'css', 'video services', 'shell script', 'article rewriting', 'seo', 'stationery design', 'project management', 'flash', 'anything goes', 'marketing', 'technical writing', 'wordpress', 'amazon web services', 'data entry', 'magento', 'accounting', 'illustration', 'ajax', 'asp', 'typography', 'simplified chinese (china)', 'game design', 'after effects', 'prestashop', 'business plans', 'electronic forms', 'android', 'internet marketing', 'forum posting', 'ecommerce', 'web scraping', 'mysql', 'xxx', 'copy typing', 'sql', 'oracle', 'linux', '.net', 'web search', 'japanese', 'translation', 'telemarketing', 'statistics', 'javascript', 'autocad', 'swedish', 'php', 'microcontroller', 'delphi', 'mobile phone', 'software testing', 'blog', 'logo design', 'powerpoint', 'perl', 'jquery / prototype', '3d modelling', 'voice talent', 'editing', 'drupal', 'data processing', 'mechanical engineering', 'reviews'}, 'worker_task_dict': {'w0703': ['translation', 'articles', 'copywriting', 'article rewriting'], 'w1277': ['3d modelling'], 'w1036': ['3d animation', '3d rendering', '3d modelling'], 'w0922': ['php', 'mysql', 'website design', 'flash', 'asp'], 'w1731': ['anything goes', 'data entry', 'graphic design', 'php', 'website design'], 'w0954': ['software architecture', 'sql', 'xml', 'c# programming', '.net'], 'w0979': ['graphic design', 'photoshop', 'illustrator', 'banner design', 'brochure design'], 'w0096': ['php', 'mysql', 'css', 'ajax'], 'w0876': ['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation'], 'w0222': ['3d animation', 'animation', 'after effects', 'video services', '3d modelling'], 'w1475': ['article rewriting', 'technical writing', 'articles'], 'w1422': ['articles', 'copywriting', 'translation'], 'w1189': ['banner design', 'photoshop', 'photo editing', 'logo design'], 'w0582': ['blog', 'anything goes', 'articles'], 'w1400': ['marketing', 'photoshop', 'social networking'], 'w1729': ['photoshop', 'graphic design', 'banner design', 'website design'], 'w1023': ['graphic design', 'photoshop', 'visual basic'], 'w1486': ['graphic design', 'logo design', 'photoshop'], 'w0570': ['audio services', 'translation', 'articles', 'voice talent'], 'w1158': ['translation', 'spanish'], 'w0707': ['illustration', 'photoshop design'], 'w1305': ['telemarketing', 'marketing', 'bulk marketing', 'internet marketing'], 'w0930': ['linux', 'amazon web services', 'mysql', 'system admin'], 'w1151': ['photoshop', '3d modelling', '3d rendering', 'graphic design', 'illustrator'], 'w1700': ['engineering', 'windows desktop', 'visual basic', '.net', 'excel'], 'w0643': ['php', 'wordpress', 'css', 'html', 'website design'], 'w1648': ['data entry', 'excel', 'data processing'], 'w0858': ['flash', 'actionscript', 'javascript', 'xml', 'php'], 'w0105': ['android', 'mobile phone', 'php', 'mysql', 'software architecture'], 'w0651': ['graphic design', 'photoshop', 'logo design', 'illustrator'], 'w1555': ['software testing', 'php', 'mysql', 'software architecture', 'engineering'], 'w1329': ['seo', 'link building', 'internet marketing', 'data entry'], 'w1033': ['video services', 'flash', 'after effects', 'animation', '3d animation'], 'w1482': ['.net', 'c# programming'], 'w0045': ['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting'], 'w1115': ['reviews', 'marketing', 'internet marketing', 'articles', 'blog'], 'w0059': ['logo design', 'graphic design', 'photoshop', 'website design', 'banner design'], 'w0090': ['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management'], 'w1221': ['data processing', 'data entry', 'excel'], 'w0066': ['animation', 'video services', '3d animation', 'after effects', 'videography'], 'w0509': ['translation', 'facebook marketing', 'social networking', 'academic writing'], 'w1634': ['articles', 'copywriting', 'article rewriting', 'editing'], 'w1630': ['articles', 'copywriting', 'ghostwriting'], 'w1637': ['transcription'], 'w0359': ['excel', 'data entry', 'data processing', 'word', 'copy typing'], 'w0463': ['graphic design', 'photoshop', 'logo design', 'indesign'], 'w1554': ['link building'], 'w0530': ['php', 'html', 'css', 'javascript', 'jquery / prototype'], 'w0273': ['autocad', 'cad/cam', '3d modelling', 'engineering'], 'w1313': ['photoshop', 'photo editing', 'photoshop design', '3d modelling']}, 'task_val_dict': {'amazon web services': 15, 'sharepoint': 13, 'typography': 11, 'robotics': 14, 'ruby on rails': 10, 'microsoft exchange': 7, 'simplified chinese (china)': 13, 'xxx': 5, 'electronic forms': 10, 'telemarketing': 5, 'forum posting': 13, 'japanese': 13, 'latex': 8, 'travel writing': 16, 'telecommunications engineering': 15, 'embedded software': 11, 'user interface / ia': 12, 'oracle': 6, 'covers &amp; packaging': 13, 'swedish': 12, 'social networking': 10, 'proofreading': 13, 'transcription': 14, 'ecommerce': 14, 'drupal': 10, 'link building': 13, 'database administration': 10, 'web search': 15, 'game design': 13, 'photo editing': 14, 'cms': 8, 'mechanical engineering': 10, 'blog': 11, 'flyer design': 11, 'business plans': 16, 'accounting': 11, 'pcb layout': 12, 'autocad': 8, 'business analysis': 9, 'c# programming': 13, 'leads': 16, 'python': 16, 'greek': 9, 'shell script': 5, 'perl': 10, 'mathematics': 16, 'website management': 17, 'music': 9, 'stationery design': 8, 'system admin': 13, 'powerpoint': 8, 'pdf': 11, 'project management': 15, 'editing': 5, 'mac os': 12, 'microcontroller': 2, 'jquery / prototype': 13, 'reviews': 8, 'sql': 18, 'asp': 3, 'videography': 9, 't-shirts': 7, 'anything goes': 11, 'sem / adwords': 9, 'xml': 17, 'voice talent': 14, 'psd to html': 17, 'actionscript': 10, 'cad/cam': 8, 'video broadcasting': 6, 'indesign': 16, 'finance': 16, 'engineering': 14, 'prestashop': 4, '3d modelling': 13, 'photoshop design': 7, 'magento': 17, 'statistics': 14, '3d animation': 15, 'delphi': 5, '.net': 15, 'animation': 18, 'data entry': 13, 'illustrator': 6, 'javascript': 7, 'mobile phone': 10, 'internet marketing': 16, 'photoshop': 9, 'c programming': 4, 'articles': 17, 'translation': 12, 'css': 11, 'data processing': 11, 'software architecture': 12, 'logo design': 9, 'article rewriting': 8, 'facebook marketing': 15, 'web scraping': 15, 'banner design': 7, 'video services': 9, 'copywriting': 0, '3d rendering': 0, 'php': 0, 'mysql': 0, 'website design': 0, 'flash': 0, 'graphic design': 0, 'brochure design': 0, 'ajax': 0, 'after effects': 0, 'technical writing': 0, 'marketing': 0, 'visual basic': 0, 'audio services': 0, 'spanish': 0, 'illustration': 0, 'bulk marketing': 0, 'linux': 0, 'windows desktop': 0, 'excel': 0, 'wordpress': 0, 'html': 0, 'android': 0, 'software testing': 0, 'seo': 0, 'ghostwriting': 0, 'academic writing': 0, 'word': 0, 'copy typing': 0}, 'worke_cost': {'w0703': 12.0, 'w1277': 10.0, 'w1036': 35.0, 'w0922': 20.0, 'w1731': 2.0, 'w0954': 50.0, 'w0979': 12.0, 'w0096': 15.0, 'w0876': 10.0, 'w0222': 15.0, 'w1475': 5.0, 'w1422': 12.0, 'w1189': 15.0, 'w0582': 6.0, 'w1400': 3.0, 'w1729': 5.0, 'w1023': 8.0, 'w1486': 5.0, 'w0570': 15.0, 'w1158': 7.0, 'w0707': 7.0, 'w1305': 20.0, 'w0930': 20.0, 'w1151': 12.0, 'w1700': 25.0, 'w0643': 5.0, 'w1648': 10.0, 'w0858': 30.0, 'w0105': 20.0, 'w0651': 20.0, 'w1555': 5.0, 'w1329': 10.0, 'w1033': 15.0, 'w1482': 5.0, 'w0045': 6.0, 'w1115': 10.0, 'w0059': 10.0, 'w0090': 10.0, 'w1221': 10.0, 'w0066': 12.0, 'w0509': 7.0, 'w1634': 20.0, 'w1630': 10.0, 'w1637': 5.0, 'w0359': 14.0, 'w0463': 15.0, 'w1554': 10.0, 'w0530': 20.0, 'w0273': 20.0, 'w1313': 15.0}, 'n': 129, 'm': 50, 'solution': {'w1221', 'w0509', 'w1729', 'w1554', 'w0530', 'w1637', 'w1115', 'w0222', 'w0930', 'w1731'}, 'value': 177.0}"
+Official_Experiment_dUSM_dataset_10_instance_08_7_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_08\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_08\\workers.csv', 'workers': {'w0320', 'w0784', 'w0106', 'w0142', 'w0458', 'w0754', 'w0587', 'w1214', 'w1003', 'w0303', 'w0486', 'w0257', 'w1029', 'w0015', 'w0087', 'w1449', 'w0525', 'w0375', 'w0061', 'w1189', 'w1516', 'w0776', 'w0052', 'w0877', 'w1002', 'w0640', 'w1529', 'w0540', 'w0991', 'w1622', 'w0246', 'w0483', 'w1269', 'w1054', 'w1010', 'w1163', 'w0102', 'w0167', 'w0231', 'w1530', 'w0467', 'w1626', 'w0646', 'w1688', 'w1296', 'w0330', 'w0433', 'w0359', 'w1063', 'w1644'}, 'workers_df':     cost  ... y_star_index
+0   25.0  ...          0.0
+1   10.0  ...          0.0
+2   25.0  ...          0.0
+3   10.0  ...          0.0
+4   25.0  ...          0.0
+5   15.0  ...          0.0
+6   15.0  ...          0.0
+7   10.0  ...          0.0
+8   10.0  ...          0.0
+9    5.0  ...          1.0
+10  10.0  ...          1.0
+11  20.0  ...          0.0
+12   8.0  ...          1.0
+13   5.0  ...          0.0
+14  30.0  ...          0.0
+15  10.0  ...          0.0
+16  10.0  ...          0.0
+17  20.0  ...          0.0
+18  11.0  ...          0.0
+19  10.0  ...          1.0
+20  15.0  ...          0.0
+21  20.0  ...          0.0
+22  15.0  ...          0.0
+23  20.0  ...          0.0
+24   8.0  ...          1.0
+25   2.0  ...          1.0
+26  10.0  ...          0.0
+27  15.0  ...          0.0
+28  15.0  ...          0.0
+29  10.0  ...          0.0
+30  15.0  ...          0.0
+31  10.0  ...          0.0
+32   9.0  ...          0.0
+33  20.0  ...          0.0
+34  10.0  ...          0.0
+35  10.0  ...          0.0
+36   8.0  ...          0.0
+37  10.0  ...          0.0
+38   7.0  ...          0.0
+39  15.0  ...          0.0
+40  16.0  ...          0.0
+41  15.0  ...          0.0
+42  10.0  ...          1.0
+43  15.0  ...          0.0
+44  15.0  ...          0.0
+45  20.0  ...          0.0
+46  14.0  ...          1.0
+47   5.0  ...          1.0
+48  10.0  ...          0.0
+49   8.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                        skill  skill_id  valuation  x_star_index
+0                    swedish       142          3           0.0
+1                 typography       151         12           0.0
+2           electronic forms        57          8           0.0
+3                     german        70          9           0.0
+4        amazon web services        12          7           0.0
+..                       ...       ...        ...           ...
+122   electrical engineering         0          0           0.0
+123             3d modelling         0          0           0.0
+124                marketing         0          0           0.0
+125         microsoft access         0          0           0.0
+126  database administration         0          0           0.0
+
+[127 rows x 4 columns], 'task_set': {'greek', 'book writing', 'joomla', 'system admin', 'indesign', 'sharepoint', 'creative writing', 'website design', 'german', 'video broadcasting', 'bootstrap', 'brochure design', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 't-shirts', 'engineering', 'mathematics', 'apache', 'latex', 'software architecture', 'mac os', 'windows desktop', 'videography', 'pcb layout', 'animation', 'spanish', 'music', 'virtuemart', 'excel', 'facebook marketing', 'visual basic', 'ipad', 'banner design', 'articles', '3d rendering', 'psd to html', 'link building', 'copywriting', 'database administration', 'microsoft access', 'telecommunications engineering', 'pdf', 'caricature &amp; cartoons', 'photoshop', 'voip', 'ghostwriting', 'web hosting', 'proofreading', 'audio services', 'photography', 'word', '3d animation', 'business analysis', 'flyer design', '3ds max', 'academic writing', 'css', 'algorithm', 'electrical engineering', 'video services', 'shell script', 'article rewriting', 'financial markets', 'seo', 'stationery design', 'project management', 'flash', 'anything goes', 'marketing', 'technical writing', 'wordpress', 'amazon web services', 'windows server', 'korean', 'data entry', 'illustration', 'matlab &amp; mathematica', 'asp', 'typography', 'simplified chinese (china)', 'script install', 'after effects', 'prestashop', 'business plans', 'electronic forms', 'android', 'sales', 'internet marketing', 'forum posting', 'ecommerce', 'web scraping', 'mysql', 'business cards', 'copy typing', 'iphone', 'oracle', '.net', 'web search', 'invitation design', 'japanese', 'telemarketing', 'statistics', 'javascript', 'customer support', 'swedish', 'php', 'metatrader', 'microcontroller', 'asterisk pbx', 'software testing', 'blog', 'logo design', 'electronics', 'perl', 'research', 'jquery / prototype', '3d modelling', 'voice talent', 'editing', 'data processing', 'translation', 'photo editing'}, 'worker_task_dict': {'w0015': ['php', 'mysql', 'javascript', 'html'], 'w1029': ['translation', 'academic writing', 'article rewriting', 'spanish', 'copywriting'], 'w1529': ['html', 'php', 'graphic design'], 'w0784': ['html', 'website design', 'wordpress', 'graphic design', 'psd to html'], 'w1530': ['animation', 'after effects', 'video services', 'video broadcasting', 'flash'], 'w0052': ['graphic design', 'logo design', 'photoshop', 'banner design', 'illustrator'], 'w1296': ['javascript', 'jquery / prototype', 'php', 'html'], 'w0991': ['html', 'php', 'mysql'], 'w1688': ['blog', 'articles'], 'w1622': ['data entry', 'web search', 'excel', 'data processing', 'web scraping'], 'w0467': ['data entry', 'javascript', 'mysql', 'asp'], 'w0640': ['data entry', 'joomla', 'html', 'wordpress', 'social networking'], 'w0257': ['prestashop', 'php', 'html', 'website design', 'css'], 'w1063': ['facebook marketing', 'social networking', 'internet marketing', 'logo design'], 'w0102': ['php', 'website design', 'html', 'graphic design', 'mysql'], 'w0246': ['translation', 'greek', 'technical writing', 'editing'], 'w0303': ['facebook marketing', 'social networking'], 'w0142': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration'], 'w1516': ['video services', 'videography'], 'w0106': ['articles', 'article rewriting', 'ghostwriting', 'blog', 'academic writing'], 'w1189': ['banner design', 'photoshop', 'photo editing', 'logo design'], 'w1214': ['php', 'translation', 'mysql', 'wordpress', 'javascript'], 'w0330': ['php', 'wordpress', 'html', 'css', 'data entry'], 'w0231': ['wordpress', 'website design', 'web hosting', 'css', 'html'], 'w0587': ['internet marketing', 'seo', 'link building', 'social networking', 'facebook marketing'], 'w1269': ['graphic design', 'photoshop', 'illustrator', 'css', 'illustration'], 'w0458': ['academic writing', 'article rewriting', 'research', 'technical writing', 'ghostwriting'], 'w1644': ['copywriting', 'proofreading', 'research'], 'w1010': ['graphic design', 'php'], 'w1449': ['software testing', 'software architecture', 'php', 'mysql', 'excel'], 'w0754': ['php', 'website design', 'html', 'software architecture'], 'w0776': ['graphic design', 'photoshop', 'brochure design'], 'w0877': ['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics'], 'w0087': ['graphic design', 'website design', 'photoshop', 'photoshop design', 'indesign'], 'w1163': ['website design', 'banner design', 'graphic design'], 'w0483': ['android', 'php', 'iphone', 'html', 'javascript'], 'w1626': ['data entry', 'oracle', 'data processing', 'excel'], 'w0061': ['graphic design', 'website design', 'logo design', 'banner design'], 'w1054': ['graphic design', 'logo design'], 'w0433': ['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop'], 'w0167': ['graphic design', 'website design', 'photoshop', 'logo design', 'html'], 'w0646': ['css', 'javascript', 'html'], 'w0540': ['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design'], 'w0525': ['matlab &amp; mathematica', 'algorithm', 'mathematics', 'academic writing', 'electrical engineering'], 'w1003': ['graphic design', '3d modelling', '3d animation', 'animation'], 'w0320': ['facebook marketing', 'social networking', 'internet marketing', 'marketing'], 'w0359': ['excel', 'data entry', 'data processing', 'word', 'copy typing'], 'w0375': ['academic writing', 'research', 'articles', 'technical writing'], 'w1002': ['excel', '.net', 'microsoft access', 'windows desktop', 'database administration'], 'w0486': ['video services', 'after effects', 'animation', 'videography', 'graphic design']}, 'task_val_dict': {'swedish': 3, 'typography': 12, 'electronic forms': 8, 'german': 9, 'amazon web services': 7, 'oracle': 7, 'virtuemart': 11, 'invitation design': 7, 'korean': 6, 'customer support': 11, 'telemarketing': 6, 'creative writing': 9, 'latex': 9, 'telecommunications engineering': 7, 'japanese': 10, 'bootstrap': 8, 'forum posting': 10, 'sharepoint': 7, 'simplified chinese (china)': 8, 'financial markets': 10, 'project management': 11, 'research': 10, 'editing': 8, 'jquery / prototype': 3, 'ecommerce': 11, 'windows server': 9, 'apache': 11, 'cad/cam': 9, 'proofreading': 11, 'photo editing': 10, '3d animation': 8, 'visual basic': 5, 'flyer design': 8, 'voip': 13, 'business cards': 7, 'flash': 13, 'after effects': 7, 'cms': 6, 'pdf': 9, 'audio services': 2, 'pcb layout': 7, 'script install': 8, 'windows desktop': 3, 'book writing': 1, 'mac os': 1, 'photoshop design': 10, 'blog': 11, 'photography': 5, 'spanish': 8, 'brochure design': 4, '3d rendering': 12, 'shell script': 10, 'psd to html': 6, 'social networking': 10, 'perl': 7, 'business analysis': 11, 'voice talent': 7, 'electronics': 12, 'videography': 10, 'engineering': 7, 'matlab &amp; mathematica': 7, 'system admin': 8, 'greek': 3, 'technical writing': 3, '3ds max': 9, 'sales': 11, 'indesign': 5, 'stationery design': 5, 'anything goes': 7, 'microcontroller': 6, 'copy typing': 14, 't-shirts': 4, 'business plans': 3, 'word': 9, 'asterisk pbx': 13, 'asp': 9, 'metatrader': 8, 'ipad': 7, 'link building': 12, 'music': 7, 'logo design': 8, 'web scraping': 7, 'article rewriting': 6, 'graphic design': 9, 'joomla': 8, 'data entry': 9, 'internet marketing': 5, 'php': 9, 'video services': 10, '.net': 8, 'website design': 7, 'excel': 10, 'html': 12, 'css': 4, 'illustration': 10, 'seo': 6, 'animation': 6, 'mysql': 6, 'facebook marketing': 9, 'academic writing': 5, 'javascript': 0, 'translation': 0, 'copywriting': 0, 'wordpress': 0, 'video broadcasting': 0, 'photoshop': 0, 'banner design': 0, 'illustrator': 0, 'articles': 0, 'web search': 0, 'data processing': 0, 'prestashop': 0, 'ghostwriting': 0, 'web hosting': 0, 'software testing': 0, 'software architecture': 0, 'mathematics': 0, 'statistics': 0, 'android': 0, 'iphone': 0, 'caricature &amp; cartoons': 0, 'algorithm': 0, 'electrical engineering': 0, '3d modelling': 0, 'marketing': 0, 'microsoft access': 0, 'database administration': 0}, 'worke_cost': {'w0015': 25.0, 'w1029': 10.0, 'w1529': 25.0, 'w0784': 10.0, 'w1530': 25.0, 'w0052': 15.0, 'w1296': 15.0, 'w0991': 10.0, 'w1688': 10.0, 'w1622': 5.0, 'w0467': 10.0, 'w0640': 20.0, 'w0257': 8.0, 'w1063': 5.0, 'w0102': 30.0, 'w0246': 10.0, 'w0303': 10.0, 'w0142': 20.0, 'w1516': 11.0, 'w0106': 10.0, 'w1189': 15.0, 'w1214': 20.0, 'w0330': 15.0, 'w0231': 20.0, 'w0587': 8.0, 'w1269': 2.0, 'w0458': 10.0, 'w1644': 15.0, 'w1010': 15.0, 'w1449': 10.0, 'w0754': 15.0, 'w0776': 10.0, 'w0877': 9.0, 'w0087': 20.0, 'w1163': 10.0, 'w0483': 10.0, 'w1626': 8.0, 'w0061': 10.0, 'w1054': 7.0, 'w0433': 15.0, 'w0167': 16.0, 'w0646': 15.0, 'w0540': 10.0, 'w0525': 15.0, 'w1003': 15.0, 'w0320': 20.0, 'w0359': 14.0, 'w0375': 5.0, 'w1002': 10.0, 'w0486': 8.0}, 'n': 127, 'm': 50, 'solution': {'w1002', 'w0587', 'w0540', 'w1622', 'w0784', 'w0486', 'w0246', 'w0106', 'w1449', 'w0375'}, 'value': 137.0}"
+Official_Experiment_dUSM_dataset_10_instance_09_8_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_09\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_09\\workers.csv', 'workers': {'w0456', 'w0113', 'w0672', 'w0259', 'w0941', 'w0569', 'w0190', 'w0142', 'w1619', 'w1551', 'w0548', 'w1403', 'w1686', 'w1317', 'w1399', 'w1225', 'w0618', 'w0382', 'w1458', 'w1354', 'w0761', 'w1386', 'w1412', 'w0598', 'w1631', 'w0622', 'w0763', 'w0568', 'w1189', 'w1669', 'w0793', 'w1212', 'w1466', 'w0346', 'w0906', 'w1443', 'w0746', 'w1098', 'w0122', 'w0753', 'w0921', 'w1280', 'w1663', 'w0739', 'w0440', 'w1361', 'w1248', 'w1056', 'w1313', 'w0582'}, 'workers_df':     cost  ... y_star_index
+0   11.0  ...          0.0
+1   20.0  ...          0.0
+2   22.0  ...          0.0
+3   15.0  ...          0.0
+4   10.0  ...          1.0
+5   15.0  ...          0.0
+6   35.0  ...          0.0
+7    1.0  ...          1.0
+8   10.0  ...          0.0
+9   10.0  ...          0.0
+10  12.0  ...          0.0
+11  10.0  ...          0.0
+12  18.0  ...          1.0
+13  10.0  ...          0.0
+14  15.0  ...          1.0
+15  10.0  ...          1.0
+16  30.0  ...          0.0
+17   6.0  ...          1.0
+18  15.0  ...          0.0
+19  25.0  ...          0.0
+20  10.0  ...          0.0
+21  20.0  ...          0.0
+22   5.0  ...          0.0
+23  12.0  ...          0.0
+24  20.0  ...          0.0
+25  25.0  ...          0.0
+26  15.0  ...          0.0
+27  18.0  ...          0.0
+28  30.0  ...          0.0
+29  25.0  ...          0.0
+30   8.0  ...          0.0
+31  15.0  ...          0.0
+32  10.0  ...          0.0
+33  10.0  ...          0.0
+34  10.0  ...          0.0
+35  30.0  ...          0.0
+36   5.0  ...          0.0
+37  10.0  ...          0.0
+38  18.0  ...          0.0
+39  10.0  ...          1.0
+40  10.0  ...          0.0
+41  20.0  ...          0.0
+42  15.0  ...          1.0
+43   2.0  ...          0.0
+44  25.0  ...          0.0
+45  18.0  ...          0.0
+46   2.0  ...          1.0
+47  35.0  ...          0.0
+48  25.0  ...          0.0
+49   8.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                         skill  skill_id  valuation  x_star_index
+0                      arabic        17          3           0.0
+1                      korean        87         15           0.0
+2                       latex        88          6           0.0
+3         amazon web services        12         10           0.0
+4           financial markets        65         13           0.0
+..                        ...       ...        ...           ...
+123               copy typing         0          0           0.0
+124          academic writing         0          0           0.0
+125  matlab &amp; mathematica         0          0           0.0
+126          customer support         0          0           0.0
+127            bulk marketing         0          0           0.0
+
+[128 rows x 4 columns], 'task_set': {'ruby on rails', 'book writing', 'advertising', 'sem / adwords', 'embedded software', 'website management', 'joomla', 'xml', 'creative writing', 'python', 'website design', 'c++ programming', 'travel writing', 'video broadcasting', 'arabic', 'bootstrap', 'brochure design', 'classifieds posting', 'html', 'social networking', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 'mathematics', 'engineering', 't-shirts', 'leads', 'apache', 'latex', 'software architecture', 'mac os', 'windows desktop', 'robotics', 'videography', 'animation', 'concept design', 'facebook marketing', 'excel', 'visual basic', 'covers &amp; packaging', 'banner design', 'articles', 'bulk marketing', 'user interface / ia', '3d rendering', 'link building', 'database administration', 'microsoft access', 'photoshop', 'voip', 'transcription', 'c programming', 'c# programming', 'word', 'electrical engineering', 'business analysis', 'flyer design', '3ds max', 'algorithm', 'css', '3d animation', 'academic writing', 'video services', 'shell script', 'article rewriting', 'financial markets', 'seo', 'stationery design', 'project management', 'anything goes', 'marketing', 'wordpress', 'polish', 'amazon web services', 'windows server', 'email marketing', 'korean', 'data entry', 'magento', 'illustration', 'matlab &amp; mathematica', 'ajax', 'asp', 'simplified chinese (china)', 'game design', 'script install', 'after effects', 'prestashop', 'youtube', 'business plans', 'unity 3d', 'android', 'internet marketing', 'forum posting', 'java', 'web scraping', 'mysql', 'xxx', 'business cards', 'copy typing', 'sql', 'iphone', 'linux', '.net', 'web search', 'japanese', 'statistics', 'javascript', 'autocad', 'customer support', 'php', 'delphi', 'microcontroller', 'asterisk pbx', 'software testing', 'blog', 'virtual assistant', 'logo design', 'electronics', 'perl', 'powerpoint', 'research', 'jquery / prototype', '3d modelling', 'data processing', 'photo editing'}, 'worker_task_dict': {'w0906': ['voip', 'asterisk pbx', 'windows server'], 'w1098': ['html', 'php', 'website design', 'javascript', 'css'], 'w1669': ['joomla', 'php', 'html', 'mysql', 'cms'], 'w0548': ['logo design', 'graphic design', 'website design', 'photoshop design'], 'w1386': ['php', 'mysql', 'website management', 'joomla', 'javascript'], 'w0598': ['php', 'software architecture', 'website design', 'asp', 'android'], 'w1686': ['website design', 'wordpress', 'cms', 'graphic design', 'facebook marketing'], 'w1225': ['.net', 'c# programming', 'sql'], 'w0346': ['html', 'php', 'mysql', 'javascript'], 'w1361': ['photoshop', 'graphic design', 'illustrator', 'photo editing'], 'w1631': ['linux', 'html'], 'w1212': ['internet marketing', 'facebook marketing', 'excel', 'seo', 'social networking'], 'w0568': ['video services', 'after effects', 'videography', 'animation', '3d animation'], 'w0456': ['graphic design', 'photoshop', 'logo design', 'photoshop design', 't-shirts'], 'w1189': ['banner design', 'photoshop', 'photo editing', 'logo design'], 'w1551': ['data entry', 'internet marketing', 'marketing', 'advertising', 'excel'], 'w0440': ['php', 'website design', 'mysql', 'wordpress', 'magento'], 'w0582': ['blog', 'anything goes', 'articles'], 'w0739': ['facebook marketing', 'social networking', 'graphic design', 'logo design'], 'w0122': ['android', 'linux', 'embedded software', 'c programming', 'electronics'], 'w1663': ['javascript', '.net', 'asp', 'visual basic', 'windows desktop'], 'w0672': ['php', 'mysql', 'html', 'software architecture', 'javascript'], 'w1403': ['seo', 'link building', 'internet marketing'], 'w1443': ['graphic design', 'photoshop', 'illustrator', 'stationery design'], 'w0142': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration'], 'w0793': ['graphic design', 'banner design', 'wordpress', 'website design', 'photoshop'], 'w1317': ['php', 'html', 'software architecture', 'graphic design', 'css'], 'w1248': ['php', 'asterisk pbx', 'mysql'], 'w0569': ['php', 'mysql', 'software architecture', 'linux', 'database administration'], 'w0259': ['microsoft access', 'excel', 'mysql', 'powerpoint'], 'w1056': ['photoshop', 'graphic design', 'photoshop design', 'logo design'], 'w1313': ['photoshop', 'photo editing', 'photoshop design', '3d modelling'], 'w0753': ['joomla', 'php', 'html', 'website design', 'advertising'], 'w0763': ['excel', 'data processing', 'copy typing', 'word', 'data entry'], 'w0921': ['data processing', 'data entry', 'excel', 'youtube'], 'w0190': ['data entry', 'excel', 'web scraping', 'facebook marketing', 'seo'], 'w1466': ['facebook marketing'], 'w1280': ['css', 'website design', 'javascript', 'html', 'php'], 'w0761': ['academic writing', 'software architecture', 'article rewriting'], 'w1399': ['mysql', 'database administration'], 'w0618': ['graphic design', 'logo design', 'banner design'], 'w0382': ['software architecture', 'php', 'c++ programming', 'matlab &amp; mathematica', 'mac os'], 'w0941': ['3d rendering', '3d modelling', '3ds max', 'graphic design'], 'w1412': ['internet marketing', 'data entry'], 'w0113': ['php', 'mysql', 'software architecture', 'software testing'], 'w0622': ['perl', 'mysql', 'javascript', 'ajax'], 'w1458': ['voip', 'customer support', 'asterisk pbx', 'linux'], 'w1619': ['php', 'software architecture', 'software testing', 'java', 'linux'], 'w0746': ['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing'], 'w1354': ['python', 'software architecture']}, 'task_val_dict': {'arabic': 3, 'korean': 15, 'latex': 6, 'amazon web services': 10, 'financial markets': 13, 'concept design': 12, 'forum posting': 10, 'simplified chinese (china)': 5, 'japanese': 10, 'xxx': 2, 'polish': 13, 'unity 3d': 10, 'user interface / ia': 4, 'ruby on rails': 6, 'bootstrap': 13, 'embedded software': 4, 'creative writing': 11, 'covers &amp; packaging': 7, 'travel writing': 7, 'robotics': 8, 'cad/cam': 5, 'delphi': 8, 'advertising': 8, '3ds max': 4, 'c# programming': 12, 'flyer design': 9, 'sql': 4, 'c++ programming': 6, 'photo editing': 11, 'engineering': 2, 'perl': 12, '3d rendering': 7, 'database administration': 13, 'ajax': 8, 'youtube': 11, 'mac os': 9, 'business analysis': 9, 'windows server': 9, '3d modelling': 11, 'script install': 14, 'anything goes': 14, 'business plans': 10, 'algorithm': 8, 'game design': 12, 'cms': 12, 'sem / adwords': 9, 'asterisk pbx': 8, 'magento': 7, 'shell script': 11, 'business cards': 7, 'email marketing': 12, 'website management': 10, 'asp': 6, 'transcription': 9, 'autocad': 5, 'classifieds posting': 15, 'virtual assistant': 6, 'visual basic': 2, 'research': 10, 'project management': 11, 'jquery / prototype': 6, 'apache': 9, 'microsoft access': 10, 'electrical engineering': 10, 'word': 8, 'mathematics': 9, 'brochure design': 10, 'xml': 6, 'leads': 13, 'python': 12, 'software testing': 12, 'book writing': 8, 'prestashop': 12, 'microcontroller': 9, 'java': 9, 'video broadcasting': 15, 'marketing': 10, 'stationery design': 9, 'statistics': 7, 'web search': 14, 'internet marketing': 6, 'banner design': 10, 'javascript': 16, 'mysql': 11, 'iphone': 8, 'graphic design': 7, 'logo design': 10, 'linux': 14, 'video services': 15, 'android': 9, 'wordpress': 10, 'article rewriting': 7, 'excel': 10, 'animation': 6, 'facebook marketing': 6, 'illustration': 8, 'seo': 2, 'software architecture': 14, 'joomla': 5, 'web scraping': 10, 'voip': 0, 'html': 0, 'php': 0, 'website design': 0, 'css': 0, 'photoshop design': 0, '.net': 0, 'photoshop': 0, 'illustrator': 0, 'social networking': 0, 'after effects': 0, 'videography': 0, '3d animation': 0, 't-shirts': 0, 'data entry': 0, 'blog': 0, 'articles': 0, 'c programming': 0, 'electronics': 0, 'windows desktop': 0, 'link building': 0, 'powerpoint': 0, 'data processing': 0, 'copy typing': 0, 'academic writing': 0, 'matlab &amp; mathematica': 0, 'customer support': 0, 'bulk marketing': 0}, 'worke_cost': {'w0906': 11.0, 'w1098': 20.0, 'w1669': 22.0, 'w0548': 15.0, 'w1386': 10.0, 'w0598': 15.0, 'w1686': 35.0, 'w1225': 1.0, 'w0346': 10.0, 'w1361': 10.0, 'w1631': 12.0, 'w1212': 10.0, 'w0568': 18.0, 'w0456': 10.0, 'w1189': 15.0, 'w1551': 10.0, 'w0440': 30.0, 'w0582': 6.0, 'w0739': 15.0, 'w0122': 25.0, 'w1663': 10.0, 'w0672': 20.0, 'w1403': 5.0, 'w1443': 12.0, 'w0142': 20.0, 'w0793': 25.0, 'w1317': 15.0, 'w1248': 18.0, 'w0569': 30.0, 'w0259': 25.0, 'w1056': 8.0, 'w1313': 15.0, 'w0753': 10.0, 'w0763': 10.0, 'w0921': 10.0, 'w0190': 30.0, 'w1466': 5.0, 'w1280': 10.0, 'w0761': 18.0, 'w1399': 10.0, 'w0618': 10.0, 'w0382': 20.0, 'w0941': 15.0, 'w1412': 2.0, 'w0113': 25.0, 'w0622': 18.0, 'w1458': 2.0, 'w1619': 35.0, 'w0746': 25.0, 'w1354': 8.0}, 'n': 128, 'm': 50, 'solution': {'w1354', 'w0618', 'w1458', 'w1399', 'w1225', 'w0672', 'w0941', 'w1386', 'w0622', 'w1551'}, 'value': 118.0}"
+Official_Experiment_dUSM_dataset_10_instance_10_9_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_10\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\10_dataset_50_workers_100_tasks\\instance_10\\workers.csv', 'workers': {'w0786', 'w1627', 'w0508', 'w0939', 'w1387', 'w1000', 'w0645', 'w0856', 'w0147', 'w0429', 'w0771', 'w0392', 'w0690', 'w0196', 'w1252', 'w0028', 'w1324', 'w1571', 'w0754', 'w0085', 'w1510', 'w0447', 'w1095', 'w0532', 'w0486', 'w0214', 'w1116', 'w1599', 'w0752', 'w0235', 'w1096', 'w1669', 'w0526', 'w1715', 'w0410', 'w0922', 'w0247', 'w1294', 'w0031', 'w0298', 'w0682', 'w0105', 'w0955', 'w0133', 'w0455', 'w1645', 'w1066', 'w0331', 'w0242', 'w1093'}, 'workers_df':     cost  ... y_star_index
+0   40.0  ...          0.0
+1   10.0  ...          0.0
+2   20.0  ...          0.0
+3   35.0  ...          0.0
+4   10.0  ...          0.0
+5   10.0  ...          1.0
+6   20.0  ...          0.0
+7   20.0  ...          0.0
+8   10.0  ...          0.0
+9   15.0  ...          1.0
+10   6.0  ...          0.0
+11   3.0  ...          1.0
+12  18.0  ...          0.0
+13  10.0  ...          0.0
+14   5.0  ...          0.0
+15   5.0  ...          0.0
+16  18.0  ...          0.0
+17  10.0  ...          0.0
+18   8.0  ...          1.0
+19  30.0  ...          0.0
+20  20.0  ...          0.0
+21  25.0  ...          0.0
+22   3.0  ...          1.0
+23   7.0  ...          0.0
+24  10.0  ...          0.0
+25  10.0  ...          0.0
+26  10.0  ...          0.0
+27  20.0  ...          0.0
+28  18.0  ...          0.0
+29  25.0  ...          0.0
+30   8.0  ...          1.0
+31  12.0  ...          0.0
+32  10.0  ...          0.0
+33   8.0  ...          1.0
+34   7.0  ...          0.0
+35  15.0  ...          0.0
+36  25.0  ...          0.0
+37  15.0  ...          1.0
+38   8.0  ...          0.0
+39  20.0  ...          0.0
+40  22.0  ...          0.0
+41  35.0  ...          0.0
+42  20.0  ...          0.0
+43  10.0  ...          0.0
+44  10.0  ...          0.0
+45  20.0  ...          0.0
+46   8.0  ...          1.0
+47  15.0  ...          0.0
+48  15.0  ...          0.0
+49  20.0  ...          1.0
+
+[50 rows x 5 columns], 'tasks_df':                      skill  skill_id  valuation  x_star_index
+0               virtuemart       159          7           0.0
+1      user interface / ia       154          8           0.0
+2                   korean        87          4           0.0
+3         customer support        47         13           0.0
+4         electronic forms        57          9           0.0
+..                     ...       ...        ...           ...
+123          banner design         0          0           0.0
+124              animation         0          0           0.0
+125           mobile phone         0          0           0.0
+126  software architecture         0          0           0.0
+127            videography         0          0           0.0
+
+[128 rows x 4 columns], 'task_set': {'ruby on rails', 'book writing', 'advertising', 'sem / adwords', 'joomla', 'indesign', 'system admin', 'python', 'website design', 'travel writing', 'video broadcasting', 'actionscript', 'bootstrap', 'classifieds posting', 'social networking', 'html', 'illustrator', 'photoshop design', 'graphic design', 'cad/cam', 'cms', 't-shirts', 'engineering', 'software architecture', 'windows desktop', 'robotics', 'videography', 'pcb layout', 'animation', 'spanish', 'concept design', 'music', 'product design', 'virtuemart', 'facebook marketing', 'excel', 'visual basic', 'ipad', 'covers &amp; packaging', 'banner design', 'articles', 'user interface / ia', '3d rendering', 'psd to html', 'link building', 'copywriting', 'database administration', 'poster design', 'telecommunications engineering', 'caricature &amp; cartoons', 'photoshop', 'transcription', 'finance', 'web hosting', 'audio services', 'proofreading', 'c programming', 'c# programming', 'word', 'photography', 'reviews', 'electrical engineering', 'business analysis', 'academic writing', 'css', 'video services', 'shell script', 'article rewriting', 'seo', 'stationery design', 'flash', 'marketing', 'technical writing', 'wordpress', 'polish', 'email marketing', 'korean', 'data entry', 'magento', 'accounting', 'illustration', 'matlab &amp; mathematica', 'ajax', 'asp', 'simplified chinese (china)', 'script install', 'after effects', 'prestashop', 'ebooks', 'youtube', 'business plans', 'electronic forms', 'unity 3d', 'android', 'internet marketing', 'ecommerce', 'java', 'mysql', 'xxx', 'business cards', 'sql', 'iphone', 'oracle', '.net', 'web search', 'invitation design', 'statistics', 'javascript', 'autocad', 'customer support', 'php', 'metatrader', 'microcontroller', 'delphi', 'mobile phone', 'blog', 'virtual assistant', 'logo design', 'electronics', 'perl', 'research', 'jquery / prototype', 'voice talent', 'editing', 'drupal', 'data processing', 'translation', 'photo editing'}, 'worker_task_dict': {'w1000': ['php', 'css', 'psd to html', 'mysql', 'html'], 'w0447': ['php', 'mysql', 'html', 'ajax', 'ecommerce'], 'w0331': ['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop'], 'w1066': ['php', 'html', 'website design', 'wordpress', 'mysql'], 'w0532': ['database administration', 'html', 'data entry', 'java', 'graphic design'], 'w1387': ['academic writing', 'business plans', 'research'], 'w0235': ['magento', 'php', 'mysql', 'html', 'javascript'], 'w1096': ['visual basic', 'c programming', 'mysql', 'php'], 'w0410': ['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration'], 'w0752': ['joomla', 'php', 'html', 'javascript', 'seo'], 'w0786': ['data entry', 'virtuemart', 'excel', 'data processing', 'magento'], 'w1095': ['data entry', 'excel', 'data processing', 'web search', 'word'], 'w0147': ['graphic design', 'website design', 'logo design', 'html', 'php'], 'w0856': ['statistics', 'excel', 'academic writing'], 'w0031': ['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords'], 'w1510': ['translation', 'proofreading', 'blog'], 'w1116': ['visual basic', '.net', 'asp', 'c# programming', 'sql'], 'w1252': ['illustration', 'caricature &amp; cartoons', 'graphic design'], 'w0247': ['prestashop', 'php', 'html', 'website design', 'css'], 'w0214': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing'], 'w0298': ['php', 'html', 'website design', 'mysql', 'wordpress'], 'w0955': ['jquery / prototype', 'javascript', 'html', 'web hosting', 'mysql'], 'w0771': ['facebook marketing', 'internet marketing', 'social networking', 'advertising'], 'w0242': ['facebook marketing', 'youtube', 'social networking', 'internet marketing', 'seo'], 'w0526': ['logo design', 'graphic design', 'illustrator'], 'w0645': ['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews'], 'w0508': ['graphic design', 'logo design', 'banner design', 'photoshop', 'website design'], 'w0682': ['facebook marketing', 'html', 'graphic design', 'social networking', 'php'], 'w0429': ['illustration', 'illustrator', 'caricature &amp; cartoons'], 'w0392': ['php', 'joomla', 'magento', 'cms'], 'w1294': ['matlab &amp; mathematica', 'robotics'], 'w0690': ['graphic design', 'photoshop', 'logo design', 'caricature &amp; cartoons', 'photo editing'], 'w0455': ['link building', 'seo', 'internet marketing', 'php'], 'w1715': ['illustration', 'logo design', 'caricature &amp; cartoons', 'illustrator'], 'w0939': ['video services', 'animation'], 'w1645': ['translation', 'data entry', 'audio services', 'data processing'], 'w0028': ['magento', 'php', 'website design', 'html', 'flash'], 'w0196': ['translation', 'spanish', 'data entry', 'articles', 'copywriting'], 'w1324': ['logo design', 'graphic design', 'photoshop', 'illustration', 'website design'], 'w0133': ['php', 'html', 'website design', 'mysql', 'css'], 'w1669': ['joomla', 'php', 'html', 'mysql', 'cms'], 'w1093': ['php', 'magento', 'javascript', 'psd to html', 'mysql'], 'w0105': ['android', 'mobile phone', 'php', 'mysql', 'software architecture'], 'w1627': ['logo design', 'caricature &amp; cartoons', 'graphic design', 'photoshop', 'illustration'], 'w1599': ['php', 'html', 'website design', 'joomla'], 'w0922': ['php', 'mysql', 'website design', 'flash', 'asp'], 'w0486': ['video services', 'after effects', 'animation', 'videography', 'graphic design'], 'w1571': ['graphic design', 'flash', 'website design', 'logo design'], 'w0754': ['php', 'website design', 'html', 'software architecture'], 'w0085': ['mobile phone', 'iphone', 'android', 'ipad']}, 'task_val_dict': {'virtuemart': 7, 'user interface / ia': 8, 'korean': 4, 'customer support': 13, 'electronic forms': 9, 'simplified chinese (china)': 8, 'polish': 14, 'poster design': 9, 'xxx': 11, 'unity 3d': 4, 'covers &amp; packaging': 6, 'robotics': 6, 'travel writing': 5, 'invitation design': 6, 'oracle': 7, 'concept design': 7, 'telecommunications engineering': 10, 'bootstrap': 10, 'ruby on rails': 7, 'product design': 7, 'photo editing': 10, 'business analysis': 3, 'jquery / prototype': 7, 'photoshop design': 6, 'pcb layout': 7, 'flash': 8, 'word': 6, 'advertising': 9, 'music': 6, 'autocad': 10, 'metatrader': 11, 'spanish': 9, 'classifieds posting': 13, 'audio services': 10, 'matlab &amp; mathematica': 11, 'drupal': 8, 'transcription': 11, 'script install': 10, 'shell script': 7, 'finance': 6, '3d rendering': 11, 'asp': 6, 'accounting': 8, 't-shirts': 4, 'java': 5, 'indesign': 6, 'stationery design': 9, 'electrical engineering': 4, 'research': 2, 'video broadcasting': 7, 'python': 9, 'system admin': 8, 'visual basic': 3, 'perl': 6, 'microcontroller': 4, 'delphi': 7, 'actionscript': 9, 'windows desktop': 8, 'youtube': 5, 'statistics': 9, 'voice talent': 5, 'editing': 8, 'photography': 7, 'cms': 12, 'electronics': 7, 'sql': 11, 'book writing': 10, 'email marketing': 9, 'ecommerce': 9, 'business plans': 11, 'cad/cam': 5, 'ebooks': 10, 'psd to html': 11, 'engineering': 10, 'virtual assistant': 8, 'after effects': 7, 'ipad': 6, 'business cards': 3, 'social networking': 13, 'technical writing': 6, 'video services': 14, 'internet marketing': 6, 'facebook marketing': 7, 'translation': 8, 'wordpress': 5, 'css': 12, 'html': 5, 'iphone': 5, 'seo': 8, 'joomla': 13, 'php': 8, 'illustration': 9, 'android': 14, 'website design': 5, 'illustrator': 13, 'javascript': 4, 'graphic design': 10, 'article rewriting': 9, 'academic writing': 12, 'copywriting': 9, 'mysql': 0, 'ajax': 0, 'caricature &amp; cartoons': 0, 'photoshop': 0, 'database administration': 0, 'data entry': 0, 'magento': 0, 'c programming': 0, 'logo design': 0, 'excel': 0, 'data processing': 0, 'web search': 0, 'link building': 0, 'marketing': 0, 'sem / adwords': 0, 'proofreading': 0, 'blog': 0, '.net': 0, 'c# programming': 0, 'prestashop': 0, 'web hosting': 0, 'articles': 0, 'reviews': 0, 'banner design': 0, 'animation': 0, 'mobile phone': 0, 'software architecture': 0, 'videography': 0}, 'worke_cost': {'w1000': 40.0, 'w0447': 10.0, 'w0331': 20.0, 'w1066': 35.0, 'w0532': 10.0, 'w1387': 10.0, 'w0235': 20.0, 'w1096': 20.0, 'w0410': 10.0, 'w0752': 15.0, 'w0786': 6.0, 'w1095': 3.0, 'w0147': 18.0, 'w0856': 10.0, 'w0031': 5.0, 'w1510': 5.0, 'w1116': 18.0, 'w1252': 10.0, 'w0247': 8.0, 'w0214': 30.0, 'w0298': 20.0, 'w0955': 25.0, 'w0771': 3.0, 'w0242': 7.0, 'w0526': 10.0, 'w0645': 10.0, 'w0508': 10.0, 'w0682': 20.0, 'w0429': 18.0, 'w0392': 25.0, 'w1294': 8.0, 'w0690': 12.0, 'w0455': 10.0, 'w1715': 8.0, 'w0939': 7.0, 'w1645': 15.0, 'w0028': 25.0, 'w0196': 15.0, 'w1324': 8.0, 'w0133': 20.0, 'w1669': 22.0, 'w1093': 35.0, 'w0105': 20.0, 'w1627': 10.0, 'w1599': 10.0, 'w0922': 20.0, 'w0486': 8.0, 'w1571': 15.0, 'w0754': 15.0, 'w0085': 20.0}, 'n': 128, 'm': 50, 'solution': {'w1324', 'w0786', 'w1669', 'w0939', 'w0447', 'w1095', 'w1387', 'w0645', 'w1294', 'w0771'}, 'value': 103.0}"
