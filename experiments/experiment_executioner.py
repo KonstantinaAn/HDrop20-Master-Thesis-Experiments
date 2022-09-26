@@ -43,27 +43,27 @@ class ExperimentExecutioner:
         self.logger.debug("Prepare to run {} ".format(self.algorithm))
         if self.algorithm == 'dgreedy':
             self.alg_obj = DistortedGreedy(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                                           self.workers, k=math.ceil(0.2*len(self.workers)), _logger=self.logger)
+                                           self.workers, k=math.ceil(0.1*len(self.workers)), _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'dUSM':
-            self.alg_obj = DeterministicUSM(self.obj_func.objective_function_eval, self.workers, k=math.ceil(0.2*len(self.workers)), _logger=self.logger)
+            self.alg_obj = DeterministicUSM(self.obj_func.objective_function_eval, self.workers, k=math.ceil(0.1*len(self.workers)), _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'CSG':
             self.alg_obj = CSG(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                               self.workers, k=math.ceil(0.2*len(self.workers)), _logger=self.logger)
+                               self.workers, k=math.ceil(0.1*len(self.workers)), _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'Winner':
-            self.opt.set_k_constrained(math.ceil(0.2*len(self.workers)))
+            self.opt.set_k_constrained(math.ceil(0.1*len(self.workers)))
             print('k_constrained', self.opt.k_constrained)
             wp_lp_solver = self.opt.wd_lp_solver
             self.alg_obj = WinnerDeetermination(self.obj_func.submodular_function_eval_fast,
                                                 self.obj_func.linear_function_eval,
                                                 self.obj_func.costs, self.workers, wp_lp_solver, self.workers_df,
-                                                self.tasks_df, k=math.ceil(0.2*len(self.workers)), _logger=self.logger)
+                                                self.tasks_df, k=math.ceil(0.1*len(self.workers)), _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'ROI':
             self.alg_obj = ROIGreedy(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                                     self.workers, k=math.ceil(0.2*len(self.workers)), _logger=self.logger)
+                                     self.workers, k=math.ceil(0.1*len(self.workers)), _logger=self.logger)
             self.solution = self.alg_obj.run()
         self.logger.debug("Finished running of {} ".format(self.algorithm))
         obj_eval = self.obj_func.objective_function_eval(self.solution)
@@ -92,7 +92,7 @@ class ExperimentExecutioner:
         """
         optimal_uid = self.uid
 
-        self.opt.set_k_constrained(math.ceil(0.2*len(self.workers)))
+        self.opt.set_k_constrained(math.ceil(0.1*len(self.workers)))
         print('k_constrained', self.opt.k_constrained)
 
         problem_obj, xvals, yvals, optimal_workers_df, optimal_tasks_df = self.opt.wd_ip_solver(task_df.shape[0],
