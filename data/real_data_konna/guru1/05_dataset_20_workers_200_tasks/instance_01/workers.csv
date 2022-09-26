@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+125.0,"['basic', 'excel', 'html', 'microsoft', 'microsoft word', 'programming', 'visual basic']",1921.0,w1889
+60.0,"['articles', 'blogging', 'coaching', 'com', 'content management', 'copy editing', 'design', 'editing', 'facebook', 'fiction', 'grammar', 'interviewing', 'make', 'management', 'marketing', 'medical', 'microsoft', 'powerpoint', 'proofreading', 'publishing', 'punctuation', 'research', 'twitter', 'wordpress', 'writing']",2998.0,w2945
+50.0,"['microsoft', 'microsoft word', 'spanish']",775.0,w0762
+40.0,"['adobe photoshop', 'design', 'editing', 'graphic design', 'outsourcing']",1426.0,w1408
+25.0,"['accounting', 'articles', 'blog writing', 'construction', 'freelance', 'marketing', 'reviews', 'writing']",398.0,w0390
+30.0,['animation'],4103.0,w4023
+25.0,"['adobe illustrator', 'adobe photoshop', 'advertising', 'animation', 'banner', 'corel draw', 'design', 'developer', 'dreamweaver', 'excel', 'flash', 'flash animation', 'graphics', 'html', 'microsoft', 'microsoft word', 'powerpoint', 'presentations', 'web developer', 'wordpress']",762.0,w0749
+25.0,"['adobe illustrator', 'adobe photoshop', 'photo editing', 'photography', 'web design']",2521.0,w2480
+50.0,"['affiliate marketing', 'article submission', 'blog commenting', 'directory submission', 'forum posting', 'freelance', 'pay per click', 'search engine marketing (sem)', 'search engine optimization (seo)', 'search engine optimization copywriting (seo)', 'social bookmarking', 'wordpress']",3056.0,w3003
+25.0,"['contract law', 'contracts', 'drafting', 'legal advice', 'legal letters', 'sales contracts', 'salesforce']",3335.0,w3276
+40.0,"['3d', '3d graphics', 'brochure design', 'design', 'editing', 'graphics', 'logo design', 'photography', 'poster design', 't-shirt design']",74.0,w0073
+50.0,"['asp', 'css', 'html']",4344.0,w4258
+400.0,"['ajax', 'asp', 'asp.net', 'c', 'c#', 'drupal', 'flash', 'html', 'java', 'javascript', 'joomla', 'magento', 'mvc', 'mysql', 'oscommerce', 'php', 'phpbb', 'sem', 'seo', 'smarty', 'wordpress', 'xhtml', 'zend']",4287.0,w4203
+30.0,"['adobe illustrator', 'adobe photoshop', 'banner design', 'business card design', 'ecommerce', 'graphic design', 'gui design', 'html5', 'landing page design', 'logo design', 'mobile web design', 'php', 'poster design', 'print design', 'psd to html', 'responsive web design', 'sem', 'seo', 'smo', 'ui design', 'web design', 'web developer', 'wordpress', 'xhtml']",1468.0,w1449
+30.0,"['english', 'transcription']",3750.0,w3682
+100.0,"['.net', 'android', 'cakephp', 'ios', 'joomla', 'mysql', 'prototype', 'sharepoint', 'symfony', 'zend']",84.0,w0083
+25.0,"['adobe photoshop', 'asp', 'asp.net', 'html', 'javascript', 'mysql', 'php', 'wordpress']",1879.0,w1847
+30.0,"['c', 'c#']",2222.0,w2185
+25.0,"['acrobat', 'adobe acrobat', 'adobe photoshop', 'ap style', 'creative writing', 'dreamweaver', 'email', 'html', 'writing']",1228.0,w1211
+25.0,"['animation', 'banner', 'corporate', 'design', 'flash', 'flash animation', 'psd', 'psd to xhtml', 'web design', 'website design', 'xhtml']",2569.0,w2527

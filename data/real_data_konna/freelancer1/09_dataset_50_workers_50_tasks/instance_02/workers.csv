@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['seo', 'link building', 'internet marketing', 'data entry']",1333.0,w1329
+17.0,"['mysql', 'ruby on rails', 'linux', 'amazon web services', 'javascript']",1440.0,w1435
+20.0,"['html', 'seo', 'internet marketing', 'data entry', 'psd to html']",669.0,w0668
+15.0,"['t-shirts', 'graphic design', 'photoshop design', 'brochure design']",279.0,w0278
+8.0,"['copy typing', 'engineering', 'technical writing', 'research']",858.0,w0857
+10.0,"['joomla', 'html', 'php', 'css', 'website design']",823.0,w0822
+10.0,"['html', 'wordpress', 'website design', 'css', 'php']",117.0,w0116
+25.0,"['blog', 'articles', 'internet marketing', 'ghostwriting']",1012.0,w1009
+40.0,"['php', 'joomla', 'css', 'html', 'javascript']",371.0,w0370
+19.0,"['graphic design', 'website design', 'photoshop', 'banner design']",1275.0,w1271
+12.0,"['graphic design', 'photoshop', 'logo design', 'banner design', 'video services']",1076.0,w1073
+10.0,"['css', 'website design', 'javascript', 'html', 'php']",1284.0,w1280
+15.0,"['php', 'software architecture', 'javascript', 'xml', 'css']",591.0,w0590
+2.0,"['graphic design', 'photoshop', 'illustrator', 'css', 'illustration']",1273.0,w1269
+10.0,"['3d modelling', '3d rendering']",688.0,w0687
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1361.0,w1357
+12.0,"['php', 'html', 'ecommerce', 'graphic design', 'mysql']",775.0,w0774
+12.0,"['link building', 'seo', 'internet marketing', 'html', 'website design']",1027.0,w1024
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+10.0,"['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting']",1719.0,w1703
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+20.0,"['php', 'wordpress', 'css', 'mysql', 'joomla']",1169.0,w1165
+25.0,"['php', 'mysql', 'website design', 'html', 'javascript']",163.0,w0162
+10.0,"['php', 'anything goes', 'joomla', 'mysql', 'html']",1074.0,w1071
+10.0,"['articles', 'copywriting', 'ghostwriting']",1644.0,w1630
+20.0,"['photoshop', '3d modelling', '3d animation', 'video services', 'after effects']",677.0,w0676
+15.0,"['link building', 'seo', 'internet marketing', 'marketing', 'data entry']",34.0,w0034
+10.0,"['website design', 'graphic design', 'html', 'caricature &amp; cartoons', 'photoshop']",648.0,w0647
+11.0,"['html', 'php', 'mysql', 'wordpress']",1125.0,w1122
+20.0,"['illustrator', 'graphic design', 'photoshop', 'photoshop design', 'illustration']",819.0,w0818
+10.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'photoshop design']",938.0,w0935
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+10.0,"['3d rendering', 'autocad', '3ds max', '3d modelling']",1415.0,w1410
+11.0,"['joomla', 'css', 'html']",901.0,w0898
+8.0,"['articles', 'article rewriting', 'creative writing', 'ghostwriting', 'copywriting']",793.0,w0792
+5.0,"['php', 'html', 'mysql', 'jquery / prototype']",1137.0,w1133
+8.0,"['copywriting', 'articles', 'seo', 'translation', 'blog']",47.0,w0047
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+25.0,"['php', 'wordpress', 'css', 'html', 'mysql']",83.0,w0082
+10.0,"['photoshop', 'graphic design', '3ds max', '3d rendering', 'logo design']",1286.0,w1282
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+5.0,"['psd to html', 'html', 'website design', 'css']",707.0,w0706
+20.0,"['linux', 'system admin', 'windows server', 'script install', 'unix']",602.0,w0601
+10.0,"['internet marketing', 'link building', 'seo']",1183.0,w1179
+10.0,"['3ds max', 'autocad', '3d modelling']",1320.0,w1316
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",633.0,w0632
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",162.0,w0161
+5.0,"['reviews', 'copywriting', 'article rewriting', 'articles']",1341.0,w1337
+13.0,"['copywriting', 'proofreading']",1505.0,w1497
+12.0,"['3d rendering', '3ds max', '3d animation', '3d modelling', 'photoshop']",665.0,w0664

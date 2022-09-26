@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+10.0,"['photoshop', 'photography', 'copywriting', 'excel', 'data entry']",514.0,w0513
+10.0,"['system admin', 'database administration', 'shell script']",1351.0,w1347
+30.0,"['php', 'html', 'facebook marketing', 'ajax', 'jquery / prototype']",380.0,w0379
+15.0,"['php', 'html', 'software architecture', 'graphic design', 'css']",1321.0,w1317
+15.0,"['html', 'website design', 'css', 'javascript', 'jquery / prototype']",1393.0,w1389
+8.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",254.0,w0253
+5.0,"['data entry', 'graphic design', 'excel', 'logo design', 'web search']",1056.0,w1053
+15.0,"['website design', 'graphic design', 'php', 'joomla', 'social networking']",810.0,w0809
+4.0,"['photoshop', 'photo editing', 'illustrator', 'illustration', 'photoshop design']",528.0,w0527
+15.0,"['graphic design', 'photoshop', 't-shirts', 'banner design', 'website design']",664.0,w0663
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",167.0,w0166
+15.0,"['php', 'javascript', 'html']",885.0,w0882
+5.0,"['transcription', 'editing', 'articles', 'copy typing', 'proofreading']",477.0,w0476
+25.0,"['php', 'website design', 'html', 'wordpress', 'css']",498.0,w0497
+15.0,"['php', 'drupal', 'jquery / prototype', 'html', 'website design']",1030.0,w1027
+5.0,"['data entry', 'internet marketing']",1277.0,w1273
+8.0,"['articles', 'article rewriting']",713.0,w0712
+10.0,"['email marketing', 'bulk marketing', 'php', 'mysql']",1073.0,w1070
+12.0,"['website design', 'php', 'graphic design', 'html', 'wordpress']",29.0,w0029
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",150.0,w0149
+15.0,"['graphic design', 'logo design', 'illustrator', 'wordpress']",598.0,w0597
+25.0,"['php', 'mysql', 'html', 'ajax', 'javascript']",1762.0,w1746
+5.0,"['article rewriting', 'articles', 'ghostwriting', 'academic writing', 'proofreading']",463.0,w0462
+20.0,"['php', 'mysql', 'sql', '.net', 'html']",93.0,w0092
+20.0,"['javascript', 'php', 'html', 'css', 'website design']",109.0,w0108
+5.0,"['facebook marketing', 'social networking', 'internet marketing', 'logo design']",1066.0,w1063
+9.0,"['website design', 'graphic design', 'logo design', 'photoshop', 'html']",1577.0,w1565
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+10.0,"['css', 'website design', 'javascript', 'html', 'php']",1284.0,w1280
+12.0,"['html', 'website design', 'css', 'php', 'wordpress']",630.0,w0629
+20.0,"['web scraping', 'web hosting', 'seo', 'excel', 'magento']",586.0,w0585
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+5.0,"['academic writing', 'research', 'articles', 'technical writing']",376.0,w0375
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+14.0,"['translation', 'korean', 'copywriting']",592.0,w0591
+4.0,"['data entry', 'excel', 'research', 'web search', 'web scraping']",1574.0,w1562
+6.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'website design']",979.0,w0976
+4.0,"['data entry', 'excel', 'virtual assistant', 'web scraping', 'research']",432.0,w0431
+15.0,"['logo design', 'photoshop', 'website design', 'banner design', 'html']",774.0,w0773
+20.0,"['seo', 'internet marketing', 'articles', 'link building', 'article rewriting']",1280.0,w1276

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+25.0,"['custom websites', 'design', 'developer', 'dynamic websites', 'ipad', 'marketing', 'mobile', 'mobile application development', 'programming', 'sem', 'seo', 'social media marketing', 'software development', 'web design', 'web developer', 'web development', 'webmaster', 'website design']",3292.0,w3233
+25.0,"['book writing', 'copywriting', 'ebook writing', 'editing', 'english', 'fiction', 'final draft', 'freelance', 'ghost writing', 'movie magic screenwriter', 'proofreading', 'reviews', 'rewriting', 'screenwriting', 'script writing', 'video', 'word processing', 'writing']",3464.0,w3400
+25.0,"['asp', 'asp.net', 'c', 'c#', 'css', 'html', 'html5', 'java', 'javascript', 'jquery', 'management', 'paypal', 'paypal integration', 'php', 'psd', 'psd to wordpress', 'video', 'website development', 'wordpress']",2195.0,w2159
+45.0,"['2d graphics', '3d graphics', 'adobe illustrator', 'design', 'graphic design', 'logo design', 'vector design', 'vector illustration']",4177.0,w4094
+250.0,"['article writing', 'bookkeeping', 'content writing', 'data entry', 'editing', 'email', 'email marketing', 'excel', 'google apps', 'google docs', 'grammar', 'leads', 'mailchimp', 'management', 'marketing', 'ms', 'ms excel', 'ms powerpoint', 'office management', 'oracle', 'powerpoint', 'quickbooks', 'recruiting', 'research', 'salesforce', 'spelling', 'website content', 'website content writing', 'wordpress', 'writing']",4298.0,w4214
+50.0,"['android', 'api', 'blackberry', 'c', 'codeigniter', 'css', 'css3', 'dhtml', 'ecommerce', 'facebook', 'facebook api', 'focus', 'html', 'html5', 'ios', 'ipad', 'iphone', 'java', 'joomla', 'phonegap', 'php', 'twitter', 'wordpress', 'xhtml', 'zend']",3742.0,w3674
+200.0,"['acrobat', 'flash', 'indesign']",744.0,w0731
+105.0,"['adobe indesign', 'advertising', 'coreldraw', 'css', 'design', 'drupal', 'flash', 'graphics', 'html', 'icons', 'indesign', 'javascript', 'jquery', 'management', 'marketing', 'microsoft', 'painting', 'php', 'wordpress']",4215.0,w4132
+25.0,"['3ds max', 'c', 'c++', 'delphi', 'directx', 'max', 'ms', 'sql']",1147.0,w1131
+250.0,"['2d animation', '2d art', '3d', '3d animation', '3d graphics', '3d rendering', '3ds max', 'concept art', 'design', 'graphics', 'gui design', 'illustration', 'user interface design', 'video', 'web design']",3753.0,w3685
+200.0,"['ajax', 'application development', 'basic', 'billing', 'custom websites', 'database design', 'design', 'dhtml', 'focus', 'hardware troubleshooting', 'html', 'intranet', 'javascript', 'make', 'management', 'microsoft', 'mysql', 'networking', 'oracle', 'pc hardware', 'php', 'processing', 'programming', 'software', 'sql', 'troubleshooting', 'web 2.0', 'web development', 'web technologies', 'website design']",2719.0,w2673
+200.0,"['ajax', 'api', 'css', 'css3', 'flash', 'html', 'html5', 'javascript', 'joomla', 'jquery', 'mysql', 'php', 'shopify', 'wordpress']",2221.0,w2184
+60.0,"['analytics', 'marketing', 'social marketing', 'social networks']",3344.0,w3284
+30.0,"['ajax', 'com', 'content management', 'css', 'design', 'drupal', 'flash', 'graphics', 'html', 'j2ee', 'java', 'jquery', 'management', 'mysql', 'open source', 'php', 'website design', 'wordpress']",1760.0,w1730
+25.0,"['adobe illustrator', 'adobe indesign', 'brochures', 'design', 'dreamweaver', 'flash', 'graphic design', 'graphic designer', 'illustration', 'photoshop', 'web media']",3809.0,w3738
+50.0,"['c', 'mathematical modeling', 'matlab', 'programming', 'python']",3463.0,w3399
+250.0,"['access', 'ajax', 'apache', 'api', 'css', 'css3', 'design', 'facebook', 'facebook api', 'flash', 'html', 'html5', 'java', 'javascript', 'jquery', 'lamp', 'microsoft', 'mvc', 'mysql', 'oop', 'oracle', 'php', 'smarty', 'sql']",378.0,w0370
+30.0,"['adobe illustrator', 'adobe indesign', 'adobe photoshop', 'corel draw', 'flash']",3932.0,w3860
+60.0,"['2d animation', 'motion graphics']",2810.0,w2762
+500.0,"['agile', 'ajax', 'android', 'apache', 'authorize.net', 'basic', 'blackberry', 'codeigniter', 'engineering', 'flash', 'ipad', 'iphone', 'javascript', 'joomla', 'jquery', 'moodle', 'mysql', 'open source', 'oscommerce', 'outsourcing', 'paypal', 'php', 'php 5']",820.0,w0807

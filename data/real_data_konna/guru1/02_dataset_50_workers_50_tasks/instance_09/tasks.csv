@@ -1,0 +1,397 @@
+skill,skill_id,valuation
+construction management,356,840
+level design,846,562
+flash content,620,482
+microchip,931,680
+mural design,985,671
+back end programming,151,432
+website support,1587,493
+server,1275,287
+operations management,1041,278
+undefined,1459,655
+qa,1180,331
+interpersonal skills,762,638
+sales letters,1235,329
+bulk mailing,203,459
+pc hardware,1082,707
+ebay,514,244
+admin assistant,38,601
+website promotion,1586,693
+brand management,194,29
+game design,644,641
+child book illustration,271,483
+symfony,1388,448
+article rewriting,119,312
+accounting software,24,811
+wix,1610,357
+telecommunications systems,1410,465
+dj,495,295
+sip,1288,427
+cms (content management system),303,395
+negotiation,998,370
+supply chain management,1380,307
+letter writing,844,325
+software requirements,1333,396
+retail branding,1209,539
+desktop support,474,438
+bash,160,574
+oracle 11g,1044,410
+live chat,860,584
+data security,450,612
+google+,680,452
+facebook,574,783
+ios,771,294
+windows,1597,477
+materials,905,335
+adobe acrobat,41,428
+consulting,359,112
+web developer,1552,203
+skype,1294,646
+rewriting,1214,315
+web programming,1564,868
+.net,0,0
+access,0,0
+ajax,0,0
+apache,0,0
+asp,0,0
+c,0,0
+c++,0,0
+cgi,0,0
+cgi/perl,0,0
+cocoa,0,0
+cocoa touch,0,0
+content management,0,0
+dhtml,0,0
+drupal,0,0
+eclipse,0,0
+glassfish,0,0
+hibernate,0,0
+html,0,0
+iis,0,0
+j2ee,0,0
+java,0,0
+javascript,0,0
+jboss,0,0
+jdbc,0,0
+joomla,0,0
+jsp,0,0
+linux,0,0
+mac os,0,0
+mac os x,0,0
+magento,0,0
+management,0,0
+markup,0,0
+mobile,0,0
+moodle,0,0
+ms,0,0
+mysql,0,0
+oracle,0,0
+perl,0,0
+php,0,0
+postgresql,0,0
+programming,0,0
+python,0,0
+sql,0,0
+sql server,0,0
+sqlite,0,0
+struts,0,0
+test,0,0
+test automation,0,0
+tomcat,0,0
+unix,0,0
+vbscript,0,0
+virtuemart,0,0
+visual studio,0,0
+web technologies,0,0
+xcode,0,0
+xml,0,0
+zen cart,0,0
+customer support,0,0
+excel,0,0
+microsoft word,0,0
+proofreading,0,0
+wordpress,0,0
+active directory,0,0
+billing,0,0
+centos,0,0
+cpanel,0,0
+dns,0,0
+freebsd,0,0
+microsoft,0,0
+nginx,0,0
+sendmail,0,0
+solaris,0,0
+system administration,0,0
+corporate,0,0
+custom cms,0,0
+html5,0,0
+joomla!,0,0
+lead generation,0,0
+logo design,0,0
+mobile web design,0,0
+php 5,0,0
+plugins,0,0
+prestashop,0,0
+psd to html,0,0
+responsive web design,0,0
+shopify,0,0
+web 2.0,0,0
+web design,0,0
+xhtml,0,0
+analysis,0,0
+copywriting,0,0
+editing,0,0
+marketing,0,0
+technical documentation,0,0
+technical writing,0,0
+writing,0,0
+adobe photoshop,0,0
+book writing,0,0
+bpo,0,0
+com,0,0
+data conversion,0,0
+data entry,0,0
+data management,0,0
+database administration,0,0
+e-books,0,0
+email,0,0
+email marketing,0,0
+internet research,0,0
+ms excel,0,0
+ms office,0,0
+ms word,0,0
+networking,0,0
+outlook,0,0
+payroll,0,0
+pdf,0,0
+processing,0,0
+quality assurance,0,0
+reports,0,0
+research,0,0
+script writing,0,0
+seo,0,0
+transcription,0,0
+vba,0,0
+video,0,0
+vista,0,0
+web services,0,0
+asp.net,0,0
+c#,0,0
+communication skills,0,0
+construction,0,0
+css,0,0
+database design,0,0
+design,0,0
+software,0,0
+software design,0,0
+android,0,0
+application development,0,0
+architecture,0,0
+azure,0,0
+blackberry,0,0
+cakephp,0,0
+codeigniter,0,0
+flash,0,0
+agile web development,0,0
+web development,0,0
+brand advertising,0,0
+content strategy,0,0
+digital,0,0
+business planning,0,0
+cover letter writing,0,0
+customer service,0,0
+english,0,0
+polish,0,0
+product development,0,0
+amazon,0,0
+banner ads,0,0
+graphics,0,0
+icons,0,0
+photo editing,0,0
+templates,0,0
+architect,0,0
+engineering,0,0
+essbase,0,0
+informatica,0,0
+microsoft sql server,0,0
+modeling,0,0
+progress,0,0
+training,0,0
+pinterest,0,0
+social media marketing,0,0
+twitter,0,0
+typing,0,0
+video editing,0,0
+gmail,0,0
+google docs,0,0
+make,0,0
+office management,0,0
+open office,0,0
+delphi,0,0
+iphone,0,0
+mvc,0,0
+sharepoint,0,0
+silverlight,0,0
+visual basic,0,0
+basic,0,0
+coreldraw,0,0
+developer,0,0
+dreamweaver,0,0
+fireworks,0,0
+google adsense,0,0
+powerpoint,0,0
+asp.net mvc,0,0
+devexpress,0,0
+jquery,0,0
+linq to sql,0,0
+vb.net,0,0
+wcf,0,0
+web servers,0,0
+wpf,0,0
+accounting,0,0
+administrative assistant,0,0
+administrative support,0,0
+blogging,0,0
+bookkeeping,0,0
+business operations,0,0
+ecommerce,0,0
+finance,0,0
+invoicing,0,0
+market research,0,0
+quickbooks,0,0
+virtual assistants,0,0
+css3,0,0
+oscommerce,0,0
+woocommerce,0,0
+api,0,0
+facebook api,0,0
+lamp,0,0
+oop,0,0
+smarty,0,0
+website design,0,0
+actionscript,0,0
+blogs,0,0
+dojo,0,0
+json,0,0
+phpbb,0,0
+real estate,0,0
+rest,0,0
+rss,0,0
+ruby,0,0
+social networking,0,0
+zend,0,0
+zend framework,0,0
+article writing,0,0
+articles,0,0
+interviewing,0,0
+press releases,0,0
+social media consulting,0,0
+website content,0,0
+android development,0,0
+focus,0,0
+ios programming,0,0
+mobile application development,0,0
+mobile applications,0,0
+technical support,0,0
+2d art,0,0
+3d,0,0
+artist,0,0
+cartoon,0,0
+comic art,0,0
+comic book art,0,0
+digital painting,0,0
+illustration,0,0
+painting,0,0
+skinning,0,0
+.net compact framework,0,0
+authorize.net,0,0
+content management system (cms),0,0
+google maps,0,0
+http,0,0
+ios development,0,0
+phonegap,0,0
+saas,0,0
+sms gateway,0,0
+windows 7,0,0
+windows mobile,0,0
+adobe illustrator,0,0
+internet marketing,0,0
+link building,0,0
+max,0,0
+operating systems,0,0
+outsourcing,0,0
+search engine optimization (seo),0,0
+sem,0,0
+it consulting,0,0
+linux system administration,0,0
+project management,0,0
+rdbms,0,0
+ruby on rails,0,0
+security,0,0
+web security,0,0
+customer satisfaction,0,0
+indonesian,0,0
+sales,0,0
+article editing,0,0
+article marketing,0,0
+blog marketing,0,0
+blog writing,0,0
+creative writing,0,0
+freelance,0,0
+web content,0,0
+web content creation,0,0
+web content writing,0,0
+computer hardware,0,0
+expert advisor,0,0
+data mining,0,0
+data processing,0,0
+pl,0,0
+data research,0,0
+grammar,0,0
+spelling,0,0
+ssl,0,0
+cvs,0,0
+paypal,0,0
+postscript,0,0
+subversion,0,0
+ipad,0,0
+russian,0,0
+testing,0,0
+web testing,0,0
+windows 8,0,0
+algorithms,0,0
+facebook marketing,0,0
+linkedin,0,0
+off page,0,0
+on page,0,0
+yahoo,0,0
+electronics,0,0
+embedded development,0,0
+embedded systems,0,0
+microcontroller,0,0
+reviews,0,0
+spanish,0,0
+travel writing,0,0
+case,0,0
+localization,0,0
+manual testing,0,0
+usability testing,0,0
+product videography,0,0
+videography,0,0
+videography editing,0,0
+videos,0,0
+grails,0,0
+groovy,0,0
+spring framework,0,0
+affiliate marketing,0,0
+cloud based,0,0
+email support,0,0
+forum posting,0,0
+keyword research,0,0
+mail merge,0,0
+sugarcrm,0,0
+buddypress,0,0
+mobile development,0,0
+opencart,0,0
+act,0,0
+content development,0,0

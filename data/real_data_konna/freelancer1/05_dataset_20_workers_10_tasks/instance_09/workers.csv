@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+25.0,"['software architecture', 'php', 'delphi']",1464.0,w1457
+10.0,"['photoshop', 'illustrator']",1592.0,w1580
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'banner design']",413.0,w0412
+7.0,"['data entry', 'data processing', 'excel', 'web search', 'virtual assistant']",1241.0,w1237
+3.0,"['data entry', 'web scraping', 'web search', 'excel', 'data processing']",771.0,w0770
+100.0,"['xxx', 'php', 'website design', 'graphic design', 'asp']",868.0,w0865
+15.0,"['logo design', 'graphic design', 'photoshop', 'illustrator', 'banner design']",965.0,w0962
+50.0,"['java', 'software architecture', 'javascript', 'html']",333.0,w0332
+50.0,"['logo design', 'graphic design', 'photoshop', 'illustrator']",67.0,w0067
+25.0,"['software architecture', '.net', 'windows desktop', 'c programming', 'c# programming']",385.0,w0384
+15.0,"['after effects', 'editing']",1374.0,w1370
+5.0,"['web search', 'data entry', 'web scraping']",1383.0,w1379
+20.0,"['video services', 'after effects', 'animation', 'video broadcasting', 'typography']",410.0,w0409
+15.0,"['illustrator', 'illustration', 'game design', 'photoshop', 'animation']",122.0,w0121
+25.0,"['after effects', 'video services', 'animation']",720.0,w0719
+35.0,"['mysql', 'php', 'software architecture', 'software testing', 'asp']",180.0,w0179
+10.0,"['translation', 'spanish', 'proofreading', 'technical writing', 'editing']",287.0,w0286
+10.0,"['translation', 'greek', 'technical writing', 'editing']",256.0,w0255
+20.0,"['android', 'mobile phone', 'php', 'mysql', 'software architecture']",106.0,w0105
+15.0,"['videography', 'video services', 'caricature &amp; cartoons', 'after effects', 'illustration']",1038.0,w1035

@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['website design', 'graphic design', 'php', 'flash', 'logo design']",5.0,w0005
+20.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",332.0,w0331
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1753.0,w1737
+10.0,"['java', 'excel', 'amazon web services', 'data entry', 'c++ programming']",1054.0,w1051
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+10.0,"['php', 'mysql', 'html', 'ajax', 'ecommerce']",448.0,w0447
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+22.0,"['php', 'graphic design', 'mac os', 'ebooks']",270.0,w0269
+10.0,"['javascript', 'html', 'ajax', 'php']",926.0,w0923
+10.0,"['java', 'c++ programming', 'c programming']",1266.0,w1262
+10.0,"['website design', 'php', 'graphic design', 'html', 'android']",9.0,w0009
+6.0,"['html', 'wordpress', 'website design', 'css']",1068.0,w1065
+8.0,"['copy typing', 'engineering', 'technical writing', 'research']",858.0,w0857
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",709.0,w0708
+15.0,"['wordpress', 'html', 'php', 'graphic design', 'css']",387.0,w0386
+8.0,"['php', 'html', 'wordpress', 'linux', 'seo']",1209.0,w1205
+20.0,"['php', 'html', 'website design', 'graphic design', 'css']",144.0,w0143
+13.0,"['photoshop', 'photoshop design']",809.0,w0808
+30.0,"['php', 'script install', 'html', 'wordpress', 'website design']",414.0,w0413
+9.0,"['data entry', 'web search', 'articles', 'web scraping']",1016.0,w1013
+30.0,"['mysql', 'sql', 'database administration', 'php', 'oracle']",356.0,w0355
+12.0,"['jquery / prototype', 'ajax', 'php', 'mysql', 'javascript']",1671.0,w1656
+20.0,"['php', 'linux', 'html', 'website design', 'graphic design']",1159.0,w1155
+14.0,"['virtual assistant', 'logo design', 'illustration', 'photoshop']",1269.0,w1265
+7.0,"['link building', 'seo', 'internet marketing']",1091.0,w1088
+5.0,"['data entry', 'data processing', 'virtual assistant', 'web search', 'excel']",845.0,w0844
+1.0,"['.net', 'c# programming', 'sql']",1229.0,w1225
+15.0,"['videography', 'video services', 'caricature &amp; cartoons', 'after effects', 'illustration']",1038.0,w1035
+20.0,"['php', 'facebook marketing', 'html', 'mysql', 'joomla']",1087.0,w1084
+15.0,"['php', 'html', 'jquery / prototype', 'css', 'mysql']",561.0,w0560
+10.0,"['android', 'php', 'iphone', 'html', 'javascript']",484.0,w0483
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+18.0,"['graphic design', 'website design', 'logo design', 'html', 'php']",164.0,w0163
+20.0,"['software architecture', 'c programming', 'php', 'visual basic', 'html']",1274.0,w1270
+20.0,"['anything goes', 'reviews', 'blog', 'article rewriting', 'articles']",1467.0,w1460
+5.0,"['data entry', 'internet marketing']",1277.0,w1273
+8.0,"['mysql', 'php', 'wordpress']",1247.0,w1243
+15.0,"['javascript', 'jquery / prototype', 'php', 'html']",1300.0,w1296
+15.0,"['software architecture', 'php', 'web scraping', 'excel', 'data entry']",39.0,w0039
+15.0,"['after effects', '3d animation', 'animation', 'video services', 'photoshop']",336.0,w0335
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",167.0,w0166
+7.0,"['translation', 'spanish']",1162.0,w1158
+10.0,"['wordpress', 'html', 'website design', 'css', 'ecommerce']",543.0,w0542
+15.0,"['php', 'web scraping', 'html', 'mysql', 'wordpress']",377.0,w0376
+15.0,"['html', 'website design', 'php', 'wordpress', 'jquery / prototype']",507.0,w0506
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+10.0,"['translation', 'graphic design', 'photoshop', 'website design', 'illustrator']",317.0,w0316
+9.0,"['html', 'website design', 'css', 'joomla', 'psd to html']",1504.0,w1496
+10.0,"['html', 'php', 'css']",1367.0,w1363

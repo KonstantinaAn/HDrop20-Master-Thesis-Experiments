@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+35.0,"['mobile phone', 'android', 'iphone', 'ipad']",340.0,w0339
+50.0,['telecommunications engineering'],970.0,w0967
+25.0,"['software architecture', 'engineering', 'microsoft access', 'web hosting', 'excel']",1598.0,w1586
+25.0,"['mobile phone', 'iphone', 'android', 'php', 'anything goes']",155.0,w0154
+20.0,"['php', 'mysql', 'linux', 'web hosting']",635.0,w0634
+15.0,"['android', 'mobile phone', 'iphone']",1109.0,w1106
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",341.0,w0340
+10.0,"['android', 'java']",1103.0,w1100
+19.0,"['linux', 'system admin', 'apache', 'web hosting', 'windows server']",1115.0,w1112
+15.0,"['mechanical engineering', '3d rendering', '3d modelling', 'product design']",907.0,w0904

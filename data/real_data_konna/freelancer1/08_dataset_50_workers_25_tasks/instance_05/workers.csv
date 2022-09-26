@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+14.0,['logo design'],1508.0,w1500
+15.0,"['graphic design', 'logo design']",1305.0,w1301
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+25.0,"['graphic design', 'logo design']",1700.0,w1684
+11.0,"['video services', 'videography']",1525.0,w1516
+8.0,"['articles', 'proofreading', 'editing']",1431.0,w1426
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+10.0,"['graphic design', 'illustrator', 'photoshop', 'logo design', 'flyer design']",974.0,w0971
+4.0,"['photoshop', 'photo editing', 'illustrator', 'illustration', 'photoshop design']",528.0,w0527
+20.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",723.0,w0722
+20.0,"['banner design', 'logo design']",1670.0,w1655
+30.0,['magento'],1210.0,w1206
+5.0,"['psd to html', 'html', 'website design', 'css']",707.0,w0706
+15.0,"['php', 'wordpress', 'css', 'website design', 'html']",327.0,w0326
+15.0,"['graphic design', 'logo design', 'css', 'brochure design']",960.0,w0957
+30.0,"['c# programming', 'jquery / prototype', 'css', 'asp', 'html']",653.0,w0652
+10.0,['logo design'],1530.0,w1521
+15.0,"['logo design', 'photoshop']",550.0,w0549
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+12.0,"['graphic design', 'photoshop', 'logo design', 'caricature &amp; cartoons', 'photo editing']",691.0,w0690
+15.0,"['graphic design', 't-shirts', 'photoshop', 'photoshop design', 'covers &amp; packaging']",576.0,w0575
+20.0,"['website design', 'graphic design', 'php', 'flash', 'logo design']",5.0,w0005
+20.0,"['illustrator', 'caricature &amp; cartoons', 'illustration']",1072.0,w1069
+5.0,"['video broadcasting', 'linux', 'video services']",1627.0,w1613
+45.0,"['graphic design', 'photoshop', 'logo design', 'audio services']",1528.0,w1519
+7.0,"['graphic design', 'logo design']",1057.0,w1054
+10.0,"['mysql', 'php', 'css', 'graphic design']",1623.0,w1610
+10.0,"['photoshop', 'graphic design', '3ds max', '3d rendering', 'logo design']",1286.0,w1282
+3.0,"['data entry', 'copy typing', 'excel', 'data processing', 'word']",1423.0,w1418
+20.0,"['logo design', 'graphic design', 'photoshop', 'illustration']",323.0,w0322
+30.0,"['graphic design', 'photoshop', 'logo design']",1534.0,w1525
+15.0,"['virtual assistant', 'php', 'data entry', 'article rewriting', 'sales']",212.0,w0211
+15.0,"['graphic design', 'photoshop', 'logo design', 'indesign']",464.0,w0463
+20.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",332.0,w0331
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+15.0,"['php', 'software architecture', 'javascript', 'prestashop', 'css']",906.0,w0903
+8.0,"['graphic design', 'illustrator', 'logo design', 'photoshop design', 'photoshop']",1111.0,w1108
+20.0,"['html', 'css', 'joomla', 'php', 'website design']",142.0,w0141
+20.0,"['photoshop', 'graphic design', 'illustrator', 'logo design', 'audio services']",1307.0,w1303
+13.0,"['graphic design', 'logo design', 'photoshop', 'business cards']",489.0,w0488
+20.0,"['video services', 'animation', 'photoshop', 'after effects', 'graphic design']",625.0,w0624
+10.0,"['css', 'php', 'ajax', 'javascript', 'website design']",1683.0,w1668
+25.0,"['magento', 'logo design', 'graphic design', 'ecommerce']",1721.0,w1705
+45.0,"['graphic design', 'logo design', 'stationery design']",491.0,w0490
+8.0,"['internet marketing', 'marketing', 'seo', 'sales', 'link building']",0.0,w0000
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+16.0,"['graphic design', 'photoshop', 'logo design', 'banner design', 'illustrator']",92.0,w0091
+6.0,"['data entry', 'virtuemart', 'excel', 'data processing', 'magento']",787.0,w0786
+10.0,"['php', 'project management', 'script install', '.net', 'windows desktop']",1561.0,w1550
+20.0,"['graphic design', 'logo design']",1458.0,w1452

@@ -1,0 +1,627 @@
+skill,skill_id,valuation
+experienced,570,46
+compiler,338,42
+crm,409,56
+adobe business catalyst,44,50
+postscript,1135,51
+e-publishing,513,84
+code,308,35
+jsonp,816,60
+tropo,1442,84
+erlang,559,49
+web page design,1561,64
+b2b,150,41
+website support,1587,71
+russian translation,1229,75
+criminal law,408,6
+e-business management,510,59
+instagram,746,81
+healthcare software,704,71
+scorm,1256,54
+business rescue,225,71
+restaurants industry,1207,74
+consultative sales management,358,56
+clickbank,290,76
+salesforce.com consulting,1245,15
+audio services,136,41
+sql development,1355,62
+office 365,1020,51
+cpa,401,65
+tax reporting,1400,90
+geolocation,654,72
+outside sales,1065,60
+tandem,1396,33
+chemical engineering,269,54
+social integration,1308,34
+regular expressions,1196,71
+personal injury,1092,101
+atmel avr,132,107
+system software,1392,59
+book sales,188,34
+danish,434,75
+news writing style,1003,80
+web os,1560,37
+character generator,266,80
+computer maintenance,345,59
+mediawiki,920,57
+apache mahout,87,62
+investor sales,769,62
+socket programming,1324,54
+human resources consulting (hr),718,41
+canadian french,248,50
+corporate videos,394,54
+electronic product design,539,30
+rf engineering,1215,73
+mobile advertising,952,96
+startup marketing,1365,66
+ppc,1140,32
+apparel retail industry,94,27
+microsoft access,934,61
+mobile 2.0,951,45
+linux kernel,856,7
+call center start up,243,65
+human resources planning (hr),720,48
+startup consulting,1363,60
+online assistant,1026,37
+web,1534,71
+fun,641,76
+corporate media,392,72
+call center administration,241,99
+plumbing,1121,66
+corporate law,391,36
+shoutcast,1283,78
+lightbox,849,39
+cinematography,279,80
+cataloging,257,84
+java api,797,30
+faxing,588,69
+content design,361,63
+fashion modeling,586,54
+immigration,731,100
+fashion designing,584,58
+security testing,1265,56
+teaching,1402,41
+invoicing,770,49
+ssh,1360,58
+direct marketing,487,89
+resin,1203,64
+educational materials,530,64
+bgp,166,46
+photoshop,1100,58
+vba programming,1474,49
+commercial product photography,328,57
+healthcare systems,705,41
+piano,1110,55
+app design,92,31
+interior design-residential,754,47
+database programming,461,53
+google plus,677,67
+content development,362,45
+xsl,1624,61
+computer hardware,343,47
+asp classic,127,68
+licensing,847,68
+fashion illustration,585,83
+mobile phone,960,64
+irish,786,51
+mysql 4.x,994,70
+norwegian,1014,44
+ap style,85,78
+cgi/perl,261,70
+croatian,412,51
+business to business marketing strategy (b2b),226,68
+jpa,811,81
+fixture design,617,80
+performance testing,1089,53
+letter writing,844,53
+scrum,1259,47
+displays,494,60
+dom,500,23
+pl,1117,31
+textiles,1426,29
+freebsd,633,45
+motion graphics,968,72
+graphic art,687,69
+civil,285,100
+snmp,1301,58
+jboss,802,28
+widget,1595,81
+server administration,1276,70
+inventory management,767,52
+compositing,339,74
+blackberry enterprise server,173,90
+poetry,1123,66
+orm,1054,14
+swing,1384,37
+it consulting,787,43
+spanish translation,1345,43
+assembly,130,43
+system administration,1389,7
+picture books,1113,3
+audio books,133,59
+avid,147,38
+nokia,1010,101
+glassfish,664,40
+t-shirt design,1393,43
+reverse engineering,1212,81
+customer satisfaction,429,58
+phpmyadmin,1107,89
+system analysis,1390,58
+database management,459,56
+product illustration,1155,66
+paypal api,1078,89
+forum posting,631,76
+realist painting,1190,17
+fitness industry,616,65
+system design,1391,54
+change management,262,95
+display advertising,493,74
+presentation design,1141,44
+flowcharts,624,84
+local advertising,865,71
+japanese,794,48
+social networking sites,1320,62
+2d art,5,46
+arabic,105,76
+facebook design,577,52
+microsoft visual studio,943,72
+vb script,1471,53
+company newsletters,335,56
+payroll processing,1081,60
+microsoft outlook,939,42
+murals,987,58
+pc hardware,1082,54
+application frameworks,101,66
+algorithm design,66,72
+memcached,927,84
+user manuals,1469,54
+wireframes,1606,76
+public speaking,1174,56
+canvas prints,249,43
+linux system administration,858,76
+brand advertising,193,38
+lan,829,53
+lighttpd,850,76
+other - illustration,1059,57
+character rigging,268,62
+inker,745,64
+business requirements,224,60
+online content,1027,33
+ipod touch,784,90
+metatrader,930,45
+magic,880,56
+symfony,1388,47
+application support,102,63
+travel planning,1440,57
+outbound sales,1063,56
+custom facebook pages,422,74
+web marketing,1558,74
+web analytics,1537,70
+puppet,1178,62
+magazine articles,876,62
+pixologic zbrush,1116,53
+linux server,857,58
+order processing,1049,60
+database administration,454,69
+typo3,1452,33
+mobile marketing,959,44
+stored procedures,1370,81
+linq to sql,854,45
+color concepts,317,34
+plastics engineering,1118,70
+video marketing,1495,68
+ssl,1362,57
+visual basic.net,1513,39
+landscape design,832,57
+cpanel,402,48
+powershell,1139,24
+hebrew,706,46
+kernel,820,68
+desktop applications,472,76
+internet leads,757,51
+socialengine,1323,55
+comic art,321,22
+test automation,1421,57
+insurance industry,748,76
+excel programming,567,29
+photoshop design,1102,59
+dns,498,42
+comic book illustration,323,84
+interaction design,751,31
+mail merge,881,77
+visualization,1519,56
+portrait illustration,1127,83
+load balancing,863,66
+hd video,701,80
+calligraphy,245,62
+cocoa,305,57
+visual design,1516,71
+bioinformatics,169,32
+video streaming,1500,38
+autodesk mudbox,144,48
+arm,114,57
+quartz,1183,55
+paypal integration,1079,48
+landing page design,830,68
+directx,491,51
+comics,326,44
+core java,381,55
+copyright,377,63
+amazon web services,74,72
+online help,1028,75
+pic,1111,45
+.net compact framework,3,61
+blog commenting,177,56
+electrical,535,25
+custom websites,424,72
+direct digital marketing,485,76
+vietnamese,1504,43
+recruiting,1193,31
+google docs,673,69
+intranet,766,62
+song writing,1338,34
+web presence,1562,33
+teaching english,1403,22
+coaching,304,28
+icons,723,80
+ccna,258,57
+environmental,557,49
+wan,1531,75
+flash presentations,622,78
+travel arrangements,1439,67
+alpha,69,67
+trados,1435,64
+facebook api,575,41
+squarespace,1359,58
+typesetting,1450,70
+tutoring,1446,54
+nosql,1015,33
+business writing,228,77
+custom software development,423,45
+motion graphic design,967,47
+clothing design,298,78
+logistics,867,71
+google maps api,675,84
+educational institutions,529,69
+video art,1487,50
+web security,1567,78
+umbraco,1457,63
+web 2.0 development,1536,74
+mail servers,882,44
+calendar management,240,46
+polish,1124,90
+book illustration,187,77
+data structures,451,38
+clustering,301,61
+data administration,436,53
+merchandising,928,33
+design strategy,470,82
+moodle,965,58
+chinese translation,276,29
+digital photography,484,63
+mural painting,986,73
+guitar,695,39
+design specifications,469,51
+algorithm development,67,72
+supply chain management,1380,44
+web maintenance,1557,60
+child book illustration,271,90
+paid content,1069,55
+digital film,481,87
+solomon,1337,51
+sugar crm,1378,77
+proposal writing,1165,30
+game programming,646,77
+2d graphics,7,59
+experience design,569,68
+ffmpeg,590,73
+internet technologies,761,80
+organizational behavior,1051,80
+sales materials,1237,52
+web based solutions,1540,33
+ipad,774,76
+joomla,807,62
+graphics,690,53
+mechanical,916,40
+radio,1185,47
+web programming,1564,75
+wpf,1616,2
+psd to wordpress,1170,37
+videos,1503,44
+adobe creative suite,46,44
+reviews,1213,29
+video editing,1492,46
+html,714,82
+brochure design,197,72
+academic writing,20,47
+rewriting,1214,58
+eclipse,517,65
+payment gateway integration,1075,70
+phonegap,1094,42
+industrial,738,65
+music,988,57
+photography,1099,92
+opencart,1036,17
+e-books,509,84
+quickbooks,1184,50
+presentations,1142,76
+customer service,430,77
+french,635,97
+cartoon,253,44
+article writing,121,57
+film,596,72
+visio,1509,47
+jdbc,804,67
+drawing,502,63
+video,1485,71
+cakephp,238,89
+operating systems,1040,95
+adobe illustrator,48,31
+product design,1153,87
+javascript,800,54
+email marketing,544,80
+email,541,36
+objective-c,1018,60
+blog writing,181,61
+brochures,198,42
+engineering,550,56
+iphone development,781,64
+ajax,64,45
+marketing,893,93
+.net,2,41
+web design,1551,113
+vba,1473,51
+telemarketing,1411,60
+microsoft sql server,941,47
+director,489,78
+flash animation,619,41
+ms,972,53
+drafting,501,72
+internet marketing,758,35
+coreldraw,383,67
+psd to html,1169,66
+transcription,1437,69
+skype,1294,55
+perl,1091,79
+voice over,1523,85
+website development,1583,73
+project management,1160,70
+content management,364,16
+photo editing,1095,64
+linux,855,55
+translation,1438,51
+web development,1553,57
+sharepoint,1277,88
+android development,79,87
+logo design,868,84
+editing,524,27
+soap,1302,52
+research,1202,81
+wcf,1533,65
+actionscript,30,27
+css,0,0
+design,0,0
+email design,0,0
+icontact,0,0
+jquery,0,0
+mailchimp,0,0
+newsletter design,0,0
+newsletters,0,0
+templates,0,0
+virtuemart,0,0
+website design,0,0
+advertising,0,0
+digital,0,0
+digital illustration,0,0
+http,0,0
+illustration,0,0
+indesign,0,0
+painting,0,0
+publishing,0,0
+audio transcription,0,0
+english,0,0
+portuguese,0,0
+spanish,0,0
+ecommerce,0,0
+oscommerce,0,0
+php,0,0
+php 5,0,0
+prestashop,0,0
+smarty,0,0
+wordpress,0,0
+j2ee,0,0
+java,0,0
+python,0,0
+health,0,0
+drupal,0,0
+open source,0,0
+3d,0,0
+access,0,0
+adobe air,0,0
+adobe photoshop,0,0
+air,0,0
+android,0,0
+apache,0,0
+application development,0,0
+asp,0,0
+asp.net,0,0
+authorize.net,0,0
+banner,0,0
+blackberry,0,0
+c,0,0
+c#,0,0
+c++,0,0
+coldfusion,0,0
+com,0,0
+contracts,0,0
+corel draw,0,0
+dhtml,0,0
+dreamweaver,0,0
+fireworks,0,0
+flash,0,0
+iis,0,0
+iphone,0,0
+link building,0,0
+magento,0,0
+make,0,0
+management,0,0
+max,0,0
+maya,0,0
+microsoft,0,0
+mobile,0,0
+mobile application development,0,0
+mysql,0,0
+oracle,0,0
+pay per click,0,0
+paypal,0,0
+phpbb,0,0
+programming,0,0
+search engine marketing (sem),0,0
+search engine optimization (seo),0,0
+sem,0,0
+seo,0,0
+social media marketing,0,0
+software,0,0
+software development,0,0
+sql,0,0
+sql server,0,0
+tomcat,0,0
+vb.net,0,0
+vista,0,0
+windows,0,0
+windows phone,0,0
+xhtml,0,0
+xml,0,0
+branding,0,0
+illustrator,0,0
+acrobat,0,0
+adobe indesign,0,0
+blogs,0,0
+developer,0,0
+excel,0,0
+gis,0,0
+graphic design,0,0
+joomla!,0,0
+microsoft word,0,0
+miva merchant,0,0
+pdf,0,0
+powerpoint,0,0
+real estate,0,0
+sketchup,0,0
+webmaster,0,0
+accounting,0,0
+animation,0,0
+analytics,0,0
+css3,0,0
+google analytics,0,0
+html5,0,0
+social marketing,0,0
+social media blogging,0,0
+wordpress development,0,0
+data entry,0,0
+amazon,0,0
+articles,0,0
+web content,0,0
+broadcasting,0,0
+corporate,0,0
+writing,0,0
+adobe acrobat,0,0
+creative writing,0,0
+desktop publishing,0,0
+ms excel,0,0
+ms word,0,0
+directory submission,0,0
+smm,0,0
+yahoo,0,0
+content writing,0,0
+grammar,0,0
+medical,0,0
+medical writing,0,0
+press releases,0,0
+reports,0,0
+sales,0,0
+sales letters,0,0
+technical writing,0,0
+3ds max,0,0
+adobe after effects,0,0
+autodesk maya,0,0
+artist,0,0
+comic book art,0,0
+concept art,0,0
+skill,0,0
+citrix,0,0
+facebook,0,0
+mobile applications,0,0
+blogging,0,0
+freelance,0,0
+journalism,0,0
+proofreading,0,0
+website content,0,0
+kindle,0,0
+mobi,0,0
+italian,0,0
+russian,0,0
+self,0,0
+magazine layout,0,0
+linq,0,0
+android programming,0,0
+asp.net mvc,0,0
+mvc,0,0
+software design,0,0
+uml,0,0
+visual studio,0,0
+xslt,0,0
+on page,0,0
+on page optimization,0,0
+smo,0,0
+web services,0,0
+consulting,0,0
+mobile design,0,0
+psd,0,0
+unix,0,0
+windows server,0,0
+amazon ec2,0,0
+azure,0,0
+benefits,0,0
+codeigniter,0,0
+copywriting,0,0
+gaming,0,0
+google maps,0,0
+linkedin,0,0
+microsoft azure,0,0
+postgresql,0,0
+silverlight,0,0
+sybase,0,0
+twitter,0,0
+vtiger,0,0
+web 2.0,0,0
+windows 7,0,0
+windows azure,0,0
+windows mobile,0,0
+xcode,0,0
+zen cart,0,0
+zend,0,0
+corporate branding,0,0
+videography,0,0
+gimp,0,0
+consultant,0,0
+facebook marketing,0,0
+lead generation,0,0
+leads,0,0
+market research,0,0
+training,0,0
+communication skills,0,0
+erp,0,0
+software solutions,0,0
+vector illustration,0,0
+game development,0,0
+ruby,0,0
+outlook,0,0
+computer graphics,0,0
+ms office,0,0
+ms office suite,0,0
+administrative support,0,0
+business correspondence,0,0
+data encoding,0,0
+payment processing,0,0
+mcp,0,0

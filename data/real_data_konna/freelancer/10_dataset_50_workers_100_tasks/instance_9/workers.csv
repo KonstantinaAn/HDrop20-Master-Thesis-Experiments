@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",709.0,w0708
+25.0,"['3d modelling', '3d animation', '3d rendering', '3ds max', 'graphic design']",193.0,w0192
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",494.0,w0493
+15.0,"['php', 'wordpress', 'javascript', 'website design', 'html']",1051.0,w1048
+15.0,"['graphic design', 'logo design', 'css', 'brochure design']",960.0,w0957
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+5.0,"['reviews', 'ghostwriting', 'blog']",1132.0,w1128
+15.0,"['excel', 'css', 'translation', 'php', 'data entry']",881.0,w0878
+8.0,"['graphic design', 'illustrator', 'logo design', 'photoshop design', 'photoshop']",1111.0,w1108
+5.0,"['data entry', 'internet marketing', 'excel', 'data processing', 'virtual assistant']",1230.0,w1226
+14.0,"['linux', 'php']",1428.0,w1423
+12.0,"['translation', '3d modelling', 'autocad']",790.0,w0789
+20.0,"['php', 'mysql', 'sql', '.net', 'html']",93.0,w0092
+14.0,"['website design', 'html', 'php']",1117.0,w1114
+23.0,"['website design', 'php', 'css', 'psd to html', 'html']",275.0,w0274
+10.0,"['logo design', 'graphic design', 'photoshop', 'website design', 'banner design']",59.0,w0059
+15.0,"['php', 'xml', 'website design', 'wordpress', 'css']",863.0,w0861
+10.0,"['internet marketing', 'facebook marketing', 'excel', 'seo', 'social networking']",1216.0,w1212
+8.0,"['html', 'php', 'wordpress', 'css', 'psd to html']",910.0,w0907
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+18.0,"['css', 'html', 'php', 'psd to html', 'website design']",1058.0,w1055
+10.0,"['graphic design', 'logo design', 'flyer design', 'banner design', 'photoshop design']",706.0,w0705
+10.0,"['c# programming', '.net', 'visual basic', 'c++ programming', 'software architecture']",1126.0,w1123
+4.0,"['photoshop', 'photo editing', 'illustrator', 'illustration', 'photoshop design']",528.0,w0527
+10.0,"['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting']",1719.0,w1703
+20.0,"['c++ programming', 'matlab &amp; mathematica', 'electrical engineering', 'electronics', 'mathematics']",1008.0,w1005
+15.0,"['php', 'mysql', 'css', 'javascript', 'jquery / prototype']",552.0,w0551
+7.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",78.0,w0077
+15.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",749.0,w0748
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",168.0,w0167
+20.0,"['seo', 'internet marketing', 'articles', 'link building', 'article rewriting']",1280.0,w1276
+25.0,"['php', 'ajax', 'javascript', 'website design']",1558.0,w1547
+8.0,['website design'],1114.0,w1111
+10.0,"['excel', 'finance', 'accounting', 'data entry']",728.0,w0727
+30.0,"['wordpress', 'html', 'graphic design', 'php', 'website design']",1062.0,w1059
+10.0,"['website design', 'html']",1050.0,w1047
+25.0,"['website design', 'wordpress', 'html', 'graphic design', 'php']",587.0,w0586
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",202.0,w0201
+10.0,"['data entry', 'web search', 'excel', 'data processing', 'web scraping']",504.0,w0503
+20.0,"['wordpress', 'php', 'website design', 'html', 'css']",295.0,w0294
+3.0,"['data entry', 'copy typing', 'excel', 'data processing', 'word']",1423.0,w1418
+20.0,"['illustrator', 'graphic design', 'photoshop', 'photoshop design', 'illustration']",819.0,w0818
+10.0,"['articles', 'article rewriting', 'academic writing', 'copywriting', 'ghostwriting']",241.0,w0240
+20.0,"['.net', 'asp', 'mysql', 'javascript', 'php']",1302.0,w1298
+10.0,"['video services', 'graphic design', 'animation', 'website design', 'audio services']",877.0,w0874
+7.0,"['academic writing', 'articles']",956.0,w0953
+12.0,"['linux', 'apache', 'system admin']",1195.0,w1191
+10.0,"['translation', 'spanish', 'pdf']",815.0,w0814
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+3.0,"['data entry', 'excel']",1565.0,w1553

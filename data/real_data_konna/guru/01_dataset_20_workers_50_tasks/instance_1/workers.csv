@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+500.0,"['css', 'css javascript', 'design', 'gaming', 'html5', 'javascript', 'joomla', 'ms excel', 'mysql', 'oscommerce', 'php', 'software', 'vb.net', 'visual basic', 'zen cart', 'zend']",3438.0,w3375
+400.0,"['advertising', 'financial planning', 'it sales', 'marketing', 'sales', 'security']",2738.0,w2692
+28.0,"['css', 'css3', 'html', 'jquery', 'web development', 'wordpress']",3543.0,w3479
+25.0,"['consulting', 'database design', 'drupal', 'e-learning', 'it consulting', 'joomla', 'magento', 'mobile application development', 'network security', 'responsive web design', 'software design', 'software requirements', 'web development', 'wordpress']",1517.0,w1496
+75.0,"['access', 'consulting', 'design', 'dreamweaver', 'excel', 'facebook', 'fireworks', 'indesign', 'joomla', 'linkedin', 'marketing', 'ms', 'ms excel', 'ms powerpoint', 'ms word', 'networking', 'open source', 'opencart', 'outlook', 'phpbb', 'powerpoint', 'social networking', 'twitter', 'wordpress']",27.0,w0027
+50.0,"['bulk mailing', 'collections', 'event management', 'internet research', 'make', 'management', 'microsoft', 'processing', 'project management', 'real estate', 'recruiting', 'research', 'sales', 'time management', 'travel arrangements', 'windows', 'word processing']",897.0,w0883
+100.0,"['application development', 'css', 'design', 'developer', 'html', 'javascript', 'management', 'matlab', 'mysql', 'oracle', 'php', 'programming', 'project management']",920.0,w0906
+50.0,"['creative writing', 'editing', 'focus', 'make', 'poetry', 'proofreading', 'short stories', 'transcription', 'writing']",2548.0,w2506
+100.0,"['.net', 'analysis', 'asp', 'asp.net', 'c#', 'database design', 'design', 'html', 'javascript', 'microsoft', 'microsoft visual studio', 'software', 'software development', 'software development life cycle', 'sql', 'sql server', 'ssis', 'stored procedures', 'system analysis', 'system design', 'visual studio', 'windows']",2486.0,w2445
+25.0,"['copy editing', 'design', 'editing', 'english', 'fiction', 'grammar', 'make', 'powerpoint', 'powerpoint presentations', 'presentation design', 'presentations', 'public speaking', 'spelling', 'writing']",2345.0,w2306
+26.0,"['html', 'sharepoint']",1306.0,w1289
+25.0,"['android', 'app development', 'application development', 'com', 'http', 'ios', 'iphone', 'java', 'mobile', 'mobile application development', 'skype']",3916.0,w3844
+25.0,"['.net', 'apache', 'application development', 'asp', 'c', 'c#', 'css', 'drupal', 'html', 'javascript', 'joomla', 'jsp', 'linux', 'microsoft', 'mysql', 'php', 'programming', 'sharepoint', 'web technologies', 'windows', 'wordpress']",2421.0,w2380
+25.0,"['adobe photoshop', 'custom websites', 'photo editing', 'photoshop design', 'website design']",3195.0,w3138
+30.0,"['adobe photoshop', 'ajax', 'css3', 'html', 'html5', 'jquery', 'php', 'wordpress']",4054.0,w3976
+90.0,"['ajax', 'css3', 'drupal', 'html5', 'joomla', 'jquery', 'magento', 'php', 'seo', 'wordpress']",677.0,w0664
+30.0,"['amazon', 'cloud based', 'computer security', 'css', 'custom cms', 'ecommerce', 'erp', 'html5', 'joomla', 'linux', 'magento', 'mail servers', 'nginx', 'opencart', 'paypal api', 'php', 'postgresql', 'python', 'shopping carts', 'software development', 'website design', 'wordpress']",1913.0,w1881
+60.0,"['animation', 'communication skills', 'css', 'design', 'dreamweaver', 'freelance', 'html', 'illustration', 'indesign', 'layout design', 'logo design', 'magazine layout', 'microsoft', 'website design']",246.0,w0242
+30.0,"['c++', 'java', 'jdbc', 'mysql']",3708.0,w3640
+100.0,"['academic writing', 'aviation', 'blog writing', 'copywriting', 'data analysis', 'ghost writing', 'medical', 'medical writing', 'presentations', 'technical writing']",1729.0,w1700

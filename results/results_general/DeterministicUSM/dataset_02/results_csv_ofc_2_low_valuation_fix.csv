@@ -1,0 +1,480 @@
+Official_Experiment_dUSM_dataset_02_instance_01_0_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_01/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_01/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.618371   [t1]        0       w00           1.0
+1   2.622405   [t0]        1       w01           0.0
+2   2.017619   [t1]        2       w02           0.0
+3   1.331005   [t0]        3       w03           1.0
+4   2.654784   [t1]        4       w04           0.0
+5   4.599145   [t0]        5       w05           0.0
+6   7.245382   [t1]        6       w06           0.0
+7   7.740132   [t0]        7       w07           0.0
+8   8.498104   [t1]        8       w08           0.0
+9  10.122939   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  17.705842           1.0
+1    t1         1  14.603894           1.0
+2    t2         2  19.316960           0.0
+3    t3         3  19.214267           0.0
+4    t4         4  18.521873           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 17.705842332053994, 't1': 14.603894406023056, 't2': 19.31696030371471, 't3': 19.214266960228088, 't4': 18.521873141659707}, 'worke_cost': {'w00': 1.6183709151714458, 'w01': 2.6224053231513045, 'w02': 2.0176191051953234, 'w03': 1.331004958769198, 'w04': 2.654783988816765, 'w05': 4.599144837898585, 'w06': 7.245381687727312, 'w07': 7.740132371455921, 'w08': 8.498104168747517, 'w09': 10.122939200304518}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 20.465210212451154}"
+Official_Experiment_dUSM_dataset_02_instance_02_1_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_02/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_02/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.841163   [t1]        0       w00           0.0
+1   1.992025   [t0]        1       w01           1.0
+2   2.206838   [t1]        2       w02           0.0
+3   2.607301   [t0]        3       w03           0.0
+4   1.059145   [t1]        4       w04           1.0
+5   4.261938   [t0]        5       w05           0.0
+6   6.268058   [t1]        6       w06           0.0
+7   4.386916   [t0]        7       w07           0.0
+8  10.995919   [t1]        8       w08           0.0
+9  10.084848   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  16.053503           1.0
+1    t1         1  19.721482           1.0
+2    t2         2  13.800338           0.0
+3    t3         3  15.416733           0.0
+4    t4         4   1.228643           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 16.053503301155317, 't1': 19.72148213591106, 't2': 13.800337618515004, 't3': 15.416732735822144, 't4': 1.2286431942445262}, 'worke_cost': {'w00': 3.84116290510284, 'w01': 1.9920248280211528, 'w02': 2.206838347451413, 'w03': 2.6073005122187745, 'w04': 1.0591453512371114, 'w05': 4.261937808591798, 'w06': 6.268058355496431, 'w07': 4.386915611339052, 'w08': 10.995918874003982, 'w09': 10.084848402214504}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 25.24498927297815}"
+Official_Experiment_dUSM_dataset_02_instance_03_2_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_03/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_03/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.876312   [t1]        0       w00           0.0
+1   3.439157   [t0]        1       w01           0.0
+2   1.762871   [t1]        2       w02           1.0
+3   1.405265   [t0]        3       w03           1.0
+4   3.193186   [t1]        4       w04           0.0
+5   7.429718   [t0]        5       w05           0.0
+6   7.275927   [t1]        6       w06           0.0
+7   7.374135   [t0]        7       w07           0.0
+8  10.709468   [t1]        8       w08           0.0
+9   8.468274   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.995907           1.0
+1    t1         1  13.044222           1.0
+2    t2         2  19.869321           0.0
+3    t3         3   5.990432           0.0
+4    t4         4  18.063932           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.995906623809637, 't1': 13.044222058758624, 't2': 19.869321343537717, 't3': 5.990431529667895, 't4': 18.063932375735977}, 'worke_cost': {'w00': 1.8763122536956232, 'w01': 3.439156817721959, 'w02': 1.7628712066476404, 'w03': 1.405264776917552, 'w04': 3.193185581632896, 'w05': 7.429718069641446, 'w06': 7.27592708126551, 'w07': 7.374135314080621, 'w08': 10.70946751644082, 'w09': 8.468274123982317}, 'n': 5, 'm': 10, 'solution': {'w02', 'w03'}, 'value': 19.871992699003066}"
+Official_Experiment_dUSM_dataset_02_instance_04_3_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_04/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_04/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':        cost skills  user_id user_name  y_star_index
+0  1.648247   [t1]        0       w00           1.0
+1  1.339542   [t0]        1       w01           1.0
+2  3.111332   [t1]        2       w02           0.0
+3  2.684875   [t0]        3       w03           0.0
+4  1.700529   [t1]        4       w04           0.0
+5  5.490475   [t0]        5       w05           0.0
+6  4.640869   [t1]        6       w06           0.0
+7  4.947947   [t0]        7       w07           0.0
+8  8.084975   [t1]        8       w08           0.0
+9  8.654453   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  14.969097           1.0
+1    t1         1  13.251305           1.0
+2    t2         2  14.681630           0.0
+3    t3         3   6.901652           0.0
+4    t4         4  13.947197           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 14.969097135528411, 't1': 13.251304752407473, 't2': 14.6816299693311, 't3': 6.901652312571504, 't4': 13.947196674412057}, 'worke_cost': {'w00': 1.6482471273932275, 'w01': 1.3395418975087128, 'w02': 3.1113316781274647, 'w03': 2.6848750056150914, 'w04': 1.7005285146440403, 'w05': 5.490475440659443, 'w06': 4.640869066960528, 'w07': 4.94794682726125, 'w08': 8.084975496424956, 'w09': 8.654452890375971}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 18.089057380315914}"
+Official_Experiment_dUSM_dataset_02_instance_05_4_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_05/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_05/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.511471   [t1]        0       w00           1.0
+1   3.822896   [t0]        1       w01           0.0
+2   1.545268   [t1]        2       w02           0.0
+3   1.318720   [t0]        3       w03           1.0
+4   2.751368   [t1]        4       w04           0.0
+5   4.662845   [t0]        5       w05           0.0
+6   4.520711   [t1]        6       w06           0.0
+7   5.315424   [t0]        7       w07           0.0
+8  10.831741   [t1]        8       w08           0.0
+9  10.269477   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  10.088007           1.0
+1    t1         1  15.027689           1.0
+2    t2         2   2.230662           0.0
+3    t3         3   1.716702           0.0
+4    t4         4  11.204826           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 10.088007032314044, 't1': 15.027689251860023, 't2': 2.230661952231954, 't3': 1.7167017663243995, 't4': 11.204825674672316}, 'worke_cost': {'w00': 1.5114711584981435, 'w01': 3.822896084163015, 'w02': 1.545267532143887, 'w03': 1.3187202602552186, 'w04': 2.7513679534499222, 'w05': 4.662844741327328, 'w06': 4.520710553476721, 'w07': 5.315423604001666, 'w08': 10.831740669532689, 'w09': 10.269477128959924}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 15.93214098937002}"
+Official_Experiment_dUSM_dataset_02_instance_06_5_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_06/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_06/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.683880   [t1]        0       w00           0.0
+1   2.517312   [t0]        1       w01           1.0
+2   3.748047   [t1]        2       w02           0.0
+3   2.757024   [t0]        3       w03           0.0
+4   1.765498   [t1]        4       w04           1.0
+5   6.008349   [t0]        5       w05           0.0
+6   4.805679   [t1]        6       w06           0.0
+7   6.907984   [t0]        7       w07           0.0
+8  11.178112   [t1]        8       w08           0.0
+9   9.548471   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   5.312921           1.0
+1    t1         1  15.157535           1.0
+2    t2         2  18.083424           0.0
+3    t3         3  16.290662           0.0
+4    t4         4   9.822637           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 5.312921410458985, 't1': 15.157534861488582, 't2': 18.08342430867725, 't3': 16.29066157186919, 't4': 9.82263694560523}, 'worke_cost': {'w00': 3.6838799405751543, 'w01': 2.517312289106909, 'w02': 3.7480465393912654, 'w03': 2.757024442063422, 'w04': 1.7654984006749692, 'w05': 6.008348567332959, 'w06': 4.805679445455995, 'w07': 6.907984230162425, 'w08': 11.17811217953034, 'w09': 9.54847069641065}, 'n': 5, 'm': 10, 'solution': {'w06', 'w01'}, 'value': 13.147464537384664}"
+Official_Experiment_dUSM_dataset_02_instance_07_6_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_07/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_07/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.851875   [t1]        0       w00           0.0
+1   2.375396   [t0]        1       w01           1.0
+2   3.253313   [t1]        2       w02           0.0
+3   3.405854   [t0]        3       w03           0.0
+4   2.876117   [t1]        4       w04           1.0
+5   6.137264   [t0]        5       w05           0.0
+6   6.301710   [t1]        6       w06           0.0
+7   7.138200   [t0]        7       w07           0.0
+8  10.725394   [t1]        8       w08           0.0
+9  11.947694   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   5.803336           1.0
+1    t1         1   5.779996           1.0
+2    t2         2  16.852205           0.0
+3    t3         3   8.029401           0.0
+4    t4         4   6.135905           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 5.8033359954295625, 't1': 5.779995550809364, 't2': 16.852205481348044, 't3': 8.02940088903789, 't4': 6.135904975371447}, 'worke_cost': {'w00': 3.851874643095696, 'w01': 2.375396421587503, 'w02': 3.2533130334337947, 'w03': 3.4058542041812827, 'w04': 2.8761170094179755, 'w05': 6.137264403925792, 'w06': 6.3017102598503065, 'w07': 7.138200458583146, 'w08': 10.72539425335168, 'w09': 11.947694481010256}, 'n': 5, 'm': 10, 'solution': {'w01', 'w04'}, 'value': 6.331818115233449}"
+Official_Experiment_dUSM_dataset_02_instance_08_7_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_08/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_08/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.458054   [t1]        0       w00           0.0
+1   3.978853   [t0]        1       w01           0.0
+2   1.336833   [t1]        2       w02           1.0
+3   3.564571   [t0]        3       w03           1.0
+4   2.223161   [t1]        4       w04           0.0
+5   4.864144   [t0]        5       w05           0.0
+6   5.270408   [t1]        6       w06           0.0
+7   4.868398   [t0]        7       w07           0.0
+8   9.795319   [t1]        8       w08           0.0
+9  10.349405   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  10.384095           1.0
+1    t1         1   9.218827           1.0
+2    t2         2   1.381211           0.0
+3    t3         3   5.919874           0.0
+4    t4         4   1.115246           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 10.384095099337513, 't1': 9.218826762265085, 't2': 1.381211339309551, 't3': 5.919874325330854, 't4': 1.1152458921082689}, 'worke_cost': {'w00': 1.4580535304852544, 'w01': 3.978853373369888, 'w02': 1.336833365824039, 'w03': 3.564571322351082, 'w04': 2.223160662984835, 'w05': 4.864143937695149, 'w06': 5.270407770165426, 'w07': 4.8683980581695945, 'w08': 9.795319058494956, 'w09': 10.34940515110538}, 'n': 5, 'm': 10, 'solution': {'w02', 'w05'}, 'value': 13.401944558083407}"
+Official_Experiment_dUSM_dataset_02_instance_09_8_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_09/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_09/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.252678   [t1]        0       w00           0.0
+1   2.368154   [t0]        1       w01           0.0
+2   1.782795   [t1]        2       w02           0.0
+3   2.357059   [t0]        3       w03           1.0
+4   1.421346   [t1]        4       w04           1.0
+5   7.319215   [t0]        5       w05           0.0
+6   5.892668   [t1]        6       w06           0.0
+7   7.445799   [t0]        7       w07           0.0
+8  10.695266   [t1]        8       w08           0.0
+9   8.652531   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  14.354373           1.0
+1    t1         1  14.615241           1.0
+2    t2         2   5.484334           0.0
+3    t3         3   6.874686           0.0
+4    t4         4  19.980553           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 14.35437324570834, 't1': 14.615240640039628, 't2': 5.484333510930782, 't3': 6.874685586059876, 't4': 19.980553217332087}, 'worke_cost': {'w00': 2.2526778449238427, 'w01': 2.368154348907177, 'w02': 1.782795002638438, 'w03': 2.3570588944254776, 'w04': 1.4213458108087402, 'w05': 7.319214728021103, 'w06': 5.892667788102509, 'w07': 7.445799429659252, 'w08': 10.695266041002856, 'w09': 8.65253115043299}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 20.719887203219983}"
+Official_Experiment_dUSM_dataset_02_instance_10_9_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_10/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_10/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.725301   [t1]        0       w00           0.0
+1   3.499454   [t0]        1       w01           0.0
+2   2.119332   [t1]        2       w02           0.0
+3   2.423151   [t0]        3       w03           1.0
+4   1.018703   [t1]        4       w04           1.0
+5   4.106802   [t0]        5       w05           0.0
+6   6.705951   [t1]        6       w06           0.0
+7   6.213981   [t0]        7       w07           0.0
+8   9.946987   [t1]        8       w08           0.0
+9  11.021360   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  12.729719           1.0
+1    t1         1  14.328225           1.0
+2    t2         2  16.110946           0.0
+3    t3         3  19.558496           0.0
+4    t4         4  10.563231           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 12.729719228773344, 't1': 14.328225240045146, 't2': 16.11094605334013, 't3': 19.55849567708401, 't4': 10.563231285026816}, 'worke_cost': {'w00': 2.725300924681595, 'w01': 3.49945409505268, 'w02': 2.1193322032633413, 'w03': 2.423150638697073, 'w04': 1.0187026087035802, 'w05': 4.106802463943081, 'w06': 6.705950898060475, 'w07': 6.21398075368038, 'w08': 9.946986817601722, 'w09': 11.021359505479712}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 16.245191106814936}"
+Official_Experiment_dUSM_dataset_02_instance_11_10_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_11/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_11/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':        cost skills  user_id user_name  y_star_index
+0  2.086056   [t1]        0       w00           0.0
+1  1.864247   [t0]        1       w01           0.0
+2  1.338844   [t1]        2       w02           1.0
+3  1.218752   [t0]        3       w03           1.0
+4  3.848742   [t1]        4       w04           0.0
+5  6.979558   [t0]        5       w05           0.0
+6  5.629410   [t1]        6       w06           0.0
+7  7.264458   [t0]        7       w07           0.0
+8  9.920775   [t1]        8       w08           0.0
+9  8.286091   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.239535           1.0
+1    t1         1   5.629303           1.0
+2    t2         2  17.483736           0.0
+3    t3         3  15.551371           0.0
+4    t4         4   2.175887           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.239534586334862, 't1': 5.629302838031508, 't2': 17.483735951679446, 't3': 15.55137055451536, 't4': 2.175886677871831}, 'worke_cost': {'w00': 2.086056239220888, 'w01': 1.8642471835757568, 'w02': 1.3388442320576472, 'w03': 1.218751928715822, 'w04': 3.848741999529836, 'w05': 6.979558198485394, 'w06': 5.629409811962693, 'w07': 7.26445767633647, 'w08': 9.920774615264918, 'w09': 8.286090653895204}, 'n': 5, 'm': 10, 'solution': {'w02', 'w05'}, 'value': 15.550434993823327}"
+Official_Experiment_dUSM_dataset_02_instance_12_11_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_12/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_12/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   3.647206      [t1]        0       w00           0.0
+1   5.726951      [t0]        1       w01           0.0
+2   2.573240      [t1]        2       w02           0.0
+3   3.174073      [t0]        3       w03           1.0
+4   1.481069      [t1]        4       w04           0.0
+5   7.168436      [t0]        5       w05           0.0
+6   5.793751  [t1, t2]        6       w06           1.0
+7  12.331628      [t0]        7       w07           0.0
+8  10.124591      [t1]        8       w08           0.0
+9   9.357357  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.730830           1.0
+1    t1         1  16.229444           1.0
+2    t2         2   9.852933           1.0
+3    t3         3  11.770752           0.0
+4    t4         4   1.240311           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1', 't2'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 18.73082975170857, 't1': 16.229443950576826, 't2': 9.85293271173305, 't3': 11.770752050400516, 't4': 1.240311494308172}, 'worke_cost': {'w00': 3.647205524125337, 'w01': 5.72695130605412, 'w02': 2.5732396348548288, 'w03': 3.174073362505605, 'w04': 1.4810689582247454, 'w05': 7.168435768101077, 'w06': 5.7937512402651645, 'w07': 12.331628008428272, 'w08': 10.124590840054426, 'w09': 9.357356738249454}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 31.851019405652202}"
+Official_Experiment_dUSM_dataset_02_instance_13_12_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_13/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_13/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   7.013982      [t1]        0       w00           0.0
+1   2.910490      [t0]        1       w01           1.0
+2   2.537197      [t1]        2       w02           0.0
+3   4.241851      [t0]        3       w03           0.0
+4   3.526765      [t1]        4       w04           0.0
+5   7.722048  [t0, t2]        5       w05           0.0
+6   4.262065  [t1, t2]        6       w06           1.0
+7  11.888197  [t0, t2]        7       w07           0.0
+8  10.706551  [t1, t2]        8       w08           0.0
+9  23.917761  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   3.712143           1.0
+1    t1         1  14.546047           1.0
+2    t2         2   9.515544           1.0
+3    t3         3  13.725116           0.0
+4    t4         4   2.416514           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 3.7121433447434606, 't1': 14.546046555207596, 't2': 9.515543939281445, 't3': 13.72511551389981, 't4': 2.416514419296413}, 'worke_cost': {'w00': 7.013982412956854, 'w01': 2.910489939641995, 'w02': 2.537196535821639, 'w03': 4.2418508572768125, 'w04': 3.526764879548528, 'w05': 7.722047753009075, 'w06': 4.2620646123000725, 'w07': 11.888196726013865, 'w08': 10.70655107001707, 'w09': 23.91776120133363}, 'n': 5, 'm': 10, 'solution': {'w06'}, 'value': 19.799525882188966}"
+Official_Experiment_dUSM_dataset_02_instance_14_13_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_14/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_14/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   3.124206      [t1]        0       w00           0.0
+1   5.938633      [t0]        1       w01           0.0
+2   2.541938      [t1]        2       w02           0.0
+3   2.446120      [t0]        3       w03           1.0
+4   7.132292  [t1, t2]        4       w04           0.0
+5  12.778938  [t0, t2]        5       w05           0.0
+6   7.086851  [t1, t2]        6       w06           1.0
+7  15.345243  [t0, t2]        7       w07           0.0
+8   8.242169      [t1]        8       w08           0.0
+9  11.782197  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   6.625073           1.0
+1    t1         1  11.286996           1.0
+2    t2         2  11.063224           1.0
+3    t3         3   6.969564           0.0
+4    t4         4   1.389032           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 6.6250725742552685, 't1': 11.286996348433496, 't2': 11.063224091695128, 't3': 6.969563623681475, 't4': 1.3890315330798455}, 'worke_cost': {'w00': 3.1242059462784937, 'w01': 5.93863340028043, 'w02': 2.5419382059795828, 'w03': 2.4461202023614192, 'w04': 7.132292104425814, 'w05': 12.778938133832806, 'w06': 7.086851282427322, 'w07': 15.345243064117202, 'w08': 8.242168718397036, 'w09': 11.782197063973452}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 19.442321529595155}"
+Official_Experiment_dUSM_dataset_02_instance_15_14_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_15/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_15/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   5.756640      [t1]        0       w00           0.0
+1   3.516383      [t0]        1       w01           0.0
+2   1.623468      [t1]        2       w02           0.0
+3   3.102944      [t0]        3       w03           1.0
+4   1.698959  [t1, t2]        4       w04           1.0
+5   7.641285  [t0, t2]        5       w05           0.0
+6   4.660561  [t1, t2]        6       w06           0.0
+7  10.278367  [t0, t2]        7       w07           0.0
+8  10.585668      [t1]        8       w08           0.0
+9  20.763002  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   5.286869           1.0
+1    t1         1  10.982273           1.0
+2    t2         2   1.771461           1.0
+3    t3         3   7.088690           0.0
+4    t4         4   4.808369           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 5.286868568777265, 't1': 10.982273314330763, 't2': 1.7714612106635863, 't3': 7.0886904046206265, 't4': 4.808368730577545}, 'worke_cost': {'w00': 5.7566402831574734, 'w01': 3.5163833390957118, 'w02': 1.6234681910444904, 'w03': 3.1029443777256094, 'w04': 1.6989588372053988, 'w05': 7.641284536592234, 'w06': 4.6605608113673, 'w07': 10.278367495459127, 'w08': 10.58566842545965, 'w09': 20.763002306548163}, 'n': 5, 'm': 10, 'solution': {'w06'}, 'value': 8.09317371362705}"
+Official_Experiment_dUSM_dataset_02_instance_16_15_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_16/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_16/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   6.272830      [t1]        0       w00           0.0
+1   3.766750      [t0]        1       w01           0.0
+2   2.137845      [t1]        2       w02           0.0
+3   2.288814      [t0]        3       w03           1.0
+4   2.048801  [t1, t2]        4       w04           1.0
+5  14.848418  [t0, t2]        5       w05           0.0
+6  12.244213  [t1, t2]        6       w06           0.0
+7   4.917312  [t0, t2]        7       w07           0.0
+8  23.623344  [t1, t2]        8       w08           0.0
+9  10.569345      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   5.281059           1.0
+1    t1         1   5.139328           1.0
+2    t2         2  19.828427           1.0
+3    t3         3  10.811799           0.0
+4    t4         4  10.510067           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 5.28105895542677, 't1': 5.139328008967463, 't2': 19.82842742778233, 't3': 10.81179915992149, 't4': 10.51006719423142}, 'worke_cost': {'w00': 6.272829999832799, 'w01': 3.766749763004532, 'w02': 2.137844541267665, 'w03': 2.28881375725964, 'w04': 2.0488013157288623, 'w05': 14.848417820370088, 'w06': 12.244213309182264, 'w07': 4.917311828323167, 'w08': 23.62334447587873, 'w09': 10.569345277259323}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 15.71578732573466}"
+Official_Experiment_dUSM_dataset_02_instance_17_16_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_17/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_17/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.549276      [t1]        0       w00           1.0
+1   3.216301      [t0]        1       w01           0.0
+2   7.726707      [t1]        2       w02           0.0
+3   2.683988      [t0]        3       w03           0.0
+4   3.786780      [t1]        4       w04           0.0
+5   4.978401  [t0, t2]        5       w05           1.0
+6   5.852230      [t1]        6       w06           0.0
+7   7.874983  [t0, t2]        7       w07           0.0
+8   8.991072  [t1, t2]        8       w08           0.0
+9  20.526614  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.979039           1.0
+1    t1         1  13.451108           1.0
+2    t2         2   3.135949           1.0
+3    t3         3  13.409793           0.0
+4    t4         4   3.289200           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0', 't2'], 'w06': ['t1'], 'w07': ['t0', 't2'], 'w08': ['t1', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 9.979038867745386, 't1': 13.451108490114532, 't2': 3.1359486267610186, 't3': 13.409793045530284, 't4': 3.2892001425728874}, 'worke_cost': {'w00': 2.5492764191858424, 'w01': 3.216300990518161, 'w02': 7.726706774665977, 'w03': 2.683988015597386, 'w04': 3.786780153440163, 'w05': 4.978400633210045, 'w06': 5.852230047050735, 'w07': 7.874982645673347, 'w08': 8.991071704700833, 'w09': 20.526613806114547}, 'n': 5, 'm': 10, 'solution': {'w06', 'w05'}, 'value': 15.735465304360153}"
+Official_Experiment_dUSM_dataset_02_instance_18_17_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_18/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_18/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   3.330842      [t1]        0       w00           0.0
+1   6.292550      [t0]        1       w01           0.0
+2   3.957020      [t1]        2       w02           0.0
+3   2.412043      [t0]        3       w03           1.0
+4   4.999105  [t1, t2]        4       w04           1.0
+5   6.376004  [t0, t2]        5       w05           0.0
+6  14.606922  [t1, t2]        6       w06           0.0
+7   4.205576      [t0]        7       w07           0.0
+8   8.430362  [t1, t2]        8       w08           0.0
+9  22.511844      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  12.696293           1.0
+1    t1         1  12.682691           1.0
+2    t2         2   5.070842           1.0
+3    t3         3   3.098721           0.0
+4    t4         4  11.238043           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0'], 'w08': ['t1', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 12.696292821205589, 't1': 12.68269092328983, 't2': 5.070842100260961, 't3': 3.0987210526234645, 't4': 11.238043226821317}, 'worke_cost': {'w00': 3.3308416157617997, 'w01': 6.292550000783659, 'w02': 3.957019763977034, 'w03': 2.412042719894209, 'w04': 4.999105443705056, 'w05': 6.376003636814538, 'w06': 14.606922172350124, 'w07': 4.205575993416357, 'w08': 8.430361889221944, 'w09': 22.51184439082735}, 'n': 5, 'm': 10, 'solution': {'w02', 'w05'}, 'value': 20.116802443964808}"
+Official_Experiment_dUSM_dataset_02_instance_19_18_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_19/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_19/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.086559      [t1]        0       w00           0.0
+1   7.157415      [t0]        1       w01           0.0
+2   2.628339      [t1]        2       w02           0.0
+3   3.816649      [t0]        3       w03           1.0
+4   1.815313  [t1, t2]        4       w04           1.0
+5   7.059262  [t0, t2]        5       w05           0.0
+6  12.718337      [t1]        6       w06           0.0
+7  10.704735  [t0, t2]        7       w07           0.0
+8  17.919106      [t1]        8       w08           0.0
+9  10.800973  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   3.983576           1.0
+1    t1         1   2.222513           1.0
+2    t2         2  11.254899           1.0
+3    t3         3   5.796573           0.0
+4    t4         4  10.342130           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1'], 'w07': ['t0', 't2'], 'w08': ['t1'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 3.9835764317632463, 't1': 2.2225130023618904, 't2': 11.254899176293172, 't3': 5.796572580090176, 't4': 10.342130024109805}, 'worke_cost': {'w00': 2.086559177002305, 'w01': 7.1574153420872175, 'w02': 2.6283387357883607, 'w03': 3.816649249867833, 'w04': 1.815312906792497, 'w05': 7.05926195059033, 'w06': 12.718337430616993, 'w07': 10.70473453678759, 'w08': 17.91910633734025, 'w09': 10.800973259846089}, 'n': 5, 'm': 10, 'solution': {'w05'}, 'value': 8.17921365746609}"
+Official_Experiment_dUSM_dataset_02_instance_20_19_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_20/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_20/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.171752      [t1]        0       w00           0.0
+1   7.252904      [t0]        1       w01           0.0
+2   1.246423      [t1]        2       w02           1.0
+3   3.899033      [t0]        3       w03           0.0
+4   5.820686  [t1, t2]        4       w04           0.0
+5  12.011336  [t0, t2]        5       w05           0.0
+6   4.660170  [t1, t2]        6       w06           0.0
+7   4.257141  [t0, t2]        7       w07           1.0
+8  16.900321  [t1, t2]        8       w08           0.0
+9  16.612446  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.077026           1.0
+1    t1         1   2.607011           1.0
+2    t2         2   9.511927           1.0
+3    t3         3   6.554632           0.0
+4    t4         4  17.877654           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1', 't2'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 9.077025611564537, 't1': 2.6070108322187004, 't2': 9.511926640282542, 't3': 6.554632057157083, 't4': 17.87765448808641}, 'worke_cost': {'w00': 2.171751754734639, 'w01': 7.252903628731518, 'w02': 1.2464234777880725, 'w03': 3.899032973066204, 'w04': 5.820686269880118, 'w05': 12.011336449623531, 'w06': 4.660170489108992, 'w07': 4.257140995298995, 'w08': 16.900320659365665, 'w09': 16.612446100809628}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 12.636759621890585}"
+Official_Experiment_dUSM_dataset_02_instance_21_20_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_21/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_21/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.011337      [t1]        0       w00           0.0
+1   3.439739      [t0]        1       w01           0.0
+2   1.462685      [t1]        2       w02           0.0
+3   1.670634      [t0]        3       w03           1.0
+4   3.507998      [t1]        4       w04           0.0
+5  12.011021  [t0, t2]        5       w05           0.0
+6   6.697178  [t1, t2]        6       w06           1.0
+7  13.102899  [t0, t2]        7       w07           0.0
+8  11.785563  [t1, t2]        8       w08           0.0
+9  22.751552      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.614693           1.0
+1    t1         1  18.323574           1.0
+2    t2         2   9.605673           1.0
+3    t3         3  15.644103           0.0
+4    t4         4  13.012379           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0', 't2'], 'w06': ['t1', 't2'], 'w07': ['t0', 't2'], 'w08': ['t1', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.614693490369374, 't1': 18.323574125158565, 't2': 9.60567280246106, 't3': 15.644103396704368, 't4': 13.012379296828694}, 'worke_cost': {'w00': 2.0113371070657244, 'w01': 3.4397394876796143, 'w02': 1.4626851358041058, 'w03': 1.6706344885602005, 'w04': 3.507997999022453, 'w05': 12.01102092748867, 'w06': 6.697177658394217, 'w07': 13.102898887412632, 'w08': 11.785563412707615, 'w09': 22.751551758082787}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 29.17612827103458}"
+Official_Experiment_dUSM_dataset_02_instance_22_21_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_22/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_22/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  23.283893   [t1]        0       w00           0.0
+1   5.741642   [t0]        1       w01           1.0
+2  21.725001   [t1]        2       w02           0.0
+3  14.529672   [t0]        3       w03           0.0
+4  20.108787   [t1]        4       w04           0.0
+5  11.286569   [t0]        5       w05           0.0
+6  22.033297   [t1]        6       w06           0.0
+7   6.590673   [t0]        7       w07           0.0
+8   8.275511   [t1]        8       w08           0.0
+9  17.737918   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  11.243420           1.0
+1    t1         1   8.147735           0.0
+2    t2         2  17.161302           0.0
+3    t3         3   1.622121           0.0
+4    t4         4  13.017121           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 11.24342031813666, 't1': 8.147735111716976, 't2': 17.161302252020487, 't3': 1.6221212865618369, 't4': 13.017121304712331}, 'worke_cost': {'w00': 23.28389307663433, 'w01': 5.741641856871619, 'w02': 21.72500050127397, 'w03': 14.52967164337865, 'w04': 20.10878717671929, 'w05': 11.286568874260585, 'w06': 22.03329682893957, 'w07': 6.590672615530091, 'w08': 8.275511044346775, 'w09': 17.737917816402437}, 'n': 5, 'm': 10, 'solution': set(), 'value': 0}"
+Official_Experiment_dUSM_dataset_02_instance_23_22_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_23/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_23/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  19.628109   [t1]        0       w00           0.0
+1  11.999960   [t0]        1       w01           0.0
+2   6.591840   [t1]        2       w02           1.0
+3   2.238049   [t0]        3       w03           1.0
+4   9.785804   [t1]        4       w04           0.0
+5   8.888682   [t0]        5       w05           0.0
+6   7.449952   [t1]        6       w06           0.0
+7  23.874877   [t0]        7       w07           0.0
+8   9.570999   [t1]        8       w08           0.0
+9  24.271660   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  12.433017           1.0
+1    t1         1  11.392991           1.0
+2    t2         2  13.914980           0.0
+3    t3         3  19.521793           0.0
+4    t4         4  10.776376           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 12.433016689009774, 't1': 11.392990719830696, 't2': 13.914979532028706, 't3': 19.52179339754504, 't4': 10.776375604104103}, 'worke_cost': {'w00': 19.628109081268885, 'w01': 11.999960010506069, 'w02': 6.591839900627832, 'w03': 2.238049277617746, 'w04': 9.785803674728523, 'w05': 8.888681747028073, 'w06': 7.449952037155897, 'w07': 23.87487721903917, 'w08': 9.570999304848158, 'w09': 24.271659911906934}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 10.194967411392028}"
+Official_Experiment_dUSM_dataset_02_instance_24_23_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_24/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_24/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  15.296534   [t1]        0       w00           0.0
+1   8.460958   [t0]        1       w01           0.0
+2  22.200267   [t1]        2       w02           0.0
+3   2.875962   [t0]        3       w03           1.0
+4  13.986917   [t1]        4       w04           0.0
+5  20.340978   [t0]        5       w05           0.0
+6   2.197875   [t1]        6       w06           1.0
+7   3.872076   [t0]        7       w07           0.0
+8  16.565886   [t1]        8       w08           0.0
+9   3.984696   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.040227           1.0
+1    t1         1  19.368983           1.0
+2    t2         2  10.976819           0.0
+3    t3         3   7.405263           0.0
+4    t4         4  12.146427           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.040226523435003, 't1': 19.36898275347798, 't2': 10.976818963392876, 't3': 7.405263441034335, 't4': 12.146426537902244}, 'worke_cost': {'w00': 15.296534018109536, 'w01': 8.46095822016085, 'w02': 22.20026700686408, 'w03': 2.8759619518668904, 'w04': 13.986917057507144, 'w05': 20.34097793498394, 'w06': 2.1978751456427137, 'w07': 3.8720761399595993, 'w08': 16.56588591668168, 'w09': 3.984696084749208}, 'n': 5, 'm': 10, 'solution': {'w06', 'w03'}, 'value': 32.33537217940338}"
+Official_Experiment_dUSM_dataset_02_instance_25_24_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_25/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_25/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  24.084054   [t1]        0       w00           0.0
+1   6.460450   [t0]        1       w01           1.0
+2  20.904770   [t1]        2       w02           0.0
+3  15.777160   [t0]        3       w03           0.0
+4   5.436329   [t1]        4       w04           1.0
+5  11.329527   [t0]        5       w05           0.0
+6  13.977567   [t1]        6       w06           0.0
+7  21.021303   [t0]        7       w07           0.0
+8   7.682903   [t1]        8       w08           0.0
+9  22.409038   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.308792           1.0
+1    t1         1  14.475790           1.0
+2    t2         2   1.235149           0.0
+3    t3         3   1.629502           0.0
+4    t4         4  15.585376           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.308791652234548, 't1': 14.47579037728638, 't2': 1.2351490295495715, 't3': 1.629502487853932, 't4': 15.585376387367983}, 'worke_cost': {'w00': 24.08405372149678, 'w01': 6.460449581866043, 'w02': 20.90477024593399, 'w03': 15.777160179204657, 'w04': 5.436329161731721, 'w05': 11.329526817135925, 'w06': 13.977566973058002, 'w07': 21.02130346574844, 'w08': 7.682902589789775, 'w09': 22.40903763476672}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 9.03946121555466}"
+Official_Experiment_dUSM_dataset_02_instance_26_25_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_26/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_26/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  17.933240   [t1]        0       w00           0.0
+1  15.535065   [t0]        1       w01           0.0
+2  20.388302   [t1]        2       w02           0.0
+3  21.336800   [t0]        3       w03           0.0
+4  22.648268   [t1]        4       w04           0.0
+5   9.611986   [t0]        5       w05           0.0
+6  15.617445   [t1]        6       w06           0.0
+7  13.441905   [t0]        7       w07           0.0
+8  12.018554   [t1]        8       w08           0.0
+9   6.039197   [t0]        9       w09           1.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  13.000083           1.0
+1    t1         1   7.115243           0.0
+2    t2         2  15.357425           0.0
+3    t3         3  12.148865           0.0
+4    t4         4   3.707604           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 13.000082857440844, 't1': 7.115243300917289, 't2': 15.357425462877496, 't3': 12.148864965845826, 't4': 3.7076039079302743}, 'worke_cost': {'w00': 17.933239907097065, 'w01': 15.535065129771988, 'w02': 20.388302314408623, 'w03': 21.33679995317444, 'w04': 22.648268462140926, 'w05': 9.611986090811197, 'w06': 15.617444814248568, 'w07': 13.44190469392738, 'w08': 12.018553914148908, 'w09': 6.039197404167538}, 'n': 5, 'm': 10, 'solution': {'w09'}, 'value': 6.960885453273306}"
+Official_Experiment_dUSM_dataset_02_instance_27_26_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_27/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_27/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  21.131992   [t1]        0       w00           0.0
+1   8.446513   [t0]        1       w01           0.0
+2   4.954028   [t1]        2       w02           1.0
+3  14.268935   [t0]        3       w03           0.0
+4   5.052364   [t1]        4       w04           0.0
+5   2.021130   [t0]        5       w05           1.0
+6  16.841532   [t1]        6       w06           0.0
+7  16.421393   [t0]        7       w07           0.0
+8   6.623816   [t1]        8       w08           0.0
+9  11.066382   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  11.728073           1.0
+1    t1         1   8.103307           1.0
+2    t2         2   6.434396           0.0
+3    t3         3  15.897261           0.0
+4    t4         4  15.151102           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 11.728073425196005, 't1': 8.103306715478707, 't2': 6.434395971650837, 't3': 15.897261444055545, 't4': 15.151101809856678}, 'worke_cost': {'w00': 21.131991563581877, 'w01': 8.44651254883047, 'w02': 4.95402773386904, 'w03': 14.268935024282683, 'w04': 5.052364290802898, 'w05': 2.021130147224566, 'w06': 16.841531719091947, 'w07': 16.421392784619062, 'w08': 6.62381565107907, 'w09': 11.066381806612693}, 'n': 5, 'm': 10, 'solution': {'w05'}, 'value': 9.706943277971439}"
+Official_Experiment_dUSM_dataset_02_instance_28_27_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_28/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_28/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   4.297726   [t1]        0       w00           1.0
+1   2.132082   [t0]        1       w01           1.0
+2  12.265155   [t1]        2       w02           0.0
+3   5.139158   [t0]        3       w03           0.0
+4   9.398680   [t1]        4       w04           0.0
+5  24.543419   [t0]        5       w05           0.0
+6  20.872130   [t1]        6       w06           0.0
+7   9.714886   [t0]        7       w07           0.0
+8   5.262851   [t1]        8       w08           0.0
+9   4.577235   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   7.122424           1.0
+1    t1         1   7.343750           1.0
+2    t2         2   4.823554           0.0
+3    t3         3  18.798066           0.0
+4    t4         4  12.570685           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 7.1224244175392775, 't1': 7.343749933644516, 't2': 4.823554383294704, 't3': 18.798066308742666, 't4': 12.570685089306023}, 'worke_cost': {'w00': 4.297726428212269, 'w01': 2.132081508683731, 'w02': 12.26515493939695, 'w03': 5.139157757348468, 'w04': 9.39867982387689, 'w05': 24.54341870678767, 'w06': 20.87212972346124, 'w07': 9.714885636811054, 'w08': 5.262850503927248, 'w09': 4.577235234423704}, 'n': 5, 'm': 10, 'solution': {'w01'}, 'value': 4.990342908855546}"
+Official_Experiment_dUSM_dataset_02_instance_29_28_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_29/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_29/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  21.120106   [t1]        0       w00           0.0
+1   8.795995   [t0]        1       w01           0.0
+2  19.624575   [t1]        2       w02           0.0
+3  20.115807   [t0]        3       w03           0.0
+4  23.101594   [t1]        4       w04           0.0
+5   6.609595   [t0]        5       w05           1.0
+6  14.751105   [t1]        6       w06           0.0
+7  21.252982   [t0]        7       w07           0.0
+8  11.937083   [t1]        8       w08           0.0
+9   7.979212   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.725101           1.0
+1    t1         1   5.375746           0.0
+2    t2         2   4.423504           0.0
+3    t3         3   8.990695           0.0
+4    t4         4   9.765658           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.725100595239466, 't1': 5.375746299775076, 't2': 4.4235042230465424, 't3': 8.990694675671904, 't4': 9.765657975991886}, 'worke_cost': {'w00': 21.120105895933047, 'w01': 8.79599518442335, 'w02': 19.6245747983347, 'w03': 20.11580720571273, 'w04': 23.10159418903765, 'w05': 6.609595388356656, 'w06': 14.75110477316841, 'w07': 21.252981845123728, 'w08': 11.937082694987904, 'w09': 7.979212166217235}, 'n': 5, 'm': 10, 'solution': set(), 'value': 0}"
+Official_Experiment_dUSM_dataset_02_instance_30_29_exec,"{'task_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_30/tasks_2.csv', 'worker_file': '/Users/hdrop/Documents/Personal FIles/master-thesis-experiments/data/data_files/02_dataset_10_workers_5_tasks/instance_30/workers_2.csv', 'workers': {'w06', 'w03', 'w05', 'w07', 'w02', 'w08', 'w00', 'w01', 'w04', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   7.984213   [t1]        0       w00           0.0
+1  23.775038   [t0]        1       w01           0.0
+2  10.803606   [t1]        2       w02           0.0
+3  14.729533   [t0]        3       w03           0.0
+4   8.568047   [t1]        4       w04           0.0
+5   7.210071   [t0]        5       w05           0.0
+6   5.163984   [t1]        6       w06           0.0
+7  24.415618   [t0]        7       w07           0.0
+8  16.477071   [t1]        8       w08           0.0
+9  19.395298   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   6.502452           0.0
+1    t1         1   2.220168           0.0
+2    t2         2   1.471045           0.0
+3    t3         3   9.494421           0.0
+4    t4         4  18.512267           0.0, 'task_set': {'t2', 't1', 't0', 't3', 't4'}, 'worker_task_dict': {'w00': ['t1'], 'w01': ['t0'], 'w02': ['t1'], 'w03': ['t0'], 'w04': ['t1'], 'w05': ['t0'], 'w06': ['t1'], 'w07': ['t0'], 'w08': ['t1'], 'w09': ['t0']}, 'task_val_dict': {'t0': 6.50245236051729, 't1': 2.2201679446442943, 't2': 1.471045148083655, 't3': 9.49442072522016, 't4': 18.51226656565986}, 'worke_cost': {'w00': 7.9842132098498, 'w01': 23.77503825630376, 'w02': 10.803606486833026, 'w03': 14.729532992847597, 'w04': 8.568046519080504, 'w05': 7.21007135017085, 'w06': 5.1639836586029935, 'w07': 24.415617890567017, 'w08': 16.477071108511815, 'w09': 19.39529792256755}, 'n': 5, 'm': 10, 'solution': set(), 'value': 0}"

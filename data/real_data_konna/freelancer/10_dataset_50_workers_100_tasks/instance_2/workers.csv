@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['software architecture', 'engineering', 'microsoft access', 'web hosting', 'excel']",1598.0,w1586
+20.0,"['photoshop', '3d modelling', '3d animation', 'video services', 'after effects']",677.0,w0676
+30.0,"['php', 'website design', 'xml', 'linux', 'mysql']",1713.0,w1697
+10.0,"['php', 'html', 'website design', 'wordpress', 'css']",273.0,w0272
+10.0,"['copywriting', 'website design']",1569.0,w1557
+20.0,"['web hosting', 'mysql', 'software testing', 'php', 'perl']",1726.0,w1710
+19.0,"['graphic design', 'website design', 'photoshop', 'banner design']",1275.0,w1271
+3.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",370.0,w0369
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",202.0,w0201
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",258.0,w0257
+15.0,"['excel', 'css', 'translation', 'php', 'data entry']",881.0,w0878
+15.0,"['business plans', 'research', 'business analysis', 'marketing']",357.0,w0356
+10.0,"['facebook marketing', 'social networking', 'internet marketing']",276.0,w0275
+6.0,"['data entry', 'data processing', 'game design', 'copy typing']",1384.0,w1380
+16.0,"['magento', 'php', 'wordpress', 'html', 'css']",324.0,w0323
+5.0,"['pdf', 'editing', 'graphic design', 'javascript']",1357.0,w1353
+7.0,"['marketing', 'internet marketing', 'data entry', 'social networking']",1376.0,w1372
+4.0,"['data processing', 'data entry']",1416.0,w1411
+20.0,"['wordpress', 'php', 'website design', 'html', 'css']",295.0,w0294
+5.0,"['articles', 'blog', 'article rewriting', 'copywriting', 'seo']",221.0,w0220
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+10.0,"['matlab &amp; mathematica', 'mechanical engineering']",1303.0,w1299
+15.0,"['c++ programming', 'php', 'c# programming']",1477.0,w1470
+20.0,"['metatrader', 'php', 'c programming', 'software architecture', 'sql']",378.0,w0377
+20.0,"['website design', 'html', 'php', 'graphic design', 'css']",512.0,w0511
+3.0,"['facebook marketing', 'internet marketing', 'social networking', 'advertising']",772.0,w0771
+5.0,"['translation', 'arabic']",1223.0,w1219
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+10.0,"['research', 'ghostwriting', 'articles', 'ebooks', 'copywriting']",169.0,w0168
+8.0,"['matlab &amp; mathematica', 'robotics']",1298.0,w1294
+10.0,"['data processing', 'data entry', 'excel', 'internet marketing', 'seo']",573.0,w0572
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",841.0,w0840
+10.0,"['photoshop', 'graphic design', 'photo editing', 'logo design', 'banner design']",738.0,w0737
+15.0,"['wordpress', 'css', 'php', 'html', 'website design']",609.0,w0608
+9.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",1638.0,w1624
+10.0,"['android', 'php', 'iphone', 'html', 'javascript']",484.0,w0483
+10.0,"['wordpress', 'php', 'html', 'website design', 'graphic design']",575.0,w0574
+20.0,"['php', 'html', 'website design', 'graphic design', 'css']",144.0,w0143
+19.0,"['video services', 'audio services', 'voice talent', 'youtube', 'videography']",582.0,w0581
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+20.0,"['excel', 'data processing', 'web scraping', 'data entry', 'accounting']",908.0,w0905
+10.0,"['c programming', 'c++ programming', 'java', 'algorithm']",1744.0,w1728
+13.0,"['joomla', 'php', 'html', 'css', 'website design']",196.0,w0195
+15.0,"['graphic design', 'illustration', 'photoshop']",156.0,w0155
+10.0,"['academic writing', 'article rewriting', 'research', 'articles', 'copy typing']",517.0,w0516
+10.0,['wordpress'],807.0,w0806
+8.0,"['php', 'html', 'wordpress', 'linux', 'seo']",1209.0,w1205
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+25.0,"['system admin', 'linux', 'php', 'data processing', 'script install']",1366.0,w1362

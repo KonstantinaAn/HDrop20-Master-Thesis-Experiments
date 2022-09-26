@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+15.0,"['illustration', 'caricature &amp; cartoons', 'illustrator']",392.0,w0391
+10.0,"['classifieds posting', 'internet marketing', 'data entry', 'advertising', 'marketing']",1299.0,w1295
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+20.0,"['illustration', 'graphic design', 'illustrator', 'photoshop', 'logo design']",205.0,w0204
+10.0,"['after effects', 'videography', 'animation']",1120.0,w1117
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",179.0,w0178
+15.0,"['arduino', 'electronics']",1185.0,w1181
+10.0,"['illustration', 'illustrator', 'graphic design', 'caricature &amp; cartoons', 'photoshop']",405.0,w0404
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",493.0,w0492
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+10.0,"['matlab &amp; mathematica', 'mechanical engineering']",1303.0,w1299
+30.0,"['linux', 'system admin', 'web hosting', 'shell script']",408.0,w0407
+15.0,"['php', 'project management', 'python', 'windows desktop']",249.0,w0248
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",146.0,w0145
+7.0,"['audio services', 'data entry', 'music', 'game design']",897.0,w0894
+20.0,['illustrator'],1259.0,w1255
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+8.0,"['graphic design', 'logo design', 'illustrator', 'illustration', 'flyer design']",1491.0,w1483
+5.0,"['facebook marketing', 'web search']",1441.0,w1436
+30.0,"['wordpress', 'graphic design', 'website design', 'photoshop design', 'html']",165.0,w0164
+19.0,"['video services', 'audio services', 'voice talent', 'youtube', 'videography']",582.0,w0581
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+5.0,"['seo', 'link building', 'internet marketing']",1407.0,w1403
+25.0,"['css', 'joomla', 'wordpress', 'php', 'cms']",305.0,w0304
+7.0,"['illustration', 'photoshop design']",708.0,w0707
+10.0,"['translation', 'academic writing', 'article rewriting', 'spanish', 'copywriting']",1032.0,w1029
+17.0,"['photoshop', 'graphic design', 'logo design', 'illustrator', 'photoshop design']",316.0,w0315
+20.0,"['graphic design', 'logo design', 'business cards', 'photoshop']",554.0,w0553
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+10.0,"['logo design', 'caricature &amp; cartoons', 'graphic design', 'photoshop', 'illustration']",1641.0,w1627
+15.0,"['indesign', 'graphic design', 'photoshop', 'brochure design']",182.0,w0181
+18.0,"['graphic design', 'illustration', 'caricature &amp; cartoons', 'illustrator', 'photoshop']",1650.0,w1636
+20.0,"['python', 'c programming', 'software architecture', 'web scraping', 'linux']",516.0,w0515
+15.0,"['web scraping', 'excel', 'data entry', 'data processing']",235.0,w0234
+7.0,"['spanish', 'data entry', 'word', 'copy typing']",972.0,w0969
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+30.0,"['.net', 'software architecture', 'php', 'c# programming', 'web scraping']",41.0,w0041
+10.0,"['graphic design', 'logo design', 'photoshop']",349.0,w0348
+30.0,"['logo design', 'graphic design', 'photoshop', 'banner design', 'website design']",95.0,w0094
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+5.0,"['facebook marketing', 'internet marketing', 'seo']",1108.0,w1105
+10.0,"['data entry', 'excel', 'data processing', 'virtual assistant', 'copy typing']",687.0,w0686
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+3.0,['web scraping'],803.0,w0802
+10.0,"['video services', 'after effects', 'videography']",883.0,w0880
+20.0,"['website design', 'php', 'graphic design', 'html', 'logo design']",3.0,w0003
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'advertising']",18.0,w0018
+10.0,"['graphic design', 'photoshop', 'flyer design', 'logo design']",800.0,w0799
+25.0,"['php', 'wordpress', 'website design', 'joomla', 'css']",640.0,w0639
+8.0,"['graphic design', 'logo design', 't-shirts', 'photoshop', 'photoshop design']",584.0,w0583

@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+20.0,"['graphic design', 'articles', 'html', 'php']",1537.0,w1528
+25.0,"['php', 'website design', 'html', 'wordpress', 'css']",498.0,w0497
+22.0,"['.net', 'c# programming', 'visual basic', 'sql', 'html']",428.0,w0427
+10.0,"['logo design', 'graphic design', 'photoshop', 't-shirts', 'photoshop design']",420.0,w0419
+20.0,"['video services', 'animation', 'after effects', '3d animation', '3d rendering']",23.0,w0023
+6.0,"['linux', 'php', 'translation', 'software testing', 'mysql']",939.0,w0936
+10.0,"['graphic design', 'brochure design', 'photoshop', 'flyer design', 'illustrator']",355.0,w0354
+15.0,"['graphic design', 'logo design', 'photoshop', 'poster design', 'website design']",425.0,w0424
+25.0,"['embedded software', 'microcontroller', 'c programming', 'electronics']",613.0,w0612
+20.0,"['internet marketing', 'advertising', 'youtube', 'leads']",1421.0,w1416
+3.0,['web scraping'],803.0,w0802
+4.0,"['pdf', 'virtual assistant', 'translation']",981.0,w0978
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+10.0,"['logo design', 'graphic design', 'banner design', 'website design', 'business cards']",220.0,w0219
+5.0,"['seo', 'link building']",1738.0,w1722
+8.0,"['article rewriting', 'blog', 'articles']",1487.0,w1479
+25.0,"['illustration', 'graphic design', 'photoshop', 'illustrator', 't-shirts']",199.0,w0198
+15.0,"['php', 'xml', 'website design', 'wordpress', 'css']",863.0,w0861
+3.0,"['logo design', 'photoshop', 'illustrator', 'photoshop design', 'excel']",806.0,w0805
+20.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",723.0,w0722
+12.0,"['linux', 'apache', 'system admin']",1195.0,w1191
+25.0,"['editing', 'copywriting', 'script install', 'wordpress']",1047.0,w1044
+10.0,"['php', 'drupal', '.net', 'javascript', 'software architecture']",20.0,w0020
+10.0,"['delphi', 'data entry', 'software architecture', 'c programming']",666.0,w0665
+15.0,"['php', 'wordpress', 'html', 'mysql', 'css']",181.0,w0180
+20.0,"['java', 'javascript', 'python', 'software testing']",565.0,w0564
+15.0,"['translation', 'japanese', 'korean']",796.0,w0795
+13.0,"['graphic design', 'logo design', 'photoshop', 'business cards']",489.0,w0488
+8.0,"['translation', 'greek']",1192.0,w1188
+20.0,"['javascript', 'php', 'jquery / prototype', 'asp']",698.0,w0697
+10.0,"['data processing', 'data entry', 'excel', 'youtube']",924.0,w0921
+5.0,"['spanish', 'word', 'transcription', 'translation']",1620.0,w1608
+17.0,"['mysql', 'ruby on rails', 'linux', 'amazon web services', 'javascript']",1440.0,w1435
+8.0,"['photoshop', 'graphic design', 'logo design']",955.0,w0952
+30.0,"['linux', 'unix', 'mysql', 'php', 'shell script']",1759.0,w1743
+15.0,"['php', 'wordpress', 'css', 'website design', 'html']",327.0,w0326
+8.0,"['3ds max', 'graphic design', 'photoshop', '3d modelling']",1022.0,w1019
+11.0,"['video services', 'videography']",1525.0,w1516
+10.0,"['php', 'joomla', 'mysql', 'css', 'website design']",361.0,w0360
+4.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",73.0,w0073

@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+50.0,"['website design', 'graphic design', 'photoshop', 'illustrator', 'logo design']",1233.0,w1229
+18.0,"['php', 'wordpress', 'html', 'website design', 'graphic design']",124.0,w0123
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",150.0,w0149
+10.0,"['translation', 'greek', 'technical writing', 'editing']",256.0,w0255
+35.0,"['php', 'wordpress', 'html', 'css', 'website design']",17.0,w0017
+9.0,"['php', 'html', 'website design', 'graphic design', 'wordpress']",70.0,w0070
+20.0,"['articles', 'copywriting', 'article rewriting', 'ghostwriting', 'blog']",166.0,w0165
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'youtube']",60.0,w0060
+30.0,"['php', 'html', 'facebook marketing', 'ajax', 'jquery / prototype']",380.0,w0379
+10.0,"['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing']",828.0,w0827

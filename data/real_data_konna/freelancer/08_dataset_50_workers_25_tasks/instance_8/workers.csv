@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+15.0,"['html', 'php', 'apache']",1368.0,w1364
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+10.0,"['system admin', 'database administration', 'shell script']",1351.0,w1347
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1753.0,w1737
+20.0,"['pcb layout', 'electronics', 'microcontroller', 'engineering']",756.0,w0755
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+25.0,"['prestashop', 'website design', 'ecommerce', 'php']",1251.0,w1247
+20.0,"['html', 'php', 'website design', 'css']",951.0,w0948
+14.0,"['bootstrap', 'javascript', 'css']",719.0,w0718
+15.0,"['php', 'website management', 'logo design', 'website design', 'mysql']",814.0,w0813
+35.0,"['php', 'mysql', 'software testing', 'software architecture', 'web hosting']",1439.0,w1434
+45.0,"['html', 'php', 'javascript', 'css', 'website design']",1157.0,w1153
+30.0,"['php', 'ecommerce', 'drupal', 'css', 'html']",818.0,w0817
+10.0,"['seo', 'internet marketing', 'php', 'marketing', 'sem / adwords']",1697.0,w1681
+20.0,"['php', 'jquery / prototype', 'javascript', 'html', 'ajax']",38.0,w0038
+15.0,"['css', 'html', 'website design', 'asp', 'php']",437.0,w0436
+15.0,"['php', 'software testing', 'mysql', 'website management']",19.0,w0019
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+20.0,"['php', 'javascript', 'jquery / prototype', 'mysql']",307.0,w0306
+15.0,"['html', 'excel', 'wordpress', 'php', 'website design']",699.0,w0698
+25.0,"['website design', 'graphic design', 'php', 'flash', 'copywriting']",474.0,w0473
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1646.0,w1632
+20.0,"['graphic design', 'photoshop', 'website design', 'php', 'html']",1511.0,w1503
+20.0,"['php', 'wordpress', 'software testing', 'virtuemart']",1015.0,w1012
+30.0,"['joomla', 'php', 'website design']",1213.0,w1209
+20.0,"['c++ programming', 'matlab &amp; mathematica', 'electrical engineering', 'electronics', 'mathematics']",1008.0,w1005
+35.0,"['apache', 'php', 'mysql', 'linux']",928.0,w0925
+50.0,"['php', 'mysql', 'wordpress', 'javascript', 'ajax']",141.0,w0140
+25.0,"['anything goes', 'website design', 'graphic design', 'php', 'html']",206.0,w0205
+10.0,"['java', 'excel', 'amazon web services', 'data entry', 'c++ programming']",1054.0,w1051
+16.0,"['c++ programming', 'c programming', 'python', 'mathematics']",1138.0,w1134
+20.0,"['php', 'wordpress', 'css', 'mysql', 'joomla']",1169.0,w1165
+20.0,"['html', 'php', 'drupal', 'wordpress']",1244.0,w1240
+12.0,"['html', 'psd to html', 'css', 'website design', 'php']",801.0,w0800
+25.0,"['software architecture', 'windows desktop', 'php', 'c# programming', 'web scraping']",328.0,w0327
+15.0,"['software architecture', 'php', 'web scraping', 'excel', 'data entry']",39.0,w0039
+15.0,"['virtual assistant', 'php', 'data entry', 'article rewriting', 'sales']",212.0,w0211
+25.0,"['android', 'mobile phone', 'iphone']",419.0,w0418
+20.0,"['java', 'mysql']",585.0,w0584
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+18.0,"['php', 'website design', 'magento', 'javascript', 'linux']",551.0,w0550
+12.0,"['wordpress', 'php', 'css', 'website design', 'html']",694.0,w0693
+10.0,"['web search', 'data entry', 'excel']",1079.0,w1076
+15.0,"['php', 'magento']",978.0,w0975
+15.0,"['php', 'software architecture', 'sql']",759.0,w0758
+9.0,"['articles', 'copywriting', 'blog']",131.0,w0130
+30.0,"['system admin', 'linux', 'php', 'web hosting']",670.0,w0669
+15.0,"['css', 'php', 'html', 'website design', 'wordpress']",375.0,w0374
+20.0,"['php', 'excel', 'web scraping', 'data entry', 'mysql']",601.0,w0600

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+25.0,"['agile', 'assembly', 'c', 'c#', 'c++', 'centos', 'freebsd', 'html', 'java', 'javascript', 'kernel', 'linux', 'linux kernel', 'mysql', 'nosql', 'operating systems', 'perl', 'php', 'programming', 'python', 'rdbms', 'red hat', 'ruby', 'scrum', 'security', 'software', 'software development', 'sql', 'sqlite', 'ubuntu', 'unix', 'windows']",424.0,w0415
+100.0,"['aerospace engineering', 'brochures', 'copywriting', 'corporate', 'engineering', 'journalism', 'mechanical', 'proposal writing', 'technical writing']",2134.0,w2099
+100.0,"['appointment setting', 'com', 'csr', 'customer service', 'customer support', 'data entry', 'excel', 'generator', 'marketing', 'powerpoint', 'salesforce', 'skill', 'skype', 'telemarketing', 'yahoo']",629.0,w0616
+25.0,"['artist', 'banner ads', 'book cover design', 'brochures', 'business card design', 'facebook design', 'image editing', 'logo design', 't-shirt design', 'website design']",3186.0,w3129
+50.0,"['android', 'asp', 'asp.net', 'c', 'c#', 'custom software development', 'erp', 'internet marketing', 'java', 'management', 'marketing', 'php', 'software', 'software development', 'visual studio', 'website development']",227.0,w0224
+30.0,"['advertising', 'bulk marketing', 'internet marketing', 'lead generation', 'market research', 'marketing', 'research', 'sales', 'sem', 'seo', 'smo', 'social media marketing']",4021.0,w3944
+25.0,"['analysis', 'asp', 'asp.net', 'c', 'construction', 'css', 'css3', 'design', 'dhtml', 'ecommerce', 'flash', 'html', 'html5', 'iphone', 'java', 'javascript', 'jquery', 'logo design', 'management', 'medical', 'music', 'networking', 'php', 'project management', 'psd', 'psd to html', 'real estate', 'sales', 'skill', 'social networking', 'software', 'software development', 'sports', 'subversion', 'twitter', 'twitter bootstrap', 'ui design', 'web design', 'web development', 'xml']",2415.0,w2374
+25.0,"['codeigniter', 'css', 'css3', 'database design', 'design', 'developer', 'dhtml', 'dreamweaver', 'html', 'html5', 'joomla', 'joomla!', 'mysql', 'oop', 'php', 'programming', 'seo', 'sql', 'ssh', 'ssl', 'wordpress']",1461.0,w1442
+250.0,"['3d', 'adobe illustrator', 'adobe photoshop', 'design', 'developer', 'dreamweaver', 'fireworks', 'flash', 'make', 'programming', 'web design', 'web programming', 'wordpress']",3203.0,w3146
+100.0,"['adobe photoshop', 'asp', 'asp.net', 'coreldraw', 'css', 'drupal', 'ecommerce', 'flash', 'html', 'java', 'javascript', 'joomla', 'magento', 'mobile', 'mysql', 'opencart', 'php', 'programming', 'ruby', 'ruby on rails', 'seo', 'virtuemart', 'wordpress', 'zend', 'zend framework']",1061.0,w1047
+25.0,"['api', 'chrome extension', 'excel', 'facebook', 'gmail', 'google apps', 'html', 'php', 'visual basic', 'web development', 'windows']",1143.0,w1127
+25.0,"['adobe photoshop', 'ms excel', 'wordpress']",1627.0,w1602
+85.0,"['adobe illustrator', 'adobe indesign', 'adobe photoshop', 'book cover design', 'book illustration', 'cover design', 'digital illustration', 'ebook', 'fantasy illustration', 'illustration', 'photo editing', 'print design', 'typography']",1853.0,w1822
+25.0,"['adobe photoshop', 'articles', 'avid', 'brochures', 'case', 'corel draw', 'creative writing', 'fiction', 'ghost writing', 'newsletters', 'research', 'video', 'writing']",115.0,w0114
+25.0,"['article writing', 'articles', 'business coaching', 'coaching', 'copywriting', 'creative writing', 'editing', 'english', 'fiction', 'freelance', 'gambling', 'ghost writing', 'health', 'marketing', 'poetry', 'press releases', 'proofreading', 'reviews', 'science', 'sports', 'technical writing', 'web content', 'writing']",2953.0,w2901
+100.0,"['cisco', 'load balancing', 'technical support', 'wan']",148.0,w0146
+50.0,"['adobe illustrator', 'adobe photoshop', 'calligraphy', 'caricatures', 'comics', 'design', 'drawing', 'fine art', 'graphic art', 'kindle', 'murals', 'oil painting', 'painting', 'pdf', 'windows', 'windows 7']",2865.0,w2815
+150.0,"['asp.net', 'asp.net mvc', 'blogs', 'c#', 'html5', 'php', 'rss', 'seo', 'twitter bootstrap', 'web 2.0', 'web design', 'wordpress']",1094.0,w1080
+25.0,"['database design', 'design', 'developer', 'mysql', 'oracle', 'postgresql', 'sql', 'sql server', 'ssis', 'sybase']",3871.0,w3799
+250.0,"['acting', 'adobe photoshop', 'editing', 'english', 'film', 'film editing', 'final draft', 'magic', 'research']",2782.0,w2736

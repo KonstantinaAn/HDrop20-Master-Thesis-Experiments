@@ -1,0 +1,272 @@
+skill,skill_id,valuation
+arcgis,107,1257
+danish,434,1052
+non profit start up,1013,364
+turkish,1445,764
+cinematography,279,1050
+rhinoceros 3d,1218,737
+flash content,620,831
+crm programs,411,813
+cataloging,257,804
+content migration,367,92
+interpreting,763,1018
+children's writing,274,1279
+football,629,1310
+ldap,836,942
+freebsd,633,1038
+photoshop design,1102,1007
+tumblr,1444,568
+web content writing,1548,877
+orm,1054,854
+windows desktop,1601,749
+facebook fan page creation,578,1250
+software solutions,1334,1390
+layout design,835,1290
+fitness industry,616,1038
+russian,1228,907
+oral communication,1047,471
+matlab,908,792
+ebook writing,516,706
+jsf,814,813
+data administration,436,500
+contracts,373,994
+kernel,820,680
+blog commenting,177,417
+radius,1186,1056
+elastic,534,461
+structural analysis,1374,913
+database systems,464,939
+machine learning,875,525
+punctuation,1177,605
+it training,789,912
+iis,725,1109
+modeling,963,427
+delphi,466,1025
+adobe indesign,49,1394
+transcription,1437,1297
+lead generation,837,1315
+coreldraw,383,705
+customer support,431,1124
+prestashop,1145,1027
+telemarketing,1411,1664
+arduino,0,0
+assembly,0,0
+c,0,0
+c++,0,0
+c++ programming,0,0
+design,0,0
+fpga,0,0
+pcb layout,0,0
+plc,0,0
+programming,0,0
+vhdl,0,0
+css,0,0
+ecommerce,0,0
+javascript,0,0
+joomla,0,0
+jquery,0,0
+opencart,0,0
+oscommerce,0,0
+php,0,0
+php 5,0,0
+smarty,0,0
+socialengine,0,0
+wordpress,0,0
+access,0,0
+active directory,0,0
+adobe illustrator,0,0
+adobe photoshop,0,0
+analysis,0,0
+analytics,0,0
+asp,0,0
+beos,0,0
+business development,0,0
+business operations,0,0
+captcha,0,0
+cgi,0,0
+cisco,0,0
+computer science,0,0
+dhtml,0,0
+dns,0,0
+email,0,0
+email marketing,0,0
+google analytics,0,0
+homesite,0,0
+html,0,0
+interpersonal skills,0,0
+interspire,0,0
+intranet,0,0
+java,0,0
+linux,0,0
+marketing,0,0
+microsoft,0,0
+microsoft word,0,0
+mysql,0,0
+networking,0,0
+pdf,0,0
+perl,0,0
+rss,0,0
+sales,0,0
+science,0,0
+self,0,0
+software,0,0
+sql,0,0
+ssh,0,0
+tcp/ip,0,0
+troubleshooting,0,0
+unix,0,0
+vbscript,0,0
+visio,0,0
+vista,0,0
+windows,0,0
+xml,0,0
+yahoo,0,0
+appointment setting,0,0
+cold calling,0,0
+leads,0,0
+corel draw,0,0
+dreamweaver,0,0
+engineering,0,0
+flash,0,0
+french,0,0
+illustration,0,0
+indesign,0,0
+writing,0,0
+3d,0,0
+3d rendering,0,0
+rendering,0,0
+.net,0,0
+adobe air,0,0
+air,0,0
+ajax,0,0
+android,0,0
+application design,0,0
+architecture,0,0
+asp.net,0,0
+asp.net mvc,0,0
+azure,0,0
+blackberry,0,0
+c#,0,0
+cakephp,0,0
+codeigniter,0,0
+database administration,0,0
+drupal,0,0
+fireworks,0,0
+gaming,0,0
+graphic design,0,0
+iphone,0,0
+iphone development,0,0
+j2ee,0,0
+jsp,0,0
+linq,0,0
+linq to sql,0,0
+magento,0,0
+microsoft azure,0,0
+mobile,0,0
+ms,0,0
+mvc,0,0
+oop,0,0
+open source,0,0
+oracle,0,0
+paypal,0,0
+phonegap,0,0
+rdbms,0,0
+reports,0,0
+sharepoint,0,0
+silverlight,0,0
+software design,0,0
+spring framework,0,0
+sql server,0,0
+struts,0,0
+sugar crm,0,0
+system analysis,0,0
+testing,0,0
+typo3,0,0
+vb.net,0,0
+visual studio,0,0
+vtiger,0,0
+wcf,0,0
+web development,0,0
+windows mobile,0,0
+wpf,0,0
+xcode,0,0
+xhtml,0,0
+zen cart,0,0
+zend,0,0
+architect,0,0
+building design,0,0
+construction,0,0
+sketchup,0,0
+adobe captivate,0,0
+banner ads,0,0
+brochures,0,0
+max,0,0
+maya,0,0
+web animation,0,0
+web design,0,0
+freelance,0,0
+logo design,0,0
+audio production,0,0
+consulting,0,0
+css3,0,0
+desktop applications,0,0
+html5,0,0
+ios,0,0
+video,0,0
+advertising,0,0
+content writing,0,0
+event management,0,0
+focus,0,0
+leadership,0,0
+management,0,0
+marketing management,0,0
+marketing plans,0,0
+marketing strategy,0,0
+press releases,0,0
+radio,0,0
+television,0,0
+tourism,0,0
+web content,0,0
+web strategy,0,0
+adobe acrobat,0,0
+accounting,0,0
+boost,0,0
+data entry,0,0
+ebay,0,0
+excel,0,0
+ms word,0,0
+powerpoint,0,0
+quickbooks,0,0
+research,0,0
+typing,0,0
+vba,0,0
+business proposal writing,0,0
+editing,0,0
+government proposals,0,0
+grammar,0,0
+proposal writing,0,0
+spelling,0,0
+technical writing,0,0
+fundraising,0,0
+health,0,0
+salesforce,0,0
+animation,0,0
+blog development,0,0
+coldfusion,0,0
+corporate,0,0
+corporate branding,0,0
+experience design,0,0
+flash design,0,0
+information architecture,0,0
+interaction design,0,0
+internet marketing,0,0
+real estate,0,0
+responsive web design,0,0
+seo,0,0
+tomcat,0,0
+twitter,0,0
+twitter bootstrap,0,0
+user experience design,0,0
+virtuemart,0,0
+website design,0,0
+wordpress plugin,0,0

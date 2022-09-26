@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941
+15.0,"['logo design', 'photoshop', 'graphic design']",826.0,w0825
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+12.0,"['link building', 'seo', 'internet marketing', 'marketing', 'magento']",537.0,w0536
+10.0,"['flash', 'php', 'website design', 'wordpress', 'graphic design']",455.0,w0454
+5.0,"['graphic design', 'logo design', 'photoshop']",1494.0,w1486
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",493.0,w0492
+10.0,"['photoshop', 'photo editing', 'graphic design']",1460.0,w1454
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+35.0,"['mysql', 'php', 'software architecture', 'software testing', 'asp']",180.0,w0179
+15.0,"['php', 'xml', 'website design', 'wordpress', 'css']",863.0,w0861
+12.0,"['php', '.net', 'asp', 'sql', 'c# programming']",239.0,w0238
+8.0,"['data entry', 'oracle', 'data processing', 'excel']",1640.0,w1626
+15.0,"['php', 'software architecture', 'javascript', 'xml', 'css']",591.0,w0590
+15.0,"['windows desktop', 'delphi', 'mysql', 'php', 'c programming']",450.0,w0449
+12.0,"['articles', 'article rewriting', 'virtual assistant', 'ghostwriting', 'proofreading']",1370.0,w1366
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283
+25.0,"['autocad', 'engineering', 'cad/cam']",1522.0,w1513
+12.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'illustration']",105.0,w0104
+20.0,"['html', 'php', 'drupal', 'wordpress']",1244.0,w1240
+10.0,"['wordpress', 'html', 'website design', 'php', 'css']",603.0,w0602
+15.0,"['illustrator', 'illustration', 'game design', 'photoshop', 'animation']",122.0,w0121
+5.0,"['data entry', 'excel', 'data processing', 'copy typing', 'web scraping']",485.0,w0484
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+20.0,"['html', 'user interface / ia', 'php', 'ecommerce']",406.0,w0405
+5.0,"['php', 'wordpress', 'css', 'html', 'website design']",644.0,w0643
+20.0,"['php', 'html', 'magento', 'ecommerce', 'website design']",1324.0,w1320
+18.0,"['graphic design', 'powerpoint', 'photoshop']",1443.0,w1438
+20.0,"['php', 'wordpress', 'html', 'css', 'website design']",139.0,w0138
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",143.0,w0142
+10.0,"['academic writing', 'business plans', 'research']",1391.0,w1387
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",842.0,w0841
+20.0,"['logo design', 'graphic design', 'photoshop', 'css']",923.0,w0920
+10.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",326.0,w0325
+5.0,"['php', 'graphic design', 'mysql', 'html']",1100.0,w1097
+10.0,"['wordpress', 'html', 'website design', 'css', 'ecommerce']",543.0,w0542
+35.0,"['3d animation', '3d rendering', '3d modelling']",1039.0,w1036
+15.0,"['php', 'html', 'jquery / prototype', 'css', 'mysql']",561.0,w0560
+8.0,"['articles', 'article rewriting']",1481.0,w1473
+15.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",434.0,w0433
+18.0,"['video services', 'after effects', 'videography', 'animation', '3d animation']",569.0,w0568
+10.0,"['mobile phone', 'game design', 'mysql', 'website design']",905.0,w0902
+15.0,"['php', 'mysql', 'html', 'wordpress']",292.0,w0291
+40.0,"['graphic design', 'html', 'website design', 'php', 'css']",90.0,w0089
+9.0,"['website design', 'graphic design', 'logo design', 'photoshop', 'html']",1577.0,w1565
+5.0,['photoshop'],1482.0,w1474
+10.0,"['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management']",91.0,w0090
+15.0,"['html', 'excel', 'wordpress', 'php', 'website design']",699.0,w0698
+3.0,"['youtube', 'facebook marketing', 'social networking', 'internet marketing']",1371.0,w1367
+5.0,"['seo', 'link building']",1738.0,w1722

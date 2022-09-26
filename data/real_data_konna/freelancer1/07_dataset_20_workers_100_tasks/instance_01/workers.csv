@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1363.0,w1359
+8.0,"['translation', 'greek']",1192.0,w1188
+10.0,"['flash', 'php', 'website design', 'wordpress', 'graphic design']",455.0,w0454
+10.0,['windows desktop'],1691.0,w1676
+12.0,"['php', 'html', 'graphic design', 'website design', 'mysql']",64.0,w0064
+4.0,"['photoshop', 'photo editing', 'illustrator', 'illustration', 'photoshop design']",528.0,w0527
+16.0,"['php', 'software architecture']",1323.0,w1319
+18.0,"['website design', 'video services', 'graphic design', 'cms', 'ecommerce']",1011.0,w1008
+10.0,"['matlab &amp; mathematica', 'mathematics', 'c programming', 'c++ programming', 'algorithm']",963.0,w0960
+15.0,"['php', 'wordpress', 'html', 'mysql', 'css']",181.0,w0180
+20.0,"['php', 'translation', 'mysql', 'wordpress', 'javascript']",1218.0,w1214
+20.0,"['software architecture', 'php', 'c++ programming', 'matlab &amp; mathematica', 'mac os']",383.0,w0382
+8.0,"['graphic design', 'illustrator', 'logo design', 'photoshop design', 'photoshop']",1111.0,w1108
+15.0,"['wordpress', 'php', 'magento', 'mysql', 'css']",242.0,w0241
+30.0,"['php', 'mobile phone', 'iphone', 'python', 'android']",404.0,w0403
+15.0,"['graphic design', 'logo design', 'illustrator', 'banner design', 'brochure design']",610.0,w0609
+20.0,"['php', 'mysql', 'html', 'jquery / prototype']",269.0,w0268
+10.0,"['electrical engineering', 'microcontroller', 'pcb layout', 'electronics', 'c programming']",735.0,w0734
+23.0,"['website design', 'php', 'css', 'psd to html', 'html']",275.0,w0274
+13.0,"['joomla', 'php', 'html', 'css', 'website design']",196.0,w0195

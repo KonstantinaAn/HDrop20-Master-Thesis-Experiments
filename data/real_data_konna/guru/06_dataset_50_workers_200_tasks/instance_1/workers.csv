@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+30.0,"['banner', 'design', 'graphic design', 'logo design', 'psd', 'templates', 'web design']",3622.0,w3556
+50.0,"['design', 'ecommerce', 'web 2.0', 'wordpress']",3725.0,w3657
+25.0,"['adobe creative suite', 'css', 'design', 'graphic design', 'html', 'php', 'video', 'web design', 'wordpress']",2431.0,w2390
+25.0,"['3d', 'adobe photoshop', 'autodesk revit', 'cad', 'design', 'visualization']",2703.0,w2657
+30.0,"['access', 'adobe photoshop', 'analysis', 'communication skills', 'data analysis', 'data collection', 'data conversion', 'data entry', 'data mining', 'data processing', 'database management', 'excel', 'google docs', 'graphic design', 'html', 'microsoft', 'pdf', 'windows']",419.0,w0410
+25.0,"['adobe photoshop', 'api', 'css', 'game design', 'game development', 'html', 'html5', 'javascript', 'programming']",987.0,w0973
+25.0,"['analysis', 'data analysis', 'data entry', 'research']",3589.0,w3525
+25.0,"['blogs', 'commercial video', 'editing', 'music videos', 'video editing']",2385.0,w2345
+110.0,"['active directory', 'asp.net', 'c#', 'visual studio']",4141.0,w4060
+250.0,"['articles', 'com', 'design', 'electronics', 'freelance', 'http', 'internet marketing', 'marketing', 'newsletters', 'presentations', 'sales', 'sales presentations', 'technical writing', 'writing']",550.0,w0538
+25.0,"['com', 'computer science', 'content writing', 'editing', 'english', 'freelance', 'http', 'science', 'seo', 'software', 'training', 'web content', 'writing']",2760.0,w2714
+50.0,"['consulting', 'content marketing', 'digital', 'link building', 'management', 'marketing', 'seo', 'social media consulting', 'social media marketing', 'troubleshooting', 'web presence']",2173.0,w2138
+30.0,"['editing', 'linux', 'open office', 'operating systems', 'proofreading', 'publishing', 'report writing', 'research', 'self', 'tutoring', 'wordpress', 'writing']",153.0,w0151
+100.0,"['performance testing', 'usability testing', 'web testing']",3995.0,w3919
+50.0,"['acrylic painting', 'adobe photoshop', 'avid', 'design', 'freelance', 'graphic design', 'illustration', 'painting', 'photography', 'writing']",1221.0,w1204
+30.0,"['academic writing', 'analysis', 'articles', 'bioinformatics', 'business letters', 'case', 'com', 'construction', 'creative writing', 'editing', 'english', 'environmental', 'film', 'french', 'health', 'international', 'interpreting', 'powerpoint', 'powerpoint presentations', 'presentations', 'reports', 'research', 'resume writing', 'reviews', 'software', 'technical writing', 'web content', 'writing']",1218.0,w1201
+25.0,"['articles', 'e-books', 'english', 'health', 'international', 'journalism', 'spanish', 'translation']",2048.0,w2015
+250.0,"['adobe creative suite', 'coldfusion', 'css', 'developer', 'flash', 'html', 'skinning', 'sql', 'troubleshooting', 'web developer']",3223.0,w3165
+25.0,"['analysis', 'english', 'freelance', 'german', 'german translation', 'make', 'translation']",38.0,w0038
+50.0,"['adobe photoshop', 'ajax', 'bigcommerce', 'css', 'css3', 'design', 'drupal', 'html', 'html5', 'javascript', 'joomla', 'jquery', 'magento', 'ms', 'mvc', 'mysql', 'oracle', 'oscommerce', 'php', 'sql', 'sql server', 'website design', 'wordpress']",1167.0,w1150
+50.0,"['adobe photoshop', 'cartoon', 'design', 'digital', 'illustration', 'rendering', 'sketching']",2997.0,w2944
+40.0,"['adobe illustrator', 'advertising', 'book cover design', 'book illustration', 'brochures', 'business card design', 'corporate branding', 'corporate identity', 'cover art', 'design', 'facebook', 'flyer design', 'google+', 'graphic design', 'illustration', 'letterhead', 'logo design', 'retail branding', 'twitter', 'vector illustration', 'web design']",2985.0,w2932
+100.0,"['commercial video', 'creative writing', 'educational video', 'final draft', 'screenwriting']",1155.0,w1139
+30.0,"['blog commenting', 'blogging', 'data entry', 'email support', 'ms excel', 'ms word', 'search engine optimization (seo)', 'social bookmarking', 'social media marketing', 'web 2.0']",1976.0,w1944
+500.0,"['analysis', 'android', 'asp', 'asp.net', 'c', 'developer', 'drupal', 'flash', 'game development', 'iphone', 'magento', 'make', 'mvc', 'php', 'test', 'troubleshooting', 'wcf', 'zend']",1556.0,w1534
+50.0,"['access', 'android', 'android development', 'delphi', 'eclipse', 'focus', 'microsoft', 'oracle', 'programming', 'python', 'reports', 'vba', 'visual studio']",573.0,w0561
+100.0,"['advertising', 'digital', 'digital illustration', 'drawing', 'graphics', 'http', 'illustration', 'indesign', 'painting', 'publishing']",2688.0,w2642
+50.0,"['.net', 'asp', 'asp.net', 'c', 'c#', 'css', 'design', 'drupal', 'flash', 'focus', 'joomla', 'magento', 'mysql', 'networking', 'open source', 'paypal', 'php', 'quality assurance', 'seo', 'silverlight', 'social networking', 'software', 'software development', 'sql', 'sql server', 'testing', 'twilio', 'vb.net', 'voip', 'web 2.0', 'web development', 'wordpress', 'xhtml']",1969.0,w1937
+50.0,"['artist', 'caricatures', 'comic art', 'design', 'drawing', 'graphic design', 'illustration', 'indesign', 'landscape design', 'merchandising', 'murals', 'skill', 'windows']",2204.0,w2167
+30.0,"['article editing', 'blogging', 'blogs', 'copy editing', 'copywriting', 'editing', 'email', 'facebook', 'ghost writing', 'google+', 'linkedin', 'news writing style', 'newsletters', 'online content', 'pinterest', 'seo', 'social media blogging', 'social media consulting', 'twitter', 'white paper writing', 'wordpress', 'writing']",3193.0,w3136
+25.0,"['asp.net', 'content management', 'database administration', 'erp', 'game development', 'jquery', 'linux', 'mobile applications', 'network administration', 'network security', 'performance tuning', 'server administration', 'software', 'software development', 'web development']",3167.0,w3111
+25.0,"['academic writing', 'diabetes', 'medical']",2157.0,w2122
+25.0,"['ai', 'copyright', 'english', 'excel', 'finance', 'french', 'magento', 'management', 'research', 'software', 'writing']",4050.0,w3972
+25.0,"['c', 'c#', 'coldfusion', 'database design', 'design', 'html', 'html5', 'javascript', 'jquery', 'rest', 'saas', 'ssis', 'vb.net', 'web technologies']",2479.0,w2438
+200.0,"['acrobat', 'adobe acrobat', 'cover design', 'design', 'editing', 'fiction', 'freelance', 'kindle', 'marketing', 'open office', 'publishing', 'short stories', 'writing']",2344.0,w2305
+150.0,"['.net', 'asp', 'asp.net', 'c', 'c#', 'c++', 'com', 'customer support', 'design', 'dreamweaver', 'html', 'javascript', 'make', 'microsoft', 'php', 'quality assurance', 'rdbms', 'software', 'sql', 'sql server', 'test', 'testing', 'visual c++', 'visual studio', 'windows']",2216.0,w2179
+25.0,"['agile', 'assembly', 'c', 'c#', 'c++', 'centos', 'freebsd', 'html', 'java', 'javascript', 'kernel', 'linux', 'linux kernel', 'mysql', 'nosql', 'operating systems', 'perl', 'php', 'programming', 'python', 'rdbms', 'red hat', 'ruby', 'scrum', 'security', 'software', 'software development', 'sql', 'sqlite', 'ubuntu', 'unix', 'windows']",424.0,w0415
+25.0,"['3d', '3d modeling', 'design', 'drawing', 'mechanical', 'modeling', 'rendering', 'software', 'solidworks']",2915.0,w2864
+25.0,"['access', 'asp.net', 'css', 'database design', 'excel', 'html', 'jquery', 'mvc', 'mysql', 'sql', 'ui design', 'web development']",3420.0,w3357
+50.0,"['3d', '3d modeling', '3d rendering', '3ds max', 'adobe illustrator', 'adobe photoshop', 'corporate', 'corporate identity', 'design', 'graphics', 'illustration', 'indesign', 'logo design', 'modeling', 'oil painting', 'painting', 'photo manipulation', 'rendering', 'skill']",710.0,w0697
+150.0,"['architecture', 'assembly', 'c', 'circuit design', 'design', 'digital', 'electronic design', 'electronics', 'focus', 'industrial', 'patents', 'prototyping', 'wireless']",4469.0,w4383
+100.0,"['brochures', 'contracts', 'corporate', 'make', 'marketing', 'presentations', 'sales', 'training']",4401.0,w4315
+200.0,"['adobe air', 'android development', 'android programming', 'android sdk', 'application design', 'html5', 'ios development', 'ios programming', 'ipad', 'ipad design', 'ipad development', 'iphone app development', 'iphone application development', 'iphone design', 'iphone development', 'iphone sdk', 'mobile', 'mobile application development', 'mobile applications', 'phonegap', 'windows phone']",4221.0,w4138
+25.0,"['data entry', 'virtual assistants']",2340.0,w2301
+40.0,"['3d', 'assembly', 'cad', 'design', 'mechanical engineering', 'product design', 'solidworks']",1788.0,w1758
+50.0,"['business development', 'internet marketing', 'market research', 'marketing', 'research', 'search engine optimization (seo)', 'seo']",2284.0,w2246
+25.0,"['adobe illustrator', 'adobe photoshop', 'corel draw', 'indesign', 'logo design', 'web design']",1233.0,w1216
+30.0,"['editing', 'grammar', 'marketing', 'music', 'proofreading', 'publishing', 'punctuation', 'self', 'spelling', 'tourism', 'writing']",1917.0,w1885
+100.0,"['.net', 'android', 'cakephp', 'ios', 'joomla', 'mysql', 'prototype', 'sharepoint', 'symfony', 'zend']",84.0,w0083
+50.0,"['analysis', 'asp', 'brand management', 'cgi', 'corporate', 'corporate identity', 'css', 'design', 'dhtml', 'dreamweaver', 'ecommerce', 'flash', 'html', 'internet marketing', 'javascript', 'management', 'marketing', 'perl', 'research', 'sem', 'seo', 'templates', 'web 2.0', 'web development', 'xhtml']",4425.0,w4339

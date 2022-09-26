@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+9.0,"['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics']",880.0,w0877
+9.0,"['data entry', 'web search', 'articles', 'web scraping']",1016.0,w1013
+20.0,"['excel', 'data processing', 'web scraping', 'data entry', 'accounting']",908.0,w0905
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'web scraping']",99.0,w0098
+20.0,"['video services', 'animation', 'photoshop', 'after effects', 'graphic design']",625.0,w0624
+20.0,"['illustrator', 'caricature &amp; cartoons', 'illustration']",1072.0,w1069
+10.0,"['php', 'logo design', 'flash', 'website design', 'banner design']",1589.0,w1577
+20.0,"['website design', 'php', 'graphic design', 'html', 'logo design']",3.0,w0003
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338
+40.0,"['linux', 'system admin', 'mysql', 'unix', 'web hosting']",500.0,w0499
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+8.0,"['link building', 'seo', 'internet marketing', 'marketing', 'copywriting']",48.0,w0048
+45.0,"['video services', 'videography', 'after effects', 'video broadcasting']",216.0,w0215
+50.0,"['photoshop', 'graphic design', 'logo design', 'windows desktop', 'css']",1123.0,w1120
+8.0,"['logo design', 'graphic design', 'photoshop', 'illustration', 'website design']",1328.0,w1324
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+15.0,"['after effects', 'graphic design', '3d animation']",595.0,w0594
+5.0,['photoshop'],1237.0,w1233
+10.0,"['logo design', 'graphic design']",918.0,w0915
+10.0,"['graphic design', 'logo design', 'flyer design', 'banner design', 'photoshop design']",706.0,w0705
+15.0,"['php', 'joomla', 'mysql', 'website design', 'javascript']",715.0,w0714
+20.0,"['flash', 'graphic design', 'logo design']",1714.0,w1698
+20.0,"['graphic design', 'logo design']",611.0,w0610
+10.0,"['graphic design', 'illustrator', 'photoshop', 'logo design', 'flyer design']",974.0,w0971
+25.0,"['php', 'joomla', 'magento', 'cms']",393.0,w0392
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+7.0,"['marketing', 'internet marketing', 'data entry', 'social networking']",1376.0,w1372
+3.0,"['youtube', 'facebook marketing', 'social networking', 'internet marketing']",1371.0,w1367
+10.0,"['data entry', 'internet marketing', 'marketing', 'advertising', 'excel']",1562.0,w1551
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+20.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",321.0,w0320
+17.0,"['graphic design', 'flash', 'logo design', 'website design', 'php']",440.0,w0439
+30.0,"['linux', 'php', 'apache', 'mysql', 'unix']",594.0,w0593
+25.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",213.0,w0212
+11.0,"['voip', 'asterisk pbx', 'windows server']",909.0,w0906
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",302.0,w0301
+24.0,"['.net', 'web scraping', 'visual basic', 'c# programming', 'c programming']",577.0,w0576
+10.0,"['electrical engineering', 'microcontroller', 'pcb layout', 'electronics', 'c programming']",735.0,w0734
+10.0,"['video services', 'after effects', 'videography']",883.0,w0880
+10.0,"['illustration', 'graphic design', 'animation', 'photoshop', 'illustrator']",946.0,w0943
+4.0,"['data entry', 'excel', 'virtual assistant', 'web scraping', 'research']",432.0,w0431
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+10.0,['link building'],1566.0,w1554
+25.0,"['graphic design', 'logo design', 'photoshop']",153.0,w0152
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",143.0,w0142
+17.0,"['web search', 'excel', 'web scraping', 'sales', 'data entry']",1168.0,w1164
+20.0,"['web hosting', 'php', 'mysql', 'system admin', 'database administration']",618.0,w0617
+17.0,"['software architecture', 'windows desktop', 'microsoft access']",1652.0,w1638
+8.0,"['copywriting', 'articles', 'seo', 'translation', 'blog']",47.0,w0047

@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+3.0,"['3d modelling', '3d rendering', '3ds max']",1411.0,w1407
+10.0,"['articles', 'travel writing', 'blog', 'web search']",1128.0,w1125
+12.0,"['3d rendering', '3ds max', '3d animation', '3d modelling', 'photoshop']",665.0,w0664
+15.0,"['video services', 'animation', 'after effects']",1080.0,w1077
+30.0,"['c++ programming', 'mac os', 'c programming', 'iphone']",262.0,w0261
+10.0,"['c programming', 'c++ programming', 'java', 'algorithm']",1744.0,w1728
+50.0,"['php', 'software architecture', 'mysql', 'software testing']",158.0,w0157
+20.0,"['software architecture', 'c programming', 'php', 'visual basic', 'html']",1274.0,w1270
+15.0,"['php', 'software architecture', 'sql']",759.0,w0758
+25.0,"['voice talent', 'audio services']",1007.0,w1004
+10.0,"['software architecture', 'linux', 'c++ programming', 'android']",403.0,w0402
+50.0,"['voip', 'asterisk pbx', 'linux', 'system admin', 'mysql']",454.0,w0453
+12.0,"['translation', 'german']",540.0,w0539
+10.0,"['photoshop', 'graphic design', '3ds max', '3d rendering', 'logo design']",1286.0,w1282
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941
+20.0,"['video services', 'animation', 'after effects', '3d animation', '3d rendering']",23.0,w0023
+20.0,"['graphic design', 'banner design', 'c# programming', 'html', 'php']",882.0,w0879
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+10.0,"['3d rendering', 'wordpress', 'php', 'html', 'website design']",1372.0,w1368
+20.0,"['python', 'c programming', 'software architecture', 'web scraping', 'linux']",516.0,w0515
+25.0,"['software architecture', '.net', 'windows desktop', 'c programming', 'c# programming']",385.0,w0384
+10.0,"['animation', 'after effects', 'video services', '3d animation', 'flash']",701.0,w0700
+5.0,"['academic writing', 'article rewriting']",1727.0,w1711
+16.0,"['php', 'software architecture']",1323.0,w1319
+12.0,"['article rewriting', 'academic writing', 'copywriting', 'translation', 'blog']",1177.0,w1173
+20.0,"['copywriting', 'proofreading', 'articles', 'academic writing']",544.0,w0543
+50.0,['voice talent'],950.0,w0947
+10.0,"['graphic design', 'banner design', 'photoshop', 'brochure design', 'flash']",852.0,w0851
+10.0,"['java', 'software architecture', 'javascript', '.net', 'sql']",1310.0,w1306
+45.0,"['asterisk pbx', 'excel', 'translation', 'voip', 'data processing']",1152.0,w1148
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",197.0,w0196
+15.0,"['php', 'mysql', 'software architecture', 'website design', 'javascript']",1399.0,w1395
+12.0,"['html', 'psd to html', 'css', 'website design', 'php']",801.0,w0800
+16.0,"['excel', 'shell script', 'software testing', 'translation']",991.0,w0988
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'banner design']",413.0,w0412
+11.0,"['article rewriting', 'articles', 'copywriting', 'blog', 'academic writing']",201.0,w0200
+35.0,['translation'],1478.0,w1471
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+15.0,"['php', 'mysql', 'javascript', 'software architecture', 'wordpress']",57.0,w0057
+20.0,"['php', 'mysql', 'html', 'software architecture', 'javascript']",673.0,w0672
+30.0,"['flash', 'actionscript', 'javascript', 'xml', 'php']",859.0,w0858
+6.0,"['arabic', 'translation', 'graphic design']",693.0,w0692
+18.0,"['proofreading', 'copywriting', 'article rewriting', 'editing', 'academic writing']",51.0,w0051
+30.0,['translation'],303.0,w0302
+30.0,"['accounting', 'finance', 'business analysis', 'academic writing']",82.0,w0081
+55.0,"['animation', 'video services', '3ds max', '3d rendering']",1507.0,w1499
+30.0,"['software architecture', 'engineering', 'windows desktop', '.net', 'c# programming']",398.0,w0397
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1647.0,w1633
+25.0,"['customer support', 'music', 'audio services', 'voice talent', 'ghostwriting']",353.0,w0352

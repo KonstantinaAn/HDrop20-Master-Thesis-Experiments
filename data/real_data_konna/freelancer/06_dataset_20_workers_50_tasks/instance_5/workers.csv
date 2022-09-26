@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['linux', 'voip', 'unix', 'asterisk pbx']",1255.0,w1251
+10.0,"['engineering', 'electrical engineering', 'matlab &amp; mathematica']",1150.0,w1146
+10.0,"['classifieds posting', 'internet marketing', 'data entry', 'advertising', 'marketing']",1299.0,w1295
+12.0,"['website design', 'graphic design', 'php', 'banner design', 'html']",501.0,w0500
+20.0,"['html', 'php', 'website design', 'javascript', 'css']",1101.0,w1098
+5.0,"['internet marketing', 'anything goes', 'data entry', 'youtube']",760.0,w0759
+5.0,"['video broadcasting', 'linux', 'video services']",1627.0,w1613
+25.0,"['java', 'mathematics', 'php', 'c++ programming', 'c programming']",75.0,w0074
+8.0,"['graphic design', 'logo design', 'banner design', 'illustrator']",593.0,w0592
+3.0,"['articles', 'seo', 'copywriting', 'excel', 'article rewriting']",1139.0,w1135
+25.0,"['software architecture', 'php', 'mysql', 'javascript', 'script install']",1576.0,w1564
+40.0,"['video services', '3d animation', 'voice talent', 'animation', 'audio services']",373.0,w0372
+20.0,"['linux', 'system admin', 'windows server', 'script install', 'unix']",602.0,w0601
+10.0,"['java', 'excel', 'amazon web services', 'data entry', 'c++ programming']",1054.0,w1051
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",258.0,w0257
+10.0,"['php', 'html', 'website design', 'graphic design', 'wordpress']",308.0,w0307
+22.0,"['mobile phone', 'iphone', 'ipad', 'php']",24.0,w0024
+20.0,"['software architecture', 'php', 'c++ programming', 'matlab &amp; mathematica', 'mac os']",383.0,w0382
+7.0,"['link building', 'seo', 'internet marketing']",1091.0,w1088
+25.0,"['php', 'website design', 'ajax', 'javascript', 'wordpress']",642.0,w0641

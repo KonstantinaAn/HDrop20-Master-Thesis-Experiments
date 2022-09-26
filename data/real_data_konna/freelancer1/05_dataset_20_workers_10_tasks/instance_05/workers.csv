@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+12.0,"['translation', 'system admin', 'software architecture']",346.0,w0345
+20.0,"['seo', 'internet marketing', 'articles', 'link building', 'article rewriting']",1280.0,w1276
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",198.0,w0197
+20.0,"['system admin', 'windows server', 'software architecture']",453.0,w0452
+20.0,"['python', 'mysql', 'software architecture', 'java', 'php']",407.0,w0406
+30.0,"['linux', 'system admin', 'php', 'mysql', 'apache']",296.0,w0295
+5.0,"['software testing', 'php', 'mysql', 'software architecture', 'engineering']",1567.0,w1555
+25.0,"['engineering', 'windows desktop', 'visual basic', '.net', 'excel']",1753.0,w1737
+5.0,"['graphic design', 'logo design', 'photoshop', 'autocad', 'illustrator']",727.0,w0726
+15.0,"['css', '.net', 'html']",1444.0,w1439
+25.0,"['software architecture', 'php', 'delphi']",1464.0,w1457
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+35.0,"['php', 'mysql', 'software testing', 'software architecture', 'web hosting']",1439.0,w1434
+35.0,"['mysql', 'php', 'software architecture', 'software testing', 'asp']",203.0,w0202
+40.0,"['php', 'software architecture', 'linux', 'html']",765.0,w0764
+1.0,"['.net', 'c# programming', 'sql']",1229.0,w1225
+8.0,"['internet marketing', 'seo', 'link building', 'social networking', 'facebook marketing']",588.0,w0587
+25.0,"['linux', 'system admin', 'script install', 'apache']",1761.0,w1745
+50.0,"['photoshop', 'graphic design', 'logo design', 'windows desktop', 'css']",1123.0,w1120
+10.0,"['translation', 'spanish', 'proofreading', 'technical writing', 'editing']",287.0,w0286

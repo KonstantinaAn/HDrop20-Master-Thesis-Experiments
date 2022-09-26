@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+10.0,"['logo design', 'graphic design']",918.0,w0915
+15.0,"['html', 'website design', 'wordpress', 'graphic design', 'css']",157.0,w0156
+10.0,"['graphic design', 'logo design', 'illustrator', 'photoshop']",656.0,w0655
+10.0,"['delphi', 'data entry', 'software architecture', 'c programming']",666.0,w0665
+10.0,"['graphic design', 'logo design', 'flyer design', 'banner design', 'photoshop design']",706.0,w0705
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",159.0,w0158
+4.0,"['data entry', 'excel', 'research', 'web search', 'web scraping']",1574.0,w1562
+15.0,"['website design', 'graphic design', 'php', 'joomla', 'social networking']",810.0,w0809
+5.0,"['translation', 'greek', 'proofreading', 'data processing', 'data entry']",805.0,w0804
+6.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'website design']",979.0,w0976
+10.0,"['photoshop', 'graphic design', 'photo editing', 'logo design', 'banner design']",738.0,w0737
+30.0,"['iphone', 'mobile phone', 'ipad', 'php', 'android']",506.0,w0505
+10.0,"['linux', 'voip', 'unix', 'asterisk pbx']",1255.0,w1251
+10.0,"['c# programming', '.net', 'visual basic', 'c++ programming', 'software architecture']",1126.0,w1123
+25.0,"['php', 'mysql', 'javascript', 'software architecture', 'xml']",829.0,w0828
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'seo']",871.0,w0868
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",14.0,w0014
+15.0,"['php', 'xml', 'javascript']",1699.0,w1683
+13.0,"['graphic design', 'illustrator', 'illustration', 'photoshop', 'logo design']",948.0,w0945
+10.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",354.0,w0353
+15.0,"['android', 'mobile phone', 'iphone']",1109.0,w1106
+10.0,"['system admin', 'database administration', 'shell script']",1351.0,w1347
+10.0,"['translation', 'greek', 'technical writing', 'editing']",256.0,w0255
+10.0,"['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting']",1719.0,w1703
+25.0,"['excel', 'data entry', 'data processing', 'visual basic', 'microsoft access']",545.0,w0544
+12.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'brochure design']",982.0,w0979
+15.0,"['software architecture', 'engineering', '.net', 'sql', 'visual basic']",170.0,w0169
+8.0,"['python', 'software architecture']",1358.0,w1354
+20.0,"['mobile phone', 'iphone', 'android', 'ipad']",86.0,w0085
+15.0,"['academic writing', 'powerpoint', 'project management', 'data entry', 'articles']",709.0,w0708
+16.0,"['php', 'website design', 'html', 'graphic design', 'seo']",30.0,w0030
+8.0,"['copywriting', 'articles', 'seo', 'translation', 'blog']",47.0,w0047
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'web scraping']",99.0,w0098
+12.0,"['3d rendering', '3ds max', '3d animation', '3d modelling', 'photoshop']",665.0,w0664
+10.0,"['anything goes', 'seo', 'wordpress', 'articles', 'website design']",912.0,w0909
+15.0,"['internet marketing', 'sem / adwords', 'project management', 'sales']",1031.0,w1028
+22.0,"['website design', 'css', 'php', 'html', 'photoshop']",298.0,w0297
+8.0,"['php', 'software testing', 'mysql', 'software architecture', 'anything goes']",1619.0,w1607
+15.0,"['graphic design', 'photoshop', 'photoshop design', 't-shirts', 'logo design']",268.0,w0267
+20.0,"['php', 'html', 'website design', 'mysql', 'css']",134.0,w0133

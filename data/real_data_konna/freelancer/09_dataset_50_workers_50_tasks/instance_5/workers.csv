@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+5.0,"['reviews', 'copywriting', 'article rewriting', 'articles']",1341.0,w1337
+21.0,"['software architecture', 'android', 'linux', 'project management', 'windows desktop']",846.0,w0845
+8.0,"['video services', 'after effects', 'animation', 'videography', 'graphic design']",487.0,w0486
+10.0,"['mobile phone', 'android']",1106.0,w1103
+30.0,"['3d animation', '3d rendering', '3d modelling', '3ds max', 'animation']",769.0,w0768
+12.0,"['php', 'wordpress', 'joomla', 'website design', 'graphic design']",1718.0,w1702
+25.0,"['php', 'wordpress', 'website design', 'joomla', 'css']",640.0,w0639
+5.0,"['seo', 'link building']",1586.0,w1574
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",202.0,w0201
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+9.0,"['html', 'website design', 'css', 'joomla', 'psd to html']",1504.0,w1496
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+20.0,"['facebook marketing', 'social networking', 'internet marketing']",631.0,w0630
+11.0,"['article rewriting', 'articles', 'copywriting', 'blog', 'academic writing']",201.0,w0200
+30.0,"['.net', 'software architecture', 'php', 'c# programming', 'web scraping']",41.0,w0041
+15.0,"['microcontroller', 'pcb layout', 'electronics', 'engineering']",873.0,w0870
+15.0,"['after effects', '3d animation', 'animation', 'video services', 'photoshop']",336.0,w0335
+12.0,"['graphic design', 'photoshop', 'logo design', 'banner design', 'video services']",1076.0,w1073
+10.0,"['java', 'jquery / prototype', 'mysql', 'xml', 'javascript']",1207.0,w1203
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+15.0,"['graphic design', 'photoshop', 'logo design', 'indesign']",464.0,w0463
+30.0,"['logo design', 'graphic design', 'photoshop', 'banner design', 'website design']",95.0,w0094
+18.0,"['graphic design', 'logo design']",941.0,w0938
+5.0,['telemarketing'],1706.0,w1690
+25.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",213.0,w0212
+20.0,"['link building', 'seo', 'php', 'website design']",473.0,w0472
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts']",444.0,w0443
+10.0,"['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews']",646.0,w0645
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+20.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'brochure design']",112.0,w0111
+20.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'business cards']",478.0,w0477
+20.0,"['html', 'css', 'joomla', 'php', 'website design']",142.0,w0141
+9.0,"['website design', 'graphic design', 'logo design', 'photoshop', 'html']",1577.0,w1565
+12.0,"['seo', 'internet marketing', 'wordpress', 'website design']",486.0,w0485
+15.0,"['logo design', 'graphic design', 'website design', 'photoshop design']",549.0,w0548
+12.0,"['cms', 'php', 'javascript']",1760.0,w1744
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",168.0,w0167
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+20.0,"['flash', 'graphic design', 'logo design']",1714.0,w1698
+20.0,"['php', 'html', 'website design', 'graphic design', 'joomla']",225.0,w0224
+17.0,"['graphic design', 'flash', 'logo design', 'website design', 'php']",440.0,w0439
+10.0,"['photoshop', 'graphic design', 'logo design', 'banner design', 'illustrator']",1591.0,w1579
+10.0,"['articles', 'article rewriting', 'ghostwriting', 'blog', 'academic writing']",107.0,w0106
+25.0,"['software architecture', 'engineering', 'microsoft access', 'web hosting', 'excel']",1598.0,w1586
+6.0,"['website design', 'php', 'joomla', 'wordpress']",1553.0,w1543
+10.0,"['logo design', 'graphic design', 'banner design', 'website design', 'business cards']",220.0,w0219
+10.0,"['photoshop', 'illustrator']",1592.0,w1580
+10.0,"['link building', 'internet marketing', 'seo', 'advertising']",1242.0,w1238

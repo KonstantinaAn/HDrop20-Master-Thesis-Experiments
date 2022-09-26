@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+35.0,"['consulting', 'drafting', 'film', 'freelance']",2312.0,w2274
+50.0,"['crowdsourcing', 'php', 'venture funding', 'website development', 'wordpress']",1417.0,w1399
+250.0,"['2d animation', '2d art', '3d', '3d animation', '3d graphics', '3d rendering', '3ds max', 'concept art', 'design', 'graphics', 'gui design', 'illustration', 'user interface design', 'video', 'web design']",3753.0,w3685
+25.0,"['gaming', 'marketing', 'quality assurance', 'software', 'translation']",4162.0,w4080
+50.0,"['ad campaigns', 'ad management', 'analysis', 'analytics', 'contracts', 'design', 'drupal', 'google adwords', 'google analytics', 'html', 'joomla', 'link building', 'magento', 'management', 'marketing', 'mysql', 'php', 'plugins', 'seo', 'web design', 'web standards', 'wordpress']",1333.0,w1316
+30.0,"['e-books', 'nutrition education', 'physical fitness', 'science']",56.0,w0056
+500.0,"['ajax', 'asp', 'asp.net', 'css', 'dhtml', 'drupal', 'email', 'email marketing', 'flash', 'html', 'internet marketing', 'javascript', 'magento', 'management', 'marketing', 'mysql', 'php', 'python', 'sql', 'wordpress', 'xhtml', 'xml', 'xsl']",3404.0,w3341
+30.0,"['excel', 'microsoft', 'microsoft onenote', 'microsoft outlook', 'microsoft word', 'outlook', 'powerpoint', 'troubleshooting', 'windows']",431.0,w0422
+100.0,"['ajax', 'application development', 'content management', 'content management system (cms)', 'css', 'data entry', 'design', 'dreamweaver', 'forum posting', 'html', 'javascript', 'logo design', 'management', 'mysql', 'software', 'software development', 'web design', 'xhtml']",4404.0,w4318
+200.0,"['adobe indesign', 'com', 'director', 'facebook', 'https', 'indesign']",2847.0,w2798
+30.0,"['construction', 'custom software development', 'design', 'financial services', 'management', 'project management', 'quality assurance', 'software', 'software development', 'web design', 'web development']",1500.0,w1480
+200.0,"['apache', 'api', 'bash', 'c', 'css', 'html', 'html5', 'information technology industry', 'java', 'javascript', 'jquery', 'jquery mobile', 'linux', 'mobile', 'mysql', 'php', 'self', 'shell scripting', 'skill', 'sql', 'unix', 'writing']",3022.0,w2969
+25.0,"['analysis', 'asp', 'asp.net', 'c', 'construction', 'css', 'css3', 'design', 'dhtml', 'ecommerce', 'flash', 'html', 'html5', 'iphone', 'java', 'javascript', 'jquery', 'logo design', 'management', 'medical', 'music', 'networking', 'php', 'project management', 'psd', 'psd to html', 'real estate', 'sales', 'skill', 'social networking', 'software', 'software development', 'sports', 'subversion', 'twitter', 'twitter bootstrap', 'ui design', 'web design', 'web development', 'xml']",2415.0,w2374
+30.0,"['com', 'data entry', 'editing', 'https', 'make', 'medical', 'microsoft', 'processing', 'proofreading', 'transcription', 'word processing']",342.0,w0336
+60.0,"['animation', 'communication skills', 'css', 'design', 'dreamweaver', 'freelance', 'html', 'illustration', 'indesign', 'layout design', 'logo design', 'magazine layout', 'microsoft', 'website design']",246.0,w0242
+25.0,"['adobe photoshop', 'custom websites', 'photo editing', 'photoshop design', 'website design']",3195.0,w3138
+25.0,"['ajax', 'css', 'css3', 'design', 'html', 'html5', 'javascript', 'jquery', 'php', 'plugins', 'psd', 'psd to html', 'sql', 'web design', 'web development', 'wordpress']",2959.0,w2907
+25.0,"['access', 'ccna', 'communication skills', 'computer hardware', 'editing', 'excel', 'microsoft', 'ms word', 'powerpoint', 'presentations', 'reports', 'software', 'spreadsheets', 'typing']",1070.0,w1056
+50.0,"['asp', 'asp.net', 'c', 'c#', 'coreldraw', 'design', 'dhtml', 'html', 'javascript', 'reports', 'sql', 'sql server', 'vb script', 'vb.net', 'xml']",2820.0,w2772
+100.0,"['ajax', 'asp', 'asp.net', 'boost', 'c', 'design', 'flash', 'php', 'web development', 'website design', 'website development']",859.0,w0845

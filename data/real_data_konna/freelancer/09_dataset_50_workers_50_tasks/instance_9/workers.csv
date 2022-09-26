@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['email marketing', 'bulk marketing']",1360.0,w1356
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+18.0,"['python', 'excel', 'php', 'data processing', 'web scraping']",546.0,w0545
+25.0,"['magento', 'logo design', 'graphic design', 'ecommerce']",1721.0,w1705
+10.0,"['3d rendering', '3d modelling', 'autocad']",654.0,w0653
+15.0,"['php', 'xml', 'website design', 'wordpress', 'css']",863.0,w0861
+12.0,"['animation', 'illustration', '3d animation', 'after effects', 'video services']",739.0,w0738
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+15.0,"['microsoft access', 'sql', 'excel', 'mysql', '.net']",712.0,w0711
+15.0,"['graphic design', 'logo design', 'website design', 'banner design', 'photoshop']",50.0,w0050
+1.0,"['3d rendering', '3d modelling', 'autocad', '3d animation']",580.0,w0579
+15.0,"['academic writing', 'copywriting', 'articles', 'translation']",1468.0,w1461
+30.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",215.0,w0214
+13.0,"['creative writing', 'articles', 'anything goes', 'data entry', 'copy typing']",729.0,w0728
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'photoshop design']",1142.0,w1138
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+15.0,"['graphic design', 'logo design', 'photoshop', 'powerpoint', 'photoshop design']",433.0,w0432
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+10.0,"['photoshop', 'illustration', 'illustrator']",922.0,w0919
+10.0,"['photoshop', 'graphic design', 'illustrator', 'photo editing']",1365.0,w1361
+10.0,"['youtube', 'marketing', 'facebook marketing', 'graphic design', 'excel']",1004.0,w1001
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'advertising']",18.0,w0018
+20.0,"['video services', 'after effects', 'animation', 'video broadcasting', 'typography']",410.0,w0409
+5.0,"['data entry', 'web search', 'excel', 'data processing', 'web scraping']",1636.0,w1622
+10.0,"['joomla', 'html', 'php', 'css', 'website design']",823.0,w0822
+12.0,"['graphic design', 'photoshop', 'logo design', 'banner design', 'video services']",1076.0,w1073
+10.0,"['articles', 'article rewriting', 'academic writing', 'copywriting', 'ghostwriting']",241.0,w0240
+10.0,"['ghostwriting', 'graphic design', 'articles', 'logo design']",1148.0,w1144
+15.0,"['graphic design', 'logo design']",973.0,w0970
+35.0,"['photoshop design', 'graphic design', 'photoshop']",1410.0,w1406
+25.0,"['graphic design', 'logo design', 'photoshop']",175.0,w0174
+35.0,"['mobile phone', 'facebook marketing', 'iphone', 'php']",337.0,w0336
+10.0,"['php', 'wordpress', 'html', 'mysql', 'cms']",263.0,w0262
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+18.0,"['illustration', 'illustrator', 'caricature &amp; cartoons']",430.0,w0429
+15.0,"['sales', 'web hosting']",797.0,w0796
+10.0,"['php', 'html', 'website design', 'joomla']",1611.0,w1599
+15.0,"['illustration', 'graphic design', 'illustrator']",672.0,w0671
+20.0,"['photoshop', 'after effects', 'illustrator', 'animation']",1347.0,w1343
+8.0,"['copywriting', 'articles', 'seo', 'translation', 'blog']",47.0,w0047
+20.0,"['php', 'mysql', 'linux', 'web hosting']",635.0,w0634
+15.0,"['php', 'website management', 'logo design', 'website design', 'mysql']",814.0,w0813
+10.0,"['graphic design', 'logo design', 'articles', 'article rewriting']",722.0,w0721
+10.0,"['articles', 'article rewriting', 'ghostwriting', 'blog', 'academic writing']",107.0,w0106
+5.0,['telemarketing'],1706.0,w1690
+5.0,"['academic writing', 'article rewriting']",1727.0,w1711
+3.0,"['data entry', 'copy typing', 'excel', 'data processing', 'word']",1423.0,w1418
+25.0,"['excel', 'php', 'visual basic', 'css', 'web scraping']",400.0,w0399
+10.0,"['business cards', 'graphic design', 'stationery design']",1580.0,w1568

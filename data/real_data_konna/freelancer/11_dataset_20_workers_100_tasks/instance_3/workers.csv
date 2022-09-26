@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['facebook marketing', 'social networking', 'internet marketing']",276.0,w0275
+15.0,"['ipad', 'mobile phone', 'iphone', 'android']",396.0,w0395
+10.0,"['graphic design', 'banner design', 'photoshop', 'brochure design', 'flash']",852.0,w0851
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'advertising']",18.0,w0018
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+15.0,"['after effects', 'graphic design', '3d animation']",595.0,w0594
+20.0,"['linux', 'mysql']",966.0,w0963
+10.0,"['logo design', 'graphic design', 'banner design', 'website design', 'business cards']",220.0,w0219
+15.0,"['html', 'php', 'wordpress']",1141.0,w1137
+15.0,"['css', '.net', 'html']",1444.0,w1439
+12.0,"['data processing', 'mysql']",1392.0,w1388
+10.0,"['3d rendering', '3d modelling', 'graphic design', '3ds max', 'illustrator']",523.0,w0522
+8.0,"['internet marketing', 'marketing', 'seo', 'sales', 'link building']",0.0,w0000
+5.0,['telemarketing'],1706.0,w1690
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+10.0,"['logo design', 'graphic design', 'website design', 'photoshop', 'banner design']",294.0,w0293
+12.0,"['php', 'website design', 'project management', 'internet marketing', 'copywriting']",1584.0,w1572
+12.0,"['jquery / prototype', 'ajax', 'php', 'mysql', 'javascript']",1671.0,w1656
+11.0,"['seo', 'html', 'css', 'php']",645.0,w0644
+12.0,"['link building', 'seo', 'internet marketing', 'data entry']",1606.0,w1594

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+250.0,"['corel draw', 'design', 'dreamweaver', 'fireworks', 'flash', 'illustration', 'joomla', 'magento', 'max', 'maya', 'page design', 'php', 'web design', 'wordpress', 'zen cart']",1156.0,w1140
+100.0,"['analysis', 'analytics', 'google analytics', 'seo', 'webmaster']",2660.0,w2615
+50.0,"['android', 'asp', 'asp.net', 'ios', 'ipad', 'joomla', 'magento', 'mobile', 'php', 'windows', 'wordpress']",2406.0,w2365
+25.0,"['access', 'ajax', 'api', 'application development', 'authorize.net', 'cakephp', 'css', 'design', 'dhtml', 'ecommerce', 'focus', 'html', 'html5', 'javascript', 'joomla', 'jquery', 'magento', 'ms', 'mvc', 'mysql', 'networking', 'open source', 'oscommerce', 'paypal', 'php']",3048.0,w2995
+30.0,"['codeigniter', 'javascript', 'jquery', 'mysql', 'smarty', 'soap']",2946.0,w2894
+25.0,"['adobe illustrator', 'adobe photoshop', 'corel draw', 'indesign', 'logo design', 'web design']",1233.0,w1216
+50.0,"['animation', 'css', 'html', 'javascript', 'mysql']",2622.0,w2577
+80.0,"['css3', 'facebook api', 'html5', 'javascript', 'jquery', 'mysql', 'opencart', 'php', 'twitter bootstrap', 'wordpress', 'yii framework']",3277.0,w3218
+25.0,"['.net', 'ajax', 'asp.net', 'cakephp', 'css3', 'drupal', 'html5', 'java', 'joomla', 'jquery', 'magento', 'php', 'php 5', 'wordpress']",3612.0,w3547
+30.0,"['data backup', 'server', 'windows']",2115.0,w2081
+25.0,"['gaming', 'reports', 'software', 'test', 'video', 'video games']",1798.0,w1768
+35.0,"['andriod apps', 'android development', 'android programming', 'api', 'css3', 'custom cms', 'design', 'drupal', 'email design', 'html5', 'icontact', 'ios development', 'iphone app development', 'joomla', 'lamp', 'magento', 'mailchimp', 'mysql', 'newsletter design', 'other - multimedia services', 'seo', 'static html', 'wordpress', 'zend framework']",3756.0,w3688
+25.0,"['collections', 'editorial consulting', 'event management', 'event planning', 'focus', 'management', 'photography', 'promotions', 'sales', 'selling']",1648.0,w1622
+200.0,"['asp', 'c', 'c++', 'dhtml', 'editing', 'enterprise software', 'html', 'j2ee', 'java', 'jsp', 'mysql', 'networking', 'programming', 'software', 'video', 'videos', 'web technologies']",411.0,w0402
+25.0,"['3d', 'adobe illustrator', 'corel draw', 'flash']",4560.0,w4473
+50.0,"['adobe photoshop', 'ajax', 'android development', 'asp', 'asp.net', 'css', 'design', 'dhtml', 'drupal', 'html', 'ipad development', 'iphone development', 'java', 'joomla', 'magento', 'perl', 'php', 'web design', 'web marketing', 'wordpress', 'xhtml', 'xml']",2303.0,w2265
+500.0,"['android', 'android development', 'architecture', 'augmented reality', 'cocos2d', 'com', 'developer', 'facebook', 'game development', 'gps', 'ios', 'ipad', 'iphone', 'ipod', 'ipod touch', 'javascript', 'json', 'management', 'marketing', 'mobile', 'paypal', 'project management', 'rest', 'soap', 'software', 'sqlite', 'twitter', 'web services', 'xml']",4306.0,w4222
+40.0,"['advertising', 'benefits', 'css', 'customer support', 'data entry', 'design', 'html', 'joomla', 'magento', 'outsourcing', 'php', 'research', 'seo', 'typing', 'vista', 'web development', 'website design', 'windows', 'windows 7', 'wordpress']",1723.0,w1694
+25.0,"['access', 'ccna', 'communication skills', 'computer hardware', 'editing', 'excel', 'microsoft', 'ms word', 'powerpoint', 'presentations', 'reports', 'software', 'spreadsheets', 'typing']",1070.0,w1056
+25.0,"['analysis', 'basic', 'collections', 'design', 'hibernate', 'intranet', 'j2ee', 'java', 'javascript', 'jdbc', 'jpa', 'jsf', 'jsp', 'management', 'perl', 'php', 'programming', 'software', 'struts', 'swing', 'visual basic', 'web services', 'xml']",2518.0,w2477

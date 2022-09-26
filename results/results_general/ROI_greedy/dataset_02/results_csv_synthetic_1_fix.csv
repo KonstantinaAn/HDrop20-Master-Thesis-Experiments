@@ -1,0 +1,480 @@
+Official_Experiment_ROI_dataset_02_instance_01_0_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_01\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_01\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.345371   [t0]        0       w00           1.0
+1   3.841491   [t0]        1       w01           0.0
+2   2.423420   [t0]        2       w02           0.0
+3   3.304699   [t0]        3       w03           0.0
+4   3.372707   [t0]        4       w04           0.0
+5   7.736405   [t0]        5       w05           0.0
+6   5.016231   [t0]        6       w06           0.0
+7   7.183683   [t0]        7       w07           0.0
+8  10.298465   [t0]        8       w08           0.0
+9   8.555908   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  15.351740           1.0
+1    t1         1   4.570091           0.0
+2    t2         2  16.577037           0.0
+3    t3         3   3.774775           0.0
+4    t4         4  13.498614           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 15.351740111396156, 't1': 4.5700909018669735, 't2': 16.577036659248634, 't3': 3.774775223096327, 't4': 13.498614368758727}, 'worke_cost': {'w00': 2.345371053731585, 'w01': 3.841491142702262, 'w02': 2.423419981022755, 'w03': 3.3046989329472054, 'w04': 3.3727068549985537, 'w05': 7.736404623153271, 'w06': 5.016230932011312, 'w07': 7.183683370969262, 'w08': 10.298465360307226, 'w09': 8.555907987942849}, 'n': 5, 'm': 10, 'solution': {'w00'}, 'value': 13.006369057664571}"
+Official_Experiment_ROI_dataset_02_instance_02_1_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_02\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_02\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.759295   [t0]        0       w00           0.0
+1   2.087355   [t0]        1       w01           0.0
+2   1.158083   [t0]        2       w02           1.0
+3   2.953427   [t0]        3       w03           0.0
+4   3.851362   [t0]        4       w04           0.0
+5   6.372744   [t0]        5       w05           0.0
+6   6.275631   [t0]        6       w06           0.0
+7   6.982137   [t0]        7       w07           0.0
+8  10.510737   [t0]        8       w08           0.0
+9  10.480351   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   5.805911           1.0
+1    t1         1   3.882831           0.0
+2    t2         2  13.193125           0.0
+3    t3         3   2.623147           0.0
+4    t4         4  18.647844           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 5.8059112936048125, 't1': 3.882831239786472, 't2': 13.193125495455188, 't3': 2.6231471875587853, 't4': 18.647844301587}, 'worke_cost': {'w00': 2.759295292683012, 'w01': 2.08735499091848, 'w02': 1.158083209844015, 'w03': 2.953427402708192, 'w04': 3.851361829093002, 'w05': 6.372743578042166, 'w06': 6.275631038413707, 'w07': 6.982136657913356, 'w08': 10.510737394401437, 'w09': 10.480351032530267}, 'n': 5, 'm': 10, 'solution': {'w02'}, 'value': 4.647828083760798}"
+Official_Experiment_ROI_dataset_02_instance_03_2_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_03\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_03\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.182473   [t0]        0       w00           0.0
+1   2.500850   [t0]        1       w01           1.0
+2   3.332509   [t0]        2       w02           0.0
+3   2.692172   [t0]        3       w03           0.0
+4   3.641522   [t0]        4       w04           0.0
+5   7.539515   [t0]        5       w05           0.0
+6   6.393466   [t0]        6       w06           0.0
+7   4.006739   [t0]        7       w07           0.0
+8   9.068888   [t0]        8       w08           0.0
+9  10.050189   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  19.878094           1.0
+1    t1         1   1.995354           0.0
+2    t2         2  15.696142           0.0
+3    t3         3  17.668415           0.0
+4    t4         4   1.507079           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 19.878094303919312, 't1': 1.9953537395708247, 't2': 15.696142099027538, 't3': 17.668414553687363, 't4': 1.5070790421783131}, 'worke_cost': {'w00': 3.1824734211060446, 'w01': 2.5008503121938537, 'w02': 3.3325092116196453, 'w03': 2.6921717400853376, 'w04': 3.6415222790333193, 'w05': 7.539515206066844, 'w06': 6.39346619702288, 'w07': 4.006739262118983, 'w08': 9.068887739897466, 'w09': 10.050189444665714}, 'n': 5, 'm': 10, 'solution': {'w01'}, 'value': 17.377243991725457}"
+Official_Experiment_ROI_dataset_02_instance_04_3_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_04\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_04\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.338291   [t0]        0       w00           1.0
+1   3.894795   [t0]        1       w01           0.0
+2   3.079929   [t0]        2       w02           0.0
+3   1.851418   [t0]        3       w03           0.0
+4   3.003649   [t0]        4       w04           0.0
+5   7.161087   [t0]        5       w05           0.0
+6   7.213752   [t0]        6       w06           0.0
+7   7.397476   [t0]        7       w07           0.0
+8  10.828422   [t0]        8       w08           0.0
+9   8.396862   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   4.167758           1.0
+1    t1         1   6.552513           0.0
+2    t2         2  15.755625           0.0
+3    t3         3   8.331232           0.0
+4    t4         4   4.048543           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 4.167758385954676, 't1': 6.552513460294339, 't2': 15.755625190536875, 't3': 8.331232001736907, 't4': 4.048542645879663}, 'worke_cost': {'w00': 1.3382911692507071, 'w01': 3.894795393008101, 'w02': 3.0799292673494305, 'w03': 1.8514179059901108, 'w04': 3.003648766855608, 'w05': 7.161086521499525, 'w06': 7.213752385928348, 'w07': 7.397476251084856, 'w08': 10.828421884892647, 'w09': 8.396862289390505}, 'n': 5, 'm': 10, 'solution': {'w00'}, 'value': 2.829467216703969}"
+Official_Experiment_ROI_dataset_02_instance_05_4_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_05\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_05\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.573637   [t0]        0       w00           0.0
+1   3.368921   [t0]        1       w01           0.0
+2   1.618943   [t0]        2       w02           1.0
+3   2.110926   [t0]        3       w03           0.0
+4   3.003087   [t0]        4       w04           0.0
+5   6.444314   [t0]        5       w05           0.0
+6   6.406191   [t0]        6       w06           0.0
+7   7.619685   [t0]        7       w07           0.0
+8   8.635090   [t0]        8       w08           0.0
+9  10.075203   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  17.997662           1.0
+1    t1         1  16.154185           0.0
+2    t2         2  13.601780           0.0
+3    t3         3  17.896138           0.0
+4    t4         4   9.195871           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 17.997662301849253, 't1': 16.154184642312455, 't2': 13.60178019075425, 't3': 17.896138337309143, 't4': 9.195870862917936}, 'worke_cost': {'w00': 2.573636561747542, 'w01': 3.3689210922006327, 'w02': 1.618942684125661, 'w03': 2.1109255799147824, 'w04': 3.0030873453106786, 'w05': 6.444313601440237, 'w06': 6.406191025809351, 'w07': 7.619685037217344, 'w08': 8.635089937878801, 'w09': 10.075203062163288}, 'n': 5, 'm': 10, 'solution': {'w02'}, 'value': 16.378719617723593}"
+Official_Experiment_ROI_dataset_02_instance_06_5_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_06\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_06\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.351113   [t0]        0       w00           0.0
+1   1.229206   [t0]        1       w01           1.0
+2   1.628385   [t0]        2       w02           0.0
+3   2.944909   [t0]        3       w03           0.0
+4   1.291070   [t0]        4       w04           0.0
+5   5.783767   [t0]        5       w05           0.0
+6   7.300941   [t0]        6       w06           0.0
+7   5.601046   [t0]        7       w07           0.0
+8  11.689855   [t0]        8       w08           0.0
+9   8.458529   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   3.288032           1.0
+1    t1         1  19.666041           0.0
+2    t2         2   1.053917           0.0
+3    t3         3   6.029326           0.0
+4    t4         4   8.578944           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 3.288031808590482, 't1': 19.666041097204076, 't2': 1.0539174213626004, 't3': 6.029326409901731, 't4': 8.578944077217873}, 'worke_cost': {'w00': 2.351112991874865, 'w01': 1.2292058576648943, 'w02': 1.6283846750380495, 'w03': 2.9449091054307077, 'w04': 1.2910701983348902, 'w05': 5.783766774890985, 'w06': 7.3009406428807555, 'w07': 5.60104617391082, 'w08': 11.689855242398071, 'w09': 8.458528675463057}, 'n': 5, 'm': 10, 'solution': {'w01'}, 'value': 2.0588259509255877}"
+Official_Experiment_ROI_dataset_02_instance_07_6_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_07\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_07\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   2.664565   [t0]        0       w00           0.0
+1   1.213651   [t0]        1       w01           1.0
+2   3.733266   [t0]        2       w02           0.0
+3   1.969234   [t0]        3       w03           0.0
+4   2.685344   [t0]        4       w04           0.0
+5   4.274620   [t0]        5       w05           0.0
+6   4.985120   [t0]        6       w06           0.0
+7   5.772790   [t0]        7       w07           0.0
+8   8.762787   [t0]        8       w08           0.0
+9  10.245032   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  15.777586           1.0
+1    t1         1   4.810284           0.0
+2    t2         2  13.967167           0.0
+3    t3         3   5.015048           0.0
+4    t4         4   7.034331           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 15.777586417925455, 't1': 4.8102837306584805, 't2': 13.967167007470875, 't3': 5.0150480222946205, 't4': 7.034331077020105}, 'worke_cost': {'w00': 2.6645649088911214, 'w01': 1.2136512171255138, 'w02': 3.733265646960916, 'w03': 1.9692337435356475, 'w04': 2.6853435185077634, 'w05': 4.274619717805131, 'w06': 4.985120422060972, 'w07': 5.772789606194223, 'w08': 8.76278678154246, 'w09': 10.245032189689905}, 'n': 5, 'm': 10, 'solution': {'w01'}, 'value': 14.563935200799941}"
+Official_Experiment_ROI_dataset_02_instance_08_7_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_08\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_08\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.608033   [t0]        0       w00           1.0
+1   2.984705   [t0]        1       w01           0.0
+2   3.598581   [t0]        2       w02           0.0
+3   3.708875   [t0]        3       w03           0.0
+4   3.569196   [t0]        4       w04           0.0
+5   6.446215   [t0]        5       w05           0.0
+6   6.805693   [t0]        6       w06           0.0
+7   5.403723   [t0]        7       w07           0.0
+8  10.191704   [t0]        8       w08           0.0
+9   8.729596   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.674335           1.0
+1    t1         1   2.257831           0.0
+2    t2         2   9.939349           0.0
+3    t3         3  17.275009           0.0
+4    t4         4  12.063616           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.674335402624354, 't1': 2.2578312092830544, 't2': 9.93934858623665, 't3': 17.275009077470607, 't4': 12.063615670373824}, 'worke_cost': {'w00': 1.6080328846768457, 'w01': 2.9847048689013063, 'w02': 3.598581427416597, 'w03': 3.708874965115895, 'w04': 3.569195635016712, 'w05': 6.4462151195891675, 'w06': 6.8056933579505525, 'w07': 5.403723006427015, 'w08': 10.191704056006786, 'w09': 8.729596073429539}, 'n': 5, 'm': 10, 'solution': {'w00'}, 'value': 17.06630251794751}"
+Official_Experiment_ROI_dataset_02_instance_09_8_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_09\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_09\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.670054   [t0]        0       w00           0.0
+1   2.631701   [t0]        1       w01           0.0
+2   2.154820   [t0]        2       w02           0.0
+3   1.151719   [t0]        3       w03           1.0
+4   3.245294   [t0]        4       w04           0.0
+5   5.542811   [t0]        5       w05           0.0
+6   7.648667   [t0]        6       w06           0.0
+7   7.196404   [t0]        7       w07           0.0
+8  11.910796   [t0]        8       w08           0.0
+9  11.599601   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.671852           1.0
+1    t1         1   5.216031           0.0
+2    t2         2  15.099860           0.0
+3    t3         3  11.299803           0.0
+4    t4         4  11.734542           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.67185172022078, 't1': 5.216031323572784, 't2': 15.099860346869585, 't3': 11.299803173409035, 't4': 11.73454222382465}, 'worke_cost': {'w00': 3.6700535150599753, 'w01': 2.6317012654486214, 'w02': 2.1548198188014704, 'w03': 1.1517185217719286, 'w04': 3.2452944307973275, 'w05': 5.542811345139722, 'w06': 7.648666703145999, 'w07': 7.196403567493451, 'w08': 11.910796473319984, 'w09': 11.599600903951881}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 8.52013319844885}"
+Official_Experiment_ROI_dataset_02_instance_10_9_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_10\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_10\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   1.816644   [t0]        0       w00           1.0
+1   3.680130   [t0]        1       w01           0.0
+2   2.978976   [t0]        2       w02           0.0
+3   3.988508   [t0]        3       w03           0.0
+4   2.240581   [t0]        4       w04           0.0
+5   6.868521   [t0]        5       w05           0.0
+6   5.365768   [t0]        6       w06           0.0
+7   7.265010   [t0]        7       w07           0.0
+8  10.474947   [t0]        8       w08           0.0
+9   8.620305   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   4.993124           1.0
+1    t1         1   4.146871           0.0
+2    t2         2  13.978560           0.0
+3    t3         3   2.121398           0.0
+4    t4         4  11.027572           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 4.993124365107986, 't1': 4.146870570061626, 't2': 13.978560053214094, 't3': 2.121398483618289, 't4': 11.027572325068645}, 'worke_cost': {'w00': 1.8166435427110468, 'w01': 3.680129671555268, 'w02': 2.9789762263132267, 'w03': 3.9885078778831735, 'w04': 2.2405809474463907, 'w05': 6.868520966117138, 'w06': 5.36576828886105, 'w07': 7.2650097094453026, 'w08': 10.47494665125682, 'w09': 8.620305217156194}, 'n': 5, 'm': 10, 'solution': {'w00'}, 'value': 3.1764808223969396}"
+Official_Experiment_ROI_dataset_02_instance_11_10_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_11\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_11\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.834941      [t0]        0       w00           0.0
+1   2.459958      [t0]        1       w01           0.0
+2   3.371644      [t0]        2       w02           0.0
+3   5.279976      [t0]        3       w03           0.0
+4   2.340905  [t0, t2]        4       w04           1.0
+5   7.893656  [t0, t2]        5       w05           0.0
+6   5.026000      [t0]        6       w06           0.0
+7  15.025148  [t0, t2]        7       w07           0.0
+8   8.761833  [t0, t2]        8       w08           0.0
+9  11.023430      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   6.147794           1.0
+1    t1         1  12.500594           0.0
+2    t2         2   8.574227           1.0
+3    t3         3  10.426864           0.0
+4    t4         4  12.788064           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 6.1477936976597976, 't1': 12.500594363675175, 't2': 8.574226795760506, 't3': 10.426864351336565, 't4': 12.788064349442301}, 'worke_cost': {'w00': 2.8349406372782475, 'w01': 2.4599575352837117, 'w02': 3.371644122951884, 'w03': 5.279975746783106, 'w04': 2.34090465747487, 'w05': 7.8936561937675185, 'w06': 5.025999515979789, 'w07': 15.025147987270794, 'w08': 8.761833057087147, 'w09': 11.023430473925254}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 12.381115835945433}"
+Official_Experiment_ROI_dataset_02_instance_12_11_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_12\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_12\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   2.555111      [t0]        0       w00           0.0
+1   7.449758      [t0]        1       w01           0.0
+2   1.745544      [t0]        2       w02           0.0
+3   1.926606      [t0]        3       w03           0.0
+4   3.777159  [t0, t2]        4       w04           1.0
+5   8.448873  [t0, t2]        5       w05           0.0
+6  10.875187  [t0, t2]        6       w06           0.0
+7   5.172332  [t0, t2]        7       w07           0.0
+8   8.865447  [t0, t2]        8       w08           0.0
+9  17.776921      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   1.725652           1.0
+1    t1         1   1.902519           0.0
+2    t2         2   7.146486           1.0
+3    t3         3  18.902358           0.0
+4    t4         4  18.301575           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0', 't2'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 1.7256520261039614, 't1': 1.9025188408174167, 't2': 7.1464863249312165, 't3': 18.902357635797728, 't4': 18.301574876495103}, 'worke_cost': {'w00': 2.5551113831098733, 'w01': 7.449757633747405, 'w02': 1.745543840685685, 'w03': 1.9266059659673904, 'w04': 3.777159358867064, 'w05': 8.448873499372791, 'w06': 10.875187338446416, 'w07': 5.1723316582144205, 'w08': 8.865446950198088, 'w09': 17.776920955820874}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 5.094978992168113}"
+Official_Experiment_ROI_dataset_02_instance_13_12_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_13\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_13\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   1.289218      [t0]        0       w00           0.0
+1   4.188946      [t0]        1       w01           0.0
+2   1.985289      [t0]        2       w02           0.0
+3   1.029438      [t0]        3       w03           0.0
+4   7.019713  [t0, t2]        4       w04           0.0
+5  12.992218  [t0, t2]        5       w05           0.0
+6   7.610309  [t0, t2]        6       w06           0.0
+7   5.307596  [t0, t2]        7       w07           1.0
+8  16.854476  [t0, t2]        8       w08           0.0
+9  23.859771      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.517105           1.0
+1    t1         1  18.755225           0.0
+2    t2         2   6.579426           1.0
+3    t3         3   4.132699           0.0
+4    t4         4  13.207489           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0', 't2'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.517105333163528, 't1': 18.75522532667044, 't2': 6.579426022908613, 't3': 4.132698683084453, 't4': 13.207489429974304}, 'worke_cost': {'w00': 1.2892179371381274, 'w01': 4.188946047215209, 'w02': 1.9852885287427484, 'w03': 1.029437747163648, 'w04': 7.01971308373681, 'w05': 12.992218075261722, 'w06': 7.610308716005522, 'w07': 5.307596012148227, 'w08': 16.854475753072528, 'w09': 23.85977145520809}, 'n': 5, 'm': 10, 'solution': {'w03', 'w07'}, 'value': 18.759497596760266}"
+Official_Experiment_ROI_dataset_02_instance_14_13_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_14\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_14\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   4.551065      [t0]        0       w00           0.0
+1   2.311441      [t0]        1       w01           0.0
+2   2.205372      [t0]        2       w02           1.0
+3   7.403703      [t0]        3       w03           0.0
+4   6.534082  [t0, t2]        4       w04           0.0
+5   5.554857      [t0]        5       w05           0.0
+6   6.051975  [t0, t2]        6       w06           0.0
+7  11.276786  [t0, t2]        7       w07           0.0
+8  10.216449  [t0, t2]        8       w08           0.0
+9  10.260809  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  15.553650           1.0
+1    t1         1  18.070517           0.0
+2    t2         2   2.055082           0.0
+3    t3         3   8.481903           0.0
+4    t4         4   2.539498           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0'], 'w06': ['t0', 't2'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 15.55365014900038, 't1': 18.070517007052167, 't2': 2.0550818449064705, 't3': 8.481903009209034, 't4': 2.5394975588819904}, 'worke_cost': {'w00': 4.551064632607818, 'w01': 2.311441027664378, 'w02': 2.2053722323093634, 'w03': 7.40370333221667, 'w04': 6.534081660523411, 'w05': 5.5548571816338885, 'w06': 6.0519747570069145, 'w07': 11.276785538655671, 'w08': 10.216448716726331, 'w09': 10.260808674923117}, 'n': 5, 'm': 10, 'solution': {'w02'}, 'value': 13.348277916691016}"
+Official_Experiment_ROI_dataset_02_instance_15_14_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_15\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_15\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   1.946060      [t0]        0       w00           0.0
+1   2.195676      [t0]        1       w01           0.0
+2   7.496138      [t0]        2       w02           0.0
+3   7.641047      [t0]        3       w03           0.0
+4   2.281377  [t0, t2]        4       w04           1.0
+5  13.533425  [t0, t2]        5       w05           0.0
+6   8.183626  [t0, t2]        6       w06           0.0
+7   5.603925      [t0]        7       w07           0.0
+8   8.501948  [t0, t2]        8       w08           0.0
+9  21.419805  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  19.496510           1.0
+1    t1         1   9.448833           0.0
+2    t2         2   9.960571           1.0
+3    t3         3   5.904814           0.0
+4    t4         4   2.757046           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0', 't2'], 'w07': ['t0'], 'w08': ['t0', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 19.496510387822333, 't1': 9.448833065868557, 't2': 9.960570535860537, 't3': 5.904813695933923, 't4': 2.757046197875844}, 'worke_cost': {'w00': 1.9460595231634827, 'w01': 2.195676301182135, 'w02': 7.4961375744036935, 'w03': 7.6410466375710975, 'w04': 2.2813767515698005, 'w05': 13.533425002847896, 'w06': 8.183625794042479, 'w07': 5.603925387834363, 'w08': 8.501948054233607, 'w09': 21.419805267376013}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 27.17570417211307}"
+Official_Experiment_ROI_dataset_02_instance_16_15_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_16\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_16\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   6.360816      [t0]        0       w00           0.0
+1   2.920666      [t0]        1       w01           0.0
+2   3.938245      [t0]        2       w02           0.0
+3   2.784689      [t0]        3       w03           1.0
+4   5.840047  [t0, t2]        4       w04           0.0
+5   8.715284  [t0, t2]        5       w05           0.0
+6  13.228730      [t0]        6       w06           0.0
+7   5.681229  [t0, t2]        7       w07           0.0
+8  11.712952  [t0, t2]        8       w08           0.0
+9  10.863617  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  12.335749           1.0
+1    t1         1  15.185382           0.0
+2    t2         2   1.596026           0.0
+3    t3         3  13.160376           0.0
+4    t4         4   3.193845           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 12.335749076361838, 't1': 15.185381968428473, 't2': 1.5960260987568362, 't3': 13.160375786876527, 't4': 3.1938454692188296}, 'worke_cost': {'w00': 6.360815662607565, 'w01': 2.920666433490513, 'w02': 3.9382448205467813, 'w03': 2.7846891766312574, 'w04': 5.840047064274149, 'w05': 8.715284335462467, 'w06': 13.228729576580507, 'w07': 5.6812286009358575, 'w08': 11.712952468864215, 'w09': 10.863617058088794}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 9.55105989973058}"
+Official_Experiment_ROI_dataset_02_instance_17_16_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_17\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_17\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   6.427550      [t0]        0       w00           0.0
+1   2.346108      [t0]        1       w01           0.0
+2   7.354231      [t0]        2       w02           0.0
+3   7.252045      [t0]        3       w03           0.0
+4   1.769529  [t0, t2]        4       w04           1.0
+5   6.731446  [t0, t2]        5       w05           0.0
+6   7.729565      [t0]        6       w06           0.0
+7   4.327865  [t0, t2]        7       w07           0.0
+8  18.373591  [t0, t2]        8       w08           0.0
+9  16.573014  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  10.248916           1.0
+1    t1         1   9.987997           0.0
+2    t2         2   6.686117           1.0
+3    t3         3   3.944907           0.0
+4    t4         4   5.006374           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 10.248915734771868, 't1': 9.98799726218229, 't2': 6.686117355202918, 't3': 3.944907345729617, 't4': 5.00637400647144}, 'worke_cost': {'w00': 6.427550175662106, 'w01': 2.346108279728061, 'w02': 7.354230935239532, 'w03': 7.252044998077593, 'w04': 1.7695292953785142, 'w05': 6.731446026424158, 'w06': 7.729565015547262, 'w07': 4.3278650288757285, 'w08': 18.37359125180489, 'w09': 16.57301395988128}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 15.165503794596273}"
+Official_Experiment_ROI_dataset_02_instance_18_17_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_18\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_18\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   1.597489      [t0]        0       w00           0.0
+1   2.029141      [t0]        1       w01           0.0
+2   1.963572      [t0]        2       w02           0.0
+3   2.532264      [t0]        3       w03           0.0
+4   3.193631  [t0, t2]        4       w04           1.0
+5   7.394539  [t0, t2]        5       w05           0.0
+6  11.667395      [t0]        6       w06           0.0
+7   7.350182      [t0]        7       w07           0.0
+8   8.460675      [t0]        8       w08           0.0
+9  23.066991      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   8.423493           1.0
+1    t1         1  19.608664           0.0
+2    t2         2  13.809835           1.0
+3    t3         3   1.122449           0.0
+4    t4         4   2.531285           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 8.423492720458674, 't1': 19.608663663355202, 't2': 13.809834969080464, 't3': 1.122449268827739, 't4': 2.5312850493152985}, 'worke_cost': {'w00': 1.5974887112871976, 'w01': 2.029141376707751, 'w02': 1.9635720773907372, 'w03': 2.532263849882651, 'w04': 3.1936305850724582, 'w05': 7.3945394013198475, 'w06': 11.66739461033757, 'w07': 7.350181876587301, 'w08': 8.46067542548546, 'w09': 23.066991305399412}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 19.03969710446668}"
+Official_Experiment_ROI_dataset_02_instance_19_18_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_19\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_19\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   5.198948      [t0]        0       w00           0.0
+1   2.166137      [t0]        1       w01           0.0
+2   2.882478      [t0]        2       w02           0.0
+3   2.521603      [t0]        3       w03           0.0
+4   2.722612  [t0, t2]        4       w04           1.0
+5  12.273259  [t0, t2]        5       w05           0.0
+6   9.885209  [t0, t2]        6       w06           0.0
+7   4.139792  [t0, t2]        7       w07           0.0
+8  11.451363  [t0, t2]        8       w08           0.0
+9   9.737415      [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  11.035578           1.0
+1    t1         1   9.718884           0.0
+2    t2         2  13.139838           1.0
+3    t3         3  15.553784           0.0
+4    t4         4   2.500571           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0', 't2'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0']}, 'task_val_dict': {'t0': 11.035578471776562, 't1': 9.718884175013793, 't2': 13.139837700731215, 't3': 15.553784030915713, 't4': 2.5005708205519683}, 'worke_cost': {'w00': 5.198947584364756, 'w01': 2.1661370726120177, 'w02': 2.8824775219795407, 'w03': 2.521602898047597, 'w04': 2.722612251390788, 'w05': 12.273258957175582, 'w06': 9.885209336005387, 'w07': 4.13979247334836, 'w08': 11.451362730981113, 'w09': 9.737415064522931}, 'n': 5, 'm': 10, 'solution': {'w04'}, 'value': 21.45280392111699}"
+Official_Experiment_ROI_dataset_02_instance_20_19_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_20\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_20\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost    skills  user_id user_name  y_star_index
+0   3.496907      [t0]        0       w00           0.0
+1   6.733574      [t0]        1       w01           0.0
+2   7.631407      [t0]        2       w02           0.0
+3   1.481789      [t0]        3       w03           0.0
+4   5.893124  [t0, t2]        4       w04           1.0
+5  14.660612  [t0, t2]        5       w05           0.0
+6   7.955494  [t0, t2]        6       w06           0.0
+7   7.728858  [t0, t2]        7       w07           0.0
+8  22.346499  [t0, t2]        8       w08           0.0
+9  23.748996  [t0, t2]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  15.293309           1.0
+1    t1         1  12.373712           0.0
+2    t2         2   6.550153           1.0
+3    t3         3  12.669612           0.0
+4    t4         4  17.497253           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0', 't2'], 'w05': ['t0', 't2'], 'w06': ['t0', 't2'], 'w07': ['t0', 't2'], 'w08': ['t0', 't2'], 'w09': ['t0', 't2']}, 'task_val_dict': {'t0': 15.2933085935281, 't1': 12.373712235555857, 't2': 6.550152554088942, 't3': 12.669612389449847, 't4': 17.497253023279132}, 'worke_cost': {'w00': 3.4969072003942667, 'w01': 6.7335743714386975, 'w02': 7.631407372524293, 'w03': 1.4817891399217729, 'w04': 5.893123846472273, 'w05': 14.660612323536911, 'w06': 7.955494055662987, 'w07': 7.728857569507821, 'w08': 22.346498725496048, 'w09': 23.748996116930474}, 'n': 5, 'm': 10, 'solution': {'w03', 'w04'}, 'value': 14.468548161222996}"
+Official_Experiment_ROI_dataset_02_instance_21_20_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_21\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_21\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  23.022975   [t0]        0       w00           0.0
+1  10.833581   [t0]        1       w01           0.0
+2   5.927204   [t0]        2       w02           0.0
+3   4.573628   [t0]        3       w03           1.0
+4  11.856394   [t0]        4       w04           0.0
+5  17.935966   [t0]        5       w05           0.0
+6   4.880957   [t0]        6       w06           0.0
+7  23.406476   [t0]        7       w07           0.0
+8  15.918645   [t0]        8       w08           0.0
+9  18.932329   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  16.221445           1.0
+1    t1         1   9.412541           0.0
+2    t2         2  16.466334           0.0
+3    t3         3   7.553920           0.0
+4    t4         4  17.252443           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 16.221444746674692, 't1': 9.412541187833977, 't2': 16.466333704428482, 't3': 7.553920422249345, 't4': 17.252442681217634}, 'worke_cost': {'w00': 23.022975065037908, 'w01': 10.833581329029704, 'w02': 5.927203942154135, 'w03': 4.573627675441979, 'w04': 11.85639371364994, 'w05': 17.935966373104225, 'w06': 4.880956976020991, 'w07': 23.406475640481208, 'w08': 15.918644941589505, 'w09': 18.93232902446983}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 11.647817071232712}"
+Official_Experiment_ROI_dataset_02_instance_22_21_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_22\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_22\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  12.400876   [t0]        0       w00           0.0
+1  22.917881   [t0]        1       w01           0.0
+2   4.871138   [t0]        2       w02           0.0
+3  20.909213   [t0]        3       w03           0.0
+4  18.839076   [t0]        4       w04           0.0
+5  17.170843   [t0]        5       w05           0.0
+6  14.148203   [t0]        6       w06           0.0
+7   2.223977   [t0]        7       w07           1.0
+8  20.837681   [t0]        8       w08           0.0
+9  12.214603   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   4.791374           1.0
+1    t1         1  18.384603           0.0
+2    t2         2   9.376684           0.0
+3    t3         3  19.968406           0.0
+4    t4         4  16.829696           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 4.791373837330659, 't1': 18.384602711124558, 't2': 9.376683578833877, 't3': 19.96840640299211, 't4': 16.829695539568473}, 'worke_cost': {'w00': 12.400875701341024, 'w01': 22.917881051514343, 'w02': 4.87113842332632, 'w03': 20.909212658362485, 'w04': 18.83907588192311, 'w05': 17.170843192872656, 'w06': 14.148202591094925, 'w07': 2.2239773633340327, 'w08': 20.83768147475388, 'w09': 12.214602908034458}, 'n': 5, 'm': 10, 'solution': {'w07'}, 'value': 2.5673964739966264}"
+Official_Experiment_ROI_dataset_02_instance_23_22_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_23\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_23\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  14.191536   [t0]        0       w00           0.0
+1  13.468994   [t0]        1       w01           0.0
+2   1.911930   [t0]        2       w02           1.0
+3  18.880618   [t0]        3       w03           0.0
+4   7.358862   [t0]        4       w04           0.0
+5  22.735614   [t0]        5       w05           0.0
+6  22.017955   [t0]        6       w06           0.0
+7   9.830464   [t0]        7       w07           0.0
+8  10.732314   [t0]        8       w08           0.0
+9   2.602680   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   8.923208           1.0
+1    t1         1   9.387823           0.0
+2    t2         2   1.265640           0.0
+3    t3         3   5.354463           0.0
+4    t4         4  10.178419           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 8.923208050752804, 't1': 9.387822949790749, 't2': 1.2656395657032653, 't3': 5.354462718868421, 't4': 10.178419262107642}, 'worke_cost': {'w00': 14.19153591842943, 'w01': 13.468994003585566, 'w02': 1.9119302893090209, 'w03': 18.880617554563653, 'w04': 7.358861513070818, 'w05': 22.735614379519838, 'w06': 22.01795504493155, 'w07': 9.830463520580164, 'w08': 10.732313506524633, 'w09': 2.6026803129200564}, 'n': 5, 'm': 10, 'solution': {'w02'}, 'value': 7.0112777614437825}"
+Official_Experiment_ROI_dataset_02_instance_24_23_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_24\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_24\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   6.583955   [t0]        0       w00           0.0
+1  24.465820   [t0]        1       w01           0.0
+2   5.240530   [t0]        2       w02           0.0
+3   1.409439   [t0]        3       w03           1.0
+4   9.713144   [t0]        4       w04           0.0
+5  15.955815   [t0]        5       w05           0.0
+6  17.920393   [t0]        6       w06           0.0
+7  19.775039   [t0]        7       w07           0.0
+8   5.795587   [t0]        8       w08           0.0
+9  24.312721   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.112032           1.0
+1    t1         1  11.102022           0.0
+2    t2         2  10.553894           0.0
+3    t3         3   2.442618           0.0
+4    t4         4  19.192640           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.112032439497842, 't1': 11.102022308757467, 't2': 10.553894417329337, 't3': 2.4426175446638467, 't4': 19.192639989866844}, 'worke_cost': {'w00': 6.583955034571444, 'w01': 24.465819822705374, 'w02': 5.240530008840382, 'w03': 1.4094392438391583, 'w04': 9.713144195711523, 'w05': 15.955814562934645, 'w06': 17.92039349961282, 'w07': 19.775038606925982, 'w08': 5.795587150076204, 'w09': 24.31272086142857}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 16.702593195658682}"
+Official_Experiment_ROI_dataset_02_instance_25_24_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_25\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_25\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  13.655904   [t0]        0       w00           0.0
+1  15.775632   [t0]        1       w01           0.0
+2   6.235052   [t0]        2       w02           0.0
+3  14.051964   [t0]        3       w03           0.0
+4   8.925727   [t0]        4       w04           0.0
+5   2.792131   [t0]        5       w05           1.0
+6  19.584975   [t0]        6       w06           0.0
+7  21.810485   [t0]        7       w07           0.0
+8  17.541341   [t0]        8       w08           0.0
+9  18.464510   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  18.568742           1.0
+1    t1         1  16.798585           0.0
+2    t2         2  13.397891           0.0
+3    t3         3  11.100557           0.0
+4    t4         4  17.481761           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 18.568741913673747, 't1': 16.79858465914598, 't2': 13.397890655838376, 't3': 11.1005569922895, 't4': 17.481760679381328}, 'worke_cost': {'w00': 13.655903767542682, 'w01': 15.775631778821285, 'w02': 6.235051568066335, 'w03': 14.051964468489844, 'w04': 8.925726923826467, 'w05': 2.7921306010532523, 'w06': 19.584975480973085, 'w07': 21.810485340305892, 'w08': 17.541341200934177, 'w09': 18.4645102861881}, 'n': 5, 'm': 10, 'solution': {'w05'}, 'value': 15.776611312620496}"
+Official_Experiment_ROI_dataset_02_instance_26_25_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_26\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_26\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.344619   [t0]        0       w00           0.0
+1   3.848492   [t0]        1       w01           0.0
+2   6.077275   [t0]        2       w02           0.0
+3  10.012782   [t0]        3       w03           0.0
+4  10.873646   [t0]        4       w04           0.0
+5  15.698244   [t0]        5       w05           0.0
+6  14.290334   [t0]        6       w06           0.0
+7   2.603707   [t0]        7       w07           0.0
+8  22.611293   [t0]        8       w08           0.0
+9  19.472207   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   1.505845           0.0
+1    t1         1   5.330709           0.0
+2    t2         2  15.935436           0.0
+3    t3         3  15.854174           0.0
+4    t4         4   8.554385           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 1.5058452297476494, 't1': 5.3307092461235595, 't2': 15.93543595720669, 't3': 15.854173512274757, 't4': 8.554384749415009}, 'worke_cost': {'w00': 3.344619401100528, 'w01': 3.848491805899595, 'w02': 6.077275034547568, 'w03': 10.012781816604424, 'w04': 10.873646446924818, 'w05': 15.698243980622804, 'w06': 14.290333600679546, 'w07': 2.6037066779514744, 'w08': 22.611292635368727, 'w09': 19.47220668602221}, 'n': 5, 'm': 10, 'solution': set(), 'value': 0}"
+Official_Experiment_ROI_dataset_02_instance_27_26_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_27\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_27\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0   3.657677   [t0]        0       w00           1.0
+1  20.602272   [t0]        1       w01           0.0
+2  11.791716   [t0]        2       w02           0.0
+3  20.554305   [t0]        3       w03           0.0
+4  17.444274   [t0]        4       w04           0.0
+5  17.305335   [t0]        5       w05           0.0
+6   6.045392   [t0]        6       w06           0.0
+7   7.036314   [t0]        7       w07           0.0
+8  24.517896   [t0]        8       w08           0.0
+9  23.303615   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  16.297582           1.0
+1    t1         1  19.993466           0.0
+2    t2         2  10.758163           0.0
+3    t3         3   2.450078           0.0
+4    t4         4   7.467497           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 16.29758212082494, 't1': 19.9934663561987, 't2': 10.758163385962186, 't3': 2.450078120374139, 't4': 7.467496869740146}, 'worke_cost': {'w00': 3.6576770461631183, 'w01': 20.602272468456913, 'w02': 11.791715981630473, 'w03': 20.554304520660104, 'w04': 17.44427361910702, 'w05': 17.305334624212943, 'w06': 6.045391869047414, 'w07': 7.036314490018697, 'w08': 24.5178963540034, 'w09': 23.303615157002696}, 'n': 5, 'm': 10, 'solution': {'w00'}, 'value': 12.639905074661822}"
+Official_Experiment_ROI_dataset_02_instance_28_27_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_28\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_28\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  15.288085   [t0]        0       w00           0.0
+1   7.640355   [t0]        1       w01           0.0
+2  17.482624   [t0]        2       w02           0.0
+3   2.838911   [t0]        3       w03           1.0
+4  16.845285   [t0]        4       w04           0.0
+5   8.251903   [t0]        5       w05           0.0
+6   7.112931   [t0]        6       w06           0.0
+7  19.031179   [t0]        7       w07           0.0
+8  23.467778   [t0]        8       w08           0.0
+9  21.578343   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0   9.080510           1.0
+1    t1         1   5.341301           0.0
+2    t2         2  14.947327           0.0
+3    t3         3   7.414270           0.0
+4    t4         4   7.576386           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 9.080510136582411, 't1': 5.341300725740866, 't2': 14.947327350722096, 't3': 7.414270170082292, 't4': 7.576386443536447}, 'worke_cost': {'w00': 15.288085433079539, 'w01': 7.640354744588254, 'w02': 17.482623686130665, 'w03': 2.8389111708945807, 'w04': 16.845285357528265, 'w05': 8.251902830640423, 'w06': 7.112931182903488, 'w07': 19.03117921836548, 'w08': 23.467778382393185, 'w09': 21.578343019795103}, 'n': 5, 'm': 10, 'solution': {'w03'}, 'value': 6.241598965687831}"
+Official_Experiment_ROI_dataset_02_instance_29_28_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_29\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_29\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  15.946331   [t0]        0       w00           0.0
+1   9.534349   [t0]        1       w01           0.0
+2   1.013340   [t0]        2       w02           1.0
+3  22.804938   [t0]        3       w03           0.0
+4  15.695235   [t0]        4       w04           0.0
+5  14.275244   [t0]        5       w05           0.0
+6  20.671747   [t0]        6       w06           0.0
+7  24.121088   [t0]        7       w07           0.0
+8   1.333344   [t0]        8       w08           0.0
+9   8.221862   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  12.060508           1.0
+1    t1         1   6.598498           0.0
+2    t2         2  19.294004           0.0
+3    t3         3   5.350527           0.0
+4    t4         4   8.900001           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 12.060508239690206, 't1': 6.598497710380844, 't2': 19.294004228584367, 't3': 5.3505273486241345, 't4': 8.900000631774057}, 'worke_cost': {'w00': 15.946330716285793, 'w01': 9.53434893965263, 'w02': 1.0133398001071958, 'w03': 22.80493799209885, 'w04': 15.695235236655446, 'w05': 14.275243590544743, 'w06': 20.671747317563838, 'w07': 24.12108752762775, 'w08': 1.3333440426467815, 'w09': 8.221861983996057}, 'n': 5, 'm': 10, 'solution': {'w02'}, 'value': 11.047168439583011}"
+Official_Experiment_ROI_dataset_02_instance_30_29_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_30\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\02_dataset_10_workers_5_tasks\\instance_30\\workers.csv', 'workers': {'w07', 'w02', 'w01', 'w00', 'w06', 'w04', 'w08', 'w05', 'w03', 'w09'}, 'workers_df':         cost skills  user_id user_name  y_star_index
+0  10.548385   [t0]        0       w00           0.0
+1  12.955900   [t0]        1       w01           0.0
+2   6.406445   [t0]        2       w02           0.0
+3  16.574648   [t0]        3       w03           0.0
+4  13.288744   [t0]        4       w04           0.0
+5   3.391882   [t0]        5       w05           0.0
+6   5.428136   [t0]        6       w06           0.0
+7   1.786719   [t0]        7       w07           1.0
+8   6.723126   [t0]        8       w08           0.0
+9  23.848480   [t0]        9       w09           0.0, 'tasks_df':   skill  skill_id  valuation  x_star_index
+0    t0         0  11.928552           1.0
+1    t1         1  14.117208           0.0
+2    t2         2   6.400481           0.0
+3    t3         3   5.818126           0.0
+4    t4         4  13.531166           0.0, 'task_set': {'t0', 't1', 't2', 't4', 't3'}, 'worker_task_dict': {'w00': ['t0'], 'w01': ['t0'], 'w02': ['t0'], 'w03': ['t0'], 'w04': ['t0'], 'w05': ['t0'], 'w06': ['t0'], 'w07': ['t0'], 'w08': ['t0'], 'w09': ['t0']}, 'task_val_dict': {'t0': 11.928551554239538, 't1': 14.117208439668893, 't2': 6.4004805804002105, 't3': 5.818126183012624, 't4': 13.531166222177086}, 'worke_cost': {'w00': 10.548384753604504, 'w01': 12.955900108501494, 'w02': 6.406445429607552, 'w03': 16.574647730162802, 'w04': 13.288743901615383, 'w05': 3.3918821509370947, 'w06': 5.428135608704159, 'w07': 1.7867188285767703, 'w08': 6.723125580473084, 'w09': 23.84847971565631}, 'n': 5, 'm': 10, 'solution': {'w07'}, 'value': 10.141832725662768}"

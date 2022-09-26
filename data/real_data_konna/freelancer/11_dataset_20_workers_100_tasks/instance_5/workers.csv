@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['graphic design', 'photoshop', 'illustrator', 'logo design']",795.0,w0794
+8.0,"['translation', 'data entry', 'excel', 'web search', 'research']",438.0,w0437
+5.0,"['reviews', 'ghostwriting', 'blog']",1132.0,w1128
+4.0,"['data entry', 'excel', 'data processing']",1283.0,w1279
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283
+7.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'travel writing']",714.0,w0713
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+3.0,['research'],1426.0,w1421
+15.0,"['php', 'software architecture', 'javascript', 'prestashop', 'css']",906.0,w0903
+7.0,"['wordpress', 'web search', 'data entry']",1067.0,w1064
+15.0,"['t-shirts', 'graphic design', 'photoshop design', 'brochure design']",279.0,w0278
+30.0,"['php', 'html', 'website design', 'css', 'graphic design']",184.0,w0183
+15.0,"['logo design', 'photoshop', 'website design', 'banner design', 'html']",774.0,w0773
+7.0,"['facebook marketing', 'youtube', 'social networking', 'internet marketing', 'seo']",243.0,w0242
+10.0,"['php', 'wordpress', 'html', 'mysql', 'cms']",263.0,w0262
+10.0,"['php', 'joomla', 'mysql', 'css', 'website design']",361.0,w0360
+25.0,"['microsoft access', 'excel', 'mysql', 'powerpoint']",250.0,w0249
+3.0,"['data entry', 'excel', 'data processing', 'web search', 'word']",1098.0,w1095
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508

@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+60.0,"['asp', 'asp.net', 'css', 'html', 'javascript', 'jquery', 'jquery mobile', 'mysql', 'php', 'programming']",1646.0,w1620
+80.0,"['css3', 'facebook api', 'html5', 'javascript', 'jquery', 'mysql', 'opencart', 'php', 'twitter bootstrap', 'wordpress', 'yii framework']",3277.0,w3218
+30.0,"['accounting', 'bookkeeping', 'finance', 'risk management']",1783.0,w1753
+50.0,"['ajax', 'api', 'asp', 'asp.net', 'cakephp', 'css', 'database systems', 'filemaker', 'filemaker pro', 'html', 'javascript', 'joomla', 'jquery', 'management', 'mysql', 'php', 'plugins', 'programming', 'skill', 'web development', 'web programming', 'wordpress', 'zend']",2446.0,w2405
+50.0,"['adobe illustrator', 'adobe photoshop', 'calligraphy', 'caricatures', 'comics', 'design', 'drawing', 'fine art', 'graphic art', 'kindle', 'murals', 'oil painting', 'painting', 'pdf', 'windows', 'windows 7']",2865.0,w2815
+25.0,"['search engine marketing (sem)', 'search engine optimization (seo)', 'search engine optimization copywriting (seo)']",4366.0,w4280
+35.0,"['3d', '3d modeling', '3ds max', 'adobe photoshop', 'architect', 'architecture', 'artist', 'autodesk autocad', 'design', 'interior design-commercial', 'interior design-residential', 'modeling', 'sketching', 'visualization']",2873.0,w2823
+100.0,"['film', 'radio', 'web content', 'writing']",2708.0,w2662
+25.0,"['com', 'database administration', 'http', 'microsoft', 'sql', 'sql server', 'writing']",1582.0,w1559
+25.0,"['copywriting', 'internet research', 'research']",4485.0,w4399
+100.0,"['asp.net', 'c#', 'internet information services (iis)', 'javascript', 'jquery', 'sql', 'vb.net']",1551.0,w1529
+25.0,"['air', 'articles', 'basic', 'com', 'director', 'dj', 'radio', 'sports', 'teaching', 'training', 'voice over', 'writing']",1750.0,w1720
+50.0,"['asp', 'asp.net', 'c', 'c#', 'finance', 'oracle', 'reports', 'sql', 'sql server', 'vb.net']",2568.0,w2526
+25.0,['logo design'],4345.0,w4259
+25.0,"['consultant', 'ecommerce seo', 'marketing', 'pay per click', 'search engine optimization (seo)', 'seo', 'social media marketing']",1002.0,w0988
+25.0,"['academic writing', 'accounting', 'acrobat', 'adobe acrobat', 'article rewriting', 'article submission', 'article writing', 'articles', 'blog writing', 'blogging', 'book writing', 'brochures', 'c', 'case', 'content writing', 'directory submission', 'e-books', 'editing', 'english', 'excel', 'finance', 'focus', 'ghost writing', 'health', 'magazine articles', 'management', 'materials', 'medical', 'ms', 'newsletters', 'powerpoint', 'reports', 'research', 'rewriting', 'sales', 'self', 'seo', 'skype', 'software', 'teaching', 'training', 'translation', 'web content', 'web content writing', 'web development', 'wordpress', 'writing']",3351.0,w3291
+25.0,"['design', 'ecommerce', 'graphics', 'joomla', 'seo', 'virtuemart', 'web design']",770.0,w0757
+100.0,"['adobe illustrator', 'adobe photoshop', 'concept art', 'drawing', 'environmental', 'icons', 'medical', 'medical illustration', 'product illustration', 'technical illustration', 'vector illustration', 'visualization']",4414.0,w4328
+25.0,"['affiliate marketing', 'articles', 'chinese', 'content writing', 'digital', 'english', 'freelance', 'health', 'management', 'marketing', 'mobile', 'ms', 'ms word', 'reviews', 'seo', 'software', 'writing', 'yoga']",2022.0,w1990
+25.0,['make'],774.0,w0761
+100.0,"['3d', 'design', 'ecommerce', 'graphics', 'marketing', 'mobile', 'web design', 'web development']",4541.0,w4454
+150.0,"['advertisement design', 'banner ads', 'banner design', 'design', 'online sales', 'web design']",2918.0,w2867
+50.0,"['2d graphics', '3d graphics', 'advertising', 'event management', 'event planning', 'film editing', 'hd video']",2057.0,w2024
+25.0,"['access', 'alpha', 'citrix', 'customer service', 'data entry', 'excel', 'filing', 'ms', 'ms excel', 'ms powerpoint', 'ms word', 'powerpoint', 'processing', 'research', 'software', 'spreadsheets', 'word processing']",1641.0,w1615
+50.0,"['acrobat', 'adobe illustrator', 'adobe photoshop', 'advertising', 'banner', 'banner ads', 'brochures', 'css', 'design', 'dreamweaver', 'editing', 'email', 'flash', 'graphic design', 'graphics', 'html', 'image editing', 'indesign', 'logo design', 'powerpoint', 'powerpoint presentations', 'presentations', 'print design', 'web design', 'web graphics']",3272.0,w3213
+50.0,"['css', 'design', 'html', 'leads', 'psd', 'wordpress']",3853.0,w3781
+30.0,"['adobe illustrator', 'adobe photoshop', 'artist', 'design', 'digital', 'drawing', 'embroidery', 'logo design', 'ms', 'ms word', 'powerpoint', 'rendering']",2698.0,w2652
+150.0,"['access', 'accounting', 'acrobat', 'adobe acrobat', 'advertising', 'agriculture', 'analysis', 'benefits', 'bookkeeping', 'c', 'construction', 'data entry', 'ebay', 'excel', 'financial services', 'financial statements', 'incorporation', 'make', 'marketing', 'ms', 'ms excel', 'ms word', 'payroll', 'quickbooks', 'real estate', 'reports', 'sales', 'tax', 'yahoo']",619.0,w0606
+125.0,"['com', 'https', 'journalism', 'ms', 'ms office', 'open office', 'photography', 'writing']",2233.0,w2196
+25.0,"['.net', 'ajax', 'c#', 'css', 'html', 'javascript', 'jquery', 'json', 'linq', 'microsoft', 'mysql', 'oop', 'oracle', 'quartz', 'sql', 'sql server', 'visual basic', 'visual basic .net', 'web scraping', 'web services', 'xml']",2750.0,w2704
+500.0,"['3d', '3d modeling', '3d rendering', '3ds max', 'adobe after effects', 'adobe photoshop', 'animation', 'artist', 'autodesk maya', 'autodesk mudbox', 'com', 'drawing', 'editing', 'http', 'max', 'maya', 'modeling', 'painting', 'photo manipulation', 'php', 'pixologic zbrush', 'rendering', 'sketching']",2136.0,w2101
+25.0,"['.net', 'amazon', 'animation', 'apache', 'apache tomcat', 'api', 'banner', 'custom cms', 'design', 'drupal', 'facebook', 'flash', 'graphic design', 'html', 'iphone', 'java', 'joomla', 'linkedin', 'magento', 'marketing', 'mysql', 'payment processing', 'paypal', 'paypal integration', 'php', 'processing', 'psd', 'psd to html', 'sem', 'seo', 'software', 'software development', 'tomcat', 'twitter', 'web design', 'web development', 'website design', 'wordpress', 'xml']",3020.0,w2967
+100.0,"['acrobat', 'actionscript', 'adobe acrobat', 'adobe photoshop', 'audio editing', 'css', 'dreamweaver', 'editing', 'flash', 'html', 'marketing', 'microsoft', 'powerpoint', 'programming', 'video', 'visio', 'windows', 'xhtml']",319.0,w0313
+100.0,"['.net', 'ajax', 'android', 'api', 'application development', 'cakephp', 'codeigniter', 'consulting', 'css', 'drupal', 'j2ee', 'java', 'joomla', 'jquery', 'linux', 'linux server', 'magento', 'make', 'microsoft', 'mobile', 'mobile application development', 'mysql', 'php', 'php 5', 'quickbooks', 'ruby', 'ruby on rails', 'seo', 'smarty', 'software', 'sql', 'video', 'wordpress', 'zend']",94.0,w0093
+250.0,"['access', 'bookkeeping', 'excel', 'financial statements', 'ms', 'ms office', 'outlook', 'payroll', 'php', 'powerpoint', 'quickbooks', 'sales', 'software', 'sql', 'sql server', 'tax', 'tax preparation', 'visio', 'visual studio']",680.0,w0667
+250.0,"['arabic', 'assembly', 'communication skills', 'editing', 'english', 'french', 'intellectual property', 'interpersonal skills', 'litigation', 'management', 'management software', 'microsoft', 'oral communication', 'real estate', 'security', 'software', 'tax', 'training', 'westlaw', 'windows', 'writing']",2641.0,w2596
+25.0,"['corporate', 'corporate branding', 'design', 'logo design']",3711.0,w3643
+135.0,"['company newsletters', 'design', 'email', 'email design', 'email support', 'html', 'icontact', 'mailchimp']",863.0,w0849
+250.0,"['acrobat', 'adobe creative suite', 'adobe photoshop', 'advertising', 'artist', 'brochures', 'design', 'digital', 'digital illustration', 'dreamweaver', 'flash', 'graphic design', 'graphics', 'illustration', 'indesign', 'mac os', 'make', 'management', 'marketing', 'materials', 'microsoft', 'sales', 'software', 'windows']",2495.0,w2454
+30.0,"['html', 'psd', 'psd to html']",1940.0,w1908
+75.0,"['articles', 'blogging', 'content writing']",2177.0,w2142
+250.0,"['advertising', 'biotechnology', 'brochures', 'consultant', 'editing', 'excel', 'health', 'internet research', 'marketing', 'materials', 'medical', 'medical writing', 'microsoft', 'powerpoint', 'press releases', 'research', 'science', 'writing']",2774.0,w2728
+30.0,"['analysis', 'engineering', 'finance', 'management', 'market research', 'presentations', 'reports', 'research', 'science']",1869.0,w1837
+25.0,"['fiction', 'kindle', 'pdf', 'publishing', 'self', 'typesetting']",1807.0,w1777
+25.0,"['data collection', 'data entry', 'data mining', 'ecommerce', 'email', 'excel', 'html', 'magento', 'miva merchant', 'ms', 'ms office', 'ms word', 'opencart', 'prestashop', 'self', 'seo', 'shopify', 'volusion', 'wordpress', 'writing', 'zen cart']",95.0,w0094
+100.0,"['company newsletters', 'css', 'design', 'email', 'email design', 'html', 'icontact', 'jquery', 'mailchimp', 'marketing', 'newsletter design', 'newsletters', 'templates', 'virtuemart', 'website design']",1464.0,w1445
+250.0,"['advertising', 'animation', 'clean', 'com', 'editing', 'excel', 'film', 'flash', 'flash animation', 'gimp', 'html', 'http', 'illustration', 'powerpoint', 'self', 'seo', 'storyboarding']",3295.0,w3236
+25.0,"['adobe photoshop', 'com', 'css', 'css3', 'ecommerce', 'english', 'html', 'html5', 'make', 'medical', 'mysql', 'php', 'shopify', 'skill', 'spelling', 'transcription', 'woocommerce', 'wordpress']",120.0,w0119
+30.0,"['android', 'app development', 'c', 'c#', 'c++', 'developer', 'ios', 'iphone app development', 'java', 'mobile']",3736.0,w3668
+200.0,"['adobe photoshop', 'ajax', 'api', 'cakephp', 'codeigniter', 'css', 'drupal', 'facebook', 'google maps', 'html', 'html5', 'java', 'javascript', 'joomla', 'jquery', 'magento', 'paypal', 'paypal integration', 'php', 'prestashop', 'virtuemart', 'web development', 'wordpress', 'xhtml', 'xml', 'yahoo', 'zend']",384.0,w0376

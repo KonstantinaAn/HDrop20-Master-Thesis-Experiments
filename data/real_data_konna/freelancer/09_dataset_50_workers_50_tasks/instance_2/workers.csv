@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+9.0,"['mobile phone', 'android']",1077.0,w1074
+25.0,"['3d modelling', '3d animation', '3d rendering', '3ds max', 'graphic design']",193.0,w0192
+18.0,"['graphic design', 'banner design', 'photoshop', 'logo design', 'brochure design']",470.0,w0469
+15.0,"['graphic design', 'logo design']",1442.0,w1437
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+15.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",8.0,w0008
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+40.0,"['3d modelling', '3d rendering', 'video services', 'cad/cam', '3d animation']",257.0,w0256
+10.0,"['video services', 'after effects', 'videography']",883.0,w0880
+20.0,"['link building', 'seo', 'php', 'website design']",473.0,w0472
+8.0,"['video services', 'after effects', 'animation', 'videography', 'graphic design']",487.0,w0486
+10.0,"['photoshop', 'illustrator']",1592.0,w1580
+25.0,"['jquery / prototype', 'javascript', 'html', 'web hosting', 'mysql']",958.0,w0955
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+9.0,"['php', 'mysql', 'html', 'xml', 'wordpress']",667.0,w0666
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+20.0,"['graphic design', 'photoshop', 'logo design', 'banner design']",783.0,w0782
+10.0,"['graphic design', 'logo design', 'photoshop', 'flyer design']",230.0,w0229
+9.0,"['articles', 'copywriting', 'blog']",131.0,w0130
+20.0,"['excel', 'financial markets', 'finance', 'software architecture']",342.0,w0341
+15.0,"['graphic design', 'banner design', 'caricature &amp; cartoons', 'photoshop']",751.0,w0750
+15.0,"['3d animation', 'after effects', 'animation']",804.0,w0803
+10.0,"['graphic design', 'logo design']",1532.0,w1523
+5.0,"['graphic design', 'logo design', 'photoshop', 'autocad', 'illustrator']",727.0,w0726
+15.0,"['logo design', 'graphic design']",1594.0,w1582
+5.0,"['reviews', 'copywriting', 'article rewriting', 'articles']",1341.0,w1337
+35.0,"['graphic design', 'banner design', 'website design', 'photoshop', 'logo design']",133.0,w0132
+10.0,"['3d rendering', '3d modelling', 'graphic design', '3ds max', 'illustrator']",523.0,w0522
+6.0,"['graphic design', 'illustrator', 'photoshop']",888.0,w0885
+4.0,"['data entry', 'excel', 'research', 'web search', 'web scraping']",1574.0,w1562
+24.0,"['.net', 'web scraping', 'visual basic', 'c# programming', 'c programming']",577.0,w0576
+10.0,"['animation', 'after effects', 'video services', '3d animation', 'flash']",701.0,w0700
+15.0,"['photoshop', 'graphic design', 'logo design']",1712.0,w1696
+5.0,"['data entry', 'excel', 'data processing', 'copy typing', 'web scraping']",485.0,w0484
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",300.0,w0299
+15.0,"['linux', 'mysql', 'php', 'web hosting', 'system admin']",290.0,w0289
+25.0,"['graphic design', 'photoshop', 'banner design', 'business cards']",467.0,w0466
+10.0,"['logo design', 'graphic design', 'photoshop', 't-shirts', 'photoshop design']",420.0,w0419
+15.0,"['wordpress', 'php', 'internet marketing', 'css', 'html']",668.0,w0667
+30.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",215.0,w0214
+15.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",434.0,w0433
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",286.0,w0285
+20.0,"['graphic design', 'photoshop', 'logo design', 'illustrator']",652.0,w0651
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",302.0,w0301
+12.0,"['graphic design', 'photoshop', 'illustrator', 'banner design', 'brochure design']",982.0,w0979
+10.0,"['facebook marketing', 'social networking', 'internet marketing']",276.0,w0275
+25.0,"['microsoft access', 'visual basic', 'database administration', 'sql']",462.0,w0461
+10.0,"['mobile phone', 'android']",1106.0,w1103
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1662.0,w1647
+25.0,"['illustration', 'graphic design', 'photoshop', 'illustrator', 't-shirts']",199.0,w0198

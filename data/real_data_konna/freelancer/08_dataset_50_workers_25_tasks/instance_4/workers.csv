@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+7.0,"['data entry', 'web scraping', 'web search', 'excel']",1136.0,w1132
+2.0,"['audio services', 'virtual assistant', 'anything goes']",1217.0,w1213
+25.0,"['android', 'linux', 'embedded software', 'c programming', 'electronics']",123.0,w0122
+20.0,"['html', 'php', 'website design', 'css']",951.0,w0948
+10.0,"['database administration', 'html', 'data entry', 'java', 'graphic design']",533.0,w0532
+25.0,"['iphone', 'mobile phone', 'android', 'ipad']",788.0,w0787
+25.0,"['website design', 'graphic design', 'php', 'flash', 'copywriting']",474.0,w0473
+30.0,"['wordpress', 'php', 'css', 'html', 'website design']",281.0,w0280
+10.0,"['articles', 'graphic design', 'blog', 'copywriting']",415.0,w0414
+20.0,"['python', 'mysql', 'software architecture', 'java', 'php']",407.0,w0406
+30.0,"['wordpress', 'php', 'html', 'website design']",1377.0,w1373
+15.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",768.0,w0767
+25.0,"['software architecture', 'php', 'delphi']",1464.0,w1457
+5.0,"['articles', 'blog', 'article rewriting', 'copywriting', 'seo']",221.0,w0220
+15.0,"['website design', 'graphic design', 'php', 'joomla', 'social networking']",810.0,w0809
+20.0,['android'],1020.0,w1017
+35.0,"['mobile phone', 'android', 'iphone', 'ipad']",340.0,w0339
+25.0,"['software architecture', '.net', 'windows desktop', 'c programming', 'c# programming']",385.0,w0384
+6.0,"['anything goes', 'virtual assistant']",1693.0,w1678
+30.0,"['php', 'mysql', 'software architecture', 'linux', 'database administration']",570.0,w0569
+15.0,"['graphic design', 'website design', 'wordpress', 'php']",1113.0,w1110
+10.0,"['php', 'software architecture', 'c programming', 'wordpress', 'linux']",475.0,w0474
+12.0,['php'],1165.0,w1161
+10.0,"['wordpress', 'php', 'css']",1204.0,w1200
+15.0,"['php', 'mysql', 'html', 'wordpress', 'website design']",421.0,w0420
+35.0,"['graphic design', 'php', 'cms', 'website design']",1686.0,w1671
+25.0,['android'],1342.0,w1338
+15.0,"['wordpress', 'php', 'magento', 'mysql', 'css']",242.0,w0241
+5.0,"['php', 'javascript', 'html', 'mysql', 'css']",766.0,w0765
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+10.0,"['articles', 'article rewriting', 'blog', 'copywriting', 'academic writing']",524.0,w0523
+45.0,"['linux', 'system admin', 'unix', 'php']",98.0,w0097
+25.0,"['mobile phone', 'android', 'mysql', 'php', 'sql']",663.0,w0662
+25.0,"['jquery / prototype', 'javascript', 'html', 'web hosting', 'mysql']",958.0,w0955
+15.0,"['php', 'website design', 'javascript', 'ecommerce']",986.0,w0983
+15.0,"['software architecture', 'engineering', '.net', 'sql', 'visual basic']",170.0,w0169
+10.0,"['html', 'php', 'graphic design', 'website design', 'mysql']",851.0,w0850
+20.0,"['system admin', 'windows server', 'software architecture']",453.0,w0452
+40.0,"['iphone', 'mobile phone', 'ipad']",68.0,w0068
+12.0,"['php', 'javascript', 'mysql', 'java', 'css']",309.0,w0308
+30.0,"['android', 'mobile phone', 'iphone', 'ajax', 'ipad']",961.0,w0958
+14.0,"['php', 'project management', 'windows desktop']",1527.0,w1518
+15.0,"['php', 'javascript', 'html']",885.0,w0882
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+15.0,"['html', 'php', 'apache']",1368.0,w1364
+10.0,"['html', 'php', 'javascript', 'c++ programming', 'engineering']",651.0,w0650
+20.0,"['php', 'sql']",1343.0,w1339
+25.0,"['.net', 'asp', 'visual basic', 'sql']",989.0,w0986
+18.0,"['perl', 'mysql', 'javascript', 'ajax']",623.0,w0622
+15.0,"['wordpress', 'html', 'php', 'graphic design', 'css']",387.0,w0386

@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+3.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",370.0,w0369
+7.0,"['video services', 'animation']",942.0,w0939
+20.0,"['system admin', 'windows server', 'software architecture']",453.0,w0452
+10.0,"['html', 'website design', 'wordpress', 'graphic design', 'psd to html']",785.0,w0784
+10.0,"['logo design', 'graphic design', 'banner design', 'website design', 'business cards']",220.0,w0219
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",493.0,w0492
+18.0,"['wordpress', 'php', 'html', 'website design', 'css']",947.0,w0944
+10.0,"['internet marketing', 'facebook marketing', 'excel', 'seo', 'social networking']",1216.0,w1212
+25.0,"['c# programming', '.net', 'android', 'java']",1264.0,w1260
+8.0,"['logo design', 'graphic design', 'banner design', 'flyer design', 'brochure design']",789.0,w0788
+15.0,"['indesign', 'graphic design', 'photoshop', 'brochure design']",182.0,w0181
+10.0,"['data entry', 'excel', 'web search', 'web scraping', 'social networking']",1071.0,w1068
+10.0,"['apache', 'script install', 'system admin']",1495.0,w1487
+5.0,"['seo', 'link building']",1738.0,w1722
+15.0,"['php', 'xml', 'website design', 'wordpress', 'css']",863.0,w0861
+15.0,"['linux', 'system admin', 'asterisk pbx', 'apache', 'voip']",1288.0,w1284
+12.0,"['php', 'html', 'mysql', 'javascript', 'ajax']",637.0,w0636
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+15.0,"['php', 'joomla', 'mysql', 'website design', 'javascript']",715.0,w0714
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",159.0,w0158
+30.0,"['flash', 'actionscript', 'javascript', 'xml', 'php']",859.0,w0858
+20.0,"['python', 'c programming', 'software architecture', 'web scraping', 'linux']",516.0,w0515
+20.0,"['excel', 'data processing', 'data entry', 'photoshop', 'visual basic']",135.0,w0134
+10.0,"['delphi', 'data entry', 'software architecture', 'c programming']",666.0,w0665
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338
+15.0,"['php', 'mysql', 'html', 'wordpress', 'website design']",421.0,w0420
+20.0,"['internet marketing', 'advertising', 'youtube', 'leads']",1421.0,w1416
+20.0,"['php', 'mysql', 'sql', '.net', 'html']",93.0,w0092
+15.0,"['3d animation', '3d modelling', '3ds max', '3d rendering', 'animation']",695.0,w0694
+15.0,"['flash', 'website design', 'graphic design', 'anything goes', 'actionscript']",1231.0,w1227
+15.0,"['banner design', 'photoshop', 'photo editing', 'logo design']",1193.0,w1189
+15.0,"['php', 'web scraping', 'html', 'mysql', 'wordpress']",377.0,w0376
+20.0,"['php', 'html', 'mysql', 'javascript', 'wordpress']",320.0,w0319
+5.0,['data entry'],1455.0,w1450
+5.0,"['internet marketing', 'anything goes', 'data entry', 'youtube']",760.0,w0759
+8.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",254.0,w0253
+12.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'illustration']",105.0,w0104
+20.0,"['python', 'mysql', 'software architecture', 'java', 'php']",407.0,w0406
+15.0,"['php', 'wordpress', 'html', 'css', 'data entry']",331.0,w0330
+6.0,['wordpress'],1396.0,w1392

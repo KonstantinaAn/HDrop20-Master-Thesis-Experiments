@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+40.0,"['video services', 'videography', 'animation', 'graphic design', '3d animation']",81.0,w0080
+60.0,"['audio services', 'copywriting']",1677.0,w1662
+6.0,"['data entry', 'virtuemart', 'excel', 'data processing', 'magento']",787.0,w0786
+20.0,"['html', 'flash', 'website design']",1401.0,w1397
+20.0,"['web scraping', 'web hosting', 'seo', 'excel', 'magento']",586.0,w0585
+10.0,"['translation', 'arabic', 'proofreading', 'academic writing']",325.0,w0324
+14.0,['android'],1344.0,w1340
+20.0,"['flash', 'photoshop', 'graphic design', 'logo design', 'videography']",367.0,w0366
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1734.0,w1718
+30.0,"['python', 'php', 'software architecture', 'algorithm', 'web scraping']",579.0,w0578
+35.0,"['mobile phone', 'android', 'iphone', 'ipad']",340.0,w0339
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",492.0,w0491
+15.0,"['matlab &amp; mathematica', 'algorithm', 'mathematics', 'academic writing', 'electrical engineering']",526.0,w0525
+10.0,"['video services', 'graphic design', 'animation', 'website design', 'audio services']",877.0,w0874
+30.0,"['iphone', 'mobile phone', 'ipad', 'android']",63.0,w0063
+30.0,"['iphone', 'mobile phone', 'ipad', 'python', 'android']",530.0,w0529
+10.0,"['javascript', 'c# programming', 'perl', 'python', 'java']",1486.0,w1478
+25.0,"['mobile phone', 'android', 'mysql', 'php', 'sql']",663.0,w0662
+30.0,['videography'],1474.0,w1467
+25.0,"['android', 'c programming', 'ipad', 'mobile phone']",690.0,w0689

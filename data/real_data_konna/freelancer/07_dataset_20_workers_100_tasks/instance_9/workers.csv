@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['php', 'css', 'website design', 'graphic design', 'mysql']",1029.0,w1026
+10.0,"['photoshop design', 'photo editing', 'video services', 'audio services']",940.0,w0937
+25.0,"['3d rendering', '3d modelling', '3d animation']",1306.0,w1302
+15.0,"['graphic design', '3d modelling', '3d animation', 'animation']",1006.0,w1003
+15.0,"['php', 'project management', 'python', 'windows desktop']",259.0,w0258
+7.0,"['graphic design', 'logo design', 'photoshop']",439.0,w0438
+10.0,"['web scraping', 'excel', 'web search', 'data entry']",344.0,w0343
+15.0,"['html', 'website design', 'php', 'wordpress', 'jquery / prototype']",507.0,w0506
+15.0,"['php', 'joomla', 'mysql', 'website design', 'javascript']",715.0,w0714
+20.0,"['html', 'php', 'website design', 'javascript', 'css']",1101.0,w1098
+10.0,"['ajax', 'copywriting', 'website design', 'php', 'jquery / prototype']",1689.0,w1674
+8.0,"['data entry', 'oracle', 'data processing', 'excel']",1640.0,w1626
+10.0,"['software architecture', 'linux', 'c++ programming', 'android']",403.0,w0402
+10.0,['wordpress'],807.0,w0806
+5.0,"['website design', 'html', 'graphic design', 'css', 'javascript']",1110.0,w1107
+25.0,"['mobile phone', 'iphone', 'android', 'php', 'anything goes']",155.0,w0154
+20.0,"['3d animation', '3d modelling', '3ds max', 'animation']",821.0,w0820
+10.0,"['3d rendering', '3d modelling', 'graphic design', '3ds max', 'illustrator']",523.0,w0522
+1.0,"['logo design', 'data entry', 'graphic design']",724.0,w0723
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099

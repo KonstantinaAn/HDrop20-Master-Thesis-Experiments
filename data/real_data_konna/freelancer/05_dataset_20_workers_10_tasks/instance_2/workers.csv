@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+12.0,"['article rewriting', 'academic writing', 'copywriting', 'translation', 'blog']",1177.0,w1173
+20.0,"['academic writing', 'graphic design', 'blog', 'translation']",1501.0,w1493
+15.0,"['php', 'project management', 'python', 'windows desktop']",259.0,w0258
+20.0,"['android', 'java', 'html', 'software testing', 'c programming']",226.0,w0225
+30.0,"['python', 'php', 'software architecture', 'algorithm', 'web scraping']",579.0,w0578
+30.0,"['mobile phone', 'iphone', 'android', 'ipad', 'graphic design']",188.0,w0187
+55.0,"['php', 'website design', 'html', 'wordpress', 'magento']",617.0,w0616
+25.0,['android'],1342.0,w1338
+30.0,"['php', 'mobile phone', 'iphone', 'python', 'android']",404.0,w0403
+65.0,"['php', 'flash']",1609.0,w1597
+10.0,['audio services'],734.0,w0733
+10.0,"['photoshop design', 'photo editing', 'video services', 'audio services']",940.0,w0937
+30.0,"['iphone', 'ipad', 'android']",128.0,w0127
+20.0,"['python', 'mysql', 'software architecture', 'java', 'php']",407.0,w0406
+12.0,"['animation', 'video services', '3d animation', 'after effects', 'videography']",66.0,w0066
+25.0,"['php', 'website design', 'graphic design', 'flash', 'javascript']",56.0,w0056
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1664.0,w1649
+40.0,"['voice talent', 'audio services', 'video services', 'advertising']",261.0,w0260
+20.0,"['articles', 'article rewriting', 'academic writing', 'data entry', 'blog']",1170.0,w1166
+18.0,"['php', 'website design', 'magento', 'javascript', 'linux']",551.0,w0550

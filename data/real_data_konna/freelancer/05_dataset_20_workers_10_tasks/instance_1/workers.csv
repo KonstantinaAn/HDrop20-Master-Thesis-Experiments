@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",167.0,w0166
+10.0,"['anything goes', 'seo', 'wordpress', 'articles', 'website design']",912.0,w0909
+17.0,['python'],1212.0,w1208
+10.0,"['website design', 'php', 'graphic design', 'html', 'android']",9.0,w0009
+50.0,"['3d animation', 'animation', 'flash', 'graphic design', 'after effects']",1389.0,w1385
+15.0,"['android', 'mobile phone', 'iphone']",222.0,w0221
+15.0,"['php', 'project management', 'python', 'windows desktop']",249.0,w0248
+30.0,"['python', 'php', 'software architecture', 'algorithm', 'web scraping']",579.0,w0578
+35.0,"['video services', 'animation', 'flash', 'after effects', 'graphic design']",6.0,w0006
+12.0,"['link building', 'seo', 'internet marketing', 'marketing', 'magento']",537.0,w0536
+25.0,"['anything goes', 'website design', 'graphic design', 'php', 'html']",183.0,w0182
+20.0,"['android', 'java', 'html', 'software testing', 'c programming']",226.0,w0225
+25.0,"['php', 'flash', 'css', 'xml', 'photoshop']",1715.0,w1699
+25.0,"['mobile phone', 'iphone', 'android', 'php', 'anything goes']",178.0,w0177
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+20.0,"['magento', 'php', 'website design', 'html', 'css']",542.0,w0541
+25.0,"['iphone', 'mobile phone', 'ipad', 'android']",14.0,w0014
+20.0,"['python', 'c programming', 'software architecture', 'web scraping', 'linux']",516.0,w0515
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+5.0,"['academic writing', 'article rewriting']",1727.0,w1711

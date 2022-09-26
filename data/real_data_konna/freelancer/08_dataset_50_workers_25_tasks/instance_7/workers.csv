@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+38.0,"['android', 'mobile phone', 'c programming', 'iphone', 'java']",1315.0,w1311
+28.0,"['javascript', 'php']",1122.0,w1119
+25.0,"['anything goes', 'website design', 'graphic design', 'php', 'html']",183.0,w0182
+20.0,"['joomla', 'virtuemart', 'php', 'mysql', 'website design']",358.0,w0357
+20.0,"['php', 'html', 'graphic design', 'mysql', 'joomla']",214.0,w0213
+12.0,['php'],1165.0,w1161
+20.0,"['php', 'html', 'website design', 'mysql', 'css']",134.0,w0133
+35.0,"['apache', 'php', 'mysql', 'linux']",928.0,w0925
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",162.0,w0161
+20.0,"['php', 'wordpress', 'software testing', 'virtuemart']",1015.0,w1012
+5.0,"['php', 'engineering', 'mysql', 'electronics']",1679.0,w1664
+10.0,"['statistics', 'excel', 'academic writing']",857.0,w0856
+25.0,"['php', 'javascript', 'linux', 'website design', 'c++ programming']",983.0,w0980
+15.0,"['.net', 'html', 'jquery / prototype', 'c# programming']",916.0,w0913
+20.0,"['graphic design', 'photoshop', 'website design', 'php', 'html']",1511.0,w1503
+8.0,"['html', 'travel writing', 'php']",1312.0,w1308
+5.0,"['web search', 'data entry', 'web scraping']",1383.0,w1379
+17.0,"['mysql', 'ruby on rails', 'linux', 'amazon web services', 'javascript']",1440.0,w1435
+12.0,"['translation', 'system admin', 'software architecture']",346.0,w0345
+25.0,"['wordpress', 'php', 'html', 'website design', 'mysql']",283.0,w0282
+10.0,"['css', 'php', 'html']",1326.0,w1322
+14.0,"['.net', 'c# programming']",1711.0,w1695
+30.0,"['php', 'mysql', 'software architecture', 'linux', 'database administration']",570.0,w0569
+35.0,"['php', 'graphic design', 'html', 'logo design', 'marketing']",1601.0,w1589
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",841.0,w0840
+15.0,"['graphic design', 't-shirts', 'photoshop', 'photoshop design', 'covers &amp; packaging']",576.0,w0575
+12.0,"['php', 'wordpress', 'joomla', 'website design', 'graphic design']",1755.0,w1739
+15.0,"['microsoft exchange', 'system admin', 'html']",1319.0,w1315
+35.0,"['mobile phone', 'iphone', 'ipad', 'graphic design']",680.0,w0679
+35.0,"['graphic design', 'php', 'cms', 'website design']",1686.0,w1671
+20.0,"['php', 'linux', 'html', 'website design', 'graphic design']",1159.0,w1155
+25.0,"['php', 'wordpress', 'html', 'javascript', 'mysql']",329.0,w0328
+6.0,"['website design', 'php', 'joomla', 'wordpress']",1553.0,w1543
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+50.0,"['electrical engineering', 'matlab &amp; mathematica', 'electronics', 'pcb layout', 'microcontroller']",138.0,w0137
+35.0,"['php', 'social networking', 'wordpress', 'facebook marketing', 'javascript']",679.0,w0678
+5.0,"['data entry', 'excel', 'editing', 'research', 'copywriting']",782.0,w0781
+18.0,"['php', 'asterisk pbx', 'mysql']",1252.0,w1248
+10.0,"['research', 'ghostwriting', 'articles', 'ebooks', 'copywriting']",169.0,w0168
+12.0,"['html', 'website design', 'css', 'php', 'wordpress']",630.0,w0629
+25.0,"['prestashop', 'website design', 'ecommerce', 'php']",1251.0,w1247
+8.0,"['copywriting', 'articles', 'seo', 'translation', 'blog']",47.0,w0047
+30.0,"['iphone', 'mobile phone', 'ipad', 'android']",660.0,w0659
+10.0,"['javascript', 'c# programming', 'perl', 'python', 'java']",1486.0,w1478
+5.0,"['wordpress', 'php', 'website design']",1049.0,w1046
+15.0,"['copywriting', 'proofreading', 'research']",1742.0,w1726
+10.0,"['ajax', 'copywriting', 'website design', 'php', 'jquery / prototype']",1689.0,w1674
+20.0,"['c++ programming', 'android', 'python', 'linux', 'java']",1033.0,w1030
+22.0,"['website design', 'css', 'php', 'html', 'photoshop']",298.0,w0297
+15.0,"['windows desktop', 'delphi', 'mysql', 'php', 'c programming']",450.0,w0449

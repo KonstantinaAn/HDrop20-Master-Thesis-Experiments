@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+150.0,"['blogging', 'blogs', 'case', 'coreldraw', 'design', 'email', 'instructional design', 'materials', 'ms', 'ms powerpoint', 'ms word', 'operating systems', 'powerpoint', 'powerpoint presentations', 'presentations', 'training', 'windows']",1139.0,w1123
+25.0,"['arabic', 'data entry', 'english', 'recruiting', 'training', 'voice over']",2037.0,w2005
+50.0,"['adobe illustrator', 'adobe photoshop', 'book illustration', ""children's book illustration"", 'digital painting', 'editorial illustrations', 'illustration', 'pattern design', 'poster design', 'product design', 'vector design']",4128.0,w4047
+50.0,"['blog development', 'blogging', 'css3', 'html5', 'php 5', 'psd to wordpress', 'saas', 'wordpress', 'wordpress development', 'zend']",3728.0,w3660
+25.0,"['asp', 'asp.net', 'css', 'css3', 'html', 'html5', 'java', 'jquery', 'mysql', 'php', 'web development']",4160.0,w4078
+200.0,"['c', 'c#', 'css', 'css3', 'dreamweaver', 'flash', 'xhtml']",2506.0,w2465
+100.0,"['acrobat', 'adobe acrobat', 'adobe photoshop', 'calligraphy', 'css', 'html', 'indesign', 'microsoft', 'typography']",1407.0,w1389
+300.0,"['adobe photoshop', 'css3', 'customer service', 'design', 'html', 'html5', 'javascript', 'mysql', 'php', 'web design', 'website design', 'xhtml']",997.0,w0983
+90.0,"['ajax', 'css3', 'drupal', 'html5', 'joomla', 'jquery', 'php', 'seo', 'wordpress']",811.0,w0798
+50.0,"['access', 'act', 'customer service', 'director', 'event planning', 'football', 'fundraising', 'management', 'marketing', 'microsoft', 'real estate', 'training']",2528.0,w2487
+50.0,"['database administration', 'database design', 'database servers', 'database systems', 'mysql', 'postgresql']",3887.0,w3815
+75.0,"['css', 'html', 'web development']",2437.0,w2396
+90.0,"['html', 'jquery', 'make', 'mobile', 'php', 'seo', 'wordpress']",649.0,w0636
+25.0,"['brochure design', 'design', 'director', 'editing', 'flash', 'html', 'logo design', 'newsletters', 'presentations', 'video', 'video editing', 'video presentations']",4499.0,w4412
+50.0,"['css', 'ecommerce', 'javascript', 'joomla', 'jquery', 'opencart', 'oscommerce', 'php', 'php 5', 'prestashop', 'smarty', 'socialengine', 'wordpress']",2596.0,w2552
+100.0,"['3d', 'access', 'android', 'application development', 'asp', 'asp.net', 'blackberry', 'business development', 'cakephp', 'consulting', 'content management', 'coreldraw', 'design', 'dreamweaver', 'drupal', 'ecommerce', 'ejb', 'fireworks', 'flash', 'iphone', 'j2ee', 'java', 'joomla', 'jsp', 'linux', 'magento', 'management', 'maya', 'mobile', 'mobile application development', 'ms', 'mysql', 'opencart', 'operating systems', 'oracle', 'php', 'prestashop', 'research', 'software', 'software development', 'software solutions', 'solaris', 'web design', 'windows', 'windows mobile', 'wordpress', 'zend']",2297.0,w2259
+500.0,"['.net', 'access', 'ajax', 'animation', 'c', 'c#', 'c++', 'construction', 'environmental', 'focus', 'health', 'html', 'javascript', 'joomla', 'magento', 'microsoft', 'mysql', 'oracle', 'oscommerce', 'outsourcing', 'php', 'rest', 'security', 'sharepoint', 'silverlight', 'soap', 'software', 'software development', 'sql', 'sql server', 'tourism', 'windows', 'wordpress']",93.0,w0092
+100.0,"['adobe photoshop', 'css', 'css3', 'html5', 'http', 'joomla!', 'mac os', 'mysql', 'photoshop design', 'php', 'responsive web design', 'responsive wordpress theme', 'web development', 'wordpress', 'wordpress development', 'wordpress plugin']",102.0,w0101
+100.0,"['css', 'drupal', 'html', 'html5', 'java', 'joomla', 'jquery', 'magento', 'php', 'wordpress']",1660.0,w1633
+50.0,"['accounting', 'accounting software', 'amazon', 'article writing', 'articles', 'basic', 'blogging', 'blogs', 'bookkeeping', 'copywriting', 'creative writing', 'drawing', 'english', 'facebook', 'fiction', 'focus', 'freelance', 'german', 'german translation', 'international', 'internet research', 'powerpoint', 'press releases', 'product descriptions', 'publishing']",1006.0,w0992

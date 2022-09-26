@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+4.0,"['articles', 'article rewriting', 'copywriting', 'editing']",1261.0,w1257
+20.0,"['illustration', 'graphic design', 'illustrator', 'photoshop', 'logo design']",205.0,w0204
+12.0,"['3d rendering', '3d modelling', '3d animation']",265.0,w0264
+10.0,"['website design', 'graphic design', 'html', 'caricature &amp; cartoons', 'photoshop']",648.0,w0647
+20.0,"['php', 'translation', 'mysql', 'wordpress', 'javascript']",1218.0,w1214
+25.0,"['php', 'mysql', 'html', 'ajax', 'javascript']",1762.0,w1746
+13.0,"['wordpress', 'php', 'html', 'web hosting', 'web search']",915.0,w0912
+20.0,"['php', 'javascript', 'jquery / prototype', 'mysql']",307.0,w0306
+15.0,"['virtual assistant', 'php', 'data entry', 'article rewriting', 'sales']",212.0,w0211
+3.0,"['logo design', 'photoshop', 'illustrator', 'photoshop design', 'excel']",806.0,w0805
+1.0,"['c programming', 'engineering', 'iphone', 'c++ programming', 'game design']",703.0,w0702
+15.0,"['php', 'mysql', 'software architecture', 'software testing']",102.0,w0101
+16.0,"['wordpress', 'php', 'html', 'website design']",208.0,w0207
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+20.0,"['php', 'mysql', 'html', 'software architecture', 'javascript']",673.0,w0672
+31.0,"['c programming', 'engineering', 'c# programming', 'windows desktop', 'data processing']",1635.0,w1621
+10.0,"['link building', 'internet marketing', 'seo', 'advertising']",1242.0,w1238
+10.0,['website design'],1602.0,w1590
+7.0,"['translation', 'facebook marketing', 'social networking', 'academic writing']",510.0,w0509
+15.0,"['after effects', '3d animation', 'animation', 'video services', 'photoshop']",336.0,w0335

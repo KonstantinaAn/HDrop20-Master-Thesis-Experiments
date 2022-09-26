@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+11.0,"['voip', 'asterisk pbx', 'windows server']",909.0,w0906
+20.0,"['html', 'php', 'website design', 'javascript', 'css']",1101.0,w1098
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+15.0,"['logo design', 'graphic design', 'website design', 'photoshop design']",549.0,w0548
+10.0,"['php', 'mysql', 'website management', 'joomla', 'javascript']",1390.0,w1386
+15.0,"['php', 'software architecture', 'website design', 'asp', 'android']",599.0,w0598
+35.0,"['website design', 'wordpress', 'cms', 'graphic design', 'facebook marketing']",1702.0,w1686
+1.0,"['.net', 'c# programming', 'sql']",1229.0,w1225
+10.0,"['html', 'php', 'mysql', 'javascript']",347.0,w0346
+10.0,"['photoshop', 'graphic design', 'illustrator', 'photo editing']",1365.0,w1361
+12.0,"['linux', 'html']",1645.0,w1631
+10.0,"['internet marketing', 'facebook marketing', 'excel', 'seo', 'social networking']",1216.0,w1212
+18.0,"['video services', 'after effects', 'videography', 'animation', '3d animation']",569.0,w0568
+10.0,"['graphic design', 'photoshop', 'logo design', 'photoshop design', 't-shirts']",457.0,w0456
+15.0,"['banner design', 'photoshop', 'photo editing', 'logo design']",1193.0,w1189
+10.0,"['data entry', 'internet marketing', 'marketing', 'advertising', 'excel']",1562.0,w1551
+30.0,"['php', 'website design', 'mysql', 'wordpress', 'magento']",441.0,w0440
+6.0,"['blog', 'anything goes', 'articles']",583.0,w0582
+15.0,"['facebook marketing', 'social networking', 'graphic design', 'logo design']",740.0,w0739
+25.0,"['android', 'linux', 'embedded software', 'c programming', 'electronics']",123.0,w0122
+10.0,"['javascript', '.net', 'asp', 'visual basic', 'windows desktop']",1678.0,w1663
+20.0,"['php', 'mysql', 'html', 'software architecture', 'javascript']",673.0,w0672
+5.0,"['seo', 'link building', 'internet marketing']",1407.0,w1403
+12.0,"['graphic design', 'photoshop', 'illustrator', 'stationery design']",1448.0,w1443
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",143.0,w0142
+25.0,"['graphic design', 'banner design', 'wordpress', 'website design', 'photoshop']",794.0,w0793
+15.0,"['php', 'html', 'software architecture', 'graphic design', 'css']",1321.0,w1317
+18.0,"['php', 'asterisk pbx', 'mysql']",1252.0,w1248
+30.0,"['php', 'mysql', 'software architecture', 'linux', 'database administration']",570.0,w0569
+25.0,"['microsoft access', 'excel', 'mysql', 'powerpoint']",260.0,w0259
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+15.0,"['photoshop', 'photo editing', 'photoshop design', '3d modelling']",1317.0,w1313
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+10.0,"['excel', 'data processing', 'copy typing', 'word', 'data entry']",764.0,w0763
+10.0,"['data processing', 'data entry', 'excel', 'youtube']",924.0,w0921
+30.0,"['data entry', 'excel', 'web scraping', 'facebook marketing', 'seo']",191.0,w0190
+5.0,['facebook marketing'],1473.0,w1466
+10.0,"['css', 'website design', 'javascript', 'html', 'php']",1284.0,w1280
+18.0,"['academic writing', 'software architecture', 'article rewriting']",762.0,w0761
+10.0,"['mysql', 'database administration']",1403.0,w1399
+10.0,"['graphic design', 'logo design', 'banner design']",619.0,w0618
+20.0,"['software architecture', 'php', 'c++ programming', 'matlab &amp; mathematica', 'mac os']",383.0,w0382
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941
+2.0,"['internet marketing', 'data entry']",1417.0,w1412
+25.0,"['php', 'mysql', 'software architecture', 'software testing']",114.0,w0113
+18.0,"['perl', 'mysql', 'javascript', 'ajax']",623.0,w0622
+2.0,"['voip', 'customer support', 'asterisk pbx', 'linux']",1465.0,w1458
+35.0,"['php', 'software architecture', 'software testing', 'java', 'linux']",1633.0,w1619
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+8.0,"['python', 'software architecture']",1358.0,w1354

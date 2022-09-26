@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+30.0,"['.net', 'asp', 'asp.net', 'c', 'c#', 'css', 'developer', 'html', 'javascript', 'jquery', 'web developer']",4085.0,w4006
+40.0,"['articles', 'copywriting', 'editing', 'english', 'excel', 'facebook', 'fiction', 'focus', 'illustration', 'marketing', 'online publishing', 'pdf', 'pinterest', 'poetry', 'powerpoint', 'producer', 'promotions', 'publishing', 'radio', 'research', 'short stories', 'skill', 'travel writing', 'twitter']",2657.0,w2612
+50.0,"['basic', 'finance', 'reports', 'tax']",1005.0,w0991
+100.0,"['.net', '3d', 'adobe air', 'adobe photoshop', 'air', 'ajax', 'apache', 'api', 'application development', 'asp', 'asp.net', 'c', 'c#', 'css', 'developer', 'drupal', 'engineering', 'flash', 'html', 'iis', 'java', 'joomla', 'jquery', 'json', 'lamp', 'linq', 'linux', 'magento', 'management', 'max', 'microsoft', 'microsoft sql server', 'microsoft visual studio', 'mvc', 'mysql', 'oscommerce', 'php', 'postgresql', 'product development', 'prototyping', 'quality assurance', 'rest', 'sharepoint', 'sql', 'sql server', 'virtuemart', 'visual studio', 'volusion', 'web services', 'wordpress', 'zend', 'zend framework']",584.0,w0571
+50.0,"['articles', 'blogging', 'blogs', 'creative writing', 'editing', 'journalism', 'magazine articles', 'marketing', 'proofreading', 'short stories', 'social media marketing', 'social networks']",4266.0,w4183
+100.0,"['.net', 'access', 'ajax', 'analysis', 'asp', 'asp.net', 'basic', 'com', 'email', 'excel', 'iis', 'import', 'make', 'management', 'ms', 'ms office', 'outlook', 'programming', 'reports', 'security', 'sql', 'sql server', 'vb.net', 'vba', 'visual basic']",2672.0,w2627
+25.0,"['adobe illustrator', 'adobe photoshop', 'animation', 'article submission', 'authorize.net', 'banner', 'banner ads', 'c', 'coldfusion', 'content management', 'corel draw', 'css', 'css3', 'customer satisfaction', 'database programming', 'design', 'dhtml', 'directory submission', 'dreamweaver', 'email', 'flash', 'flash animation', 'html', 'html5', 'http', 'https', 'ipad', 'iphone', 'joomla', 'link building', 'magento', 'management', 'mobile', 'mysql', 'networking', 'open source', 'oracle', 'oscommerce', 'paypal', 'php', 'phpbb', 'prestashop', 'programming', 'real estate', 'seo', 'shopping carts', 'smarty', 'soap', 'social networking', 'ssl', 'templates', 'training', 'video', 'web 2.0', 'web design', 'web development', 'web technologies', 'website development', 'wordpress', 'xhtml', 'xml', 'xslt', 'zen cart', 'zend']",356.0,w0349
+40.0,"['article editing', 'article writing', 'articles', 'blog writing', 'book writing', 'copywriting', 'design', 'ebook writing', 'editing', 'excel', 'ghost writing', 'html', 'search engine optimization (seo)', 'search engine optimization copywriting (seo)', 'software', 'song writing', 'television', 'web content writing', 'website content', 'website content writing', 'wordpress']",2302.0,w2264
+50.0,"['android', 'c++', 'cakephp', 'iphone', 'java', 'php 5', 'python', 'symfony', 'vb.net']",1600.0,w1577
+25.0,"['adobe illustrator', 'adobe indesign', 'brochures', 'design', 'dreamweaver', 'flash', 'graphic design', 'graphic designer', 'illustration', 'photoshop', 'web media']",3809.0,w3738
+50.0,"['blogging', 'ebook writing', 'fiction writing', 'ghost writing', 'non fiction writing', 'writing']",3483.0,w3419
+30.0,"['analysis', 'assembly', 'customer service', 'data entry', 'editing', 'excel', 'filemaker', 'focus', 'mail merge', 'materials', 'microsoft', 'microsoft word', 'powerpoint', 'proofreading', 'research', 'selling', 'sem', 'seo', 'training']",2429.0,w2388
+25.0,"['analysis', 'english', 'freelance', 'german', 'german translation', 'make', 'translation']",38.0,w0038
+30.0,"['ajax', 'css', 'css3', 'design', 'html', 'html5', 'jquery', 'php']",587.0,w0574
+40.0,"['analysis', 'cisco', 'design', 'electrical', 'electrical design', 'html', 'ios', 'java', 'matlab', 'network design', 'server administration', 'system analysis', 'windows', 'windows server']",2183.0,w2147
+25.0,"['article writing', 'english', 'grammar', 'research', 'writing']",3471.0,w3407
+320.0,"['android', 'codeigniter', 'com', 'ecommerce', 'finance', 'ios', 'jquery', 'mvc', 'mysql', 'php', 'sales', 'twitter', 'twitter bootstrap', 'web development', 'whmcs', 'yii framework']",2484.0,w2443
+40.0,"['3d modeling', '3d rendering', '3ds max', 'adobe photoshop']",3346.0,w3286
+26.0,"['administrative support', 'creative writing', 'data entry', 'transcription', 'writing']",4105.0,w4025
+25.0,"['consulting', 'flash', 'flash presentations', 'medical', 'powerpoint', 'powerpoint presentations', 'presentations', 'sales', 'sales presentations']",4537.0,w4450
+25.0,"['javascript', 'php', 'web development']",451.0,w0441
+75.0,"['book cover design', 'brochures', 'clean', 'collections', 'corporate', 'corporate identity', 'cover design', 'design', 'digital', 'editing', 'graphic design', 'graphics', 'illustration', 'photo editing', 'real estate', 'sales', 'skill']",2676.0,w2631
+25.0,"['access', 'ajax', 'application development', 'architecture', 'basic', 'css', 'database design', 'design', 'html', 'javascript', 'joomla', 'jquery', 'linux', 'microsoft', 'ms', 'mysql', 'oop', 'oracle', 'php', 'sql', 'sql server', 'vb.net', 'visual basic', 'wordpress', 'xml']",2440.0,w2399
+75.0,"['.net', 'access', 'ajax', 'asp', 'authorize.net', 'com', 'corporate', 'drupal', 'ecommerce', 'flash', 'flash websites', 'joomla', 'linux', 'mysql', 'open source', 'opencart', 'oscommerce', 'payment gateway integration', 'paypal', 'php', 'prestashop', 'sql', 'web development', 'windows', 'wordpress']",4243.0,w4160
+200.0,"['database design', 'design', 'programming', 'technical writing']",3152.0,w3096
+95.0,"['adobe illustrator', 'adobe photoshop', 'brochure design', 'brochures', 'business card design', 'digital designs', 'flyer design', 'photoshop design', 'poster design']",1470.0,w1451
+25.0,"['arabic', 'english']",1216.0,w1199
+200.0,"['dutch', 'economics', 'english', 'french', 'portuguese']",2291.0,w2253
+50.0,"['bigcommerce', 'css', 'design', 'dhtml', 'ecommerce', 'html', 'interspire', 'joomla', 'magento', 'mysql', 'oop', 'opencart', 'oscommerce', 'php', 'prestashop', 'seo', 'shopify', 'software', 'software design', 'testing', 'virtuemart', 'volusion', 'woocommerce', 'writing', 'zen cart']",105.0,w0104
+100.0,"['.net', 'android', 'cakephp', 'ios', 'joomla', 'mysql', 'prototype', 'sharepoint', 'symfony', 'zend']",84.0,w0083
+197.0,"['business planning', 'cover letter writing', 'customer service', 'editing', 'english', 'letter writing', 'pdf', 'polish', 'product development', 'proofreading', 'research', 'test', 'writing']",2797.0,w2750
+50.0,"['access', 'accounting', 'customer service', 'excel', 'ms', 'ms excel', 'ms office', 'ms word', 'sales']",1898.0,w1866
+30.0,"['data entry', 'typing']",3751.0,w3683
+60.0,"['autodesk autocad', 'cad']",1956.0,w1924
+40.0,"['banner design', 'business card design', 'corporate identity', 'logo design', 'responsive web design']",2567.0,w2525
+30.0,"['advertising', 'articles', 'consultant', 'copywriting', 'editing', 'magazine articles', 'marketing', 'newsletters', 'press releases']",1781.0,w1751
+75.0,"['artist', 'graphic design', 'illustration', 'logo design', 'website design']",2346.0,w2307
+50.0,"['html', 'javascript', 'mysql', 'perl', 'php', 'software', 'software development', 'sql']",2612.0,w2567
+50.0,"['adobe illustrator', 'adobe photoshop', 'architecture', 'cartoon', 'cartooning', 'character design', 'corel draw', 'coreldraw', 'design', 'digital', 'drawing', 'illustration', 'infographics', 'painting', 'sketching', 'skype', 'storyboarding', 'vector illustration']",2547.0,w2505
+200.0,"['blogging', 'creative writing', 'editing', 'english', 'ghost writing', 'management', 'online content', 'research', 'social media blogging', 'writing']",764.0,w0751
+150.0,"['advertising', 'articles', 'coaching', 'consulting', 'director', 'management', 'marketing', 'newsletters', 'radio', 'research']",2427.0,w2386
+50.0,"['administrative support', 'business english', 'call handling', 'data entry', 'email support', 'live chat', 'phone support', 'reports', 'research', 'virtual assistants']",3857.0,w3785
+60.0,"['data entry', 'editing', 'mail merge', 'processing', 'spreadsheets']",1269.0,w1252
+100.0,"['active directory', 'blackberry', 'blackberry enterprise server', 'cisco', 'clustering', 'dns', 'email', 'ldap', 'linux', 'linux server', 'management', 'microsoft', 'networking', 'windows', 'windows server']",39.0,w0039
+100.0,"['app design', 'app development', 'custom cms', 'custom websites', 'email', 'email design', 'excel', 'google adwords', 'html', 'http', 'iphone app development', 'php', 'powerpoint', 'programming', 'sem', 'seo', 'video', 'website design']",3770.0,w3701
+30.0,"['2d animation', 'animation', 'anime', 'cartoon', 'com', 'email', 'programming', 'sketching', 'yahoo']",1537.0,w1515
+100.0,"['analysis', 'c', 'c++', 'link building', 'seo', 'smo']",1872.0,w1840
+99.0,"['c', 'c++', 'css', 'ejb', 'gps', 'grails', 'groovy', 'html', 'java', 'javascript', 'jsp', 'mysql', 'php', 'postgresql', 'python', 'ruby', 'sql', 'sql server', 'struts', 'web development', 'web presence']",2099.0,w2065
+25.0,"['data entry', 'excel', 'typing']",2863.0,w2813
+54.0,"['3d', '3d modeling', '3d models', '3d rendering', 'rendering']",3667.0,w3600

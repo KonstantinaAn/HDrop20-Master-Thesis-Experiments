@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+25.0,"['3d', '3d printing', 'adobe illustrator', 'adobe photoshop', 'digital', 'illustration', 'windows']",3275.0,w3216
+50.0,"['accounting', 'finance', 'freelance', 'tax']",3734.0,w3666
+25.0,"['adobe photoshop', 'character design', 'cover art', 'digital', 'digital illustration', 'digital painting', 'fantasy illustration', 'illustration', 'portrait illustration']",3972.0,w3897
+30.0,"['adobe photoshop', 'digital', 'drawing', 'rendering', 'sketching']",595.0,w0582
+25.0,"['.net', '3d', 'access', 'android', 'api', 'arm', 'asp', 'asp.net', 'assembly', 'basic', 'c', 'c#', 'c++', 'html', 'java', 'javascript', 'microsoft', 'networking', 'php', 'pic', 'programming', 'uml', 'visual basic', 'windows']",1439.0,w1421
+100.0,"['android', 'application development', 'html', 'html5', 'ipad', 'iphone', 'mobile', 'mobile application development']",1664.0,w1637
+30.0,"['amazon', 'cloud based', 'computer security', 'css', 'custom cms', 'ecommerce', 'erp', 'html5', 'joomla', 'linux', 'magento', 'mail servers', 'nginx', 'opencart', 'paypal api', 'php', 'postgresql', 'python', 'shopping carts', 'software development', 'website design', 'wordpress']",1913.0,w1881
+30.0,"['business intelligence', 'excel', 'software', 'vba']",1282.0,w1265
+80.0,"['com', 'data security', 'penetration testing', 'security', 'sql', 'sql injection', 'testing', 'vulnerability assessment', 'web security']",2273.0,w2235
+30.0,"['article writing', 'bpo', 'coaching', 'com', 'customer service', 'excel', 'http', 'interpersonal skills', 'leads', 'microsoft', 'ms', 'ms office', 'outlook', 'reports', 'training', 'typing', 'writing']",3201.0,w3144
+25.0,"['access', 'asp.net', 'css', 'database design', 'excel', 'html', 'jquery', 'mvc', 'mysql', 'sql', 'ui design', 'web development']",3420.0,w3357
+25.0,"['assembly', 'c', 'c#', 'c++', 'css', 'html', 'j2ee', 'java', 'javascript', 'jsf', 'jsp', 'linux', 'mysql', 'soap', 'software development', 'web development', 'xml', 'xslt']",2436.0,w2395
+30.0,"['adobe photoshop', 'corporate identity', 'displays', 'logo design', 'photo editing', 'photography']",909.0,w0895
+50.0,"['android', 'cakephp', 'codeigniter', 'dynamic websites', 'ecommerce', 'facebook api', 'html5', 'iphone', 'javascript', 'joomla', 'mysql', 'php', 'responsive web design', 'website design', 'wordpress', 'wordpress plugin']",1267.0,w1250
+50.0,"['ajax', 'animation', 'architecture', 'asp', 'asp.net', 'blog development', 'cakephp', 'codeigniter', 'coldfusion', 'corporate', 'corporate branding', 'css', 'css3', 'design', 'drupal', 'email', 'experience design', 'flash', 'flash design', 'html', 'html5', 'information architecture', 'interaction design', 'internet marketing', 'javascript', 'joomla', 'jquery', 'linux', 'logo design', 'magento', 'marketing', 'mysql', 'open source', 'opencart', 'oracle', 'php', 'real estate', 'responsive web design', 'seo', 'sql', 'sugar crm', 'tomcat', 'twitter', 'twitter bootstrap', 'user experience design', 'virtuemart', 'web design', 'web development', 'website design', 'wordpress', 'wordpress plugin', 'xhtml', 'xml', 'zend']",142.0,w0140
+50.0,"['android', 'android programming', 'android sdk', 'c', 'c++', 'computer science', 'eclipse', 'java', 'jdbc', 'linux', 'mysql', 'oracle', 'postgresql', 'programming', 'qt']",2746.0,w2700
+30.0,"['3d modeling', 'adobe photoshop', 'architecture', 'autocad', 'coreldraw', 'drafting', 'image editing', 'mechanical engineering', 'plastics engineering', 'solidworks']",2794.0,w2747
+25.0,"['adobe illustrator', 'adobe photoshop', 'keynote', 'presentation design']",4353.0,w4267
+25.0,"['adobe illustrator', 'adobe indesign', 'adobe photoshop', 'banner ads', 'banner design', 'brochure design', 'business card design', 'corel draw', 'css3', 'dreamweaver', 'e-books', 'flash design', 'html', 'logo design', 'magazine design', 'packaging design', 'print design', 'psd to html']",1246.0,w1229
+100.0,"['.net', 'analysis', 'architecture', 'c', 'c#', 'consulting', 'css', 'design', 'engineering', 'html5', 'jquery', 'product development', 'sql', 'sql server', 'wcf']",2149.0,w2114

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['c# programming', 'asp', '.net']",1688.0,w1673
+10.0,"['graphic design', 'banner design', 'photoshop', 'brochure design', 'flash']",852.0,w0851
+30.0,"['jquery / prototype', 'css', 'javascript', 'drupal']",671.0,w0670
+20.0,"['php', 'html', 'website design', 'graphic design', 'joomla']",225.0,w0224
+20.0,"['magento', 'php', 'mysql', 'html', 'javascript']",236.0,w0235
+25.0,"['graphic design', 'logo design', 'banner design', 'flash', 'website design']",49.0,w0049
+8.0,"['html', 'php', 'wordpress', 'css', 'psd to html']",910.0,w0907
+8.0,"['website design', 'html', 'graphic design', 'css', 'psd to html']",254.0,w0253
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1646.0,w1632
+7.0,"['academic writing', 'articles']",956.0,w0953
+15.0,"['graphic design', 'flyer design', 'website design', 'business cards']",1203.0,w1199
+30.0,"['software architecture', 'php', 'c programming', 'engineering', 'windows desktop']",999.0,w0996
+25.0,"['transcription', 'translation', 'data entry', 'excel', 'virtual assistant']",119.0,w0118
+15.0,"['3d animation', '3d modelling', '3ds max', '3d rendering', 'animation']",695.0,w0694
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration']",411.0,w0410
+10.0,"['illustration', 'graphic design', 'animation', 'photoshop', 'illustrator']",946.0,w0943
+10.0,"['graphic design', 'brochure design', 'photoshop', 'flyer design', 'illustrator']",355.0,w0354
+12.0,"['translation', 'system admin', 'software architecture']",346.0,w0345
+10.0,"['excel', 'web scraping', 'data processing', 'virtual assistant']",827.0,w0826

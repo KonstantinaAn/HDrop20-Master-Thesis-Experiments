@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration']",411.0,w0410
+13.0,"['graphic design', 'illustrator', 'illustration', 'photoshop', 'logo design']",948.0,w0945
+15.0,"['php', 'mysql', 'javascript', 'software architecture', 'wordpress']",57.0,w0057
+8.0,"['graphic design', 'logo design', 'illustrator', 'illustration', 'flyer design']",1491.0,w1483
+15.0,"['iphone', 'mobile phone', 'php', 'android', 'ipad']",1037.0,w1034
+4.0,"['data entry', 'excel', 'data processing']",1283.0,w1279
+15.0,"['unity 3d', 'ipad', 'javascript', 'iphone', 'c# programming']",1250.0,w1246
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'youtube']",60.0,w0060
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",258.0,w0257
+10.0,"['web search', 'data entry', 'excel', 'virtual assistant']",733.0,w0732
+12.0,"['html', 'css', 'ajax', 'graphic design']",495.0,w0494
+30.0,"['javascript', 'php', 'ajax', 'jquery / prototype']",1578.0,w1566
+5.0,"['youtube', 'powerpoint', 'graphic design', 'photoshop', 'game design']",1102.0,w1099
+5.0,"['translation', 'data entry', 'proofreading']",622.0,w0621
+12.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'illustration']",105.0,w0104
+11.0,"['html', 'php', 'mysql', 'wordpress']",1125.0,w1122
+10.0,"['graphic design', 'banner design', 'photoshop', 'brochure design', 'flash']",852.0,w0851
+20.0,"['php', 'excel', 'web scraping', 'data entry', 'mysql']",601.0,w0600
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+8.0,"['html', 'php', 'wordpress', 'css', 'psd to html']",910.0,w0907

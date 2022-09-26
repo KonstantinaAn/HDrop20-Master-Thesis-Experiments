@@ -1,0 +1,10 @@
+alg,sol,num_sol,val,submodular_val,cost,runtime,error_epsilon,sample_epsilon,scaling_factor,seed,k,user_sample_ratio,job_sample_ratio,num_rare_skills,num_common_skills,num_popular_skills
+distorted_greedy,[3018],1,3668,4168,500,0.18636366299999452,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[3319],1,3101,3126,25,0.1911014160000022,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[213],1,3547,3647,100,0.18729357900000565,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[1015],1,1513,1563,50,0.1950186770000002,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[4306],1,1063,1563,500,0.1995997809999963,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[1647],1,1538,1563,25,0.19318851399999915,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[4534],1,1538,1563,25,0.19446478500000097,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[514],1,2059,2084,25,0.19104849800000068,,,521,7,1,0.4,0.4,,,
+distorted_greedy,[3417],1,2580,2605,25,0.19444348700000091,,,521,7,1,0.4,0.4,,,

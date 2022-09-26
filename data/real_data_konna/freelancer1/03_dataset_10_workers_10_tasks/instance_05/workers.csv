@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+38.0,"['android', 'mobile phone', 'c programming', 'iphone', 'java']",1315.0,w1311
+15.0,"['unity 3d', 'ipad', 'javascript', 'iphone', 'c# programming']",1250.0,w1246
+20.0,"['c++ programming', 'android', 'python', 'linux', 'java']",1033.0,w1030
+15.0,"['php', 'magento']",978.0,w0975
+30.0,"['audio services', 'music']",1179.0,w1175
+50.0,"['iphone', 'ipad']",77.0,w0076
+10.0,"['electrical engineering', 'microcontroller', 'pcb layout', 'electronics', 'c programming']",735.0,w0734
+16.0,"['magento', 'php', 'wordpress', 'html', 'css']",324.0,w0323
+30.0,['linux'],1156.0,w1152
+15.0,"['iphone', 'mobile phone', 'php', 'android', 'ipad']",1037.0,w1034

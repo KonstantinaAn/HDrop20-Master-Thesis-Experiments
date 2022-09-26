@@ -1,0 +1,101 @@
+cost,skills,user_id,user_name
+50.0,"['android', 'english', 'ios', 'ipad', 'iphone', 'qa', 'quality assurance', 'russian', 'testing', 'web testing', 'windows', 'windows 8']",3176.0,w3119
+50.0,"['.net', 'ajax', 'analysis', 'android', 'asp', 'asp.net', 'asp.net mvc', 'c', 'c#', 'dhtml', 'html', 'javascript', 'jquery', 'json', 'linq', 'management', 'microsoft', 'mobile', 'mvc', 'sql', 'sql server', 'svn', 'vb.net', 'web development', 'web services', 'web technologies', 'xml']",2251.0,w2214
+25.0,"['data entry', 'email', 'excel', 'lead generation', 'mail merge', 'pdf', 'research', 'transcription', 'typing', 'vba', 'wordpress']",3526.0,w3462
+25.0,"['.net', 'j2ee', 'java', 'python', 'soap']",3415.0,w3352
+50.0,"['2d animation', 'comics', 'drawing', 'storyboarding']",3707.0,w3639
+50.0,"['acting', 'articles', 'blogging', 'blogs', 'collections', 'com', 'cooking', 'creative writing', 'design', 'editing', 'email', 'event planning', 'fiction', 'fundraising', 'ghost writing', 'marketing', 'microsoft', 'microsoft word', 'poetry', 'processing', 'producer', 'research', 'reviews', 'self', 'short stories', 'software', 'tutoring', 'word processing', 'wordpress', 'writing']",4411.0,w4325
+250.0,"['3d', '3d modeling', 'adobe after effects', 'adobe illustrator', 'adobe photoshop', 'animation', 'autodesk maya', 'character animation', 'communication skills', 'compositing', 'design', 'editing', 'flash', 'flash animation', 'graphic design', 'graphics', 'illustration', 'logo design', 'max', 'maya', 'modeling', 'presentations', 'sound editing', 'soundforge', 'television', 'video', 'web graphics']",866.0,w0852
+25.0,['transcription'],3979.0,w3904
+25.0,"['articles', 'biotechnology', 'blog writing', 'blogs', 'content writing', 'copywriting', 'health', 'industrial', 'medical', 'proofreading', 'technical writing', 'web content', 'writing']",3237.0,w3179
+30.0,"['marketing', 'press release writing', 'press releases', 'public relations (pr)', 'social media consulting', 'social media marketing', 'web marketing']",4193.0,w4110
+100.0,"['.net', 'ajax', 'amazon', 'android', 'asp', 'asp.net', 'blackberry', 'centos', 'design', 'dhtml', 'drupal', 'html', 'iphone', 'javascript', 'joomla', 'jquery', 'kindle', 'lamp', 'linux', 'magento', 'mobile', 'ms', 'mysql', 'network administration', 'oscommerce', 'php', 'qa', 'red hat', 'server administration', 'shopping carts', 'smarty', 'software', 'sql', 'sql server', 'testing', 'ubuntu', 'unix', 'virtualization', 'web services', 'website design', 'windows', 'wordpress', 'xhtml']",2851.0,w2802
+100.0,"['backlinking', 'link building', 'website promotion']",3568.0,w3504
+100.0,"['asp', 'asp.net', 'asp.net mvc', 'css3', 'design', 'graphic design', 'javascript', 'jquery', 'json', 'mysql', 'oracle', 'php', 'sharepoint', 'silverlight', 'sql', 'wcf', 'web design', 'web development', 'web services', 'wpf']",443.0,w0433
+75.0,"['cover art', 'digital', 'digital designs']",3778.0,w3709
+100.0,"['ajax', 'android', 'apache', 'apache tomcat', 'api', 'asp', 'asp.net', 'blackberry', 'c', 'c#', 'consulting', 'content writing', 'css', 'drupal', 'ecommerce', 'engineering', 'html', 'iis', 'ios', 'ipad', 'iphone', 'it training', 'j2ee', 'joomla', 'jsp', 'magento', 'microsoft', 'mobile', 'mvc', 'mysql', 'off page', 'on page', 'open source', 'oracle', 'oscommerce', 'perl', 'php', 'phpfox', 'pl', 'postgresql', 'prestashop', 'product development', 'seo', 'sharepoint', 'smo', 'software', 'sql', 'sybase', 'tomcat', 'training', 'ubercart', 'uml', 'virtuemart', 'web servers', 'web technologies', 'wordpress', 'writing', 'xhtml', 'xml', 'xsl', 'zen cart', 'zend']",1624.0,w1599
+100.0,"['ajax', 'cocoa', 'hadoop', 'html', 'ios', 'java', 'javascript', 'linux', 'mysql', 'networking', 'objective-c', 'oracle', 'perl', 'php', 'python', 'troubleshooting', 'xcode']",3228.0,w3170
+50.0,"['2d animation', '3d', '3d graphics', '3ds max', 'adobe photoshop', 'animation', 'graphics', 'logo design', 'rendering', 'video', 'videos', 'web design']",271.0,w0267
+50.0,"['com', 'copywriting', 'excel', 'fiction', 'fiction writing', 'outlook', 'research', 'sales', 'writing']",1959.0,w1927
+25.0,"['editing', 'proofreading', 'research', 'rewriting']",3558.0,w3494
+75.0,"['administrative support', 'calendar management', 'customer service', 'data entry', 'email', 'event planning', 'internet research', 'management', 'processing', 'research', 'travel arrangements', 'word processing']",3691.0,w3623
+25.0,"['3d', 'actionscript', 'actionscript 3', 'broadcasting', 'centos', 'clean', 'coreldraw', 'database design', 'design', 'dhtml', 'english', 'flash', 'freebsd', 'game design', 'javascript', 'jquery', 'linux', 'max', 'mysql', 'php', 'postgresql', 'programming', 'security', 'server administration', 'shoutcast', 'web design', 'windows']",1064.0,w1050
+200.0,"['administrative support', 'content management', 'editing', 'email', 'ms word', 'pdf', 'word processing', 'writing']",162.0,w0160
+100.0,"['company newsletters', 'css', 'design', 'email', 'email design', 'html', 'icontact', 'jquery', 'mailchimp', 'marketing', 'newsletter design', 'newsletters', 'templates', 'virtuemart', 'website design']",1464.0,w1445
+100.0,"['3d', 'architecture', 'business development', 'cad', 'design', 'management', 'ms', 'powerpoint', 'project management', 'sketchup', 'software', 'vectorworks']",1340.0,w1323
+25.0,"['access', 'admin assistant', 'administrative assistant', 'customer service', 'customer support', 'data entry', 'email', 'excel', 'gmail', 'google docs', 'microsoft word', 'pdf', 'research', 'skype', 'social marketing', 'twitter', 'word processing']",2475.0,w2434
+300.0,"['ajax', 'apache', 'codeigniter', 'com', 'css', 'developer', 'dhtml', 'ecommerce', 'html', 'http', 'java', 'javascript', 'jquery', 'jsp', 'linux', 'management', 'mysql', 'perl', 'php', 'project management', 'rest', 'soap', 'web services', 'wordpress', 'xml']",3234.0,w3176
+25.0,"['article writing', 'articles', 'german', 'seo', 'writing']",3436.0,w3373
+25.0,"['design', 'test', 'web design']",461.0,w0450
+25.0,"['design', 'php', 'sem', 'seo', 'software', 'software development', 'web development', 'website promotion', 'wordpress']",777.0,w0764
+50.0,"['adobe illustrator', 'cartooning', 'css', 'design', 'drupal', 'html', 'http', 'keynote', 'logo design', 'mysql', 'photography', 'poster design', 'powerpoint', 'programming', 'sqlite', 'web design', 'web programming', 'wordpress']",756.0,w0743
+25.0,"['adobe photoshop', 'design', 'graphic design']",3953.0,w3879
+30.0,"['article writing', 'blog writing', 'blogs', 'freelance', 'seo', 'writing']",4023.0,w3946
+25.0,"['3d', 'adobe photoshop']",4168.0,w4085
+25.0,"['apache', 'ftp', 'iptables', 'lamp', 'linux', 'minecraft', 'mysql', 'php', 'web servers']",1245.0,w1228
+25.0,"['acrobat', 'computer graphics', 'css', 'design', 'dreamweaver', 'flash', 'graphic design', 'graphics', 'html', 'ms', 'ms office', 'ms office suite', 'reports']",1041.0,w1027
+25.0,"['design', 'editing', 'engineering', 'graphic design', 'microsoft']",559.0,w0547
+30.0,"['ajax', 'asp', 'asp.net', 'c', 'c#', 'css', 'english', 'html', 'javascript', 'microsoft', 'sharepoint', 'skill', 'sql', 'sql server']",3540.0,w3476
+25.0,"['adobe photoshop', 'css', 'developer', 'dreamweaver', 'drupal', 'flash', 'html', 'joomla', 'link building', 'marketing', 'php', 'plugins', 'seo', 'wordpress']",1610.0,w1587
+25.0,"['design', 'jquery', 'lamp', 'perl', 'php', 'programming', 'web programming', 'wordpress']",1421.0,w1403
+25.0,"['adobe photoshop', 'ms powerpoint', 'presentation design', 'templates']",1504.0,w1484
+25.0,"['corporate', 'corporate design', 'design', 'developer', 'editing', 'excel', 'microsoft word', 'ms office', 'ms powerpoint', 'outlook', 'powerpoint', 'templates', 'video', 'video editing']",404.0,w0396
+25.0,"['kindle', 'product descriptions', 'software', 'website content']",2368.0,w2329
+25.0,"['article rewriting', 'articles', 'blogs', 'editing', 'english', 'ghost writing', 'medical', 'rewriting', 'spanish', 'writing']",1071.0,w1057
+50.0,"['ajax', 'asp', 'asp.net', 'css', 'django', 'jquery', 'opencart', 'prestashop', 'wordpress']",615.0,w0602
+50.0,"['banner', 'css', 'developer', 'flash', 'html', 'joomla', 'magento', 'make', 'seo', 'skill', 'web 2.0', 'wordpress', 'xhtml']",1231.0,w1214
+30.0,"['adobe illustrator', 'adobe photoshop', 'artist', 'concept art', 'corel draw', 'design', 'drawing', 'graphic design', 'illustration', 'logo design', 'publishing', 'vector design', 'vector graphics', 'vector illustration']",3241.0,w3183
+100.0,"['.net', 'access', 'asp', 'asp.net', 'c', 'c#', 'c++', 'clipper', 'consultant', 'developer', 'excel', 'management', 'ms', 'presentations', 'programming', 'project management', 'software', 'sql', 'sql server', 'training', 'vb.net', 'vba']",2172.0,w2137
+25.0,"['blogging', 'writing']",2813.0,w2765
+150.0,"['3d', '3ds max', 'architecture', 'artist', 'com', 'design', 'drafting', 'freelance', 'game development', 'graphic design', 'max', 'mechanical', 'modeling', 'video']",2948.0,w2896
+100.0,"['ajax', 'css3', 'drupal', 'ecommerce', 'html5', 'javascript', 'jquery', 'json', 'logo design', 'magento', 'mobile web design', 'php', 'responsive web design', 'web design', 'web development', 'wordpress', 'zend']",3357.0,w3296
+49.0,"['amazon kindle', 'book cover design', 'css', 'design', 'epub (electronic publication)', 'graphic design', 'html', 'kindle', 'mobi']",1386.0,w1368
+90.0,"['ajax', 'css3', 'facebook', 'html5', 'joomla', 'jquery', 'magento', 'php', 'wordpress']",669.0,w0656
+50.0,"['accounting', 'finance', 'management', 'ms excel', 'ms word']",3729.0,w3661
+200.0,"['ajax', 'api', 'css', 'css3', 'flash', 'html', 'html5', 'javascript', 'joomla', 'jquery', 'mysql', 'php', 'shopify', 'wordpress']",2221.0,w2184
+25.0,"['3d', '3d modeling', '3d rendering', '3d rigging', 'animation', 'artist', 'gimp', 'materials', 'maya', 'texture artist']",3507.0,w3443
+28.0,"['database engine', 'marketing', 'sales', 'search engine marketing (sem)', 'virtual assistants']",4008.0,w3931
+50.0,"['ajax', 'apache', 'cakephp', 'design', 'developer', 'drupal', 'jquery', 'linux', 'management', 'mysql', 'php', 'security', 'software', 'software development', 'system design', 'testing', 'troubleshooting', 'windows', 'wordpress', 'xml']",1795.0,w1765
+25.0,"['css', 'css3', 'ecommerce', 'english', 'excel', 'html', 'html5', 'joomla', 'jquery', 'materials', 'mysql', 'outlook', 'php', 'powerpoint', 'seo', 'wordpress']",272.0,w0268
+30.0,"['codeigniter', 'javascript', 'jquery', 'mysql', 'smarty', 'soap']",2946.0,w2894
+25.0,"['analysis', 'writing']",2615.0,w2570
+25.0,"['content writing', 'english', 'grammar', 'research', 'seo', 'spelling', 'website content', 'writing']",3899.0,w3827
+500.0,"['advertising', 'agile', 'asp', 'asp.net', 'basic', 'brand management', 'business development', 'camtasia', 'consulting', 'copywriting', 'corporate', 'css', 'design', 'displays', 'dreamweaver', 'email', 'email marketing', 'excel', 'fireworks', 'flash', 'graphic design', 'html', 'http', 'indesign', 'internet marketing', 'logo design', 'management', 'marketing', 'ms', 'ms office', 'photography', 'powerpoint', 'presentation design', 'presentations', 'print design', 'project management', 'reports', 'sage', 'sales', 'scrum', 'search engine optimization (seo)', 'seo', 'social media marketing', 'sql', 'vb.net', 'video', 'video production', 'visual basic', 'visual studio', 'web design', 'web development', 'xml']",1737.0,w1708
+25.0,['adobe photoshop'],3519.0,w3455
+90.0,"['ajax', 'css3', 'drupal', 'html5', 'joomla', 'jquery', 'magento', 'php', 'seo', 'wordpress']",804.0,w0791
+50.0,"['ajax', 'api', 'asp', 'asp.net', 'css', 'design', 'infusionsoft', 'javascript', 'jquery', 'mysql', 'paypal', 'php', 'sql', 'sql server', 'website design']",2699.0,w2653
+400.0,"['advertising', 'animation', 'assembly', 'construction', 'css', 'design', 'dreamweaver', 'drupal', 'e-learning', 'email', 'fireworks', 'flash', 'html', 'illustration', 'logo design', 'marketing', 'online advertising', 'web design', 'website design', 'wordpress']",4311.0,w4227
+50.0,"['market research', 'marketing', 'search engine optimization (seo)']",1276.0,w1259
+500.0,"['administrative support', 'asp', 'asp.net', 'barcode', 'c', 'c#', 'c++', 'database development', 'design', 'dhtml', 'flash', 'gaming', 'graphics', 'html', 'jsp', 'management', 'medical', 'ms', 'mysql', 'oracle', 'oracle dba', 'php', 'programming', 'project management', 'quality assurance', 'security', 'skill', 'sql', 'testing', 'vb.net', 'wcf', 'web design']",4412.0,w4326
+25.0,"['adobe illustrator', 'adobe photoshop', 'keynote', 'presentation design']",4353.0,w4267
+50.0,"['content writing', 'sales', 'sales letters', 'writing']",3885.0,w3813
+25.0,"['creative', 'design', 'graphic design', 'illustration', 'silk']",3288.0,w3229
+35.0,"['copywriting', 'creative writing']",506.0,w0495
+30.0,"['graphic design', 'web design']",2489.0,w2448
+100.0,"['ajax', 'api', 'buddypress', 'css', 'css3', 'generator', 'html', 'html5', 'javascript', 'mysql', 'php', 'php 5', 'plugins', 'psd to html', 'psd to wordpress', 'psd to xhtml', 'responsive web design', 'responsive wordpress theme', 'security', 'twitter bootstrap', 'wordpress', 'wordpress development', 'wordpress plugin', 'xml']",4077.0,w3999
+30.0,"['codeigniter', 'css', 'developer', 'drupal', 'ecommerce', 'lamp', 'magento', 'marketing', 'mvc', 'php', 'unix', 'web developer', 'web marketing', 'wordpress', 'xml']",1207.0,w1190
+200.0,"['android', 'application development', 'custom cms', 'design', 'drupal', 'html5', 'http', 'ios', 'javascript', 'joomla', 'logo design', 'mobile', 'responsive wordpress theme', 'website design', 'wordpress', 'wordpress development']",1032.0,w1018
+30.0,"['advertising', 'articles', 'consultant', 'copywriting', 'editing', 'magazine articles', 'marketing', 'newsletters', 'press releases']",1781.0,w1751
+100.0,"['amazon', 'android', 'app development']",3194.0,w3137
+25.0,"['adobe illustrator', 'animation', 'application development', 'banner', 'css', 'design', 'dreamweaver', 'ecommerce', 'flash', 'flash animation', 'graphics', 'illustration', 'logo design', 'outsourcing', 'programming', 'web design', 'web programming', 'website design', 'xhtml']",214.0,w0211
+50.0,"['ajax', 'alfresco', 'android', 'asp', 'asp.net', 'blackberry', 'c', 'c#', 'codeigniter', 'coldfusion', 'corporate', 'corporate branding', 'css', 'design', 'drupal', 'ecommerce', 'email', 'email design', 'html', 'java', 'javascript', 'joomla', 'jquery', 'json', 'layout design', 'linux', 'logo design', 'magento', 'mobile', 'mobile applications', 'mobile phone', 'moodle', 'mysql', 'open source', 'opencart', 'oracle', 'oscommerce', 'php', 'programming', 'psd', 'psd to wordpress', 'real estate', 'ruby', 'ruby on rails', 'sales', 'seo', 'smarty', 'sugarcrm', 'symfony', 'tomcat', 'typo3', 'ubercart', 'virtuemart', 'website design', 'wordpress', 'xhtml', 'xml']",1053.0,w1039
+30.0,"['accounting', 'data entry', 'inventory management', 'research', 'reviews']",1532.0,w1510
+50.0,"['.net', 'adobe indesign', 'ajax', 'analysis', 'android', 'apache', 'asp', 'asp.net', 'asp.net mvc', 'azure', 'blackberry', 'c', 'c#', 'cakephp', 'css', 'css3', 'design', 'dreamweaver', 'drupal', 'ejb', 'engineering', 'fireworks', 'flash', 'gui development', 'hibernate', 'html', 'html5', 'iis', 'illustration', 'indesign', 'ios', 'ipad', 'iphone', 'j2ee', 'java', 'jboss', 'joomla', 'jquery', 'jsf', 'json', 'jsp', 'lamp', 'liferay', 'linq', 'management', 'microsoft', 'mobile', 'ms', 'mvc', 'mysql', 'objective-c', 'open source', 'oracle', 'phonegap', 'php', 'postgresql', 'project management', 'sales', 'skill', 'smarty', 'software', 'software development', 'software engineering', 'sql', 'sql server', 'struts', 'swing', 'symbian', 'tomcat', 'vb.net', 'wcf', 'web 2.0', 'web services', 'windows', 'windows 8', 'wordpress', 'wpf', 'xcode', 'xhtml', 'xml', 'xml web services', 'xslt', 'zend', 'zend framework']",4558.0,w4471
+75.0,"['blogging', 'blogs', 'brochures', 'copy editing', 'copywriting', 'creative writing', 'editing', 'email', 'facebook', 'linkedin', 'powerpoint', 'press releases', 'product descriptions', 'proofreading', 'seo', 'social media', 'tumblr', 'twitter', 'user manuals', 'web content', 'wordpress']",634.0,w0621
+30.0,"['consulting', 'corporate', 'html', 'joomla', 'marketing', 'mysql', 'php', 'virtuemart', 'wordpress']",1266.0,w1249
+50.0,"['artist', 'coreldraw', 'digital', 'digital illustration', 'dreamweaver', 'fireworks', 'flash', 'icons', 'illustration', 'modeling', 'ms', 'ms word']",1606.0,w1583
+100.0,"['acrobat', 'adobe acrobat', 'advertising', 'cartoon', 'cisco', 'digital', 'digital illustration', 'drawing', 'illustration', 'international', 'make', 'oil painting', 'painting', 'powerpoint', 'selling', 'writing']",2640.0,w2595
+25.0,"['articles', 'italian', 'magazine articles', 'marketing', 'sales', 'web content', 'writing']",416.0,w0407
+25.0,"['website support', 'wordpress']",1848.0,w1817
+25.0,"['3d', '3d animation', '3d modeling', 'animation', 'character rigging', 'design', 'flash', 'make', 'materials', 'max', 'maya', 'modeling', 'rendering', 'script writing', 'visualization', 'writing']",2983.0,w2930
+25.0,"['academic writing', 'content writing', 'css', 'html5', 'logo design', 'search engine optimization (seo)', 'software', 'user interface design', 'web design', 'wordpress']",935.0,w0921
+25.0,"['analysis', 'cad', 'design', 'engineering', 'machine design', 'matlab', 'mechanical', 'mechanical engineering', 'processing', 'product development', 'prototyping', 'renewable energy', 'solidworks', 'spreadsheets']",1132.0,w1116
+25.0,"['adobe creative suite', 'adobe illustrator', 'adobe indesign', 'adobe photoshop', 'brochures', 'design', 'dreamweaver', 'editing', 'email', 'letterhead', 'materials', 'photo editing', 'photography', 'reports']",3989.0,w3914
+25.0,"['.net', 'android', 'application development', 'billing', 'design', 'ios', 'marketing', 'php', 'presentations', 'product marketing', 'software', 'software development', 'web design', 'web presence']",4055.0,w3977
+50.0,"['adobe after effects', 'adobe illustrator', 'adobe photoshop', 'animation', 'blog development', 'compositing', 'corporate', 'css', 'customer service', 'design', 'developer', 'digital', 'dynamic websites', 'editing', 'film', 'flash', 'flash websites', 'graphics', 'html', 'java', 'jquery', 'logo design', 'music', 'php', 'vfx', 'video', 'website development', 'wordpress']",2418.0,w2377
+30.0,"['adobe illustrator', 'adobe photoshop', 'art', 'book illustration', 'cartoon', 'cartooning', 'design', 'digital illustration', 'modeling', 'painting', 'pic', 'picture books', 'sketching', 'vector illustration']",1487.0,w1468
+100.0,"['copywriting', 'excel', 'html', 'internet research', 'ms', 'ms excel', 'ms powerpoint', 'ms word', 'outlook', 'powerpoint', 'research', 'sharepoint', 'sql', 'sql server', 'typing']",284.0,w0279
+90.0,"['animation', 'c', 'design', 'facebook', 'joomla', 'magento', 'make', 'templates', 'twitter', 'videos', 'wordpress', 'xhtml']",673.0,w0660
+25.0,"['croatian', 'data entry', 'english', 'excel', 'ms', 'ms word', 'pdf', 'research', 'writing']",3418.0,w3355
+35.0,"['design', 'freelance', 'phone support', 'training']",526.0,w0515
+30.0,"['acrobat', 'advertising', 'design', 'dreamweaver', 'indesign', 'microsoft']",8.0,w0008

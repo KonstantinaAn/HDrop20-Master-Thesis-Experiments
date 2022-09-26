@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+7.0,"['marketing', 'internet marketing', 'data entry', 'social networking']",1376.0,w1372
+7.0,"['graphic design', 'photoshop', 'caricature &amp; cartoons', 'illustration']",895.0,w0892
+10.0,"['article rewriting', 'academic writing', 'translation', 'ghostwriting', 'data entry']",1153.0,w1149
+10.0,"['java', 'jquery / prototype', 'mysql', 'xml', 'javascript']",1207.0,w1203
+7.0,"['wordpress', 'web search', 'data entry']",1067.0,w1064
+18.0,"['graphic design', 'website design', 'logo design', 'html', 'php']",148.0,w0147
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+20.0,"['visual basic', 'c programming', 'mysql', 'php']",1099.0,w1096
+20.0,"['php', 'mysql', 'html', 'jquery / prototype']",269.0,w0268
+25.0,"['wordpress', 'graphic design', 'website design', 'html', 'css']",351.0,w0350
+15.0,"['php', 'javascript', 'html']",885.0,w0882
+30.0,"['php', 'html', 'javascript', 'css', 'jquery / prototype']",811.0,w0810
+10.0,"['animation', 'after effects', 'video services', '3d animation', 'flash']",701.0,w0700
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration']",411.0,w0410
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+10.0,"['software architecture', 'linux', 'c++ programming', 'android']",403.0,w0402
+11.0,"['seo', 'html', 'css', 'php']",645.0,w0644
+15.0,"['graphic design', 'logo design', 'photoshop', '3d rendering']",443.0,w0442
+25.0,"['php', 'website design', 'magento', 'javascript', 'wordpress']",350.0,w0349
+18.0,"['graphic design', 'illustration', 'caricature &amp; cartoons', 'illustrator', 'photoshop']",1650.0,w1636
+12.0,"['php', 'link building', 'linux', 'ajax']",1559.0,w1548
+15.0,"['.net', 'html', 'jquery / prototype', 'c# programming']",916.0,w0913
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",302.0,w0301
+10.0,"['css', 'php', 'ajax', 'javascript', 'website design']",1683.0,w1668
+10.0,"['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing']",828.0,w0827
+20.0,"['software architecture', 'php', 'mysql', 'web hosting', 'perl']",345.0,w0344
+15.0,"['php', 'software architecture', 'website design', 'asp', 'android']",599.0,w0598
+20.0,"['iphone', 'mobile phone', 'android', 'ipad', 'ajax']",418.0,w0417
+20.0,"['php', 'website design', 'html', 'graphic design', 'mysql']",72.0,w0072
+25.0,"['php', 'mysql', 'javascript', 'html', 'graphic design']",1190.0,w1186
+15.0,"['logo design', 'illustration', 'graphic design']",921.0,w0918
+30.0,"['php', 'graphic design', 'android', 'html', 'jquery / prototype']",743.0,w0742
+20.0,"['php', 'javascript', 'website design', 'html', 'css']",896.0,w0893
+30.0,"['php', 'ecommerce', 'drupal', 'css', 'html']",818.0,w0817
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+14.0,"['php', 'project management', 'windows desktop']",1527.0,w1518
+20.0,"['php', 'translation', 'mysql', 'wordpress', 'javascript']",1218.0,w1214
+10.0,"['php', 'website design', 'html', 'wordpress', 'graphic design']",343.0,w0342
+8.0,"['mysql', 'php', 'wordpress']",1247.0,w1243
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",632.0,w0631
+1.0,"['logo design', 'data entry', 'graphic design']",724.0,w0723
+20.0,"['engineering', 'sales', 'project management']",1618.0,w1606
+25.0,"['php', 'wordpress', 'website design', 'joomla', 'css']",640.0,w0639
+20.0,"['php', 'html', 'website design', 'graphic design', 'joomla']",225.0,w0224
+8.0,"['article rewriting', 'blog', 'articles']",1487.0,w1479
+16.0,"['php', 'html', 'wordpress', 'css', 'graphic design']",479.0,w0478
+15.0,"['graphic design', 'illustrator', 'photoshop', 'logo design']",987.0,w0984
+10.0,"['javascript', 'c# programming', 'perl', 'python', 'java']",1486.0,w1478
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",494.0,w0493
+10.0,"['graphic design', 'photoshop', 'powerpoint', 'logo design', 'brochure design']",692.0,w0691

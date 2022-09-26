@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+5.0,"['pdf', 'editing', 'graphic design', 'javascript']",1357.0,w1353
+7.0,"['php', 'javascript', 'mysql']",1354.0,w1350
+10.0,"['internet marketing', 'marketing']",1575.0,w1563
+8.0,['website design'],1114.0,w1111
+20.0,"['php', 'html', 'website design', 'graphic design', 'css']",160.0,w0159
+25.0,"['academic writing', 'technical writing', 'copywriting', 'virtual assistant']",732.0,w0731
+7.0,"['data entry', 'data processing', 'excel', 'web search', 'virtual assistant']",1241.0,w1237
+7.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'travel writing']",714.0,w0713
+10.0,"['html', 'wordpress', 'website design', 'css', 'php']",117.0,w0116
+12.0,"['3d rendering', '3d modelling', '3d animation']",265.0,w0264
+4.0,"['data entry', 'excel', 'virtual assistant', 'web scraping', 'research']",432.0,w0431
+20.0,"['graphic design', 'html', 'joomla', 'php', 'website design']",675.0,w0674
+12.0,"['wordpress', 'html', 'php', 'website design', 'graphic design']",1375.0,w1371
+12.0,"['animation', 'illustration', '3d animation', 'after effects', 'video services']",739.0,w0738
+40.0,"['voice talent', 'audio services', 'video services', 'advertising']",251.0,w0250
+15.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",768.0,w0767
+8.0,"['articles', 'article rewriting']",1481.0,w1473
+15.0,"['internet marketing', 'sem / adwords', 'project management', 'sales']",1031.0,w1028
+15.0,"['website design', 'php', 'graphic design', 'logo design', 'mysql']",25.0,w0025
+12.0,"['html', 'website design', 'css', 'php', 'wordpress']",630.0,w0629

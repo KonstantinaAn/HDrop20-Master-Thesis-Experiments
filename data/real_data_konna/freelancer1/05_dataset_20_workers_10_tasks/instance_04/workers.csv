@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+20.0,"['graphic design', 'logo design']",1458.0,w1452
+8.0,"['translation', 'data entry', 'excel', 'web search', 'research']",438.0,w0437
+4.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",73.0,w0073
+15.0,"['php', 'mysql', 'software architecture', 'software testing']",102.0,w0101
+30.0,"['graphic design', 'logo design', 'photoshop', 'illustrator']",445.0,w0444
+25.0,"['mysql', 'software testing', 'sql', 'visual basic']",1112.0,w1109
+35.0,"['graphic design', 'banner design', 'website design', 'photoshop', 'logo design']",133.0,w0132
+25.0,['user interface / ia'],539.0,w0538
+10.0,"['academic writing', 'technical writing', 'articles', 'business analysis']",116.0,w0115
+15.0,"['php', 'website design', 'graphic design', '.net', 'flash']",1001.0,w0998
+3.0,"['data entry', 'excel', 'data processing']",1187.0,w1183
+15.0,"['php', 'html', 'mysql', 'javascript', 'website design']",447.0,w0446
+45.0,"['website design', 'graphic design', 'php', 'html', 'flash']",94.0,w0093
+15.0,"['logo design', 'graphic design']",1594.0,w1582
+10.0,"['excel', 'javascript', 'visual basic', 'php']",490.0,w0489
+20.0,"['graphic design', 'logo design', 'banner design', 'stationery design']",1052.0,w1049
+15.0,"['logo design', 'illustration', 'graphic design']",921.0,w0918
+20.0,"['php', 'sql']",1343.0,w1339
+10.0,"['email marketing', 'bulk marketing', 'php', 'mysql']",1073.0,w1070
+25.0,"['php', 'wordpress', 'css', 'html', 'mysql']",83.0,w0082

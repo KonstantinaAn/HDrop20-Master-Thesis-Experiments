@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['illustration', 'graphic design', 'illustrator', 'photoshop', 'logo design']",205.0,w0204
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",149.0,w0148
+15.0,"['logo design', 'graphic design', 'website design', 'photoshop design']",549.0,w0548
+15.0,"['html', 'website design', 'php', 'wordpress', 'jquery / prototype']",507.0,w0506
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941
+15.0,"['php', 'html', 'jquery / prototype', 'css', 'mysql']",561.0,w0560
+15.0,"['customer support', 'data entry', 'virtual assistant', 'data processing']",1723.0,w1707
+17.0,"['mysql', 'ruby on rails', 'linux', 'amazon web services', 'javascript']",1440.0,w1435
+25.0,"['php', 'flash', 'css', 'xml', 'photoshop']",1715.0,w1699
+10.0,"['anything goes', 'seo', 'wordpress', 'articles', 'website design']",912.0,w0909
+20.0,"['website design', 'php', 'graphic design', 'html', 'logo design']",3.0,w0003
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",633.0,w0632
+10.0,"['html', 'php', 'javascript', 'c++ programming', 'engineering']",651.0,w0650
+5.0,"['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords']",31.0,w0031
+20.0,"['magento', 'php', 'website design', 'html', 'css']",542.0,w0541
+5.0,"['reviews', 'ghostwriting', 'blog']",1132.0,w1128
+8.0,"['photoshop', 'graphic design', 'logo design']",955.0,w0952
+7.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",1028.0,w1025
+25.0,"['php', 'mysql', 'website design', 'xml', 'web scraping']",293.0,w0292
+12.0,"['jquery / prototype', 'ajax', 'php', 'mysql', 'javascript']",1671.0,w1656
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+12.0,"['3d rendering', '3d modelling', '3d animation']",265.0,w0264
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+8.0,"['python', 'software architecture']",1358.0,w1354
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",632.0,w0631
+10.0,"['css', 'website design', 'javascript', 'html', 'php']",1284.0,w1280
+7.0,"['graphic design', 'logo design']",1057.0,w1054
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283
+16.0,"['wordpress', 'php', 'html', 'website design']",208.0,w0207
+25.0,"['php', 'flash', 'css', 'xml', 'photoshop']",1752.0,w1736
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",842.0,w0841
+8.0,"['data entry', 'oracle', 'data processing', 'excel']",1640.0,w1626
+2.0,"['voip', 'customer support', 'asterisk pbx', 'linux']",1465.0,w1458
+30.0,"['graphic design', 'logo design', 'photoshop', 'website design', 'illustrator']",84.0,w0083
+15.0,"['.net', 'html', 'jquery / prototype', 'c# programming']",916.0,w0913
+8.0,"['logo design', 'graphic design', 'photoshop', 'illustration', 'website design']",1328.0,w1324
+10.0,"['data entry', 'excel', 'data processing']",1663.0,w1648
+10.0,"['php', 'html', 'wordpress', 'facebook marketing', 'joomla']",1489.0,w1481
+25.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",213.0,w0212
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustration', 'photoshop design']",848.0,w0847
+10.0,"['html', 'wordpress', 'website design', 'css', 'php']",127.0,w0126
+25.0,"['php', 'mysql', 'software architecture', 'software testing']",114.0,w0113
+10.0,"['c programming', 'c++ programming', 'java', 'algorithm']",1744.0,w1728
+5.0,"['graphic design', 'logo design', 'photoshop', 'autocad', 'illustrator']",727.0,w0726
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+8.0,['php'],1512.0,w1504
+10.0,"['html', 'website design', 'php', 'graphic design', 'article rewriting']",1189.0,w1185
+10.0,"['photoshop', 'graphic design', '3ds max', '3d rendering', 'logo design']",1286.0,w1282

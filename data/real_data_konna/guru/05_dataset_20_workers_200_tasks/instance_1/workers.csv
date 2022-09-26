@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+75.0,"['market research', 'research', 'technical writing', 'writing']",1205.0,w1188
+100.0,"['design', 'event planning', 'marketing', 'web design']",2825.0,w2777
+50.0,"['adobe photoshop', 'css', 'css3', 'dreamweaver', 'flash', 'html', 'html5', 'illustration', 'jquery', 'mysql', 'php', 'xhtml']",4449.0,w4363
+250.0,"['analytics', 'apache', 'api', 'c', 'css', 'css3', 'database administration', 'ecommerce', 'google analytics', 'html', 'html5', 'javascript', 'joomla', 'jquery', 'lamp', 'mysql', 'oop', 'open source', 'paypal', 'php', 'programming', 'seo', 'templates', 'testing', 'usability testing', 'web development', 'web servers', 'wordpress']",310.0,w0305
+30.0,"['academic writing', 'consulting', 'editing', 'fiction', 'indesign', 'kindle', 'pdf', 'proofreading', 'publishing', 'research', 'self', 'writing']",3116.0,w3061
+25.0,"['adobe illustrator', 'artist', 'book illustration', 'design', 'drawing', 'graphic design', 'graphics', 'illustration', 'logo design', 'painting']",1559.0,w1537
+25.0,"['load testing', 'performance testing', 'security testing', 'test automation', 'testing', 'web services', 'web testing']",1982.0,w1950
+25.0,"['aerospace engineering', 'analysis', 'ansys', 'cad', 'design', 'drafting', 'electrical engineering', 'engineering', 'mathematical modeling', 'matlab', 'mechanical engineering', 'modeling', 'ms excel']",2792.0,w2745
+300.0,"['administrative support', 'audio transcription', 'drafting', 'editing', 'litigation', 'microsoft', 'microsoft word', 'paralegal', 'powerpoint', 'powerpoint presentations', 'presentations', 'public speaking', 'research']",195.0,w0192
+25.0,"['.net', 'ajax', 'c', 'com', 'css', 'design', 'drupal', 'ecommerce', 'facebook', 'flash', 'html', 'joomla', 'management', 'marketing', 'mysql', 'php', 'project management', 'qa', 'salesforce', 'social media marketing', 'software', 'software development', 'testing', 'twitter', 'web 2.0', 'web design', 'web development', 'wordpress', 'xml']",3055.0,w3002
+25.0,"['design', 'ecommerce', 'internet marketing', 'joomla', 'magento', 'marketing', 'open source', 'software', 'web design', 'web development', 'wordpress']",257.0,w0253
+500.0,"['analysis', 'asp', 'benefits', 'content management', 'design', 'developer', 'drupal', 'erp', 'flash', 'graphic design', 'joomla', 'linux', 'management', 'moodle', 'ms', 'mysql', 'networking', 'oracle', 'php', 'project management', 'publishing', 'seo', 'social networking', 'social networking sites', 'software', 'software requirements', 'sql', 'sql server', 'strategic planning', 'testing', 'video', 'windows', 'wordpress']",3720.0,w3652
+25.0,"['articles', 'e-books', 'english', 'health', 'international', 'journalism', 'spanish', 'translation']",2048.0,w2015
+25.0,"['article rewriting', 'article writing', 'social media blogging', 'social media marketing', 'writing']",4173.0,w4090
+25.0,"['android', 'app development', 'application development', 'com', 'http', 'ios', 'ipad', 'iphone', 'java', 'mobile', 'mobile application development', 'objective-c', 'skype']",4037.0,w3959
+100.0,"['basic', 'visual basic']",1749.0,w1719
+100.0,"['software', 'transcription', 'typing']",1957.0,w1925
+200.0,"['adobe business catalyst', 'cakephp', 'codeigniter', 'css', 'css3', 'design', 'developer', 'html', 'html5', 'java', 'joomla', 'joomla!', 'jquery', 'magento', 'management', 'mysql', 'php', 'plugins', 'real estate', 'software', 'virtuemart', 'web developer', 'wordpress']",1653.0,w1627
+25.0,"['copy editing', 'editing', 'grammar', 'punctuation', 'spelling']",2732.0,w2686
+150.0,"['consulting', 'design', 'erp', 'international', 'inventory management', 'management', 'software', 'website design']",4026.0,w3949

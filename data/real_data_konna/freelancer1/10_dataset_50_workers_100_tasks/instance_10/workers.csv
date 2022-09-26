@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+40.0,"['php', 'css', 'psd to html', 'mysql', 'html']",1003.0,w1000
+10.0,"['php', 'mysql', 'html', 'ajax', 'ecommerce']",448.0,w0447
+20.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",332.0,w0331
+35.0,"['php', 'html', 'website design', 'wordpress', 'mysql']",1069.0,w1066
+10.0,"['database administration', 'html', 'data entry', 'java', 'graphic design']",533.0,w0532
+10.0,"['academic writing', 'business plans', 'research']",1391.0,w1387
+20.0,"['magento', 'php', 'mysql', 'html', 'javascript']",236.0,w0235
+20.0,"['visual basic', 'c programming', 'mysql', 'php']",1099.0,w1096
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'illustration']",411.0,w0410
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+6.0,"['data entry', 'virtuemart', 'excel', 'data processing', 'magento']",787.0,w0786
+3.0,"['data entry', 'excel', 'data processing', 'web search', 'word']",1098.0,w1095
+18.0,"['graphic design', 'website design', 'logo design', 'html', 'php']",148.0,w0147
+10.0,"['statistics', 'excel', 'academic writing']",857.0,w0856
+5.0,"['seo', 'link building', 'internet marketing', 'marketing', 'sem / adwords']",31.0,w0031
+5.0,"['translation', 'proofreading', 'blog']",1519.0,w1510
+18.0,"['visual basic', '.net', 'asp', 'c# programming', 'sql']",1119.0,w1116
+10.0,"['illustration', 'caricature &amp; cartoons', 'graphic design']",1256.0,w1252
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+30.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",215.0,w0214
+20.0,"['php', 'html', 'website design', 'mysql', 'wordpress']",299.0,w0298
+25.0,"['jquery / prototype', 'javascript', 'html', 'web hosting', 'mysql']",958.0,w0955
+3.0,"['facebook marketing', 'internet marketing', 'social networking', 'advertising']",772.0,w0771
+7.0,"['facebook marketing', 'youtube', 'social networking', 'internet marketing', 'seo']",243.0,w0242
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+10.0,"['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews']",646.0,w0645
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+20.0,"['facebook marketing', 'html', 'graphic design', 'social networking', 'php']",683.0,w0682
+18.0,"['illustration', 'illustrator', 'caricature &amp; cartoons']",430.0,w0429
+25.0,"['php', 'joomla', 'magento', 'cms']",393.0,w0392
+8.0,"['matlab &amp; mathematica', 'robotics']",1298.0,w1294
+12.0,"['graphic design', 'photoshop', 'logo design', 'caricature &amp; cartoons', 'photo editing']",691.0,w0690
+10.0,"['link building', 'seo', 'internet marketing', 'php']",456.0,w0455
+8.0,"['illustration', 'logo design', 'caricature &amp; cartoons', 'illustrator']",1731.0,w1715
+7.0,"['video services', 'animation']",942.0,w0939
+15.0,"['translation', 'data entry', 'audio services', 'data processing']",1660.0,w1645
+25.0,"['magento', 'php', 'website design', 'html', 'flash']",28.0,w0028
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",197.0,w0196
+8.0,"['logo design', 'graphic design', 'photoshop', 'illustration', 'website design']",1328.0,w1324
+20.0,"['php', 'html', 'website design', 'mysql', 'css']",134.0,w0133
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+35.0,"['php', 'magento', 'javascript', 'psd to html', 'mysql']",1096.0,w1093
+20.0,"['android', 'mobile phone', 'php', 'mysql', 'software architecture']",106.0,w0105
+10.0,"['logo design', 'caricature &amp; cartoons', 'graphic design', 'photoshop', 'illustration']",1641.0,w1627
+10.0,"['php', 'html', 'website design', 'joomla']",1611.0,w1599
+20.0,"['php', 'mysql', 'website design', 'flash', 'asp']",925.0,w0922
+8.0,"['video services', 'after effects', 'animation', 'videography', 'graphic design']",487.0,w0486
+15.0,"['graphic design', 'flash', 'website design', 'logo design']",1583.0,w1571
+15.0,"['php', 'website design', 'html', 'software architecture']",755.0,w0754
+20.0,"['mobile phone', 'iphone', 'android', 'ipad']",86.0,w0085

@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['php', 'html', 'website design', 'wordpress', 'graphic design']",1082.0,w1079
+10.0,"['web hosting', 'anything goes', 'software testing', 'website management']",1674.0,w1659
+10.0,"['link building', 'seo', 'internet marketing', 'php']",456.0,w0455
+6.0,"['data entry', 'virtuemart', 'excel', 'data processing', 'magento']",787.0,w0786
+10.0,"['wordpress', 'html', 'website design', 'php', 'css']",603.0,w0602
+10.0,"['article rewriting', 'academic writing', 'translation', 'ghostwriting', 'data entry']",1153.0,w1149
+15.0,"['illustrator', 'illustration', 'game design', 'photoshop', 'animation']",122.0,w0121
+25.0,"['articles', 'article rewriting', 'copywriting', 'ghostwriting', 'blog']",130.0,w0129
+10.0,['pcb layout'],1509.0,w1501
+12.0,"['website design', 'php', 'graphic design', 'html', 'wordpress']",29.0,w0029
+15.0,"['c++ programming', 'php', 'c# programming']",1477.0,w1470
+9.0,"['php', 'web hosting', 'ajax', 'mysql', 'javascript']",990.0,w0987
+10.0,"['website design', 'graphic design', 'wordpress', 'photoshop design', 'photoshop']",1359.0,w1355
+15.0,"['php', 'software architecture', 'sql']",759.0,w0758
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+30.0,"['php', 'website design', 'mysql', 'wordpress', 'magento']",441.0,w0440
+25.0,"['php', 'wordpress', 'html', 'javascript', 'mysql']",329.0,w0328
+3.0,"['data entry', 'excel', 'data processing', 'web search', 'word']",1098.0,w1095
+2.0,"['audio services', 'virtual assistant', 'anything goes']",1217.0,w1213
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+5.0,"['wordpress', 'css', 'html', 'psd to html', 'jquery / prototype']",798.0,w0797
+15.0,"['after effects', 'graphic design', '3d animation']",595.0,w0594
+25.0,"['mechanical engineering', 'project management']",1133.0,w1129
+25.0,"['php', 'joomla', 'magento', 'cms']",393.0,w0392
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+15.0,"['php', 'project management', 'python', 'windows desktop']",249.0,w0248
+10.0,"['java', 'software architecture', 'javascript', '.net', 'sql']",1310.0,w1306
+20.0,"['website design', 'graphic design', 'html', 'php', 'seo']",633.0,w0632
+20.0,"['php', 'html', 'magento', 'ecommerce', 'website design']",1324.0,w1320
+25.0,"['php', 'ajax', 'javascript', 'website design']",1558.0,w1547
+15.0,"['php', 'wordpress', 'css', 'website design', 'html']",327.0,w0326
+25.0,"['mysql', 'software testing', 'sql', 'visual basic']",1112.0,w1109
+15.0,"['php', 'wordpress', 'html', 'mysql', 'css']",181.0,w0180
+10.0,"['facebook marketing', 'graphic design', 'photoshop', 'illustrator', 'photo editing']",828.0,w0827
+16.0,"['wordpress', 'php', 'html', 'website design']",208.0,w0207
+25.0,"['bulk marketing', 'leads', 'marketing', 'advertising', 'internet marketing']",747.0,w0746
+10.0,"['facebook marketing', 'social networking']",289.0,w0288
+20.0,"['engineering', 'sales', 'project management']",1618.0,w1606
+25.0,"['3d modelling', '3d animation', '3d rendering', '3ds max', 'graphic design']",193.0,w0192
+35.0,"['mysql', 'php', 'software architecture', 'software testing', 'asp']",203.0,w0202
+15.0,"['translation', 'data entry', 'audio services', 'data processing']",1743.0,w1727
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'seo']",871.0,w0868
+20.0,"['php', 'javascript', 'jquery / prototype', 'mysql']",307.0,w0306
+5.0,"['seo', 'link building']",1586.0,w1574
+25.0,"['c++ programming', 'c programming']",1085.0,w1082
+20.0,"['illustrator', 'graphic design', 'photoshop', 'photoshop design', 'illustration']",819.0,w0818
+20.0,"['html', 'user interface / ia', 'php', 'ecommerce']",406.0,w0405
+15.0,"['php', 'html', 'website design', 'wordpress', 'mysql']",173.0,w0172
+15.0,"['ecommerce', 'website design', 'html']",1542.0,w1533
+10.0,"['3d rendering', '3d modelling', 'graphic design', '3ds max', 'illustrator']",523.0,w0522

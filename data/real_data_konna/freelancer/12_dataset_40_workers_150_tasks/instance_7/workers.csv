@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+15.0,"['php', 'mysql', 'html', 'css', 'wordpress']",767.0,w0766
+7.0,"['graphic design', 'logo design']",1459.0,w1453
+25.0,"['php', 'mysql', 'javascript', 'html', 'graphic design']",1190.0,w1186
+15.0,"['caricature &amp; cartoons', 'typography', 'illustration']",1600.0,w1588
+20.0,"['php', 'excel', 'web scraping', 'data entry', 'mysql']",601.0,w0600
+15.0,"['php', 'mysql', 'software architecture', 'software testing']",102.0,w0101
+10.0,"['javascript', 'c# programming', 'perl', 'python', 'java']",1486.0,w1478
+12.0,"['academic writing', 'articles', 'copywriting', 'proofreading']",878.0,w0875
+11.0,"['video services', 'videography']",1525.0,w1516
+5.0,"['data entry', 'internet marketing']",1277.0,w1273
+15.0,"['3d animation', '3d rendering', '3d modelling']",752.0,w0751
+10.0,"['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management']",91.0,w0090
+13.0,"['graphic design', 'logo design', 'illustrator', 'photoshop design']",773.0,w0772
+30.0,"['linux', 'php', 'apache', 'mysql', 'unix']",594.0,w0593
+8.0,"['php', 'mysql', 'web hosting', 'website management', 'flash']",229.0,w0228
+30.0,"['linux', 'system admin', 'php', 'mysql', 'apache']",296.0,w0295
+3.0,"['articles', 'seo', 'copywriting', 'excel', 'article rewriting']",1139.0,w1135
+15.0,"['graphic design', 'website design', 'wordpress', 'php']",1113.0,w1110
+5.0,"['seo', 'link building', 'internet marketing']",1407.0,w1403
+20.0,"['graphic design', 'logo design', 'photoshop', 't-shirts', 'photoshop design']",620.0,w0619
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1734.0,w1718
+20.0,"['software architecture', 'c programming', 'php', 'visual basic', 'html']",1274.0,w1270
+10.0,"['3d modelling', 'graphic design', '3d rendering', 'photoshop', '3d animation']",879.0,w0876
+20.0,"['metatrader', 'php', 'c programming', 'software architecture', 'sql']",378.0,w0377
+10.0,"['photoshop', 'graphic design', 'logo design', 'banner design', 'illustrator']",1591.0,w1579
+5.0,['data entry'],1455.0,w1450
+2.0,"['audio services', 'virtual assistant', 'anything goes']",1217.0,w1213
+10.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 'flyer design']",649.0,w0648
+25.0,"['php', 'website design', 'graphic design', 'flash', 'javascript']",56.0,w0056
+20.0,"['perl', 'php', 'mysql', 'script install', 'linux']",352.0,w0351
+10.0,"['css', 'php', 'html']",1326.0,w1322
+6.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'ghostwriting']",45.0,w0045
+6.0,"['advertising', 'internet marketing', 'sales']",1313.0,w1309
+15.0,"['internet marketing', 'sem / adwords', 'project management', 'sales']",1031.0,w1028
+12.0,"['php', 'link building', 'linux', 'ajax']",1559.0,w1548
+15.0,"['php', 'project management', 'python', 'windows desktop']",249.0,w0248
+12.0,"['3d rendering', '3ds max', '3d animation', '3d modelling', 'photoshop']",665.0,w0664
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+20.0,"['wordpress', 'website design', 'web hosting', 'css', 'html']",232.0,w0231
+10.0,"['php', 'html', 'website design', 'wordpress', 'graphic design']",1043.0,w1040

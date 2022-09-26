@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+20.0,"['graphic design', 'photoshop', 'logo design', 'banner design']",783.0,w0782
+23.0,"['website design', 'php', 'css', 'psd to html', 'html']",275.0,w0274
+20.0,"['html', 'website design', 'mysql', 'css']",840.0,w0839
+5.0,"['graphic design', 'facebook marketing', 'photoshop', 'illustrator', 'data entry']",1451.0,w1446
+10.0,"['articles', 'copywriting', 'technical writing', 'academic writing', 'reviews']",646.0,w0645
+5.0,"['graphic design', 'logo design', 'photoshop']",1494.0,w1486
+5.0,"['translation', 'proofreading', 'blog']",1519.0,w1510
+10.0,"['php', 'html', 'website design', 'wordpress', 'graphic design']",1043.0,w1040
+10.0,"['seo', 'joomla']",1338.0,w1334
+15.0,"['php', 'mysql', 'css', 'ajax']",97.0,w0096
+18.0,"['website design', 'video services', 'graphic design', 'cms', 'ecommerce']",1011.0,w1008
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",202.0,w0201
+15.0,"['graphic design', '3d rendering', '3d animation', '3d modelling', 'animation']",786.0,w0785
+5.0,"['php', 'html', 'mysql', 'jquery / prototype']",1137.0,w1133
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1363.0,w1359
+20.0,"['iphone', 'mobile phone', 'android', 'ipad', 'ajax']",418.0,w0417
+9.0,"['articles', 'copywriting', 'blog']",131.0,w0130
+25.0,"['css', 'joomla', 'wordpress', 'php', 'cms']",305.0,w0304
+15.0,"['indesign', 'graphic design', 'photoshop', 'brochure design']",182.0,w0181
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+10.0,"['articles', 'graphic design', 'blog', 'copywriting']",415.0,w0414
+30.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",227.0,w0226
+25.0,"['graphic design', 'banner design', 'wordpress', 'website design', 'photoshop']",794.0,w0793
+5.0,"['data entry', 'graphic design', 'excel', 'logo design', 'web search']",1056.0,w1053
+25.0,"['software architecture', 'php', 'mysql', 'javascript', 'script install']",1576.0,w1564
+10.0,"['academic writing', 'technical writing', 'articles', 'business analysis']",116.0,w0115
+20.0,"['php', 'mysql', 'website design', 'flash', 'asp']",925.0,w0922
+20.0,"['html', 'php', 'web hosting', 'wordpress']",1402.0,w1398
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'web scraping']",99.0,w0098
+25.0,"['php', 'mysql', 'software architecture', 'software testing']",114.0,w0113
+10.0,"['translation', 'spanish', 'pdf']",815.0,w0814
+5.0,"['php', 'graphic design', 'mysql', 'html']",1100.0,w1097
+10.0,"['seo', 'internet marketing', 'copywriting', 'academic writing', 'website management']",91.0,w0090
+25.0,"['php', 'website design', 'graphic design', 'flash', 'javascript']",56.0,w0056
+13.0,"['c# programming', 'asp', '.net']",1078.0,w1075
+15.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",768.0,w0767
+3.0,"['blog', 'articles']",1339.0,w1335
+20.0,"['php', 'jquery / prototype', 'javascript', 'html', 'ajax']",38.0,w0038
+20.0,"['php', 'html', 'css', 'javascript', 'jquery / prototype']",531.0,w0530
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941

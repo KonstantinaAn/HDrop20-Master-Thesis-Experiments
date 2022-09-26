@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['data entry', 'digital', 'excel', 'outlook', 'processing', 'proofreading', 'research', 'software', 'transcription', 'video', 'word processing']",2224.0,w2187
+25.0,"['3ds max', 'architect', 'cad', 'drafting', 'max', 'rendering']",1888.0,w1856
+100.0,"['architect', 'architecture', 'book illustration', 'cad', 'caricature drawing', 'caricatures', 'cartoon', 'comic art', 'comic book illustration', 'comics', 'design', 'director', 'drawing', 'illustration', 'logo design']",2969.0,w2916
+50.0,"['java', 'sql', 'sql server']",163.0,w0161
+25.0,"['articles', 'basic', 'business writing', 'drafting', 'english', 'grammar', 'medical', 'powerpoint', 'processing', 'word processing', 'writing']",1797.0,w1767
+50.0,"['ajax', 'api', 'asp', 'authorize.net', 'basic', 'curl', 'joomla', 'management', 'mysql', 'oscommerce', 'paypal', 'pdf', 'php', 'phpbb', 'rewriting', 'sugar crm', 'visual basic', 'wordpress', 'xml']",4231.0,w4148
+25.0,"['ipad', 'japanese', 'reviews', 'writing']",787.0,w0774
+200.0,"['.net', 'accounting', 'apache', 'asp', 'asp.net', 'c', 'c#', 'c++', 'case', 'com', 'consultant', 'database design', 'database development', 'design', 'desktop applications', 'html', 'iis', 'make', 'management', 'ms', 'mysql', 'oracle', 'php', 'pl', 'programming', 'project management', 'software', 'software development', 'sql', 'sql server', 'tax', 'test', 'testing', 'version control', 'web services', 'writing', 'xhtml']",3119.0,w3064
+100.0,"['analysis', 'c', 'css', 'developer', 'drupal', 'html', 'java', 'javascript', 'joomla', 'jquery', 'mysql', 'seo', 'software', 'web developer', 'wordpress']",2190.0,w2154
+25.0,"['com', 'content writing', 'copywriting', 'http', 'skype', 'web content', 'writing']",3016.0,w2963
+40.0,"['ap style', 'business writing', 'editing', 'fitness industry', 'german', 'grammar', 'health', 'international', 'interviewing', 'journalism', 'reviews', 'rewriting', 'transcription', 'travel writing', 'video editing', 'wordpress', 'writing']",2849.0,w2800
+100.0,"['film', 'press releases', 'writing']",1474.0,w1455
+25.0,"['adobe illustrator', 'adobe indesign', 'adobe photoshop', 'dreamweaver', 'microsoft word']",3298.0,w3239
+100.0,"['com', 'digital', 'digital photography', 'food photography', 'graphics', 'http', 'management', 'microsoft', 'photography', 'portrait photography']",2659.0,w2614
+50.0,"['.net', 'asp', 'banner', 'corporate', 'css', 'design', 'flash', 'flash design', 'graphic design', 'html', 'java', 'marketing', 'mysql', 'networking', 'oracle', 'php', 'seo', 'social media marketing', 'social networking', 'web design', 'yahoo', 'yahoo store']",468.0,w0457
+36.0,"['css', 'drupal', 'ecommerce', 'joomla', 'lamp', 'linux', 'linux server', 'management', 'mysql', 'open source', 'opencart', 'oscommerce', 'paypal', 'php', 'psd', 'psd to xhtml', 'sem', 'seo', 'website promotion', 'wordpress', 'xhtml']",2573.0,w2531
+25.0,"['editing', 'picture books']",3521.0,w3457
+100.0,"['marketing', 'pinterest', 'twitter', 'video']",1398.0,w1380
+100.0,"['articles', 'editing', 'fiction', 'layout design', 'medical', 'non fiction writing', 'research', 'writing']",3503.0,w3439
+25.0,"['adobe after effects', 'hd video', 'video', 'video editing', 'video effects', 'videography']",2784.0,w2738
+50.0,"['amazon', 'articles', 'com', 'reviews', 'web content']",343.0,w0337
+25.0,"['.net', 'asp', 'asp.net', 'c', 'c#', 'delphi', 'make', 'microsoft', 'microsoft visual studio', 'sap', 'sql', 'sql server', 'visual studio']",288.0,w0283
+25.0,"['craigslist', 'data entry', 'email', 'email support', 'excel', 'ms word', 'real estate', 'recipe writing', 'research', 'virtual assistants', 'wordpress', 'writing']",3625.0,w3559
+35.0,"['copy editing', 'copywriting', 'creative writing', 'editing', 'marketing', 'research', 'sem', 'seo']",1422.0,w1404
+25.0,"['data entry', 'excel', 'freelance', 'typing']",690.0,w0677
+30.0,"['customer service', 'customer support', 'data entry', 'lead generation', 'telemarketing']",1892.0,w1860
+30.0,"['ad campaigns', 'analytics', 'content design', 'content marketing', 'content writing', 'google analytics', 'hootsuite', 'marketing', 'seo', 'web campaigns', 'web content', 'website content', 'writing']",1506.0,w1485
+50.0,"['actionscript', 'ajax', 'apache', 'com', 'consultant', 'css', 'developer', 'freebsd', 'gis', 'google maps', 'gps', 'html', 'javascript', 'jquery', 'linux', 'mvc', 'mysql', 'node.js', 'open source', 'php', 'postgresql', 'programming', 'software', 'windows']",317.0,w0311
+100.0,"['access', 'customer support', 'data conversion', 'data entry', 'data migration', 'dreamweaver', 'drupal', 'email', 'flash', 'health', 'joomla', 'management', 'marketing', 'medical', 'paypal', 'research', 'reviews', 'seo', 'shopping carts', 'transcription', 'web development', 'writing']",212.0,w0209
+25.0,"['clean', 'design', 'dreamweaver', 'make']",54.0,w0054
+25.0,"['accounting', 'data entry', 'english', 'excel', 'finance', 'localization', 'mathematics', 'ms', 'ms excel', 'ms powerpoint', 'ms word', 'powerpoint', 'powerpoint presentations', 'presentations', 'proofreading', 'science', 'software', 'statistics', 'translation', 'typing']",1354.0,w1336
+50.0,"['3d', 'artist', 'cad', 'character design', 'concept art', 'design', 'digital', 'digital painting', 'drafting', 'drawing', 'painting', 'sketching', 'visualization']",3069.0,w3016
+25.0,"['article submission', 'blog marketing', 'blogging', 'directory submission', 'lead generation', 'link building', 'marketing', 'networking', 'off page', 'on page', 'research', 'reviews', 'seo', 'skype', 'social bookmarking', 'social networking', 'social networking sites', 'testing', 'video', 'video marketing', 'xml']",1980.0,w1948
+200.0,"['asp', 'c', 'c++', 'dhtml', 'editing', 'enterprise software', 'html', 'j2ee', 'java', 'jsp', 'mysql', 'networking', 'programming', 'software', 'video', 'videos', 'web technologies']",411.0,w0402
+50.0,"['drafting', 'international', 'patents']",2170.0,w2135
+250.0,"['adobe creative suite', 'animation', 'autodesk maya', 'cartoon', 'character design', 'design', 'drawing', 'flash', 'layout design', 'maya', 'microsoft', 'painting', 'security', 'video']",34.0,w0034
+25.0,"['comics', 'illustration']",3370.0,w3308
+25.0,"['article editing', 'article rewriting', 'copywriting', 'creative writing', 'editing', 'excel', 'facebook', 'fiction writing', 'non fiction writing', 'proofreading', 'rewriting', 'twitter', 'web content', 'writing']",2729.0,w2683
+200.0,"['acrobat', 'adobe creative suite', 'copy editing', 'css', 'design', 'desktop publishing', 'digital', 'digital illustration', 'dreamweaver', 'editing', 'excel', 'html', 'illustration', 'image processing', 'indesign', 'javascript', 'logo design', 'microsoft', 'outlook', 'powerpoint', 'processing', 'proofreading', 'publishing', 'software', 'typing', 'typography', 'vista', 'web design', 'windows', 'windows 7', 'writing']",507.0,w0496
+25.0,"['3d', 'artist', 'design', 'digital', 'dreamweaver', 'english', 'fireworks', 'freelance', 'graphic design', 'http', 'photo manipulation', 'processing', 'software']",2721.0,w2675
+30.0,"['adobe photoshop', 'digital', 'drawing', 'rendering', 'sketching']",595.0,w0582
+100.0,"['acrobat', 'actionscript', 'adobe acrobat', 'adobe photoshop', 'audio editing', 'css', 'dreamweaver', 'editing', 'flash', 'html', 'marketing', 'microsoft', 'powerpoint', 'programming', 'video', 'visio', 'windows', 'xhtml']",319.0,w0313
+30.0,"['com', 'content writing', 'website content', 'website content writing', 'writing']",3831.0,w3759
+150.0,"['articles', 'blogging', 'copy editing', 'letter writing', 'writing']",3384.0,w3322
+50.0,"['academic writing', 'acrobat', 'adobe creative suite', 'analysis', 'api', 'copy editing', 'corporate', 'customer service', 'dreamweaver', 'editing', 'excel', 'flash', 'grammar', 'indesign', 'make', 'management', 'microsoft', 'ms', 'ms office', 'online help', 'powerpoint', 'research', 'robohelp', 'sharepoint', 'software', 'spelling', 'technical documentation', 'technical writing', 'training', 'troubleshooting', 'visio', 'writing']",2508.0,w2467
+250.0,"['articles', 'com', 'design', 'electronics', 'freelance', 'http', 'internet marketing', 'marketing', 'newsletters', 'presentations', 'sales', 'sales presentations', 'technical writing', 'writing']",550.0,w0538
+25.0,"['data entry', 'email', 'outlook', 'processing', 'spreadsheets']",2540.0,w2498
+30.0,"['academic writing', 'analysis', 'articles', 'bioinformatics', 'business letters', 'case', 'com', 'construction', 'creative writing', 'editing', 'english', 'environmental', 'film', 'french', 'health', 'international', 'interpreting', 'powerpoint', 'powerpoint presentations', 'presentations', 'reports', 'research', 'resume writing', 'reviews', 'software', 'technical writing', 'web content', 'writing']",1218.0,w1201
+50.0,"['graphics', 'magento', 'php', 'psd to html', 'responsive web design', 'web design', 'wordpress']",3502.0,w3438
+500.0,"['advertising', 'agile', 'asp', 'asp.net', 'basic', 'brand management', 'business development', 'camtasia', 'consulting', 'copywriting', 'corporate', 'css', 'design', 'displays', 'dreamweaver', 'email', 'email marketing', 'excel', 'fireworks', 'flash', 'graphic design', 'html', 'http', 'indesign', 'internet marketing', 'logo design', 'management', 'marketing', 'ms', 'ms office', 'photography', 'powerpoint', 'presentation design', 'presentations', 'print design', 'project management', 'reports', 'sage', 'sales', 'scrum', 'search engine optimization (seo)', 'seo', 'social media marketing', 'sql', 'vb.net', 'video', 'video production', 'visual basic', 'visual studio', 'web design', 'web development', 'xml']",1737.0,w1708

@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+5.0,"['article rewriting', 'technical writing', 'articles']",1483.0,w1475
+10.0,"['internet marketing', 'link building', 'seo']",1183.0,w1179
+6.0,"['article rewriting', 'copywriting', 'translation', 'php', 'blog']",676.0,w0675
+8.0,"['facebook marketing', 'php', 'virtual assistant', 'anything goes']",1395.0,w1391
+5.0,"['internet marketing', 'anything goes', 'data entry', 'youtube']",760.0,w0759
+10.0,"['academic writing', 'article rewriting', 'research', 'technical writing', 'ghostwriting']",459.0,w0458
+10.0,"['php', 'mysql', 'html', 'ajax', 'ecommerce']",448.0,w0447
+20.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",79.0,w0078
+10.0,"['illustration', 'caricature &amp; cartoons', 'graphic design']",1256.0,w1252
+5.0,['translation'],1696.0,w1680
+15.0,"['website design', 'graphic design', 'html', 'php', 'photoshop']",280.0,w0279
+2.0,"['internet marketing', 'leads', 'bulk marketing', 'marketing', 'sales']",1253.0,w1249
+15.0,"['php', 'mysql', 'software architecture']",126.0,w0125
+6.0,"['html', 'wordpress', 'website design', 'css']",1068.0,w1065
+10.0,"['excel', 'data entry', 'web scraping', 'data processing']",384.0,w0383
+6.0,"['php', 'java']",1243.0,w1239
+5.0,"['translation', 'arabic']",1223.0,w1219
+9.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",1638.0,w1624
+27.0,"['php', 'website design', 'html', 'graphic design', 'seo']",813.0,w0812
+45.0,"['php', 'mysql', 'html', 'linux', 'wordpress']",209.0,w0208
+20.0,"['graphic design', 'articles', 'html', 'php']",1537.0,w1528
+5.0,"['data entry', 'graphic design', 'excel', 'logo design', 'web search']",1056.0,w1053
+13.0,"['graphic design', 'illustrator', 'illustration', 'photoshop', 'logo design']",948.0,w0945
+20.0,"['joomla', 'html', 'php', 'website design', 'css']",1262.0,w1258
+20.0,"['articles', 'article rewriting', 'academic writing', 'data entry', 'blog']",1170.0,w1166
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338
+6.0,"['graphic design', 'logo design', 'photoshop', 'illustrator', 'website design']",979.0,w0976
+15.0,"['php', 'mysql', 'html', 'css', 'wordpress']",767.0,w0766
+10.0,"['facebook marketing', 'social networking', 'internet marketing']",276.0,w0275
+3.0,"['php', 'word', 'mysql', 'powerpoint', 'html']",1107.0,w1104
+16.0,"['php', 'website design', 'html', 'graphic design', 'seo']",30.0,w0030
+10.0,"['photoshop', 'photo editing', 'graphic design']",1460.0,w1454
+15.0,"['php', 'website design', 'html', 'software architecture']",962.0,w0959
+20.0,"['mobile phone', 'iphone', 'php', 'html', 'mysql']",272.0,w0271
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+12.0,"['graphic design', 'website design', 'photoshop', 'illustrator', 'php']",780.0,w0779
+15.0,"['php', 'website design', 'ecommerce']",1502.0,w1494
+10.0,"['graphic design', 'indesign', 'banner design']",1604.0,w1592
+10.0,"['research', 'ghostwriting', 'articles', 'ebooks', 'copywriting']",169.0,w0168
+15.0,"['excel', 'css', 'translation', 'php', 'data entry']",881.0,w0878

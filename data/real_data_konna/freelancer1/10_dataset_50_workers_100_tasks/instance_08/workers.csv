@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['php', 'mysql', 'javascript', 'html']",15.0,w0015
+10.0,"['translation', 'academic writing', 'article rewriting', 'spanish', 'copywriting']",1032.0,w1029
+25.0,"['html', 'php', 'graphic design']",1538.0,w1529
+10.0,"['html', 'website design', 'wordpress', 'graphic design', 'psd to html']",785.0,w0784
+25.0,"['animation', 'after effects', 'video services', 'video broadcasting', 'flash']",1539.0,w1530
+15.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'illustrator']",52.0,w0052
+15.0,"['javascript', 'jquery / prototype', 'php', 'html']",1300.0,w1296
+10.0,"['html', 'php', 'mysql']",994.0,w0991
+10.0,"['blog', 'articles']",1704.0,w1688
+5.0,"['data entry', 'web search', 'excel', 'data processing', 'web scraping']",1636.0,w1622
+10.0,"['data entry', 'javascript', 'mysql', 'asp']",468.0,w0467
+20.0,"['data entry', 'joomla', 'html', 'wordpress', 'social networking']",641.0,w0640
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",258.0,w0257
+5.0,"['facebook marketing', 'social networking', 'internet marketing', 'logo design']",1066.0,w1063
+30.0,"['php', 'website design', 'html', 'graphic design', 'mysql']",103.0,w0102
+10.0,"['translation', 'greek', 'technical writing', 'editing']",247.0,w0246
+10.0,"['facebook marketing', 'social networking']",304.0,w0303
+20.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",143.0,w0142
+11.0,"['video services', 'videography']",1525.0,w1516
+10.0,"['articles', 'article rewriting', 'ghostwriting', 'blog', 'academic writing']",107.0,w0106
+15.0,"['banner design', 'photoshop', 'photo editing', 'logo design']",1193.0,w1189
+20.0,"['php', 'translation', 'mysql', 'wordpress', 'javascript']",1218.0,w1214
+15.0,"['php', 'wordpress', 'html', 'css', 'data entry']",331.0,w0330
+20.0,"['wordpress', 'website design', 'web hosting', 'css', 'html']",232.0,w0231
+8.0,"['internet marketing', 'seo', 'link building', 'social networking', 'facebook marketing']",588.0,w0587
+2.0,"['graphic design', 'photoshop', 'illustrator', 'css', 'illustration']",1273.0,w1269
+10.0,"['academic writing', 'article rewriting', 'research', 'technical writing', 'ghostwriting']",459.0,w0458
+15.0,"['copywriting', 'proofreading', 'research']",1659.0,w1644
+15.0,"['graphic design', 'php']",1013.0,w1010
+10.0,"['software testing', 'software architecture', 'php', 'mysql', 'excel']",1454.0,w1449
+15.0,"['php', 'website design', 'html', 'software architecture']",755.0,w0754
+10.0,"['graphic design', 'photoshop', 'brochure design']",777.0,w0776
+9.0,"['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics']",880.0,w0877
+20.0,"['graphic design', 'website design', 'photoshop', 'photoshop design', 'indesign']",88.0,w0087
+10.0,"['website design', 'banner design', 'graphic design']",1167.0,w1163
+10.0,"['android', 'php', 'iphone', 'html', 'javascript']",484.0,w0483
+8.0,"['data entry', 'oracle', 'data processing', 'excel']",1640.0,w1626
+10.0,"['graphic design', 'website design', 'logo design', 'banner design']",61.0,w0061
+7.0,"['graphic design', 'logo design']",1057.0,w1054
+15.0,"['illustration', 'graphic design', 'illustrator', 'caricature &amp; cartoons', 'photoshop']",434.0,w0433
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",168.0,w0167
+15.0,"['css', 'javascript', 'html']",647.0,w0646
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+15.0,"['matlab &amp; mathematica', 'algorithm', 'mathematics', 'academic writing', 'electrical engineering']",526.0,w0525
+15.0,"['graphic design', '3d modelling', '3d animation', 'animation']",1006.0,w1003
+20.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",321.0,w0320
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+5.0,"['academic writing', 'research', 'articles', 'technical writing']",376.0,w0375
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+8.0,"['video services', 'after effects', 'animation', 'videography', 'graphic design']",487.0,w0486

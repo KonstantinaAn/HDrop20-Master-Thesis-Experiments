@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['articles', 'copywriting', 'ghostwriting', 'research']",379.0,w0378
+9.0,"['php', 'html', 'website design', 'graphic design', 'wordpress']",70.0,w0070
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'seo']",871.0,w0868
+2.0,"['css', 'website design', 'html', 'wordpress', 'php']",1089.0,w1086
+31.0,"['c programming', 'engineering', 'c# programming', 'windows desktop', 'data processing']",1635.0,w1621
+10.0,"['php', 'wordpress', 'html', 'website design', 'graphic design']",246.0,w0245
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+9.0,"['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics']",880.0,w0877
+18.0,"['ghostwriting', 'research', 'article rewriting']",817.0,w0816
+8.0,"['copy typing', 'engineering', 'technical writing', 'research']",858.0,w0857
+25.0,"['3d modelling', '3d animation', '3d rendering', '3ds max', 'graphic design']",193.0,w0192
+9.0,"['php', 'web hosting', 'ajax', 'mysql', 'javascript']",990.0,w0987
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+10.0,"['seo', 'link building', 'internet marketing', 'data entry']",1333.0,w1329
+15.0,"['php', 'mysql', 'software architecture']",126.0,w0125
+15.0,"['php', 'website design', 'html', 'software architecture']",755.0,w0754
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+8.0,"['translation', 'data entry', 'excel', 'web search', 'research']",438.0,w0437
+10.0,"['delphi', 'data entry', 'software architecture', 'c programming']",666.0,w0665
+30.0,"['mathematics', 'algorithm', 'statistics', 'c++ programming', 'matlab &amp; mathematica']",499.0,w0498
+4.0,"['research', 'virtual assistant']",1631.0,w1617
+25.0,"['graphic design', 'photography']",1655.0,w1640
+10.0,"['classifieds posting', 'internet marketing', 'leads', 'advertising', 'marketing']",1608.0,w1596
+10.0,"['php', 'project management', 'script install', '.net', 'windows desktop']",1561.0,w1550
+15.0,"['excel', 'data entry', 'word', 'microsoft access', 'pdf']",1436.0,w1431
+10.0,"['animation', 'after effects', 'video services', '3d animation', 'flash']",701.0,w0700
+18.0,"['data entry', 'customer support']",1510.0,w1502
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",198.0,w0197
+15.0,"['illustrator', 'illustration', 'game design', 'photoshop', 'animation']",122.0,w0121
+10.0,"['video services', 'graphic design', 'animation', 'website design', 'audio services']",877.0,w0874
+14.0,"['website design', 'graphic design', 'html', 'psd to html', 'wordpress']",219.0,w0218
+5.0,"['data entry', 'website design', 'graphic design', 'php', 'logo design']",1603.0,w1591
+15.0,"['php', 'mysql', 'html', 'wordpress']",292.0,w0291
+30.0,"['php', 'mysql', 'javascript', 'script install', 'wordpress']",589.0,w0588
+25.0,"['graphic design', 'logo design', 'brochure design', 't-shirts', 'business cards']",1291.0,w1287
+8.0,"['bulk marketing', 'web scraping']",1479.0,w1472
+10.0,"['excel', 'web scraping', 'data processing', 'virtual assistant']",827.0,w0826
+10.0,"['mechanical engineering', 'autocad', 'cad/cam', 'matlab &amp; mathematica']",1380.0,w1376
+4.0,"['data entry', 'data processing', 'seo']",1754.0,w1738
+28.0,"['graphic design', 'photography']",596.0,w0595
+48.0,"['cad/cam', '3d rendering', 'product design', 'mechanical engineering']",503.0,w0502
+50.0,"['software architecture', 'engineering', 'php', 'windows desktop', 'c programming']",1019.0,w1016
+25.0,"['video services', 'graphic design', 'photo editing', 'animation']",1144.0,w1140
+15.0,"['sales', 'web hosting']",797.0,w0796
+15.0,"['videography', 'video services', 'caricature &amp; cartoons', 'after effects', 'illustration']",1038.0,w1035
+5.0,"['translation', 'data entry', 'proofreading']",622.0,w0621
+40.0,"['php', 'linux', 'wordpress', 'apache', 'sql']",1009.0,w1006
+15.0,"['after effects', 'graphic design', '3d animation']",595.0,w0594
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+10.0,"['3d rendering', '3d modelling', 'autocad']",654.0,w0653

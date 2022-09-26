@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['copywriting', 'proofreading', 'articles', 'academic writing']",544.0,w0543
+15.0,"['graphic design', 'illustrator', 'photoshop', 'logo design']",987.0,w0984
+7.0,"['academic writing', 'articles']",956.0,w0953
+20.0,"['software architecture', 'c programming', 'php', 'visual basic', 'html']",1274.0,w1270
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",146.0,w0145
+10.0,['c programming'],1409.0,w1405
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+15.0,"['php', 'website design', 'ecommerce']",1502.0,w1494
+20.0,"['flash', 'animation', '3d animation']",427.0,w0426
+15.0,"['mechanical engineering', '3d rendering', '3d modelling', 'product design']",907.0,w0904
+12.0,"['3d modelling', '3d rendering', '3ds max']",1180.0,w1176
+10.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'banner design']",318.0,w0317
+5.0,"['illustrator', 'illustration', 'caricature &amp; cartoons', 'logo design', 'game design']",1304.0,w1300
+10.0,"['graphic design', 'logo design', 'flyer design', 'banner design', 'photoshop design']",706.0,w0705
+15.0,"['3d animation', 'animation', 'after effects', 'video services', '3d modelling']",223.0,w0222
+10.0,"['photoshop', 'graphic design', 'photo editing', 'photoshop design', 'illustrator']",382.0,w0381
+25.0,"['embedded software', 'microcontroller', 'c programming', 'electronics']",613.0,w0612
+12.0,"['php', 'ecommerce']",1596.0,w1584
+50.0,"['technical writing', 'article rewriting', 'articles', 'copywriting', 'academic writing']",898.0,w0895
+8.0,"['illustration', 'logo design', 'caricature &amp; cartoons', 'illustrator']",1579.0,w1567
+15.0,"['html', 'website design', 'graphic design', 'php', 'ecommerce']",397.0,w0396
+15.0,"['3d animation', '3d rendering', '3d modelling']",752.0,w0751
+8.0,"['web scraping', 'php', 'data entry', 'leads']",366.0,w0365
+10.0,"['seo', 'internet marketing', 'php', 'marketing', 'sem / adwords']",1697.0,w1681
+15.0,"['php', 'software architecture', 'javascript', 'xml', 'css']",591.0,w0590
+20.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",322.0,w0321
+10.0,"['logo design', 'graphic design', 'website design', 'photoshop', 'banner design']",294.0,w0293
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+7.0,"['graphic design', 'logo design']",1459.0,w1453
+10.0,"['graphic design', 'website design', 'logo design', 'banner design']",61.0,w0061
+25.0,"['software architecture', 'php', 'delphi']",1464.0,w1457
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+8.0,"['logo design', 'graphic design', 'banner design', 'flyer design', 'brochure design']",789.0,w0788
+10.0,"['graphic design', 'logo design', 'photoshop', 'illustration', 'photoshop design']",848.0,w0847
+20.0,"['c programming', 'mac os', 'linux']",1221.0,w1217
+10.0,"['ghostwriting', 'graphic design', 'articles', 'logo design']",1148.0,w1144
+10.0,"['email marketing', 'bulk marketing']",1362.0,w1358
+10.0,"['video services', 'graphic design', 'animation', 'website design', 'audio services']",877.0,w0874
+50.0,"['article rewriting', 'academic writing', 'copywriting', 'technical writing', 'translation']",1147.0,w1143
+8.0,"['3d modelling', '3d rendering', '3d animation', '3ds max', 'graphic design']",686.0,w0685
+15.0,"['software architecture', 'software testing', 'logo design', 'photoshop']",1680.0,w1665
+5.0,"['data entry', 'internet marketing']",1277.0,w1273
+7.0,"['graphic design', 'logo design', 'photoshop']",439.0,w0438
+20.0,"['creative writing', 'marketing']",1432.0,w1427
+10.0,"['academic writing', 'article rewriting', 'technical writing', 'research', 'ghostwriting']",505.0,w0504
+30.0,"['voice talent', 'audio services', 'photo editing']",553.0,w0552
+10.0,"['php', 'logo design', 'flash', 'website design', 'banner design']",1589.0,w1577
+35.0,"['3d animation', '3d rendering', '3d modelling']",1039.0,w1036
+10.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",326.0,w0325
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1363.0,w1359

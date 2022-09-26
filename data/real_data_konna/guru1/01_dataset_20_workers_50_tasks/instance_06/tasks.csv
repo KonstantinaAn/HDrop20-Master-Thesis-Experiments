@@ -1,0 +1,287 @@
+skill,skill_id,valuation
+online payments,1029,455
+tax reporting,1400,396
+corporate media,392,573
+community outreach,334,296
+public relations industry,1173,407
+business launch,214,480
+user interface programming,1468,465
+concept artistry,352,468
+microsoft small business server,940,370
+team player,1404,581
+music production,990,416
+management software,887,403
+hd video,701,596
+sap,1248,378
+video ads,1486,234
+local advertising,865,587
+mathematics,907,211
+visualization,1519,325
+unity 3d,1460,313
+blog development,179,307
+shell scripting,1278,279
+google website optimizer,679,115
+financial forecasting,605,424
+debugging,465,305
+.net compact framework,3,515
+mobile design,956,603
+architectural design,109,639
+gmail,665,479
+biotechnology,170,400
+chrome extension,277,477
+it consulting,787,526
+leads,839,414
+invoicing,770,563
+pick,1112,568
+marketing communications,894,422
+audio transcription,137,339
+social media,1310,162
+content management system (cms),365,471
+children's writing,274,397
+vietnamese,1504,519
+quality assurance,1182,194
+vb.net,1472,126
+sharepoint,1277,279
+print design,1147,381
+sql,1354,558
+film,596,192
+wordpress development,1614,473
+database design,456,210
+adobe creative suite,46,295
+drupal,505,478
+.net,0,0
+ajax,0,0
+android,0,0
+apache,0,0
+apache tomcat,0,0
+application development,0,0
+blackberry,0,0
+c,0,0
+c#,0,0
+com,0,0
+corel draw,0,0
+css,0,0
+flash,0,0
+hibernate,0,0
+hindi,0,0
+html,0,0
+html5,0,0
+http,0,0
+indesign,0,0
+ipad,0,0
+iphone,0,0
+java,0,0
+javascript,0,0
+jboss,0,0
+joomla,0,0
+jquery,0,0
+jsp,0,0
+magento,0,0
+marketing,0,0
+medical,0,0
+microsoft,0,0
+mobile,0,0
+mobile application development,0,0
+mvc,0,0
+mysql,0,0
+pay per click,0,0
+php,0,0
+sem,0,0
+seo,0,0
+silverlight,0,0
+smo,0,0
+social media marketing,0,0
+sql server,0,0
+struts,0,0
+tomcat,0,0
+wcf,0,0
+web 2.0,0,0
+wordpress,0,0
+wpf,0,0
+asp,0,0
+asp.net,0,0
+content management,0,0
+database development,0,0
+design,0,0
+e-learning,0,0
+erp,0,0
+graphic design,0,0
+j2ee,0,0
+management,0,0
+mobile development,0,0
+payment gateway integration,0,0
+rest,0,0
+security,0,0
+software,0,0
+wireless,0,0
+3d,0,0
+actionscript,0,0
+adobe photoshop,0,0
+asp classic,0,0
+bpo,0,0
+c++,0,0
+cad,0,0
+cakephp,0,0
+dhtml,0,0
+dreamweaver,0,0
+fireworks,0,0
+logo design,0,0
+max,0,0
+oracle,0,0
+presentations,0,0
+web design,0,0
+web development,0,0
+xml,0,0
+3d rendering,0,0
+3ds max,0,0
+adobe illustrator,0,0
+adobe indesign,0,0
+architect,0,0
+architecture,0,0
+autodesk autocad,0,0
+drawing,0,0
+interior design-commercial,0,0
+interior design-residential,0,0
+landscape design,0,0
+ms,0,0
+pdf,0,0
+access,0,0
+eclipse,0,0
+lamp,0,0
+linux,0,0
+moodle,0,0
+programming,0,0
+css3,0,0
+basecamp,0,0
+corporate,0,0
+email,0,0
+email design,0,0
+excel,0,0
+internet marketing,0,0
+make,0,0
+outlook,0,0
+processing,0,0
+symbian,0,0
+test,0,0
+windows,0,0
+windows mobile,0,0
+word processing,0,0
+yahoo,0,0
+objective-c,0,0
+oscommerce,0,0
+python,0,0
+ruby,0,0
+shopping carts,0,0
+virtuemart,0,0
+website design,0,0
+xhtml,0,0
+3d modeling,0,0
+accounting,0,0
+game design,0,0
+maya,0,0
+modeling,0,0
+skill,0,0
+tax,0,0
+unreal development kit,0,0
+visual studio,0,0
+customer support,0,0
+data entry,0,0
+logistics,0,0
+phone support,0,0
+quickbooks,0,0
+real estate,0,0
+salesforce,0,0
+internet information services (iis),0,0
+advertising,0,0
+computer science,0,0
+english,0,0
+freelance,0,0
+italian,0,0
+localization,0,0
+product descriptions,0,0
+proofreading,0,0
+science,0,0
+testing,0,0
+tourism,0,0
+translation,0,0
+writing,0,0
+mysql 4.x,0,0
+networking,0,0
+perl,0,0
+unix,0,0
+blogs,0,0
+computer programming,0,0
+editing,0,0
+email marketing,0,0
+facebook,0,0
+gif animator,0,0
+google+,0,0
+graphics,0,0
+international,0,0
+joomla!,0,0
+linkedin,0,0
+mailchimp,0,0
+markup,0,0
+microsoft outlook,0,0
+microsoft word,0,0
+operating systems,0,0
+powerpoint,0,0
+prestashop,0,0
+rss,0,0
+twitter,0,0
+vista,0,0
+codeigniter,0,0
+mobile web design,0,0
+php 5,0,0
+psd to html,0,0
+psd to wordpress,0,0
+responsive wordpress theme,0,0
+android development,0,0
+app development,0,0
+cocoa,0,0
+iphone application development,0,0
+iphone development,0,0
+iphone sdk,0,0
+mac os,0,0
+mac os x,0,0
+mobile applications,0,0
+phonegap,0,0
+website development,0,0
+xcode,0,0
+ios,0,0
+basic,0,0
+character generator,0,0
+cpanel,0,0
+desktop applications,0,0
+generator,0,0
+sip,0,0
+visual basic,0,0
+visual basic .net,0,0
+voip,0,0
+adobe air,0,0
+air,0,0
+amazon,0,0
+amazon ec2,0,0
+azure,0,0
+benefits,0,0
+copywriting,0,0
+coreldraw,0,0
+gaming,0,0
+google maps,0,0
+iis,0,0
+microsoft azure,0,0
+nosql,0,0
+open source,0,0
+postgresql,0,0
+reports,0,0
+search engine optimization (seo),0,0
+sugar crm,0,0
+sybase,0,0
+typo3,0,0
+vtiger,0,0
+windows 7,0,0
+windows azure,0,0
+zen cart,0,0
+zend,0,0
+video editing,0,0
+videos,0,0

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+20.0,"['translation', 'korean', 'copywriting']",312.0,w0311
+8.0,"['graphic design', 'illustrator', 'logo design', 'photoshop design', 'photoshop']",1111.0,w1108
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1361.0,w1357
+10.0,"['photoshop', 'graphic design', 'photo editing', 'logo design', 'banner design']",738.0,w0737
+20.0,"['academic writing', 'technical writing', 'research', 'articles']",149.0,w0148
+10.0,"['graphic design', 'indesign', 'banner design']",1604.0,w1592
+10.0,"['3d modelling', '3d rendering']",688.0,w0687
+8.0,"['photoshop', 'graphic design', 'logo design']",955.0,w0952
+12.0,"['3d rendering', '3d modelling', '3d animation']",265.0,w0264
+7.0,"['data entry', 'seo', 'excel', 'wordpress', 'pdf']",725.0,w0724
+35.0,"['php', 'wordpress', 'html', 'css', 'website design']",17.0,w0017
+15.0,"['html', 'php', 'apache']",1368.0,w1364
+10.0,"['translation', 'graphic design', 'photoshop', 'website design', 'illustrator']",317.0,w0316
+15.0,"['joomla', 'php', 'html', 'javascript', 'seo']",753.0,w0752
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+5.0,"['articles', 'blog', 'article rewriting', 'copywriting', 'seo']",221.0,w0220
+10.0,"['transcription', 'proofreading', 'editing']",1181.0,w1177
+14.0,"['virtual assistant', 'logo design', 'illustration', 'photoshop']",1269.0,w1265
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+20.0,"['php', 'html', 'website design', 'graphic design', 'css']",160.0,w0159

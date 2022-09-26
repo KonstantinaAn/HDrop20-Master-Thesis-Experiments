@@ -1,0 +1,297 @@
+skill,skill_id,valuation
+video communication,1489,149
+salesforce.com training,1247,311
+mmorpg,948,217
+sales contracts,1234,260
+customer relationship management (crm),427,278
+oauth,1017,302
+keyboarding,821,55
+tandem,1396,138
+call center start up,243,132
+facebook consultant,576,232
+active x,34,194
+microsoft great plains,937,233
+expert advisor,571,356
+mobile data,955,269
+erlang,559,239
+news writing style,1003,196
+content design,361,237
+microchip,931,310
+mediawiki,920,320
+educational games,528,171
+packaging design,1067,288
+coaching,304,259
+business consulting,207,321
+consumer electronics,360,295
+portuguese translation,1130,222
+mobile game development,958,396
+calendar management,240,240
+autodesk autocad,141,355
+interior design-commercial,753,237
+medical illustration,924,126
+song writing,1338,156
+social networks,1321,393
+algorithm development,67,233
+directx,491,165
+greek,691,337
+you tube,1630,322
+sugar crm,1378,312
+infographics,740,228
+snmp,1301,296
+web strategy,1573,105
+ad management,37,344
+game design,644,418
+autodesk mudbox,144,315
+image processing,730,160
+other - multimedia services,1061,166
+application support,102,250
+google website optimizer,679,342
+enterprise software,556,162
+telecommunications systems,1410,122
+event planning,565,287
+german translation,656,105
+medical billing,922,318
+corporate image,390,249
+movie maker,970,313
+croatian,412,266
+receptionist skills,1191,263
+stl,1369,311
+photoshop,1100,143
+backlinking,152,257
+import,732,358
+pattern design,1073,226
+zk,1637,210
+data collection,440,246
+audio books,133,359
+social marketing,1309,194
+vpn,1528,207
+sage,1231,198
+.htaccess,1,194
+custom art,420,251
+memcached,927,159
+financial analysis,604,256
+3d models,13,240
+children's writing,274,292
+vectorworks,1480,423
+sip,1288,229
+kentico,819,283
+cocoa touch,306,249
+web servers,1568,277
+engineering design,551,190
+electrical,535,310
+ruby on rails,1227,416
+adobe acrobat,41,228
+android development,79,205
+graphics,690,270
+digital,479,195
+pay per click,1074,256
+web developer,1552,252
+spreadsheets,1349,195
+testing,1423,466
+windows,1597,223
+struts,1375,220
+access,21,290
+delphi,466,174
+unix,1461,315
+research,1202,301
+bookkeeping,190,393
+e-books,509,202
+css,415,248
+database design,456,52
+customer service,430,159
+analysis,0,0
+consulting,0,0
+design,0,0
+engineering,0,0
+advertising,0,0
+concept development,0,0
+developer,0,0
+microsoft,0,0
+modeling,0,0
+ms,0,0
+sql,0,0
+sql server,0,0
+.net,0,0
+android,0,0
+app development,0,0
+application development,0,0
+blackberry,0,0
+c,0,0
+cocoa,0,0
+dhtml,0,0
+dreamweaver,0,0
+flash,0,0
+html,0,0
+html5,0,0
+iphone,0,0
+iphone application development,0,0
+iphone development,0,0
+iphone sdk,0,0
+java,0,0
+mac os,0,0
+mac os x,0,0
+mobile,0,0
+mobile application development,0,0
+mobile applications,0,0
+mysql,0,0
+phonegap,0,0
+php,0,0
+programming,0,0
+website development,0,0
+windows mobile,0,0
+xcode,0,0
+ajax,0,0
+amazon,0,0
+android sdk,0,0
+asp,0,0
+asp.net,0,0
+basic,0,0
+blogging,0,0
+c#,0,0
+cakephp,0,0
+codeigniter,0,0
+content marketing,0,0
+content writing,0,0
+craigslist,0,0
+css3,0,0
+custom cms,0,0
+eclipse,0,0
+ecommerce,0,0
+email,0,0
+email marketing,0,0
+facebook,0,0
+game development,0,0
+gaming,0,0
+google maps,0,0
+google places,0,0
+graphic design,0,0
+internet marketing,0,0
+javascript,0,0
+joomla,0,0
+jquery,0,0
+lamp,0,0
+magento,0,0
+marketing,0,0
+mvc,0,0
+networking,0,0
+open source,0,0
+physics,0,0
+reports,0,0
+rest,0,0
+seo,0,0
+silverlight,0,0
+soap,0,0
+social networking,0,0
+symfony,0,0
+vb.net,0,0
+wcf,0,0
+web 2.0,0,0
+web design,0,0
+web services,0,0
+website design,0,0
+wordpress,0,0
+wpf,0,0
+writing,0,0
+xhtml,0,0
+xml,0,0
+yahoo,0,0
+zend,0,0
+adobe illustrator,0,0
+adobe photoshop,0,0
+animation,0,0
+cartoon,0,0
+character animation,0,0
+flash animation,0,0
+illustration,0,0
+editing,0,0
+image editing,0,0
+outsourcing,0,0
+page design,0,0
+photo manipulation,0,0
+web development,0,0
+brochures,0,0
+corporate,0,0
+corporate identity,0,0
+desktop publishing,0,0
+flyer design,0,0
+http,0,0
+icons,0,0
+indesign,0,0
+letterhead,0,0
+newsletters,0,0
+photo editing,0,0
+photography,0,0
+publishing,0,0
+software,0,0
+web graphics,0,0
+data entry,0,0
+excel,0,0
+microsoft word,0,0
+book illustration,0,0
+logo design,0,0
+technical design,0,0
+typography,0,0
+article writing,0,0
+data research,0,0
+forum posting,0,0
+management,0,0
+sales,0,0
+transcription,0,0
+web search,0,0
+3d,0,0
+3d graphics,0,0
+adobe after effects,0,0
+audio editing,0,0
+maya,0,0
+motion graphics,0,0
+presentations,0,0
+video,0,0
+video editing,0,0
+video marketing,0,0
+video presentations,0,0
+videography,0,0
+drupal,0,0
+outlook,0,0
+portuguese,0,0
+powerpoint,0,0
+project management,0,0
+salesforce,0,0
+com,0,0
+fiction,0,0
+internet research,0,0
+kindle,0,0
+leadership,0,0
+magic,0,0
+self,0,0
+accounting,0,0
+budgeting,0,0
+controller,0,0
+incorporation,0,0
+payroll,0,0
+quickbooks,0,0
+strategic planning,0,0
+tax,0,0
+apache,0,0
+coldfusion,0,0
+gui development,0,0
+hibernate,0,0
+iis,0,0
+jboss,0,0
+jsf,0,0
+json,0,0
+oracle,0,0
+perl,0,0
+postgresql,0,0
+product development,0,0
+software development,0,0
+sybase,0,0
+tomcat,0,0
+visual basic,0,0
+visual studio,0,0
+wireless,0,0
+cpanel,0,0
+debugging,0,0
+dns,0,0
+linux,0,0
+plugins,0,0
+c++,0,0

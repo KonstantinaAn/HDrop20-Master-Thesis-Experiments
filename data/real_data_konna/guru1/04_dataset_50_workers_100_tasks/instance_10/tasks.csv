@@ -1,0 +1,443 @@
+skill,skill_id,valuation
+betfair,165,235
+peer education,1086,220
+sales plan,1238,171
+primefaces,1146,153
+community media,333,199
+b2b,150,160
+sap netweaver,1249,210
+interior,752,79
+outside sales,1065,163
+miva merchant,947,141
+mpls,971,92
+building materials,202,195
+crm,409,150
+game scripting,649,111
+web content optimization,1547,131
+mssql,982,246
+construction management,356,46
+database consulting,455,228
+expert advisor,571,146
+prototype,1166,142
+csr,414,167
+litigation,859,240
+internet information services (iis),756,168
+cad/cam,237,122
+sales management,1236,192
+kindle,824,74
+cisco asa,282,138
+concept design,353,221
+portrait photography,1128,261
+indonesian,737,146
+symbian,1387,267
+dutch,506,128
+search engine optimization copywriting (seo),1263,203
+request for proposal design (rfp),1201,136
+health insurance,703,188
+web content writing,1548,198
+homesite,711,113
+fiction writing,592,213
+blog marketing,180,151
+financial modeling,606,165
+facebook fan page creation,578,88
+organizational behavior,1051,230
+manual testing,889,166
+articulate,123,71
+web testing,1575,196
+microsoft visual studio,943,196
+digital painting,483,196
+solomon,1337,247
+final draft,601,155
+mail servers,882,172
+white paper writing,1593,154
+order processing,1049,200
+bash,160,217
+educational institutions,529,115
+comic book art,322,163
+.com,0,227
+voice talent-male,1525,155
+design specifications,469,190
+asp classic,127,97
+woocommerce,1611,139
+motion graphics,968,52
+twilio,1447,99
+facebook api,575,102
+subversion,1377,139
+architectural design,109,195
+backlinking,152,46
+character animation,263,208
+ai,62,97
+intranet,766,193
+payment processing,1076,142
+microsoft onenote,938,174
+cpanel,402,138
+quartz,1183,57
+act,27,148
+flowcharts,624,220
+sound design,1340,164
+game prototyping,647,192
+compensation,336,186
+football,629,180
+corporate communications,386,236
+ms,972,224
+test,1420,67
+email marketing,544,205
+phonegap,1094,94
+project management,1160,32
+logo design,868,225
+web technologies,1574,99
+zend framework,1635,240
+html5,715,173
+developer,475,149
+software,1325,289
+pay per click,1074,307
+mvc,992,133
+brochures,198,212
+3d animation,9,179
+proofreading,1163,111
+internet marketing,758,251
+php,1103,158
+consulting,359,124
+jquery mobile,813,209
+administrative support,0,0
+article rewriting,0,0
+article writing,0,0
+blog commenting,0,0
+blog writing,0,0
+data entry,0,0
+design,0,0
+facebook marketing,0,0
+forum posting,0,0
+link building,0,0
+marketing,0,0
+seo,0,0
+social media marketing,0,0
+website design,0,0
+wordpress,0,0
+architect,0,0
+architectural drawings,0,0
+architecture,0,0
+cad,0,0
+civil,0,0
+construction,0,0
+electrical,0,0
+.net,0,0
+.net compact framework,0,0
+access,0,0
+api,0,0
+application development,0,0
+asp,0,0
+asp.net,0,0
+authorize.net,0,0
+basic,0,0
+c,0,0
+c#,0,0
+cakephp,0,0
+captcha,0,0
+com,0,0
+database design,0,0
+drupal,0,0
+email,0,0
+facebook,0,0
+focus,0,0
+interspire,0,0
+javascript,0,0
+joomla,0,0
+jquery,0,0
+linq,0,0
+microsoft,0,0
+mobile,0,0
+open source,0,0
+opencart,0,0
+orm,0,0
+oscommerce,0,0
+outsourcing,0,0
+payment gateway integration,0,0
+paypal,0,0
+php 5,0,0
+phpbb,0,0
+programming,0,0
+reports,0,0
+silverlight,0,0
+software development,0,0
+software programming,0,0
+sql,0,0
+sql server,0,0
+twitter,0,0
+vb.net,0,0
+vbscript,0,0
+video,0,0
+vista,0,0
+visual basic,0,0
+visual studio,0,0
+wcf,0,0
+windows,0,0
+windows mobile,0,0
+wpf,0,0
+zen cart,0,0
+zend,0,0
+c++,0,0
+edi,0,0
+flash,0,0
+html,0,0
+j2ee,0,0
+java,0,0
+networking,0,0
+oracle,0,0
+television,0,0
+teradata,0,0
+visio,0,0
+xml,0,0
+adobe after effects,0,0
+adobe illustrator,0,0
+adobe photoshop,0,0
+animation,0,0
+blog development,0,0
+compositing,0,0
+corporate,0,0
+css,0,0
+customer service,0,0
+digital,0,0
+dynamic websites,0,0
+editing,0,0
+film,0,0
+flash websites,0,0
+graphics,0,0
+music,0,0
+vfx,0,0
+website development,0,0
+ajax,0,0
+android,0,0
+codeigniter,0,0
+linux,0,0
+linux server,0,0
+magento,0,0
+make,0,0
+mobile application development,0,0
+mysql,0,0
+quickbooks,0,0
+ruby,0,0
+ruby on rails,0,0
+smarty,0,0
+ecommerce,0,0
+git,0,0
+json,0,0
+lamp,0,0
+oop,0,0
+redis,0,0
+rest,0,0
+saas,0,0
+soap,0,0
+xhtml,0,0
+database development,0,0
+filemaker,0,0
+filemaker pro,0,0
+troubleshooting,0,0
+windows desktop,0,0
+android development,0,0
+android programming,0,0
+android sdk,0,0
+ios,0,0
+ios development,0,0
+ios programming,0,0
+iphone,0,0
+iphone app development,0,0
+iphone application development,0,0
+iphone design,0,0
+iphone development,0,0
+iphone sdk,0,0
+actionscript,0,0
+agile,0,0
+analysis,0,0
+apache,0,0
+autodesk inventor,0,0
+business requirements,0,0
+devexpress,0,0
+directx,0,0
+engineering,0,0
+gis,0,0
+iis,0,0
+international,0,0
+investment banking,0,0
+kernel,0,0
+management,0,0
+perl,0,0
+physics,0,0
+quality assurance,0,0
+reverse engineering,0,0
+security,0,0
+solaris,0,0
+solidworks,0,0
+testing,0,0
+voip,0,0
+web presence,0,0
+web services,0,0
+custom cms,0,0
+custom websites,0,0
+phpfox,0,0
+graphic design,0,0
+motion graphic design,0,0
+3d,0,0
+cartooning,0,0
+displays,0,0
+dreamweaver,0,0
+excel,0,0
+fiction,0,0
+illustration,0,0
+painting,0,0
+rendering,0,0
+science,0,0
+short stories,0,0
+cgi,0,0
+coreldraw,0,0
+fireworks,0,0
+icontact,0,0
+indesign,0,0
+jsp,0,0
+mailchimp,0,0
+ms office,0,0
+ms office suite,0,0
+powerpoint,0,0
+product development,0,0
+vb script,0,0
+banner,0,0
+banner design,0,0
+corel draw,0,0
+poster design,0,0
+real time,0,0
+advertising,0,0
+content writing,0,0
+google+,0,0
+lead generation,0,0
+on page,0,0
+research,0,0
+sales,0,0
+sem,0,0
+skype,0,0
+smo,0,0
+writing,0,0
+css3,0,0
+accounting,0,0
+self,0,0
+3d modeling,0,0
+drawing,0,0
+mechanical,0,0
+modeling,0,0
+blogs,0,0
+copywriting,0,0
+direct marketing,0,0
+e-books,0,0
+marketing communications,0,0
+newsletters,0,0
+radio,0,0
+qa,0,0
+salesforce,0,0
+web 2.0,0,0
+web design,0,0
+web development,0,0
+audio transcription,0,0
+transcription,0,0
+typing,0,0
+word processing,0,0
+blackberry,0,0
+content management,0,0
+e-learning,0,0
+erp,0,0
+medical,0,0
+mobile development,0,0
+wireless,0,0
+front end developers,0,0
+mobile web design,0,0
+responsive web design,0,0
+twitter bootstrap,0,0
+web developer,0,0
+articles,0,0
+business correspondence,0,0
+business letters,0,0
+database management,0,0
+freelance,0,0
+materials,0,0
+oracle database,0,0
+technical writing,0,0
+training,0,0
+consultant,0,0
+customer satisfaction,0,0
+english,0,0
+french,0,0
+hardware support,0,0
+hebrew,0,0
+technical support,0,0
+translation,0,0
+adobe indesign,0,0
+app development,0,0
+game development,0,0
+ipad,0,0
+mac os,0,0
+mobile applications,0,0
+moodle,0,0
+objective-c,0,0
+python,0,0
+sports,0,0
+xcode,0,0
+yahoo,0,0
+yahoo store,0,0
+billing,0,0
+dhtml,0,0
+dojo,0,0
+hibernate,0,0
+real estate,0,0
+rss,0,0
+social networking,0,0
+struts,0,0
+symfony,0,0
+audio editing,0,0
+audio production,0,0
+yii framework,0,0
+asp.net mvc,0,0
+appointment setting,0,0
+data collection,0,0
+data mining,0,0
+data processing,0,0
+http,0,0
+live chat,0,0
+pdf,0,0
+processing,0,0
+social bookmarking,0,0
+ftp,0,0
+svn,0,0
+non fiction writing,0,0
+website content,0,0
+blogging,0,0
+keyword research,0,0
+off page,0,0
+business planning,0,0
+change management,0,0
+coaching,0,0
+fundraising,0,0
+leadership,0,0
+organizational development,0,0
+public relations (pr),0,0
+public speaking,0,0
+report writing,0,0
+social media blogging,0,0
+social media coaching,0,0
+software design,0,0
+azure,0,0
+mongodb,0,0
+communication skills,0,0
+hindi,0,0
+postgresql,0,0
+gaming,0,0
+video games,0,0
+google adwords,0,0
+italian,0,0
+skill,0,0
+spanish,0,0
+tourism,0,0
+web content,0,0
+cognos,0,0
+microsoft sql server,0,0
+system administration,0,0
+tomcat,0,0
+unix,0,0
+sharepoint,0,0

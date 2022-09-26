@@ -1,0 +1,321 @@
+skill,skill_id,valuation
+online sales,1031,401
+luxury goods industry,869,330
+non profit consulting,1012,413
+criminal law,408,253
+holistic health,709,383
+hypnosis,722,431
+videography editing,1502,243
+back end programming,151,217
+act crm,28,767
+turkish,1445,407
+zimbra,1636,468
+energy industry,549,338
+business discovery,210,399
+video communication,1489,508
+direct sales,488,452
+social crm,1304,361
+bbpress,162,530
+friendster,637,315
+technical illustration,1407,462
+mercurial,929,287
+app design,92,449
+salesforce,1242,200
+building design,201,622
+desktop support,474,451
+direct marketing,487,595
+sales presentations,1239,288
+data warehouse,452,470
+gif animator,659,609
+strategic planning,1372,373
+2d animation,4,411
+ansys,84,738
+fact checking,580,616
+cartooning,254,384
+ldap,836,504
+electrical design,536,487
+lan,829,277
+embroidery,548,307
+fixture design,617,621
+desktop application development,471,235
+client requirements,293,415
+matlab,908,582
+tourism,1434,520
+directx,491,454
+ffmpeg,590,367
+bgp,166,317
+poems,1122,500
+polish,1124,136
+comic book art,322,413
+texture artist,1427,244
+paralegal,1071,312
+2d art,5,109
+clay sculpting,287,412
+electronic design,538,525
+gui design,693,473
+network administration,999,257
+linux system administration,858,740
+website management,1584,624
+ad management,37,621
+chemistry,270,374
+business process management,221,575
+russian,1228,351
+political cartoon,1125,592
+typo3,1452,343
+computer graphics,341,454
+social media integration,1314,394
+cocoa touch,306,281
+photoshop design,1102,563
+adobe air,43,297
+marketing management,897,520
+cisco,281,696
+data analysis,437,585
+telnet,1416,636
+fine art,611,655
+rfid,1216,692
+displays,494,425
+game programming,646,319
+prototyping,1167,553
+boost,191,404
+google docs,673,376
+basecamp,159,440
+eclipse,517,534
+air,63,564
+phonegap,1094,668
+international,755,236
+pay per click,1074,499
+jdbc,804,443
+linq,853,466
+sybase,1386,507
+copy editing,376,390
+market research,892,76
+video production,1498,324
+logo design,868,372
+solidworks,1336,500
+product development,1154,359
+plugins,1120,508
+grammar,685,602
+dreamweaver,503,508
+troubleshooting,1443,594
+leadership,838,463
+coldfusion,315,548
+ajax,0,0
+analysis,0,0
+android,0,0
+apache,0,0
+apache tomcat,0,0
+application development,0,0
+architecture,0,0
+blackberry,0,0
+c,0,0
+c++,0,0
+consulting,0,0
+content management,0,0
+design,0,0
+disaster recovery,0,0
+ejb,0,0
+email,0,0
+email marketing,0,0
+git,0,0
+google apps,0,0
+graphic design,0,0
+hadoop,0,0
+hibernate,0,0
+ios,0,0
+java,0,0
+javascript,0,0
+jboss,0,0
+joomla,0,0
+jpa,0,0
+jsf,0,0
+jsp,0,0
+linux,0,0
+management,0,0
+marketing,0,0
+maven,0,0
+microsoft,0,0
+microsoft sql server,0,0
+mobile,0,0
+ms,0,0
+mysql,0,0
+network design,0,0
+on page,0,0
+oracle,0,0
+oscommerce,0,0
+perl,0,0
+php,0,0
+pl,0,0
+postgresql,0,0
+python,0,0
+sem,0,0
+seo,0,0
+shopping carts,0,0
+software,0,0
+sql,0,0
+sql server,0,0
+struts,0,0
+svn,0,0
+swing,0,0
+test,0,0
+tomcat,0,0
+unix,0,0
+user interface design,0,0
+voip,0,0
+web development,0,0
+wordpress,0,0
+xhtml,0,0
+xml,0,0
+zen cart,0,0
+zend,0,0
+android programming,0,0
+android sdk,0,0
+app development,0,0
+application design,0,0
+authorize.net,0,0
+html5,0,0
+ipad,0,0
+iphone,0,0
+ipod,0,0
+json,0,0
+objective-c,0,0
+paypal,0,0
+project management,0,0
+rest,0,0
+soap,0,0
+software development,0,0
+web application design,0,0
+xcode,0,0
+animation,0,0
+make,0,0
+video,0,0
+videos,0,0
+accounting,0,0
+advertising,0,0
+affiliate marketing,0,0
+analytics,0,0
+article marketing,0,0
+asp,0,0
+asp.net,0,0
+brochures,0,0
+c#,0,0
+com,0,0
+copywriting,0,0
+corporate,0,0
+creative writing,0,0
+customer engagement,0,0
+directory submission,0,0
+drupal,0,0
+ecommerce,0,0
+finance,0,0
+flash,0,0
+flash content,0,0
+gmail,0,0
+jquery,0,0
+link building,0,0
+magento,0,0
+marketing strategy,0,0
+materials,0,0
+mobile marketing,0,0
+networking,0,0
+prestashop,0,0
+proofreading,0,0
+sales,0,0
+social media marketing,0,0
+training,0,0
+vb.net,0,0
+video marketing,0,0
+website content,0,0
+writing,0,0
+access,0,0
+benefits,0,0
+customer service,0,0
+database management,0,0
+event planning,0,0
+excel,0,0
+html,0,0
+microsoft word,0,0
+outlook,0,0
+page design,0,0
+powerpoint,0,0
+processing,0,0
+reports,0,0
+research,0,0
+skill,0,0
+spreadsheets,0,0
+westlaw,0,0
+administrative assistant,0,0
+budgeting,0,0
+data entry,0,0
+programming,0,0
+editing,0,0
+english,0,0
+freelance,0,0
+admin assistant,0,0
+customer support,0,0
+pdf,0,0
+skype,0,0
+social marketing,0,0
+twitter,0,0
+word processing,0,0
+adobe illustrator,0,0
+adobe photoshop,0,0
+corporate branding,0,0
+digital,0,0
+user experience design,0,0
+cakephp,0,0
+codeigniter,0,0
+content writing,0,0
+css,0,0
+css3,0,0
+developer,0,0
+dhtml,0,0
+director,0,0
+lamp,0,0
+smarty,0,0
+web content,0,0
+web content writing,0,0
+web design,0,0
+web developer,0,0
+website design,0,0
+website development,0,0
+illustration,0,0
+painting,0,0
+vector illustration,0,0
+actionscript 3,0,0
+adobe after effects,0,0
+adobe captivate,0,0
+andriod apps,0,0
+articulate,0,0
+coreldraw,0,0
+epub (electronic publication),0,0
+game design,0,0
+iphone app development,0,0
+localization,0,0
+moodle,0,0
+responsive web design,0,0
+game development,0,0
+mvc,0,0
+wcf,0,0
+academic writing,0,0
+fiction,0,0
+punctuation,0,0
+spelling,0,0
+financial services,0,0
+real estate,0,0
+acrobat,0,0
+adobe acrobat,0,0
+http,0,0
+max,0,0
+phpbb,0,0
+web 2.0,0,0
+graphics,0,0
+psd,0,0
+psd to html,0,0
+responsive wordpress theme,0,0
+brochure design,0,0
+flyer design,0,0
+magazine design,0,0
+drafting,0,0
+ad design,0,0
+banner,0,0
+video editing,0,0

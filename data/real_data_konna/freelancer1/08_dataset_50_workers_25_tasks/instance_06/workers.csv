@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+25.0,"['software architecture', 'engineering', 'microsoft access', 'web hosting', 'excel']",1598.0,w1586
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+5.0,['mac os'],1552.0,w1542
+15.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",8.0,w0008
+7.0,"['translation', 'arabic', 'transcription', 'editing', 'audio services']",458.0,w0457
+15.0,"['logo design', 'graphic design', 'photoshop', 'illustrator', 'banner design']",965.0,w0962
+15.0,"['3d animation', 'animation', 'after effects', 'video services', '3d modelling']",223.0,w0222
+20.0,"['photoshop', 'after effects', 'illustrator', 'animation']",1347.0,w1343
+10.0,"['data entry', 'internet marketing', 'marketing', 'advertising', 'excel']",1562.0,w1551
+30.0,"['php', 'website design', 'mysql', 'wordpress', 'magento']",441.0,w0440
+12.0,"['website design', 'php', 'graphic design', 'html', 'wordpress']",29.0,w0029
+20.0,"['javascript', 'php', 'jquery / prototype', 'asp']",698.0,w0697
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1646.0,w1632
+25.0,"['php', 'website design', 'graphic design', 'flash', 'javascript']",56.0,w0056
+9.0,"['php', 'web hosting', 'ajax', 'mysql', 'javascript']",990.0,w0987
+13.0,"['seo', 'link building', 'internet marketing', 'sem / adwords', 'website design']",1176.0,w1172
+3.0,"['data entry', 'excel', 'data processing']",1187.0,w1183
+12.0,"['wordpress', 'php', 'html', 'website design']",1610.0,w1598
+20.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",321.0,w0320
+30.0,"['flash', 'actionscript', 'javascript', 'xml', 'php']",859.0,w0858
+10.0,"['3ds max', 'autocad', '3d modelling']",1320.0,w1316
+10.0,"['data entry', 'excel', 'microsoft access']",1206.0,w1202
+5.0,"['translation', 'internet marketing']",1248.0,w1244
+25.0,"['php', 'website design', 'magento', 'javascript', 'wordpress']",350.0,w0349
+9.0,"['graphic design', 'website design', 'photoshop', 'javascript', 'powerpoint']",1669.0,w1654
+10.0,"['graphic design', 'logo design', 'banner design', 'photoshop', 'website design']",509.0,w0508
+6.0,"['article rewriting', 'copywriting', 'translation', 'php', 'blog']",676.0,w0675
+10.0,"['data entry', 'excel', 'data processing', 'web search', 'seo']",871.0,w0868
+20.0,"['joomla', 'virtuemart', 'php', 'mysql', 'website design']",358.0,w0357
+20.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'business cards']",478.0,w0477
+14.0,"['excel', 'data entry', 'data processing', 'word', 'copy typing']",360.0,w0359
+10.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']",326.0,w0325
+10.0,"['classifieds posting', 'internet marketing', 'data entry', 'advertising', 'marketing']",1299.0,w1295
+15.0,"['video services', 'flash', 'after effects', 'animation', '3d animation']",1036.0,w1033
+15.0,"['software architecture', 'php', 'web scraping', 'excel', 'data entry']",39.0,w0039
+25.0,"['php', 'wordpress', 'css', 'html', 'mysql']",83.0,w0082
+10.0,"['graphic design', 'photoshop', 'website design', 'html', 'banner design']",302.0,w0301
+30.0,"['3d rendering', '3d modelling', 'autocad']",954.0,w0951
+20.0,"['website design', 'graphic design', 'php', 'flash', 'logo design']",5.0,w0005
+12.0,"['wordpress', 'php', 'css', 'website design', 'html']",694.0,w0693
+6.0,"['graphic design', 'illustrator', 'photoshop']",888.0,w0885
+35.0,"['video services', 'animation', 'flash', 'after effects', 'graphic design']",6.0,w0006
+22.0,"['graphic design', 'photoshop']",621.0,w0620
+25.0,['data entry'],1340.0,w1336
+3.0,['data entry'],1476.0,w1469
+8.0,"['3d modelling', '3d rendering', '3d animation', '3ds max', 'graphic design']",686.0,w0685
+7.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",78.0,w0077
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+12.0,"['video services', 'animation', '3d animation', 'after effects', 'graphic design']",42.0,w0042
+25.0,"['php', 'wordpress', 'website design', 'joomla', 'css']",640.0,w0639

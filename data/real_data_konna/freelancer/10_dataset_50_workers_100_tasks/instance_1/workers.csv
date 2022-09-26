@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+21.0,"['graphic design', 'photoshop design', 'website design', 'concept design', 'photoshop']",179.0,w0178
+10.0,"['wordpress', 'php', 'html', 'website design', 'graphic design']",575.0,w0574
+5.0,"['reviews', 'ghostwriting', 'blog']",1132.0,w1128
+10.0,['website design'],1602.0,w1590
+20.0,"['autocad', 'cad/cam', '3d modelling', 'engineering']",274.0,w0273
+4.0,"['articles', 'copywriting', 'blog', 'article rewriting', 'technical writing']",391.0,w0390
+14.0,"['linux', 'php']",1428.0,w1423
+20.0,"['graphic design', 'website design', 'photoshop', 'user interface / ia', 'photoshop design']",359.0,w0358
+3.0,"['data entry', 'web scraping', 'web search', 'excel', 'data processing']",771.0,w0770
+7.0,"['link building', 'seo', 'internet marketing']",1091.0,w1088
+15.0,"['php', 'mysql', 'software architecture']",126.0,w0125
+7.0,"['graphic design', 'logo design']",1057.0,w1054
+20.0,"['php', 'excel', 'web scraping', 'data entry', 'mysql']",601.0,w0600
+15.0,"['php', 'project management', 'python', 'windows desktop']",259.0,w0258
+20.0,"['photoshop', '3d modelling', '3d animation', 'video services', 'after effects']",677.0,w0676
+10.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'banner design']",318.0,w0317
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+15.0,"['3d animation', '3d modelling', '3ds max', '3d rendering', 'animation']",695.0,w0694
+15.0,"['software architecture', 'engineering', '.net', 'sql', 'visual basic']",170.0,w0169
+13.0,"['seo', 'link building', 'internet marketing', 'sem / adwords', 'website design']",1176.0,w1172
+25.0,"['graphic design', 'photoshop', 'illustrator', 'brochure design', 'flyer design']",190.0,w0189
+10.0,"['photoshop', 'illustrator']",1592.0,w1580
+25.0,"['software architecture', 'engineering', 'microsoft access', 'web hosting', 'excel']",1598.0,w1586
+15.0,"['graphic design', 'logo design', 'css', 'brochure design']",960.0,w0957
+15.0,"['php', 'software architecture', 'javascript', 'prestashop', 'css']",906.0,w0903
+12.0,"['html', 'psd to html', 'css', 'website design', 'php']",801.0,w0800
+10.0,"['internet marketing', 'facebook marketing', 'excel', 'seo', 'social networking']",1216.0,w1212
+15.0,"['3d animation', '3d rendering', '3d modelling']",752.0,w0751
+20.0,"['php', 'website design', 'html', 'graphic design', 'ajax']",841.0,w0840
+10.0,"['graphic design', 'illustrator', 'photoshop', 'logo design', 'flyer design']",974.0,w0971
+17.0,"['php', 'mysql', 'wordpress', 'html', 'javascript']",716.0,w0715
+7.0,"['facebook marketing', 'youtube', 'social networking', 'internet marketing', 'seo']",243.0,w0242
+15.0,"['indesign', 'graphic design', 'photoshop', 'brochure design']",182.0,w0181
+25.0,"['graphic design', 'photoshop', 'illustrator', 'logo design', 'photo editing']",213.0,w0212
+10.0,"['data entry', 'javascript', 'mysql', 'asp']",468.0,w0467
+16.0,"['c++ programming', 'c programming', 'python', 'mathematics']",1138.0,w1134
+40.0,"['php', 'linux', 'wordpress', 'apache', 'sql']",1009.0,w1006
+10.0,"['data processing', 'data entry', 'excel', 'youtube']",924.0,w0921
+30.0,"['php', 'website design', 'html', 'graphic design', 'mysql']",103.0,w0102
+5.0,"['facebook marketing', 'social networking', 'internet marketing', 'logo design']",1066.0,w1063
+15.0,"['graphic design', 'logo design', 'website design', 'banner design', 'photoshop']",50.0,w0050
+10.0,"['graphic design', 'photoshop', 'logo design', 'photoshop design', 't-shirts']",457.0,w0456
+20.0,"['powerpoint', 'editing', 'pdf', 'graphic design']",1335.0,w1331
+25.0,"['joomla', 'php', 'website design', 'javascript', 'xml']",1572.0,w1560
+12.0,"['website design', 'graphic design', 'php', 'banner design', 'html']",501.0,w0500
+20.0,"['3d modelling', 'videography', 'graphic design', 'photoshop']",1034.0,w1031
+14.0,"['php', 'wordpress']",1394.0,w1390
+15.0,"['translation', 'spanish', 'data entry', 'articles', 'copywriting']",197.0,w0196
+12.0,"['linux', 'php', 'email marketing', 'bulk marketing', 'system admin']",10.0,w0010
+6.0,"['graphic design', 'logo design']",1628.0,w1614

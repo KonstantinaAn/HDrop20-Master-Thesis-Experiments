@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['java', 'jquery / prototype', 'mysql', 'xml', 'javascript']",1207.0,w1203
+15.0,"['website design', 'graphic design', 'html', 'php', 'photoshop']",280.0,w0279
+14.0,"['linux', 'php']",1428.0,w1423
+20.0,"['php', 'html', 'mysql', 'javascript', 'wordpress']",320.0,w0319
+4.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",73.0,w0073
+15.0,"['android', 'mobile phone', 'iphone']",222.0,w0221
+10.0,"['javascript', '.net', 'asp', 'visual basic', 'windows desktop']",1678.0,w1663
+5.0,"['data entry', 'excel', 'editing', 'research', 'copywriting']",782.0,w0781
+28.0,"['android', 'iphone', 'social networking', 'sql', 'wordpress']",451.0,w0450
+10.0,"['web search', 'data entry', 'excel']",1079.0,w1076
+21.0,"['software architecture', 'android', 'linux', 'project management', 'windows desktop']",846.0,w0845
+23.0,"['website design', 'php', 'css', 'psd to html', 'html']",275.0,w0274
+20.0,"['graphic design', 'articles', 'html', 'php']",1537.0,w1528
+10.0,"['php', 'html']",1748.0,w1732
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+10.0,"['articles', 'article rewriting', 'blog', 'copywriting', 'academic writing']",524.0,w0523
+15.0,"['wordpress', 'php', 'magento', 'mysql', 'css']",242.0,w0241
+30.0,"['php', 'html', 'facebook marketing', 'ajax', 'jquery / prototype']",380.0,w0379
+45.0,"['html', 'php', 'javascript', 'css', 'website design']",1157.0,w1153
+14.0,"['virtual assistant', 'logo design', 'illustration', 'photoshop']",1269.0,w1265
+20.0,"['html', 'php', 'website design', 'javascript', 'css']",1101.0,w1098
+25.0,"['joomla', 'php', 'html', 'css', 'magento']",146.0,w0145
+20.0,"['php', 'javascript', 'jquery / prototype', 'mysql']",307.0,w0306
+20.0,['php'],932.0,w0929
+18.0,"['php', 'wordpress', 'html', 'website design', 'graphic design']",113.0,w0112
+3.0,"['articles', 'seo', 'copywriting', 'excel', 'article rewriting']",1139.0,w1135
+20.0,"['php', 'html', 'website design', 'graphic design', 'css']",144.0,w0143
+30.0,"['iphone', 'mobile phone', 'ipad', 'android']",660.0,w0659
+25.0,"['php', 'website design', 'ajax', 'javascript', 'wordpress']",642.0,w0641
+15.0,"['wordpress', 'php', 'html', 'css', 'mysql']",313.0,w0312
+15.0,"['php', 'website design', 'javascript', 'ecommerce']",986.0,w0983
+5.0,"['.net', 'c# programming']",1470.0,w1463
+25.0,"['software architecture', '.net', 'windows desktop', 'c programming', 'c# programming']",385.0,w0384
+15.0,"['php', 'mysql', 'wordpress', 'html', 'software architecture']",389.0,w0388
+13.0,"['mysql', 'php', 'database administration', 'data processing']",417.0,w0416
+5.0,"['data entry', 'website design', 'graphic design', 'php', 'logo design']",1603.0,w1591
+12.0,"['website design', 'php', 'graphic design', 'html', 'wordpress']",29.0,w0029
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1747.0,w1731
+7.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",1028.0,w1025
+10.0,"['android', 'java']",1103.0,w1100
+10.0,"['php', 'mysql', 'ajax', 'html']",1571.0,w1559
+20.0,"['html', 'user interface / ia', 'php', 'ecommerce']",406.0,w0405
+15.0,"['mathematics', 'matlab &amp; mathematica', 'algorithm', 'statistics', 'c programming']",532.0,w0531
+30.0,"['php', 'mysql', 'software architecture', 'linux', 'database administration']",570.0,w0569
+20.0,"['iphone', 'mobile phone', 'android', 'ipad', 'ajax']",418.0,w0417
+10.0,"['graphic design', 'photoshop', 'flyer design', 'logo design']",800.0,w0799
+10.0,"['html', 'spanish']",1234.0,w1230
+11.0,"['php', 'mysql', 'software architecture', 'html', 'linux']",231.0,w0230
+8.0,"['prestashop', 'php', 'html', 'website design', 'css']",248.0,w0247
+10.0,"['linux', 'voip', 'unix', 'asterisk pbx']",1255.0,w1251

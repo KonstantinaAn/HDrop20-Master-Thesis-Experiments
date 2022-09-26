@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+30.0,"['iphone', 'ipad', 'mysql', 'php']",844.0,w0843
+15.0,"['php', 'xml', 'javascript']",1699.0,w1683
+25.0,"['php', 'ajax', 'javascript', 'website design']",1558.0,w1547
+25.0,"['mobile phone', 'iphone', 'android', 'php', 'anything goes']",155.0,w0154
+35.0,"['linux', 'c programming', 'system admin']",802.0,w0801
+25.0,"['php', 'wordpress', 'website design', 'joomla', 'css']",640.0,w0639
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+15.0,"['php', 'website design', 'ecommerce']",1502.0,w1494
+28.0,"['php', 'logo design', 'website design', 'wordpress', 'graphic design']",816.0,w0815
+6.0,"['anything goes', 'virtual assistant']",1693.0,w1678
+10.0,"['data entry', 'excel', 'web search', 'web scraping', 'social networking']",1071.0,w1068
+30.0,"['iphone', 'mobile phone', 'c++ programming', 'ipad', 'php']",96.0,w0095
+30.0,"['iphone', 'mobile phone', 'ipad', 'php', 'android']",506.0,w0505
+15.0,"['copywriting', 'research']",1643.0,w1629
+10.0,"['php', 'html', 'css', 'wordpress', 'website design']",1205.0,w1201
+25.0,"['php', 'html', 'internet marketing', 'website design', 'wordpress']",628.0,w0627
+10.0,"['software architecture', 'linux', 'c++ programming', 'android']",403.0,w0402
+2.0,"['anything goes', 'data entry', 'graphic design', 'php', 'website design']",1664.0,w1649
+8.0,"['copy typing', 'engineering', 'technical writing', 'research']",858.0,w0857
+16.0,"['php', 'website design', 'html', 'graphic design', 'seo']",30.0,w0030
+15.0,"['php', 'html', 'drupal', 'wordpress', 'magento']",301.0,w0300
+27.0,"['php', 'website design', 'html', 'graphic design', 'seo']",813.0,w0812
+20.0,"['magento', 'php', 'mysql', 'html', 'javascript']",236.0,w0235
+6.0,"['data entry', 'excel', 'web search', 'web scraping', 'photoshop']",35.0,w0035
+13.0,"['c# programming', 'asp', '.net']",1078.0,w1075
+15.0,"['php', 'project management', 'python', 'windows desktop']",259.0,w0258
+30.0,"['flash', 'actionscript', 'javascript', 'xml', 'php']",859.0,w0858
+6.0,"['data entry', 'data processing', 'game design', 'copy typing']",1384.0,w1380
+30.0,"['iphone', 'mobile phone', 'php', 'android']",1.0,w0001
+10.0,"['c# programming', 'asp', '.net']",1688.0,w1673
+10.0,"['php', 'html', 'wordpress', 'database administration', 'software architecture']",1249.0,w1245
+10.0,"['graphic design', 'photoshop', 'flyer design', 'logo design']",800.0,w0799
+10.0,"['php', 'drupal', '.net', 'javascript', 'software architecture']",20.0,w0020
+20.0,"['system admin', 'windows server', 'software architecture']",453.0,w0452
+10.0,"['asp', '.net', 'software architecture', 'javascript']",959.0,w0956
+13.0,"['joomla', 'php', 'html', 'css', 'website design']",196.0,w0195
+22.0,"['website design', 'css', 'php', 'html', 'photoshop']",298.0,w0297
+5.0,"['data entry', 'data processing', 'virtual assistant', 'web search', 'excel']",845.0,w0844
+7.0,"['articles', 'article rewriting', 'copywriting', 'blog', 'travel writing']",714.0,w0713
+15.0,"['microsoft exchange', 'system admin', 'html']",1319.0,w1315
+4.0,"['data entry', 'excel', 'web search', 'web scraping', 'data processing']",73.0,w0073
+15.0,"['html', 'php', 'wordpress']",1141.0,w1137
+10.0,"['android', 'mobile phone']",876.0,w0873
+15.0,"['php', 'mysql', 'css', 'javascript', 'jquery / prototype']",552.0,w0551
+20.0,"['mysql', 'php', 'linux', 'system admin']",1044.0,w1041
+14.0,"['virtual assistant', 'logo design', 'illustration', 'photoshop']",1269.0,w1265
+30.0,"['c programming', 'windows desktop', 'mobile phone', 'php', 'c# programming']",548.0,w0547
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+20.0,"['magento', 'php', 'website design', 'html', 'css']",542.0,w0541
+35.0,"['php', 'social networking', 'wordpress', 'facebook marketing', 'javascript']",679.0,w0678

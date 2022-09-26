@@ -1,0 +1,11 @@
+cost,skills,user_id,user_name
+40.0,"['business plans', 'business analysis', 'finance', 'marketing', 'accounting']",43.0,w0043
+15.0,"['excel', 'data entry', 'word', 'microsoft access', 'pdf']",1436.0,w1431
+10.0,"['3ds max', '3d rendering', 'autocad']",1097.0,w1094
+18.0,"['python', 'excel', 'php', 'data processing', 'web scraping']",546.0,w0545
+10.0,"['classifieds posting', 'data entry', 'data processing', 'marketing', 'excel']",1551.0,w1541
+25.0,"['3ds max', 'graphic design', '3d rendering']",1642.0,w1628
+10.0,"['photoshop', 'graphic design', '3ds max', '3d rendering', 'logo design']",1286.0,w1282
+15.0,"['microsoft access', 'sql', 'excel', 'mysql', '.net']",712.0,w0711
+20.0,"['excel', 'data processing', 'data entry', 'photoshop', 'visual basic']",135.0,w0134
+5.0,"['data entry', 'facebook marketing', 'internet marketing', 'data processing', 'excel']",339.0,w0338

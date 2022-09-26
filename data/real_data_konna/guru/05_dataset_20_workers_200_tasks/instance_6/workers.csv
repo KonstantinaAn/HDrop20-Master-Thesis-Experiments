@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+30.0,"['html', 'http', 'psd', 'psd to html']",516.0,w0505
+25.0,"['data entry', 'other - admin support', 'virtual assistants']",4119.0,w4039
+25.0,"['access', 'acrobat', 'analysis', 'data conversion', 'data entry', 'data mining', 'data scraping', 'email', 'email marketing', 'email support', 'excel', 'fact checking', 'leads', 'linkedin', 'mail merge', 'marketing', 'ms', 'ms office', 'open office', 'pdf', 'powerpoint', 'presentations', 'processing', 'real estate', 'research', 'seo', 'testing', 'word processing']",2804.0,w2756
+50.0,"['.net', 'android', 'asp', 'asp.net', 'basic', 'c', 'c#', 'c++', 'cocoa', 'css', 'css3', 'design', 'desktop applications', 'html', 'html5', 'ios', 'j2ee', 'java', 'javascript', 'joomla', 'jquery', 'mobile', 'mobile applications', 'mobile development', 'node.js', 'objective-c', 'phonegap', 'php', 'regular expressions', 'vba', 'vbscript', 'visual basic', 'web design', 'web development', 'windows', 'wordpress']",618.0,w0605
+500.0,"['actionscript', 'actionscript 3', 'apache', 'architect', 'architecture', 'business consulting', 'c', 'c++', 'case', 'consulting', 'contracts', 'css', 'delphi', 'design', 'developer', 'flash', 'html', 'http', 'https', 'iis', 'javascript', 'linux', 'mac os', 'mac os x', 'management', 'ms', 'ms vc++', 'mysql', 'objective-c', 'outsourcing', 'php', 'programming', 'project management', 'prolog', 'soap', 'software', 'software design', 'software development', 'sql', 'uml', 'windows', 'writing', 'xml', 'xsl']",2894.0,w2843
+25.0,"['adobe illustrator', 'adobe photoshop', 'ajax', 'assembly', 'c', 'c++', 'css', 'css3', 'design', 'developer', 'email', 'fireworks', 'html', 'html5', 'internet marketing', 'javascript', 'joomla', 'jquery', 'landing page design', 'marketing', 'page design', 'php', 'psd', 'psd to html', 'psd to wordpress', 'seo', 'twitter', 'twitter bootstrap', 'web design', 'wordpress']",2690.0,w2644
+25.0,"['accounting', 'bookkeeping', 'cold calling', 'filing', 'management', 'self', 'telemarketing']",2769.0,w2723
+250.0,"['access', 'actionscript', 'adobe illustrator', 'adobe photoshop', 'animation', 'database administration', 'database design', 'design', 'dreamweaver', 'flash', 'graphic design', 'html', 'illustration', 'javascript', 'marketing', 'php', 'web design', 'wiki', 'wordpress', 'xhtml']",2282.0,w2244
+100.0,"['3d', '3d models', '3d rendering', 'architecture', 'design', 'design research', 'drafting', 'graphic design', 'indesign', 'rendering', 'research', 'sketchup']",2105.0,w2071
+25.0,"['html5', 'magento', 'php', 'psd to html', 'psd to wordpress', 'website design', 'wordpress']",295.0,w0290
+100.0,"['ajax', 'apache', 'api', 'codeigniter', 'css', 'css3', 'database management', 'design', 'dhtml', 'facebook', 'facebook api', 'html', 'html5', 'iis', 'javascript', 'joomla', 'jquery', 'management', 'ms', 'mvc', 'mysql', 'oop', 'opencart', 'oscommerce', 'paypal', 'paypal api', 'paypal integration', 'php', 'psd', 'psd to html', 'software', 'software design', 'sql', 'testing', 'twitter', 'web design', 'website development', 'wordpress']",971.0,w0957
+25.0,"['3ds max', 'architecture', 'drawing', 'english', 'max', 'rendering']",1069.0,w1055
+25.0,"['.net', 'basic', 'c', 'c#', 'java', 'programming', 'software', 'software development', 'sql', 'visual basic']",3477.0,w3413
+25.0,"['data entry', 'design', 'editing', 'event management', 'excel', 'internet research', 'logo design', 'management', 'microsoft', 'pdf', 'powerpoint', 'reports', 'research', 'skype', 'software', 'transcription', 'translation', 'vista', 'windows', 'yahoo']",4446.0,w4360
+100.0,"['academic writing', 'creative writing', 'ghost writing', 'pdf', 'research', 'social media blogging', 'writing']",1511.0,w1490
+25.0,"['basic', 'c', 'c++', 'google adsense', 'html', 'java', 'make', 'management', 'manual testing', 'microcontroller', 'php', 'processing', 'programming', 'testing', 'wordpress']",2499.0,w2458
+50.0,"['design', 'graphics', 'vector design']",3300.0,w3241
+25.0,"['adobe photoshop', 'design', 'photoshop design', 'templates']",3935.0,w3863
+25.0,"['android', 'android sdk', 'c', 'c++', 'developer', 'html', 'html5', 'java', 'linux', 'mobile', 'mobile applications', 'php', 'software', 'windows']",967.0,w0953
+25.0,"['architecture', 'design', 'drafting']",3609.0,w3544

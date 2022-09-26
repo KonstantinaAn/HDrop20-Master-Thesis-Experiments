@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+10.0,"['logo design', 'graphic design', '3d animation', '3d rendering', '3d modelling']",1200.0,w1196
+10.0,"['graphic design', 'logo design', 'html', 'microsoft access']",412.0,w0411
+20.0,"['excel', 'financial markets', 'finance', 'software architecture']",342.0,w0341
+20.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'business cards']",478.0,w0477
+5.0,['logo design'],1025.0,w1022
+12.0,"['seo', 'internet marketing', 'wordpress', 'website design']",486.0,w0485
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+15.0,"['linux', 'mysql', 'php', 'web hosting', 'system admin']",290.0,w0289
+20.0,"['copywriting', 'proofreading', 'articles', 'academic writing']",544.0,w0543
+15.0,"['graphic design', 't-shirts', 'photoshop', 'photoshop design', 'covers &amp; packaging']",576.0,w0575
+15.0,"['graphic design', 'logo design']",854.0,w0853
+8.0,"['internet marketing', 'marketing', 'seo', 'sales', 'link building']",0.0,w0000
+3.0,"['marketing', 'photoshop', 'social networking']",1404.0,w1400
+5.0,['facebook marketing'],1473.0,w1466
+16.0,"['graphic design', 'website design', 'photoshop', 'logo design', 'html']",168.0,w0167
+40.0,"['linux', 'system admin', 'mysql', 'unix', 'web hosting']",500.0,w0499
+10.0,"['data entry', 'excel', 'html', 'web scraping', 'website design']",567.0,w0566
+8.0,"['web scraping', 'php', 'data entry', 'leads']",366.0,w0365
+17.0,"['software architecture', 'windows desktop', 'microsoft access']",1652.0,w1638
+10.0,"['php', 'html', 'website design', 'joomla']",1611.0,w1599
+20.0,"['3d animation', '3d modelling', '3ds max', 'animation']",821.0,w0820
+9.0,"['academic writing', 'mathematics', 'matlab &amp; mathematica', 'statistics']",880.0,w0877
+30.0,"['graphic design', 'logo design', 'photoshop', 'website design', 'illustrator']",84.0,w0083
+15.0,"['graphic design', 'logo design', 'illustrator', 'wordpress']",598.0,w0597
+20.0,"['graphic design', 'logo design', 'illustrator', 'website design', 'brochure design']",112.0,w0111
+15.0,"['arduino', 'electronics']",1185.0,w1181
+5.0,"['data entry', 'graphic design', 'excel', 'logo design', 'web search']",1056.0,w1053
+3.0,"['articles', 'article rewriting', 'academic writing', 'reviews']",1437.0,w1432
+22.0,"['joomla', 'php', 'html', 'mysql', 'cms']",1684.0,w1669
+17.0,"['mysql', 'ruby on rails', 'linux', 'amazon web services', 'javascript']",1440.0,w1435
+15.0,"['microcontroller', 'pcb layout', 'electronics', 'engineering']",873.0,w0870
+8.0,"['photoshop', 'graphic design', 'photoshop design', 'logo design']",1059.0,w1056
+5.0,"['seo', 'link building']",1738.0,w1722
+20.0,"['php', 'wordpress', 'css', 'mysql', 'joomla']",1169.0,w1165
+20.0,"['html', 'php', 'mysql', 'internet marketing', 'website design']",1469.0,w1462
+25.0,"['after effects', 'video services', 'animation']",720.0,w0719
+25.0,"['graphic design', 'logo design', 'banner design', 'website design']",363.0,w0362
+25.0,"['graphic design', 'logo design']",1166.0,w1162
+10.0,"['graphic design', 'photoshop design']",1258.0,w1254
+10.0,"['academic writing', 'telecommunications engineering']",1314.0,w1310
+15.0,"['graphic design', 'flash', 'website design', 'logo design']",1583.0,w1571
+18.0,"['graphic design', 'website design', 'logo design', 'html', 'php']",164.0,w0163
+20.0,"['graphic design', 'photoshop', 'logo design', 'illustrator']",652.0,w0651
+10.0,"['excel', 'web scraping', 'data processing', 'virtual assistant']",827.0,w0826
+25.0,"['graphic design', 'logo design', 'brochure design', 't-shirts', 'business cards']",1291.0,w1287
+25.0,"['graphic design', 'logo design', 'photoshop', 'brochure design', 'banner design']",21.0,w0021
+15.0,"['internet marketing', 'sem / adwords']",1232.0,w1228
+10.0,"['website design', 'graphic design', 'html', 'caricature &amp; cartoons', 'photoshop']",648.0,w0647
+20.0,"['excel', 'data processing', 'web scraping', 'data entry', 'accounting']",908.0,w0905
+7.0,"['marketing', 'internet marketing', 'data entry', 'social networking']",1376.0,w1372

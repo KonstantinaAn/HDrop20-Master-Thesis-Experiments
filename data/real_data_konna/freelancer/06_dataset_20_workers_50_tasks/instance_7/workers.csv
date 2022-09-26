@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+8.0,"['articles', 'article rewriting']",713.0,w0712
+10.0,"['flash', 'actionscript']",1254.0,w1250
+10.0,"['c programming', 'c++ programming', 'java', 'algorithm']",1661.0,w1646
+20.0,"['php', 'wordpress', 'html', 'css', 'website design']",139.0,w0138
+8.0,"['accounting', 'finance', 'business analysis', 'academic writing']",741.0,w0740
+15.0,"['website design', 'html', 'php', 'graphic design', 'wordpress']",768.0,w0767
+10.0,"['data entry', 'excel', 'microsoft access']",1206.0,w1202
+30.0,"['.net', 'software architecture', 'php', 'c# programming', 'web scraping']",41.0,w0041
+10.0,"['html', 'website design', 'graphic design']",1327.0,w1323
+15.0,"['logo design', 'graphic design', 'photoshop', 'illustrator', 'banner design']",965.0,w0962
+10.0,['website design'],1602.0,w1590
+25.0,"['php', 'wordpress', 'html', 'javascript', 'mysql']",329.0,w0328
+10.0,"['html', 'php', 'website design', 'ajax']",952.0,w0949
+40.0,"['voice talent', 'audio services', 'video services', 'advertising']",261.0,w0260
+5.0,"['php', 'javascript', 'html', 'mysql', 'css']",766.0,w0765
+10.0,"['classifieds posting', 'internet marketing', 'leads', 'advertising', 'marketing']",1608.0,w1596
+10.0,"['3d modelling', '3d animation', '3d rendering', 'animation', 'after effects']",452.0,w0451
+5.0,"['transcription', 'editing', 'articles', 'copy typing', 'proofreading']",477.0,w0476
+25.0,"['software architecture', 'php', 'mysql', 'javascript', 'script install']",1576.0,w1564
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283

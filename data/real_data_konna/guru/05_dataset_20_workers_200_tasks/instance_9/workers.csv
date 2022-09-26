@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+200.0,"['ajax', 'api', 'application development', 'authorize.net', 'c', 'css', 'css3', 'custom cms', 'data entry', 'design', 'drupal', 'ecommerce', 'facebook', 'google maps', 'html', 'html5', 'ipad', 'iphone', 'javascript', 'joomla', 'jquery', 'magento', 'management', 'microsoft', 'mobile', 'ms', 'mysql', 'oracle', 'outsourcing', 'paypal', 'php', 'prestashop', 'psd', 'psd to xhtml', 'sem', 'seo', 'smarty', 'sql', 'sql server', 'twitter', 'virtuemart', 'web 2.0', 'web development', 'website design', 'wordpress', 'xhtml', 'zen cart', 'zend']",152.0,w0150
+50.0,"['css', 'html', 'magento', 'mysql', 'php', 'security', 'shopping carts']",3841.0,w3769
+50.0,"['asp', 'banner', 'banner design', 'cakephp', 'design', 'dreamweaver', 'drupal', 'facebook', 'flash', 'google maps', 'graphic design', 'html', 'javascript', 'joomla', 'logo design', 'mysql', 'php', 'ruby', 'ruby on rails', 'website design', 'wordpress']",1024.0,w1010
+25.0,"['brochures', 'corporate', 'developer', 'english', 'fiction', 'make', 'marketing', 'microsoft', 'oracle', 'software', 'software application', 'writing']",1141.0,w1125
+30.0,"['admin assistant', 'data entry', 'excel', 'google docs', 'ms excel', 'research']",3432.0,w3369
+50.0,"['boost', 'copywriting', 'event planning', 'financial services', 'marketing', 'materials', 'real estate', 'sales', 'writing']",3390.0,w3328
+25.0,"['articles', 'communications', 'design', 'email', 'email design', 'email marketing', 'excel', 'marketing', 'ms', 'ms office', 'ms word', 'newsletters', 'photography', 'powerpoint', 'press release writing', 'press releases', 'social media marketing', 'social media outreach', 'writing']",1397.0,w1379
+25.0,"['article submission', 'blog commenting', 'directory submission', 'link building', 'rss', 'seo', 'social bookmarking', 'yahoo']",2947.0,w2895
+25.0,"['guitar', 'ms', 'ms office', 'music', 'singing', 'soundforge']",324.0,w0318
+25.0,"['android', 'app development', 'application development', 'com', 'http', 'ios', 'iphone', 'java', 'mobile', 'mobile application development', 'skype']",3916.0,w3844
+500.0,"['agile', 'drupal', 'html', 'mysql', 'node.js', 'product development', 'psd', 'psd to html', 'ruby', 'ruby on rails', 'wordpress']",2052.0,w2019
+50.0,"['access', 'analysis', 'analytics', 'business correspondence', 'construction', 'consulting', 'data analysis', 'fact checking', 'financial services', 'internet research', 'market research', 'renewable energy', 'reports', 'research', 'self', 'writing']",2145.0,w2110
+30.0,"['adobe illustrator', 'adobe photoshop', 'banner design', 'business card design', 'ecommerce', 'graphic design', 'gui design', 'html5', 'landing page design', 'logo design', 'mobile web design', 'php', 'poster design', 'print design', 'psd to html', 'responsive web design', 'sem', 'seo', 'smo', 'ui design', 'web design', 'web developer', 'wordpress', 'xhtml']",1468.0,w1449
+100.0,"['copywriting', 'excel', 'html', 'internet research', 'ms', 'ms excel', 'ms powerpoint', 'ms word', 'outlook', 'powerpoint', 'research', 'sharepoint', 'sql', 'sql server', 'typing']",284.0,w0279
+25.0,"['copy editing', 'editing', 'grammar', 'punctuation', 'spelling']",2732.0,w2686
+200.0,"['3d', 'architectural design', 'architecture', 'design']",555.0,w0543
+200.0,"['android', 'asp', 'asp.net', 'css', 'drupal', 'html', 'html5', 'iphone', 'java', 'joomla', 'magento', 'management', 'mobile', 'mysql', 'php', 'postgresql', 'prestashop', 'python', 'qa', 'ruby', 'ruby on rails', 'technical support', 'testing', 'wordpress']",2468.0,w2427
+25.0,"['.net', 'apache', 'application development', 'asp', 'c', 'c#', 'css', 'drupal', 'html', 'javascript', 'joomla', 'jsp', 'linux', 'microsoft', 'mysql', 'php', 'programming', 'sharepoint', 'web technologies', 'windows', 'wordpress']",2421.0,w2380
+50.0,"['articles', 'blog commenting', 'customer service', 'live chat', 'logistics', 'management', 'marketing', 'phone support', 'sales', 'selling', 'technical writing', 'telemarketing', 'time management', 'writing']",4507.0,w4420
+25.0,"['cad', 'civil', 'environmental', 'ms excel', 'ms word', 'typing', 'video']",1488.0,w1469

@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['facebook marketing', 'social networking', 'internet marketing']",631.0,w0630
+25.0,"['excel', 'data entry', 'data processing', 'visual basic', 'microsoft access']",545.0,w0544
+20.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",238.0,w0237
+30.0,"['3d rendering', '3d modelling', 'autocad']",954.0,w0951
+5.0,['photoshop'],1237.0,w1233
+15.0,"['3d rendering', '3d modelling', '3ds max', 'graphic design']",944.0,w0941
+5.0,"['academic writing', 'article rewriting']",1727.0,w1711
+15.0,"['excel', 'web scraping']",893.0,w0890
+15.0,"['graphic design', 'flash', 'website design', 'logo design']",1583.0,w1571
+5.0,"['academic writing', 'research', 'articles', 'technical writing']",376.0,w0375
+20.0,"['graphic design', 'logo design', 'illustrator', 'photoshop', 'business cards']",137.0,w0136
+5.0,"['graphic design', 'logo design', 'photoshop']",1494.0,w1486
+10.0,"['joomla', 'php', 'html', 'website design', 'advertising']",754.0,w0753
+20.0,"['electronics', 'engineering', 'microcontroller']",513.0,w0512
+6.0,"['graphic design', 'logo design']",1628.0,w1614
+3.0,"['web search', 'data entry', 'advertising', 'internet marketing', 'virtual assistant']",1453.0,w1448
+35.0,"['website design', 'wordpress', 'cms', 'graphic design', 'facebook marketing']",1702.0,w1686
+5.0,"['photoshop', 'graphic design', 'banner design', 'website design']",1745.0,w1729
+1.0,"['logo design', 'data entry', 'graphic design']",724.0,w0723
+10.0,['logo design'],1529.0,w1520
+15.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",8.0,w0008
+30.0,"['graphic design', 'logo design', 'photoshop', 'banner design', 'website design']",227.0,w0226
+10.0,"['after effects', 'videography', 'animation']",1120.0,w1117
+12.0,"['android', 'mobile phone', 'java', 'iphone', 'python']",616.0,w0615
+10.0,"['php', 'mysql', 'website management', 'joomla', 'javascript']",1390.0,w1386
+25.0,"['graphic design', 'logo design', 'banner design', 'flash', 'website design']",49.0,w0049
+9.0,"['php', 'web hosting', 'ajax', 'mysql', 'javascript']",990.0,w0987
+5.0,"['video services', 'after effects']",1418.0,w1413
+12.0,"['polish', 'translation', 'book writing']",1175.0,w1171
+15.0,"['logo design', 'graphic design', 'website design', 'photoshop design']",549.0,w0548
+10.0,"['graphic design', 'logo design', 'illustrator', 'photoshop']",656.0,w0655
+10.0,"['facebook marketing', 'social networking', 'internet marketing', 'marketing']",300.0,w0299
+15.0,"['php', 'joomla', 'website design', 'html', 'graphic design']",244.0,w0243
+15.0,"['microcontroller', 'pcb layout', 'electronics', 'engineering']",873.0,w0870
+25.0,"['graphic design', 'photoshop', 'banner design', 'business cards']",467.0,w0466
+40.0,"['3d modelling', '3d rendering', 'video services', 'cad/cam', '3d animation']",257.0,w0256
+10.0,"['graphic design', 'banner design', 'photoshop', 'brochure design', 'flash']",852.0,w0851
+8.0,"['graphic design', 'logo design', 'illustrator', 'illustration', 'flyer design']",1491.0,w1483
+7.0,"['illustrator', 'caricature &amp; cartoons', 'logo design', 'illustration']",1145.0,w1141
+15.0,"['flash', 'website management', 'photoshop', 'xml', 'css']",1734.0,w1718
+10.0,"['internet marketing', 'seo', 'css', 'html', 'advertising']",1245.0,w1241
+30.0,"['linux', 'php', 'apache', 'mysql', 'unix']",594.0,w0593
+15.0,"['php', 'xml', 'javascript']",1699.0,w1683
+5.0,"['classifieds posting', 'leads', 'internet marketing', 'data entry']",1287.0,w1283
+20.0,"['academic writing', 'articles', 'ghostwriting', 'copywriting']",429.0,w0428
+10.0,"['3d rendering', '3d modelling', 'autocad']",654.0,w0653
+30.0,"['wordpress', 'graphic design', 'website design', 'photoshop design', 'html']",165.0,w0164
+10.0,"['facebook marketing', 'social networking']",289.0,w0288
+15.0,"['graphic design', 'logo design', 'photoshop', 'photoshop design', 't-shirts']",718.0,w0717
+16.0,"['prestashop', 'php', 'html', 'internet marketing', 'seo']",494.0,w0493

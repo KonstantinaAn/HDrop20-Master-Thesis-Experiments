@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+16.0,"['academic writing', 'excel', 'data processing', 'data entry', 'proofreading']",224.0,w0223
+25.0,"['android', 'c programming', 'ipad', 'mobile phone']",690.0,w0689
+25.0,"['animation', 'after effects', 'video services', 'video broadcasting', 'flash']",1539.0,w1530
+10.0,"['after effects', 'videography', 'animation']",1120.0,w1117
+17.0,['python'],1212.0,w1208
+8.0,"['video services', 'videography']",1597.0,w1585
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+15.0,"['php', 'project management', 'python', 'windows desktop']",249.0,w0248
+30.0,"['iphone', 'ipad', 'android']",128.0,w0127
+35.0,"['voice talent', 'video services', 'audio services', 'videography', 'music']",977.0,w0974
+15.0,"['magento', 'data processing', 'data entry']",1081.0,w1078
+50.0,"['voice talent', 'audio services']",1297.0,w1293
+25.0,"['anything goes', 'website design', 'graphic design', 'php', 'html']",206.0,w0205
+35.0,"['video services', 'animation', 'flash', 'after effects', 'graphic design']",6.0,w0006
+40.0,"['video services', '3d animation', 'voice talent', 'animation', 'audio services']",373.0,w0372
+30.0,"['iphone', 'mobile phone', 'ipad', 'android']",63.0,w0063
+25.0,"['iphone', 'mobile phone', 'android', 'ipad', 'php']",435.0,w0434
+50.0,"['article rewriting', 'academic writing', 'copywriting', 'technical writing', 'translation']",1147.0,w1143
+50.0,"['voice talent', 'anything goes', 'video services']",1616.0,w1604
+25.0,"['animation', 'after effects', 'video services', 'video broadcasting', 'flash']",1540.0,w1531

@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+25.0,"['android', 'c programming', 'ipad', 'mobile phone']",690.0,w0689
+30.0,"['python', 'php', 'software architecture', 'algorithm', 'web scraping']",579.0,w0578
+40.0,"['voice talent', 'audio services', 'video services', 'advertising']",261.0,w0260
+20.0,"['articles', 'article rewriting', 'academic writing', 'data entry', 'blog']",1170.0,w1166
+20.0,"['academic writing', 'graphic design', 'blog', 'translation']",1501.0,w1493
+30.0,"['article rewriting', 'academic writing', 'copywriting', 'translation', 'technical writing']",626.0,w0625
+7.0,"['audio services', 'data entry', 'music', 'game design']",897.0,w0894
+12.0,"['academic writing', 'marketing', 'business analysis', 'business plans']",1363.0,w1359
+30.0,"['html', 'magento', 'php', 'css', 'website design']",1093.0,w1090
+10.0,"['articles', 'article rewriting', 'ghostwriting', 'blog', 'academic writing']",107.0,w0106
+37.0,"['mobile phone', 'iphone', 'php', 'android', 'ipad']",899.0,w0896
+35.0,"['iphone', 'mobile phone', 'android', 'ipad', 'javascript']",53.0,w0053
+10.0,"['academic writing', 'article rewriting', 'technical writing', 'research', 'ghostwriting']",505.0,w0504
+10.0,"['article rewriting', 'articles', 'academic writing']",1536.0,w1527
+10.0,"['php', 'logo design', 'flash', 'website design', 'banner design']",1589.0,w1577
+7.0,"['academic writing', 'articles']",956.0,w0953
+40.0,"['video services', 'videography', 'animation', 'graphic design', '3d animation']",81.0,w0080
+15.0,"['translation', 'data entry', 'audio services', 'data processing']",1660.0,w1645
+20.0,"['mobile phone', 'iphone', 'android', 'ipad']",86.0,w0085
+30.0,"['php', 'graphic design', 'android', 'html', 'jquery / prototype']",743.0,w0742

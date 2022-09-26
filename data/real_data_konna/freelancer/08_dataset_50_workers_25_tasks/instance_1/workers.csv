@@ -1,0 +1,51 @@
+cost,skills,user_id,user_name
+20.0,"['website design', 'graphic design', 'php', 'flash', 'logo design']",5.0,w0005
+20.0,"['c++ programming', 'android', 'python', 'linux', 'java']",1033.0,w1030
+10.0,"['joomla', 'html', 'php', 'css', 'website design']",823.0,w0822
+12.0,"['php', 'link building', 'linux', 'ajax']",1560.0,w1549
+20.0,"['php', 'html', 'css', 'wordpress', 'c programming']",781.0,w0780
+40.0,"['arduino', 'electronics', 'microcontroller', 'c# programming', 'android']",629.0,w0628
+25.0,"['html', 'php', 'wordpress']",1272.0,w1268
+25.0,"['php', 'iphone', 'ajax', 'jquery / prototype']",368.0,w0367
+15.0,"['php', 'html', 'software architecture', 'graphic design', 'css']",1321.0,w1317
+7.0,"['spanish', 'data entry', 'word', 'copy typing']",972.0,w0969
+12.0,"['php', 'link building', 'linux', 'ajax']",1559.0,w1548
+5.0,"['php', 'mysql', 'html', 'linux']",1422.0,w1417
+30.0,"['software architecture', 'engineering', 'windows desktop', '.net', 'c# programming']",398.0,w0397
+10.0,"['java', 'software architecture', 'javascript', '.net', 'sql']",1310.0,w1306
+10.0,"['php', 'html']",1748.0,w1732
+14.0,"['.net', 'c# programming']",1711.0,w1695
+18.0,"['php', 'asterisk pbx', 'mysql']",1252.0,w1248
+20.0,['java'],1622.0,w1609
+20.0,"['facebook marketing', 'html', 'graphic design', 'social networking', 'php']",683.0,w0682
+15.0,"['php', 'javascript', 'html']",885.0,w0882
+20.0,"['metatrader', 'software architecture', 'algorithm', 'c++ programming', 'c programming']",563.0,w0562
+20.0,"['php', 'wordpress', 'software testing', 'virtuemart']",1015.0,w1012
+25.0,"['academic writing', 'technical writing', 'copywriting', 'virtual assistant']",732.0,w0731
+15.0,"['php', 'web scraping', 'html', 'mysql', 'wordpress']",377.0,w0376
+35.0,"['mobile phone', 'android', 'iphone', 'ipad']",340.0,w0339
+20.0,"['system admin', 'windows server', 'software architecture']",453.0,w0452
+20.0,"['python', 'c programming', 'software architecture', 'web scraping', 'linux']",516.0,w0515
+10.0,"['website design', 'html', 'graphic design', 'php', 'psd to html']",161.0,w0160
+2.0,"['audio services', 'virtual assistant', 'anything goes']",1217.0,w1213
+5.0,"['data entry', 'website design', 'graphic design', 'php', 'logo design']",1603.0,w1591
+15.0,"['php', 'website design', 'ecommerce']",1502.0,w1494
+45.0,"['php', 'website design', 'graphic design', 'html', 'ecommerce']",812.0,w0811
+10.0,"['html', 'graphic design', 'php', 'website design']",1257.0,w1253
+20.0,"['software architecture', 'php', 'mysql', 'web hosting', 'perl']",345.0,w0344
+12.0,"['articles', 'copywriting', 'translation']",1427.0,w1422
+8.0,"['html', 'php', 'wordpress', 'css', 'psd to html']",910.0,w0907
+10.0,"['graphic design', 'photoshop', 'logo design', 'illustrator', 'flyer design']",541.0,w0540
+30.0,"['iphone', 'ipad', 'android']",128.0,w0127
+20.0,"['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']",1646.0,w1632
+15.0,"['php', 'website management', 'javascript', 'xml', 'java']",1224.0,w1220
+15.0,"['articles', 'article rewriting', 'academic writing', 'translation', 'copywriting']",386.0,w0385
+15.0,"['iphone', 'mobile phone', 'php', 'android', 'ipad']",1037.0,w1034
+12.0,"['wordpress', 'php', 'css', 'website design', 'html']",694.0,w0693
+30.0,"['php', 'javascript', 'ajax', 'website design', 'joomla']",1105.0,w1102
+15.0,"['graphic design', 'flyer design', 'website design', 'business cards']",1203.0,w1199
+10.0,"['php', 'joomla', 'mysql', 'css', 'website design']",361.0,w0360
+9.0,"['php', 'html', 'website design', 'graphic design', 'wordpress']",70.0,w0070
+35.0,"['php', 'html', 'website design', 'wordpress', 'mysql']",1069.0,w1066
+25.0,"['software architecture', 'php', 'mysql', 'javascript', 'script install']",1576.0,w1564
+29.0,"['mobile phone', 'iphone', 'android', 'java']",776.0,w0775

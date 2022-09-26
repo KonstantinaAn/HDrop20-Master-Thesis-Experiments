@@ -1,0 +1,41 @@
+cost,skills,user_id,user_name
+28.0,"['php', 'logo design', 'website design', 'wordpress', 'graphic design']",816.0,w0815
+5.0,"['data entry', 'excel', 'editing', 'research', 'copywriting']",782.0,w0781
+15.0,"['illustrator', 'illustration', 'game design', 'photoshop', 'animation']",122.0,w0121
+10.0,"['logo design', 'graphic design', 'illustrator']",527.0,w0526
+20.0,"['website design', 'html', 'php', 'graphic design', 'css']",512.0,w0511
+15.0,"['mechanical engineering', '3d rendering', '3d modelling', 'product design']",907.0,w0904
+20.0,"['illustrator', 'graphic design', 'photoshop', 'photoshop design', 'illustration']",819.0,w0818
+20.0,"['php', 'html', 'graphic design', 'mysql', 'joomla']",214.0,w0213
+10.0,"['proofreading', 'editing', 'ghostwriting', 'technical writing', 'copywriting']",1719.0,w1703
+12.0,"['graphic design', 'photoshop', 'illustrator', 'stationery design']",1448.0,w1443
+10.0,"['illustration', 'graphic design', 'animation', 'photoshop', 'illustrator']",946.0,w0943
+13.0,"['wordpress', 'php', 'html', 'web hosting', 'web search']",915.0,w0912
+5.0,"['translation', 'internet marketing']",1248.0,w1244
+20.0,"['php', 'mysql', 'sql', '.net', 'html']",93.0,w0092
+10.0,"['linux', 'voip', 'unix', 'asterisk pbx']",1255.0,w1251
+30.0,"['.net', 'software architecture', 'php', 'c# programming', 'web scraping']",41.0,w0041
+5.0,['mac os'],1552.0,w1542
+15.0,"['graphic design', 'flash', 'website design', 'logo design']",1735.0,w1719
+10.0,"['academic writing', 'technical writing', 'articles', 'business analysis']",116.0,w0115
+10.0,"['javascript', 'c# programming', 'perl', 'python', 'java']",1486.0,w1478
+5.0,"['php', 'wordpress', 'css', 'html', 'website design']",644.0,w0643
+4.0,"['articles', 'article rewriting', 'copywriting', 'editing']",1261.0,w1257
+20.0,"['php', 'javascript', 'website design', 'html', 'css']",896.0,w0893
+20.0,"['social networking', 'facebook marketing', 'user interface / ia', 'logo design', 'php']",1053.0,w1050
+10.0,"['excel', '.net', 'microsoft access', 'windows desktop', 'database administration']",1005.0,w1002
+10.0,"['graphic design', 'logo design', 'html', 'microsoft access']",412.0,w0411
+10.0,"['apache', 'script install', 'system admin']",1495.0,w1487
+20.0,"['video services', 'after effects', 'animation', 'video broadcasting', 'typography']",410.0,w0409
+10.0,"['html', 'php', 'css']",1367.0,w1363
+16.0,"['php', 'mysql', 'software architecture', 'web hosting', 'javascript']",65.0,w0065
+25.0,"['embedded software', 'microcontroller', 'c programming', 'electronics']",613.0,w0612
+10.0,"['photoshop', 'graphic design', 'logo design', 'banner design', 'illustrator']",1591.0,w1579
+15.0,"['flash', 'website design', 'graphic design', 'anything goes', 'actionscript']",1231.0,w1227
+4.0,"['data processing', 'data entry']",1416.0,w1411
+10.0,"['photoshop', 'illustration', 'illustrator']",922.0,w0919
+12.0,"['jquery / prototype', 'ajax', 'php', 'mysql', 'javascript']",1671.0,w1656
+5.0,"['php', 'html', 'mysql', 'jquery / prototype']",1137.0,w1133
+13.0,"['graphic design', 'illustrator', 'illustration', 'photoshop', 'logo design']",948.0,w0945
+10.0,"['seo', 'link building', 'internet marketing', 'data entry']",1333.0,w1329
+5.0,"['editing', 'article rewriting', 'proofreading']",1127.0,w1124
