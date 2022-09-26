@@ -1,0 +1,306 @@
+Official_Experiment_CSG_dataset_01_instance_01_0_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_01\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_01\\workers.csv', 'workers': {'w1613', 'w0631', 'w0270', 'w1007', 'w1534'}, 'workers_df':    cost  ... y_star_index
+0  25.0  ...          1.0
+1  45.0  ...          0.0
+2  20.0  ...          0.0
+3  32.0  ...          0.0
+4   5.0  ...          1.0
+
+[5 rows x 5 columns], 'tasks_df':                              skill  skill_id  valuation  x_star_index
+0                embedded software        60         75           0.0
+1   telecommunications engineering       146         42           0.0
+2                      game design        69        136           1.0
+3               project management       120        102           0.0
+4                         indesign        77         25           0.0
+5                         research       124        102           0.0
+6                      copy typing        42         39           0.0
+7                           mac os        93         78           0.0
+8                   video services       156         84           1.0
+9                   website design       166         81           0.0
+10                          iphone         0          0           0.0
+11                         android         0          0           0.0
+12                    mobile phone         0          0           0.0
+13                            ipad         0          0           0.0
+14                            html         0          0           0.0
+15                             php         0          0           0.0
+16                          joomla         0          0           0.0
+17                           mysql         0          0           0.0
+18                  graphic design         0          0           0.0
+19                             seo         0          0           0.0
+20                    web scraping         0          0           0.0
+21               social networking         0          0           0.0
+22              video broadcasting         0          0           0.0
+23                           linux         0          0           0.0, 'task_set': {'web scraping', 'video services', 'html', 'php', 'mysql', 'embedded software', 'copy typing', 'iphone', 'android', 'joomla', 'mac os', 'research', 'telecommunications engineering', 'game design', 'seo', 'graphic design', 'website design', 'social networking', 'video broadcasting', 'linux', 'ipad', 'project management', 'indesign', 'mobile phone'}, 'worker_task_dict': {'w1534': ['iphone', 'android', 'mobile phone', 'game design', 'ipad'], 'w0270': ['html', 'website design', 'php', 'joomla', 'mysql'], 'w0631': ['website design', 'graphic design', 'html', 'php', 'seo'], 'w1007': ['web scraping', 'social networking', 'website design', 'php'], 'w1613': ['video broadcasting', 'linux', 'video services']}, 'task_val_dict': {'embedded software': 75, 'telecommunications engineering': 42, 'game design': 136, 'project management': 102, 'indesign': 25, 'research': 102, 'copy typing': 39, 'mac os': 78, 'video services': 84, 'website design': 81, 'iphone': 0, 'android': 0, 'mobile phone': 0, 'ipad': 0, 'html': 0, 'php': 0, 'joomla': 0, 'mysql': 0, 'graphic design': 0, 'seo': 0, 'web scraping': 0, 'social networking': 0, 'video broadcasting': 0, 'linux': 0}, 'worke_cost': {'w1534': 25.0, 'w0270': 45.0, 'w0631': 20.0, 'w1007': 32.0, 'w1613': 5.0}, 'n': 24, 'm': 5, 'solution': {'w1613', 'w1534'}, 'value': 190.0}"
+Official_Experiment_CSG_dataset_01_instance_02_1_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_02\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_02\\workers.csv', 'workers': {'w0768', 'w1593', 'w0886', 'w1410', 'w1295'}, 'workers_df':    cost  ... y_star_index
+0  20.0  ...          0.0
+1  30.0  ...          0.0
+2  10.0  ...          0.0
+3  30.0  ...          1.0
+4  10.0  ...          1.0
+
+[5 rows x 5 columns], 'tasks_df':                   skill  skill_id  valuation  x_star_index
+0   user interface / ia       154        182           0.0
+1      creative writing        45        171           0.0
+2          shell script       133        190           0.0
+3                 leads        89        256           0.0
+4          3d rendering         3        187           1.0
+5      microsoft access       101        220           1.0
+6           advertising         8        104           0.0
+7     stationery design       140        116           0.0
+8          mobile phone       103        127           0.0
+9                iphone        81        103           0.0
+10          game design         0          0           0.0
+11         3d animation         0          0           0.0
+12         3d modelling         0          0           0.0
+13              3ds max         0          0           0.0
+14            animation         0          0           0.0
+15  classifieds posting         0          0           0.0
+16   internet marketing         0          0           0.0
+17           data entry         0          0           0.0
+18            marketing         0          0           0.0
+19              autocad         0          0           0.0, 'task_set': {'autocad', 'microsoft access', 'shell script', 'classifieds posting', 'animation', '3d rendering', 'iphone', '3d modelling', 'user interface / ia', '3d animation', 'game design', 'marketing', 'advertising', 'stationery design', 'leads', 'internet marketing', 'creative writing', '3ds max', 'data entry', 'mobile phone'}, 'worker_task_dict': {'w1593': ['game design', '3d rendering'], 'w0768': ['3d animation', '3d rendering', '3d modelling', '3ds max', 'animation'], 'w1295': ['classifieds posting', 'internet marketing', 'data entry', 'advertising', 'marketing'], 'w0886': ['microsoft access'], 'w1410': ['3d rendering', 'autocad', '3ds max', '3d modelling']}, 'task_val_dict': {'user interface / ia': 182, 'creative writing': 171, 'shell script': 190, 'leads': 256, '3d rendering': 187, 'microsoft access': 220, 'advertising': 104, 'stationery design': 116, 'mobile phone': 127, 'iphone': 103, 'game design': 0, '3d animation': 0, '3d modelling': 0, '3ds max': 0, 'animation': 0, 'classifieds posting': 0, 'internet marketing': 0, 'data entry': 0, 'marketing': 0, 'autocad': 0}, 'worke_cost': {'w1593': 20.0, 'w0768': 30.0, 'w1295': 10.0, 'w0886': 30.0, 'w1410': 10.0}, 'n': 20, 'm': 5, 'solution': {'w0886', 'w1410'}, 'value': 367.0}"
+Official_Experiment_CSG_dataset_01_instance_03_2_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_03\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_03\\workers.csv', 'workers': {'w1226', 'w0794', 'w0325', 'w1039', 'w1138'}, 'workers_df':    cost  ... y_star_index
+0  50.0  ...          0.0
+1  10.0  ...          1.0
+2   5.0  ...          1.0
+3  10.0  ...          0.0
+4  10.0  ...          0.0
+
+[5 rows x 5 columns], 'tasks_df':                          skill  skill_id  valuation  x_star_index
+0   simplified chinese (china)       134        131           0.0
+1          amazon web services        12         89           0.0
+2                photo editing       110         70           0.0
+3                after effects         9        205           0.0
+4                anything goes        15        114           0.0
+5                         unix       153        117           0.0
+6     matlab &amp; mathematica        97        152           0.0
+7               business cards        32         39           0.0
+8                  illustrator        76        171           1.0
+9              data processing        49        141           1.0
+10                       linux         0          0           0.0
+11                       mysql         0          0           0.0
+12                         php         0          0           0.0
+13                system admin         0          0           0.0
+14              graphic design         0          0           0.0
+15                   photoshop         0          0           0.0
+16                 logo design         0          0           0.0
+17            photoshop design         0          0           0.0
+18                  data entry         0          0           0.0
+19          internet marketing         0          0           0.0
+20                       excel         0          0           0.0
+21           virtual assistant         0          0           0.0
+22                illustration         0          0           0.0, 'task_set': {'system admin', 'after effects', 'business cards', 'php', 'illustration', 'mysql', 'photo editing', 'matlab &amp; mathematica', 'anything goes', 'simplified chinese (china)', 'amazon web services', 'excel', 'graphic design', 'logo design', 'linux', 'photoshop design', 'internet marketing', 'data entry', 'data processing', 'photoshop', 'virtual assistant', 'unix', 'illustrator'}, 'worker_task_dict': {'w1039': ['linux', 'mysql', 'php', 'system admin', 'unix'], 'w1138': ['graphic design', 'photoshop', 'logo design', 'illustrator', 'photoshop design'], 'w1226': ['data entry', 'internet marketing', 'excel', 'data processing', 'virtual assistant'], 'w0794': ['graphic design', 'photoshop', 'illustrator', 'logo design'], 'w0325': ['graphic design', 'photoshop', 'illustrator', 'logo design', 'illustration']}, 'task_val_dict': {'simplified chinese (china)': 131, 'amazon web services': 89, 'photo editing': 70, 'after effects': 205, 'anything goes': 114, 'unix': 117, 'matlab &amp; mathematica': 152, 'business cards': 39, 'illustrator': 171, 'data processing': 141, 'linux': 0, 'mysql': 0, 'php': 0, 'system admin': 0, 'graphic design': 0, 'photoshop': 0, 'logo design': 0, 'photoshop design': 0, 'data entry': 0, 'internet marketing': 0, 'excel': 0, 'virtual assistant': 0, 'illustration': 0}, 'worke_cost': {'w1039': 50.0, 'w1138': 10.0, 'w1226': 5.0, 'w0794': 10.0, 'w0325': 10.0}, 'n': 23, 'm': 5, 'solution': {'w0794', 'w1226'}, 'value': 297.0}"
+Official_Experiment_CSG_dataset_01_instance_04_3_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_04\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_04\\workers.csv', 'workers': {'w0422', 'w1245', 'w0452', 'w1633', 'w1576'}, 'workers_df':    cost  ... y_star_index
+0  15.0  ...          0.0
+1  10.0  ...          1.0
+2  20.0  ...          0.0
+3  10.0  ...          1.0
+4  20.0  ...          0.0
+
+[5 rows x 5 columns], 'tasks_df':                       skill  skill_id  valuation  x_star_index
+0         invitation design        79         59           0.0
+1            concept design        41         85           0.0
+2              asterisk pbx        22         47           0.0
+3                pcb layout       107        119           0.0
+4         social networking       135        124           1.0
+5               psd to html       122         38           0.0
+6          microsoft access       101         77           0.0
+7             sem / adwords       130         83           0.0
+8     software architecture       136         79           1.0
+9                 wordpress       171         76           1.0
+10       website management         0          0           0.0
+11         software testing         0          0           0.0
+12       facebook marketing         0          0           0.0
+13       internet marketing         0          0           0.0
+14        article rewriting         0          0           0.0
+15             system admin         0          0           0.0
+16           windows server         0          0           0.0
+17                      php         0          0           0.0
+18                     html         0          0           0.0
+19  database administration         0          0           0.0
+20                ecommerce         0          0           0.0
+21                      xml         0          0           0.0
+22           website design         0          0           0.0
+23               javascript         0          0           0.0, 'task_set': {'system admin', 'html', 'php', 'microsoft access', 'invitation design', 'concept design', 'ecommerce', 'xml', 'windows server', 'database administration', 'psd to html', 'software testing', 'wordpress', 'website management', 'pcb layout', 'website design', 'javascript', 'social networking', 'software architecture', 'sem / adwords', 'internet marketing', 'article rewriting', 'asterisk pbx', 'facebook marketing'}, 'worker_task_dict': {'w1576': ['website management', 'software architecture', 'software testing'], 'w0422': ['facebook marketing', 'social networking', 'internet marketing', 'article rewriting'], 'w0452': ['system admin', 'windows server', 'software architecture'], 'w1245': ['php', 'html', 'wordpress', 'database administration', 'software architecture'], 'w1633': ['wordpress', 'ecommerce', 'xml', 'website design', 'javascript']}, 'task_val_dict': {'invitation design': 59, 'concept design': 85, 'asterisk pbx': 47, 'pcb layout': 119, 'social networking': 124, 'psd to html': 38, 'microsoft access': 77, 'sem / adwords': 83, 'software architecture': 79, 'wordpress': 76, 'website management': 0, 'software testing': 0, 'facebook marketing': 0, 'internet marketing': 0, 'article rewriting': 0, 'system admin': 0, 'windows server': 0, 'php': 0, 'html': 0, 'database administration': 0, 'ecommerce': 0, 'xml': 0, 'website design': 0, 'javascript': 0}, 'worke_cost': {'w1576': 15.0, 'w0422': 10.0, 'w0452': 20.0, 'w1245': 10.0, 'w1633': 20.0}, 'n': 24, 'm': 5, 'solution': {'w1245', 'w0422'}, 'value': 259.0}"
+Official_Experiment_CSG_dataset_01_instance_05_4_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_05\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_05\\workers.csv', 'workers': {'w1105', 'w0878', 'w1133', 'w0294', 'w1012'}, 'workers_df':    cost                                          skills  ...  user_name y_star_index
+0   5.0   [facebook marketing, internet marketing, seo]  ...      w1105          0.0
+1   5.0          [php, html, mysql, jquery / prototype]  ...      w1133          1.0
+2  20.0     [wordpress, php, website design, html, css]  ...      w0294          0.0
+3  15.0      [excel, css, translation, php, data entry]  ...      w0878          0.0
+4  20.0  [php, wordpress, software testing, virtuemart]  ...      w1012          0.0
+
+[5 rows x 5 columns], 'tasks_df':                  skill  skill_id  valuation  x_star_index
+0              arduino        18         56           0.0
+1               arabic        17         27           0.0
+2        anything goes        15         42           0.0
+3       c# programming        35         42           0.0
+4       audio services        23         25           0.0
+5            marketing        95         37           0.0
+6              reviews       125         16           0.0
+7    social networking       135         37           0.0
+8                  php       114         31           1.0
+9            photoshop       112         23           0.0
+10  facebook marketing         0          0           0.0
+11  internet marketing         0          0           0.0
+12                 seo         0          0           0.0
+13                html         0          0           0.0
+14               mysql         0          0           0.0
+15  jquery / prototype         0          0           0.0
+16           wordpress         0          0           0.0
+17      website design         0          0           0.0
+18                 css         0          0           0.0
+19               excel         0          0           0.0
+20         translation         0          0           0.0
+21          data entry         0          0           0.0
+22    software testing         0          0           0.0
+23          virtuemart         0          0           0.0, 'task_set': {'css', 'html', 'php', 'arduino', 'c# programming', 'mysql', 'jquery / prototype', 'anything goes', 'excel', 'seo', 'software testing', 'wordpress', 'reviews', 'marketing', 'website design', 'social networking', 'translation', 'internet marketing', 'data entry', 'arabic', 'photoshop', 'audio services', 'facebook marketing', 'virtuemart'}, 'worker_task_dict': {'w1105': ['facebook marketing', 'internet marketing', 'seo'], 'w1133': ['php', 'html', 'mysql', 'jquery / prototype'], 'w0294': ['wordpress', 'php', 'website design', 'html', 'css'], 'w0878': ['excel', 'css', 'translation', 'php', 'data entry'], 'w1012': ['php', 'wordpress', 'software testing', 'virtuemart']}, 'task_val_dict': {'arduino': 56, 'arabic': 27, 'anything goes': 42, 'c# programming': 42, 'audio services': 25, 'marketing': 37, 'reviews': 16, 'social networking': 37, 'php': 31, 'photoshop': 23, 'facebook marketing': 0, 'internet marketing': 0, 'seo': 0, 'html': 0, 'mysql': 0, 'jquery / prototype': 0, 'wordpress': 0, 'website design': 0, 'css': 0, 'excel': 0, 'translation': 0, 'data entry': 0, 'software testing': 0, 'virtuemart': 0}, 'worke_cost': {'w1105': 5.0, 'w1133': 5.0, 'w0294': 20.0, 'w0878': 15.0, 'w1012': 20.0}, 'n': 24, 'm': 5, 'solution': {'w1133'}, 'value': 26.0}"
+Official_Experiment_CSG_dataset_01_instance_06_5_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_06\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_06\\workers.csv', 'workers': {'w0042', 'w0719', 'w1431', 'w0628', 'w1400'}, 'workers_df':    cost  ... y_star_index
+0  12.0  ...          0.0
+1   3.0  ...          1.0
+2  25.0  ...          0.0
+3  40.0  ...          1.0
+4  15.0  ...          0.0
+
+[5 rows x 5 columns], 'tasks_df':                  skill  skill_id  valuation  x_star_index
+0        poster design       116        142           0.0
+1              arduino        18        267           1.0
+2    social networking       135        200           1.0
+3      c++ programming        36        144           0.0
+4   project management       120        125           0.0
+5     software testing       137        182           0.0
+6          photography       111        169           0.0
+7                  pdf       108        129           0.0
+8            animation        14        118           0.0
+9      data processing        49        185           0.0
+10      video services         0          0           0.0
+11        3d animation         0          0           0.0
+12       after effects         0          0           0.0
+13      graphic design         0          0           0.0
+14           marketing         0          0           0.0
+15           photoshop         0          0           0.0
+16         electronics         0          0           0.0
+17     microcontroller         0          0           0.0
+18      c# programming         0          0           0.0
+19             android         0          0           0.0
+20               excel         0          0           0.0
+21          data entry         0          0           0.0
+22                word         0          0           0.0
+23    microsoft access         0          0           0.0, 'task_set': {'video services', 'after effects', 'arduino', 'poster design', 'c# programming', 'microsoft access', 'animation', 'android', 'pdf', 'word', 'electronics', '3d animation', 'excel', 'software testing', 'graphic design', 'marketing', 'social networking', 'microcontroller', 'project management', 'c++ programming', 'photography', 'data processing', 'photoshop', 'data entry'}, 'worker_task_dict': {'w0042': ['video services', 'animation', '3d animation', 'after effects', 'graphic design'], 'w1400': ['marketing', 'photoshop', 'social networking'], 'w0719': ['after effects', 'video services', 'animation'], 'w0628': ['arduino', 'electronics', 'microcontroller', 'c# programming', 'android'], 'w1431': ['excel', 'data entry', 'word', 'microsoft access', 'pdf']}, 'task_val_dict': {'poster design': 142, 'arduino': 267, 'social networking': 200, 'c++ programming': 144, 'project management': 125, 'software testing': 182, 'photography': 169, 'pdf': 129, 'animation': 118, 'data processing': 185, 'video services': 0, '3d animation': 0, 'after effects': 0, 'graphic design': 0, 'marketing': 0, 'photoshop': 0, 'electronics': 0, 'microcontroller': 0, 'c# programming': 0, 'android': 0, 'excel': 0, 'data entry': 0, 'word': 0, 'microsoft access': 0}, 'worke_cost': {'w0042': 12.0, 'w1400': 3.0, 'w0719': 25.0, 'w0628': 40.0, 'w1431': 15.0}, 'n': 24, 'm': 5, 'solution': {'w1400', 'w0628'}, 'value': 424.0}"
+Official_Experiment_CSG_dataset_01_instance_07_6_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_07\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_07\\workers.csv', 'workers': {'w1479', 'w0148', 'w0357', 'w1063', 'w0130'}, 'workers_df':    cost  ... y_star_index
+0   5.0  ...          1.0
+1   8.0  ...          0.0
+2  20.0  ...          1.0
+3   9.0  ...          0.0
+4  20.0  ...          0.0
+
+[5 rows x 5 columns], 'tasks_df':                  skill  skill_id  valuation  x_star_index
+0    embedded software        60         78           0.0
+1           virtuemart       159         99           1.0
+2          mathematics        96         92           0.0
+3                  sql       139         48           0.0
+4    technical writing       145         48           0.0
+5           pcb layout       107         46           0.0
+6                 blog        26         46           0.0
+7                  cms        40         73           0.0
+8        banner design        25         78           0.0
+9          logo design        92         57           1.0
+10  facebook marketing         0          0           0.0
+11   social networking         0          0           0.0
+12  internet marketing         0          0           0.0
+13   article rewriting         0          0           0.0
+14            articles         0          0           0.0
+15              joomla         0          0           0.0
+16                 php         0          0           0.0
+17               mysql         0          0           0.0
+18      website design         0          0           0.0
+19         copywriting         0          0           0.0
+20    academic writing         0          0           0.0
+21            research         0          0           0.0, 'task_set': {'php', 'blog', 'banner design', 'mysql', 'embedded software', 'sql', 'joomla', 'research', 'copywriting', 'pcb layout', 'website design', 'social networking', 'cms', 'articles', 'logo design', 'technical writing', 'internet marketing', 'academic writing', 'article rewriting', 'mathematics', 'facebook marketing', 'virtuemart'}, 'worker_task_dict': {'w1063': ['facebook marketing', 'social networking', 'internet marketing', 'logo design'], 'w1479': ['article rewriting', 'blog', 'articles'], 'w0357': ['joomla', 'virtuemart', 'php', 'mysql', 'website design'], 'w0130': ['articles', 'copywriting', 'blog'], 'w0148': ['academic writing', 'technical writing', 'research', 'articles']}, 'task_val_dict': {'embedded software': 78, 'virtuemart': 99, 'mathematics': 92, 'sql': 48, 'technical writing': 48, 'pcb layout': 46, 'blog': 46, 'cms': 73, 'banner design': 78, 'logo design': 57, 'facebook marketing': 0, 'social networking': 0, 'internet marketing': 0, 'article rewriting': 0, 'articles': 0, 'joomla': 0, 'php': 0, 'mysql': 0, 'website design': 0, 'copywriting': 0, 'academic writing': 0, 'research': 0}, 'worke_cost': {'w1063': 5.0, 'w1479': 8.0, 'w0357': 20.0, 'w0130': 9.0, 'w0148': 20.0}, 'n': 22, 'm': 5, 'solution': {'w0357', 'w1063'}, 'value': 131.0}"
+Official_Experiment_CSG_dataset_01_instance_08_7_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_08\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_08\\workers.csv', 'workers': {'w0766', 'w1371', 'w0588', 'w1546', 'w1006'}, 'workers_df':    cost  ... y_star_index
+0  12.0  ...          0.0
+1  15.0  ...          0.0
+2  80.0  ...          1.0
+3  40.0  ...          0.0
+4  30.0  ...          1.0
+
+[5 rows x 5 columns], 'tasks_df':                       skill  skill_id  valuation  x_star_index
+0                       xxx       173        134           0.0
+1             forum posting        68        157           0.0
+2                   3ds max         4         33           0.0
+3            script install       129         91           1.0
+4               electronics        58        128           0.0
+5          microsoft access       101         99           0.0
+6        project management       120        122           0.0
+7   database administration        50         81           0.0
+8                 wordpress       171         99           1.0
+9           data processing        49        144           1.0
+10                     html         0          0           0.0
+11                      php         0          0           0.0
+12           website design         0          0           0.0
+13           graphic design         0          0           0.0
+14                    mysql         0          0           0.0
+15                      css         0          0           0.0
+16            c programming         0          0           0.0
+17                    linux         0          0           0.0
+18                     perl         0          0           0.0
+19                   apache         0          0           0.0
+20                      sql         0          0           0.0
+21               javascript         0          0           0.0, 'task_set': {'css', 'html', 'php', 'microsoft access', 'perl', 'mysql', 'script install', 'sql', 'database administration', 'forum posting', 'electronics', 'wordpress', 'xxx', 'graphic design', 'website design', 'javascript', 'apache', 'linux', 'project management', '3ds max', 'c programming', 'data processing'}, 'worker_task_dict': {'w1371': ['wordpress', 'html', 'php', 'website design', 'graphic design'], 'w0766': ['php', 'mysql', 'html', 'css', 'wordpress'], 'w1546': ['php', 'c programming', 'linux', 'perl', 'data processing'], 'w1006': ['php', 'linux', 'wordpress', 'apache', 'sql'], 'w0588': ['php', 'mysql', 'javascript', 'script install', 'wordpress']}, 'task_val_dict': {'xxx': 134, 'forum posting': 157, '3ds max': 33, 'script install': 91, 'electronics': 128, 'microsoft access': 99, 'project management': 122, 'database administration': 81, 'wordpress': 99, 'data processing': 144, 'html': 0, 'php': 0, 'website design': 0, 'graphic design': 0, 'mysql': 0, 'css': 0, 'c programming': 0, 'linux': 0, 'perl': 0, 'apache': 0, 'sql': 0, 'javascript': 0}, 'worke_cost': {'w1371': 12.0, 'w0766': 15.0, 'w1546': 80.0, 'w1006': 40.0, 'w0588': 30.0}, 'n': 22, 'm': 5, 'solution': {'w0588'}, 'value': 160.0}"
+Official_Experiment_CSG_dataset_01_instance_09_8_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_09\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_09\\workers.csv', 'workers': {'w1131', 'w1213', 'w1678', 'w0875', 'w0008'}, 'workers_df':    cost  ... y_star_index
+0  12.0  ...          1.0
+1  15.0  ...          0.0
+2   2.0  ...          0.0
+3  10.0  ...          1.0
+4   6.0  ...          0.0
+
+[5 rows x 5 columns], 'tasks_df':                          skill  skill_id  valuation  x_star_index
+0   simplified chinese (china)       134        111           0.0
+1                    bootstrap        28        123           0.0
+2             software testing       137        156           0.0
+3                 proofreading       121         77           1.0
+4                    marketing        95         55           0.0
+5            virtual assistant       158         75           0.0
+6           project management       120        103           0.0
+7                        leads        89         90           0.0
+8             academic writing         5         74           1.0
+9                  translation       149        133           1.0
+10                    articles         0          0           0.0
+11                 copywriting         0          0           0.0
+12          facebook marketing         0          0           0.0
+13           social networking         0          0           0.0
+14          internet marketing         0          0           0.0
+15              audio services         0          0           0.0
+16               anything goes         0          0           0.0
+17                         php         0          0           0.0
+18                       mysql         0          0           0.0
+19              graphic design         0          0           0.0
+20                      delphi         0          0           0.0, 'task_set': {'proofreading', 'php', 'mysql', 'delphi', 'bootstrap', 'anything goes', 'simplified chinese (china)', 'software testing', 'copywriting', 'graphic design', 'marketing', 'social networking', 'leads', 'articles', 'translation', 'project management', 'internet marketing', 'academic writing', 'virtual assistant', 'audio services', 'facebook marketing'}, 'worker_task_dict': {'w0875': ['academic writing', 'articles', 'copywriting', 'proofreading'], 'w0008': ['facebook marketing', 'social networking', 'internet marketing', 'marketing'], 'w1213': ['audio services', 'virtual assistant', 'anything goes'], 'w1131': ['translation', 'php', 'mysql', 'graphic design', 'delphi'], 'w1678': ['anything goes', 'virtual assistant']}, 'task_val_dict': {'simplified chinese (china)': 111, 'bootstrap': 123, 'software testing': 156, 'proofreading': 77, 'marketing': 55, 'virtual assistant': 75, 'project management': 103, 'leads': 90, 'academic writing': 74, 'translation': 133, 'articles': 0, 'copywriting': 0, 'facebook marketing': 0, 'social networking': 0, 'internet marketing': 0, 'audio services': 0, 'anything goes': 0, 'php': 0, 'mysql': 0, 'graphic design': 0, 'delphi': 0}, 'worke_cost': {'w0875': 12.0, 'w0008': 15.0, 'w1213': 2.0, 'w1131': 10.0, 'w1678': 6.0}, 'n': 21, 'm': 5, 'solution': {'w1131', 'w0875'}, 'value': 262.0}"
+Official_Experiment_CSG_dataset_01_instance_10_9_exec,"{'task_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_10\\tasks.csv', 'worker_file': 'C:\\Users\\Konstantina\\Desktop\\HDrop20-master-thesis-experiments\\data\\data_files\\01_dataset_5_workers_10_tasks\\instance_10\\workers.csv', 'workers': {'w0622', 'w0489', 'w1296', 'w0365', 'w0669'}, 'workers_df':    cost                                       skills  ...  user_name y_star_index
+0   8.0       [web scraping, php, data entry, leads]  ...      w0365          0.0
+1  18.0              [perl, mysql, javascript, ajax]  ...      w0622          1.0
+2  30.0      [system admin, linux, php, web hosting]  ...      w0669          1.0
+3  15.0  [javascript, jquery / prototype, php, html]  ...      w1296          0.0
+4  10.0       [excel, javascript, visual basic, php]  ...      w0489          0.0
+
+[5 rows x 5 columns], 'tasks_df':                        skill  skill_id  valuation  x_star_index
+0                   unity 3d       152         30           0.0
+1                    swedish       142         69           0.0
+2         project management       120         63           0.0
+3                       ajax        10         50           1.0
+4                web hosting       163         40           1.0
+5   matlab &amp; mathematica        97         63           0.0
+6               shell script       133         65           0.0
+7               3d modelling         2         73           0.0
+8                        php       114         22           1.0
+9         internet marketing        78         35           0.0
+10              web scraping         0          0           0.0
+11                data entry         0          0           0.0
+12                     leads         0          0           0.0
+13                      perl         0          0           0.0
+14                     mysql         0          0           0.0
+15                javascript         0          0           0.0
+16              system admin         0          0           0.0
+17                     linux         0          0           0.0
+18        jquery / prototype         0          0           0.0
+19                      html         0          0           0.0
+20                     excel         0          0           0.0
+21              visual basic         0          0           0.0, 'task_set': {'web scraping', 'system admin', 'html', 'php', 'unity 3d', 'shell script', 'perl', 'mysql', 'jquery / prototype', 'swedish', '3d modelling', 'matlab &amp; mathematica', 'excel', 'javascript', 'ajax', 'visual basic', 'leads', 'web hosting', 'linux', 'project management', 'internet marketing', 'data entry'}, 'worker_task_dict': {'w0365': ['web scraping', 'php', 'data entry', 'leads'], 'w0622': ['perl', 'mysql', 'javascript', 'ajax'], 'w0669': ['system admin', 'linux', 'php', 'web hosting'], 'w1296': ['javascript', 'jquery / prototype', 'php', 'html'], 'w0489': ['excel', 'javascript', 'visual basic', 'php']}, 'task_val_dict': {'unity 3d': 30, 'swedish': 69, 'project management': 63, 'ajax': 50, 'web hosting': 40, 'matlab &amp; mathematica': 63, 'shell script': 65, '3d modelling': 73, 'php': 22, 'internet marketing': 35, 'web scraping': 0, 'data entry': 0, 'leads': 0, 'perl': 0, 'mysql': 0, 'javascript': 0, 'system admin': 0, 'linux': 0, 'jquery / prototype': 0, 'html': 0, 'excel': 0, 'visual basic': 0}, 'worke_cost': {'w0365': 8.0, 'w0622': 18.0, 'w0669': 30.0, 'w1296': 15.0, 'w0489': 10.0}, 'n': 22, 'm': 5, 'solution': {'w0622', 'w0365'}, 'value': 46.0}"
