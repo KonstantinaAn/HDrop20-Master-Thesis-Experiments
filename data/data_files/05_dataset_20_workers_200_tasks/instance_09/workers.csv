@@ -1,0 +1,21 @@
+cost,skills,user_id,user_name
+30.0,"['adobe photoshop', 'corporate identity', 'displays', 'logo design', 'photo editing', 'photography']",909.0,w0895
+50.0,"['asp', 'css', 'dreamweaver', 'eclipse', 'html', 'java', 'javascript', 'microsoft', 'vista', 'windows']",2192.0,w2156
+100.0,"['adobe creative suite', 'basecamp', 'blackberry', 'com', 'corporate', 'design', 'dreamweaver', 'email', 'email design', 'excel', 'gmail', 'html', 'indesign', 'internet marketing', 'ipad', 'iphone', 'make', 'marketing', 'microsoft', 'mobile', 'outlook', 'processing', 'software', 'symbian', 'test', 'windows', 'windows mobile', 'word processing', 'yahoo']",4553.0,w4466
+50.0,"['.net', 'analysis', 'application development', 'arduino', 'asp.net', 'business management solutions', 'c', 'c#', 'consulting', 'database design', 'delphi', 'design', 'electronics', 'embedded systems', 'engineering', 'management', 'metatrader', 'mt4', 'programming', 'software', 'software development', 'sql', 'vb.net', 'visual web developer']",3419.0,w3356
+25.0,"['dreamweaver', 'indesign']",3309.0,w3250
+25.0,"['bpo', 'communication skills', 'email', 'marketing', 'publication production', 'sales', 'telemarketing', 'translation']",3517.0,w3453
+50.0,"['adobe photoshop', 'app development', 'css3', 'dhtml', 'html', 'html5', 'java', 'javascript', 'jquery', 'jquery mobile', 'php', 'psd', 'responsive web design', 'twitter bootstrap', 'web development', 'website design', 'website development', 'xhtml']",1964.0,w1932
+30.0,"['audio editing', 'civil', 'editing', 'microsoft', 'presentations', 'radio', 'sales', 'television', 'training', 'voice over']",534.0,w0522
+100.0,"['communication skills', 'customer service', 'data entry', 'international', 'marketing', 'ms', 'ms office', 'outlook', 'research', 'sales']",3163.0,w3107
+33.0,"['app development', 'com', 'drupal', 'http', 'java', 'mobile', 'objective-c', 'php', 'skype']",3737.0,w3669
+25.0,"['craigslist', 'email', 'music', 'research', 'sports', 'writing']",3522.0,w3458
+100.0,"['cakephp', 'codeigniter', 'design', 'drupal', 'magento', 'open source', 'opencart', 'oscommerce', 'php', 'website design', 'wordpress', 'zen cart', 'zend framework']",3717.0,w3649
+25.0,"['articles', 'make', 'powerpoint', 'press releases', 'report writing', 'reviews', 'seo', 'skill', 'software', 'writing']",2133.0,w2098
+25.0,"['academic writing', 'article writing', 'creative writing', 'editing', 'proofreading']",3933.0,w3861
+50.0,"['access', 'customer service', 'excel', 'management', 'microsoft', 'powerpoint', 'research', 'time management', 'travel arrangements']",2167.0,w2132
+100.0,"['adobe creative suite', 'adobe illustrator', 'adobe photoshop', 'design', 'graphic art', 'poster design', 'print design', 'typography']",3895.0,w3823
+100.0,"['basic', 'c', 'c#', 'computer hardware', 'css', 'developer', 'html', 'html5', 'javascript', 'jquery', 'mysql', 'php', 'psd', 'psd to html', 'software', 'technical support', 'web developer', 'wordpress']",2024.0,w1992
+100.0,"['acting', 'adobe photoshop', 'consultant', 'creative writing', 'director', 'editing', 'film', 'final draft', 'graphics', 'producer', 'screenwriting', 'writing']",3162.0,w3106
+25.0,"['hd video', 'video editing', 'videos']",1473.0,w1454
+40.0,"['articles', 'broadcasting', 'brochures', 'copywriting', 'creative writing', 'editing', 'excel', 'focus', 'freelance', 'newsletters', 'press releases', 'radio', 'research', 'web content', 'website content', 'windows', 'writing']",4460.0,w4374

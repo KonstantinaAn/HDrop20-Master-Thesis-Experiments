@@ -1,0 +1,339 @@
+skill,skill_id,valuation
+electronic product design,539,106
+asian business,125,109
+contract law,371,125
+videography editing,1502,121
+openvpn,1038,141
+romance,1222,72
+sap netweaver,1249,120
+news writing style,1003,87
+tamil,1395,86
+cad drawing,235,151
+mac,870,71
+postscript,1135,140
+threat modeling,1428,54
+online payments,1029,168
+oauth,1017,120
+mercurial,929,91
+regular expressions,1196,133
+sales contracts,1234,64
+mobile 2.0,951,82
+web page design,1561,123
+audio services,136,163
+adobe flash,47,198
+personal injury,1092,116
+luxury goods industry,869,95
+test driven development,1422,132
+act crm,28,123
+technical illustration,1407,80
+compiler,338,106
+medical imaging,925,82
+undefined,1459,94
+non profit start up,1013,96
+mcse,915,53
+tax law,1398,121
+business plan,219,120
+corporate videos,394,158
+criminal law,408,177
+tandem,1396,52
+social networking apps,1319,60
+legal assistance,842,114
+web campaigns,1541,94
+display advertising,493,128
+plc,1119,64
+continuous integration,370,74
+essbase,562,64
+node.js,1009,79
+software design,1328,131
+croatian,412,115
+windows 8,1599,102
+social media integration,1314,126
+digital photography,484,151
+fitness industry,616,70
+2d animation,4,36
+blog design,178,114
+flash presentations,622,131
+firewalls,613,114
+interpreting,763,129
+sequential art,1274,130
+ios development,772,163
+google docs,673,93
+information architecture,742,63
+https,717,91
+brand advertising,193,142
+educational psychology,531,99
+flash design,621,169
+customer satisfaction,429,148
+information technology industry,743,159
+software solutions,1334,211
+performance tuning,1090,113
+article marketing,118,135
+teaching english,1403,68
+spanish translation,1345,171
+italian translation,791,99
+business coaching,206,133
+symfony,1388,86
+pc hardware,1082,134
+payment processing,1076,142
+medical illustration,924,106
+import,732,129
+insurance industry,748,81
+social bookmarking,1303,188
+magazine design,877,89
+smm,1297,114
+stl,1369,146
+autodesk mudbox,144,90
+financial statements,609,94
+desktop applications,472,59
+blender3d,175,81
+windows phone,1603,178
+video games,1494,140
+2d design,6,106
+cms (content management system),303,141
+character animation,263,85
+public relations (pr),1172,203
+data security,450,96
+hardware troubleshooting,700,158
+payroll processing,1081,88
+microsoft visual studio,943,179
+performance testing,1089,128
+letterhead,845,157
+merchandising,928,99
+ad design,36,86
+autodesk maya,143,123
+patents,1072,84
+admin assistant,38,115
+biotechnology,170,29
+vbulletin,1476,60
+open office,1033,118
+database engine,458,137
+ext js,572,88
+google apps,671,111
+typesetting,1450,95
+magazine articles,876,92
+government agencies,681,92
+desktop support,474,105
+.net compact framework,3,92
+informatica,741,157
+vtiger,1529,171
+google maps api,675,144
+backlinking,152,110
+virtualization,1507,146
+poser,1131,173
+financial writing,610,145
+sound editing,1341,136
+user experience design,1466,155
+cam,246,82
+software engineering,1331,119
+exim,568,90
+dynamic websites,507,147
+german translation,656,124
+color palette,319,116
+django framework,497,114
+art,115,93
+call handling,244,56
+citrix,284,110
+core java,381,118
+dns,498,127
+custom websites,424,111
+ai,62,116
+outbound sales,1063,146
+teaching,1402,108
+devexpress,476,47
+network administration,999,70
+knockoutjs,825,68
+tcp/ip,1401,144
+instructional design,747,154
+microstrategy,945,121
+software application,1326,153
+sketchup,1291,159
+web content management,1546,156
+feature writing,589,96
+natural language,997,96
+computer security,349,58
+contracts,373,106
+application support,102,87
+color design,318,77
+network security,1001,102
+mac os x,873,105
+search engine optimization copywriting (seo),1263,108
+2d graphics,7,39
+css javascript,416,179
+android,78,122
+brochure design,197,65
+graphics,690,53
+indesign,736,109
+logo design,868,110
+http,716,120
+smarty,1296,66
+finance,602,141
+web developer,1552,42
+skill,1292,104
+videos,1503,114
+web services,1569,130
+dreamweaver,503,132
+visual basic,1511,157
+vista,1510,127
+article writing,121,86
+reviews,1213,121
+fireworks,614,169
+painting,1070,104
+jquery,812,60
+director,489,69
+asp.net,128,195
+radio,1185,69
+erp,560,80
+spanish,1344,157
+pdf,1085,82
+adobe indesign,49,78
+pay per click,1074,90
+jsp,817,64
+iphone development,781,81
+website design,1582,127
+coldfusion,315,89
+application development,100,129
+templates,1418,106
+mobile application development,953,126
+processing,1150,147
+vba,1473,128
+open source,1034,122
+print design,1147,129
+seo,1273,91
+adobe photoshop,0,0
+corporate identity,0,0
+displays,0,0
+photo editing,0,0
+photography,0,0
+asp,0,0
+css,0,0
+eclipse,0,0
+html,0,0
+java,0,0
+javascript,0,0
+microsoft,0,0
+windows,0,0
+adobe creative suite,0,0
+basecamp,0,0
+blackberry,0,0
+com,0,0
+corporate,0,0
+design,0,0
+email,0,0
+email design,0,0
+excel,0,0
+gmail,0,0
+internet marketing,0,0
+ipad,0,0
+iphone,0,0
+make,0,0
+marketing,0,0
+mobile,0,0
+outlook,0,0
+software,0,0
+symbian,0,0
+test,0,0
+windows mobile,0,0
+word processing,0,0
+yahoo,0,0
+.net,0,0
+analysis,0,0
+arduino,0,0
+business management solutions,0,0
+c,0,0
+c#,0,0
+consulting,0,0
+database design,0,0
+delphi,0,0
+electronics,0,0
+embedded systems,0,0
+engineering,0,0
+management,0,0
+metatrader,0,0
+mt4,0,0
+programming,0,0
+software development,0,0
+sql,0,0
+vb.net,0,0
+visual web developer,0,0
+bpo,0,0
+communication skills,0,0
+publication production,0,0
+sales,0,0
+telemarketing,0,0
+translation,0,0
+app development,0,0
+css3,0,0
+dhtml,0,0
+html5,0,0
+jquery mobile,0,0
+php,0,0
+psd,0,0
+responsive web design,0,0
+twitter bootstrap,0,0
+web development,0,0
+website development,0,0
+xhtml,0,0
+audio editing,0,0
+civil,0,0
+editing,0,0
+presentations,0,0
+television,0,0
+training,0,0
+voice over,0,0
+customer service,0,0
+data entry,0,0
+international,0,0
+ms,0,0
+ms office,0,0
+research,0,0
+drupal,0,0
+objective-c,0,0
+skype,0,0
+craigslist,0,0
+music,0,0
+sports,0,0
+writing,0,0
+cakephp,0,0
+codeigniter,0,0
+magento,0,0
+opencart,0,0
+oscommerce,0,0
+wordpress,0,0
+zen cart,0,0
+zend framework,0,0
+articles,0,0
+powerpoint,0,0
+press releases,0,0
+report writing,0,0
+academic writing,0,0
+creative writing,0,0
+proofreading,0,0
+access,0,0
+time management,0,0
+travel arrangements,0,0
+adobe illustrator,0,0
+graphic art,0,0
+poster design,0,0
+typography,0,0
+basic,0,0
+computer hardware,0,0
+developer,0,0
+mysql,0,0
+psd to html,0,0
+technical support,0,0
+acting,0,0
+consultant,0,0
+film,0,0
+final draft,0,0
+producer,0,0
+screenwriting,0,0
+hd video,0,0
+video editing,0,0
+broadcasting,0,0
+brochures,0,0
+copywriting,0,0
+focus,0,0
+freelance,0,0
+newsletters,0,0
+web content,0,0
+website content,0,0

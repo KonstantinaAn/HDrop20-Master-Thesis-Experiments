@@ -1,0 +1,268 @@
+skill,skill_id,valuation
+concept artistry,352,337
+communications,331,74
+soundedit,1342,313
+scorm,1256,255
+java api,797,317
+lamp administration,828,314
+crawlers,404,292
+adobe business catalyst,44,453
+java security,798,245
+closing contracts,296,334
+websites,1589,156
+calculus,239,286
+content managed websites,363,263
+startup marketing,1365,325
+educational games,528,159
+jenkins,805,191
+website support,1587,113
+manufacturing,890,319
+ecommerce optimization,520,420
+construction management,356,307
+forth,630,255
+client server application development,294,391
+desktop support,474,245
+japanese,794,292
+content development,362,249
+mac os x,873,251
+sendmail,1272,289
+brand management,194,163
+icons,723,210
+progress,1159,266
+press release writing,1143,190
+voice broadcasting,1522,336
+core java,381,198
+yahoo store,1627,449
+algorithms,68,316
+mac os,872,425
+application design,99,382
+postfix,1133,57
+contracts,373,208
+civil,285,242
+data scraping,449,399
+book cover design,186,302
+social media,1310,276
+visual basic .net,1512,521
+sports,1347,232
+cocoa,305,292
+ffmpeg,590,347
+autodesk mudbox,144,260
+performance tuning,1090,310
+financial statements,609,268
+pic,1111,284
+pattern design,1073,257
+vba programming,1474,406
+excel programming,567,416
+organizational behavior,1051,258
+order processing,1049,370
+computer security,349,217
+sound design,1340,204
+icontact,724,253
+telnet,1416,150
+smm,1297,294
+poetry,1123,373
+version control,1482,236
+sage,1231,307
+risk management,1219,243
+client requirements,293,350
+ccna,258,173
+flyer design,625,167
+directx,491,294
+fine art,611,217
+invoicing,770,238
+hootsuite,712,146
+technical design,1405,116
+game publishing,648,490
+iphone app development,778,323
+algorithm development,67,438
+sms gateway,1299,199
+bioinformatics,169,77
+social media blogging,1311,423
+digital photography,484,229
+lead generation,837,212
+leadership,838,490
+developer,475,301
+analytics,76,293
+xcode,1619,273
+oscommerce,1055,424
+3ds max,17,411
+oop,1032,255
+database design,456,340
+fiction,591,192
+rewriting,1214,406
+film,596,307
+brochure design,197,177
+linkedin,852,277
+open source,1034,217
+sql,1354,225
+vbscript,1475,331
+testing,1423,417
+payment gateway integration,1075,139
+lamp,827,410
+.net,0,0
+c,0,0
+c#,0,0
+sql server,0,0
+vb.net,0,0
+css3,0,0
+html5,0,0
+javascript,0,0
+joomla,0,0
+jquery,0,0
+magento,0,0
+mysql,0,0
+php,0,0
+wordpress,0,0
+yii framework,0,0
+load testing,0,0
+qa,0,0
+security,0,0
+security testing,0,0
+software,0,0
+software application,0,0
+test,0,0
+usability testing,0,0
+web testing,0,0
+access,0,0
+application development,0,0
+basic,0,0
+css,0,0
+design,0,0
+html,0,0
+http,0,0
+java,0,0
+linux,0,0
+linux system administration,0,0
+microsoft,0,0
+perl,0,0
+python,0,0
+ruby,0,0
+software development,0,0
+sqlite,0,0
+system administration,0,0
+bash,0,0
+focus,0,0
+programming,0,0
+drupal,0,0
+web development,0,0
+xhtml,0,0
+3d,0,0
+adobe illustrator,0,0
+artist,0,0
+graphic design,0,0
+illustration,0,0
+vector graphics,0,0
+vector illustration,0,0
+adobe photoshop,0,0
+android programming,0,0
+cocos2d,0,0
+objective-c,0,0
+benefits,0,0
+case,0,0
+marketing,0,0
+sales,0,0
+selling,0,0
+android,0,0
+c++,0,0
+dhtml,0,0
+facebook,0,0
+ios,0,0
+ipad,0,0
+iphone,0,0
+jsp,0,0
+ms,0,0
+phonegap,0,0
+twitter,0,0
+ajax,0,0
+api,0,0
+flash,0,0
+shopify,0,0
+digital,0,0
+email,0,0
+international,0,0
+mailchimp,0,0
+outlook,0,0
+painting,0,0
+photography,0,0
+t-shirt design,0,0
+arduino,0,0
+blackberry,0,0
+clean,0,0
+computer hardware,0,0
+electrical,0,0
+electrical engineering,0,0
+engineering,0,0
+hardware engineering,0,0
+microcontroller,0,0
+mobile,0,0
+software engineering,0,0
+tutoring,0,0
+consultant,0,0
+sugarcrm,0,0
+symfony,0,0
+ubercart,0,0
+web 2.0,0,0
+wordpress development,0,0
+zend,0,0
+zend framework,0,0
+zimbra,0,0
+analysis,0,0
+communication skills,0,0
+email marketing,0,0
+facebook marketing,0,0
+link building,0,0
+off page,0,0
+on page,0,0
+sem,0,0
+seo,0,0
+social media marketing,0,0
+yahoo,0,0
+accounting,0,0
+admin assistant,0,0
+blogging,0,0
+calendar management,0,0
+customer service,0,0
+data entry,0,0
+database management,0,0
+management,0,0
+ms excel,0,0
+ms word,0,0
+quickbooks,0,0
+research,0,0
+shopping carts,0,0
+social media outreach,0,0
+transcription,0,0
+virtual assistants,0,0
+word processing,0,0
+active listening,0,0
+blog writing,0,0
+children's writing,0,0
+short story writing,0,0
+codeigniter,0,0
+responsive web design,0,0
+web design,0,0
+ecommerce,0,0
+app development,0,0
+asp,0,0
+content management,0,0
+corporate,0,0
+iphone application development,0,0
+mobile application development,0,0
+mobile development,0,0
+music,0,0
+networking,0,0
+open source software,0,0
+outsourcing,0,0
+print design,0,0
+real estate,0,0
+social networking,0,0
+symbian,0,0
+tourism,0,0
+video,0,0
+virtuemart,0,0
+vtiger,0,0
+web 2.0 development,0,0
+web developer,0,0
+web programming,0,0
+website design,0,0
+windows,0,0

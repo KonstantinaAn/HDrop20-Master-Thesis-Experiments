@@ -1,0 +1,262 @@
+skill,skill_id,valuation
+newspapers industry,1006,307
+experienced,570,118
+online sales,1031,237
+iptables,785,175
+web page design,1561,244
+code review,310,186
+hypnosis,722,206
+business process mapping,222,336
+organizational operations,1053,310
+team player,1404,356
+web conversion,1549,48
+business discovery,210,297
+salesforce.com consulting,1245,296
+linux kernel,856,206
+non profit consulting,1012,238
+legal assistance,842,270
+microsoft system center,942,338
+social networking apps,1319,122
+news writing style,1003,168
+immigration,731,308
+subversion,1377,308
+comic strip,324,347
+cam,246,373
+ethical hacking,563,484
+organizational development,1052,337
+interior design-commercial,753,258
+marketing plans,898,325
+vmware,1521,113
+website promotion,1586,153
+ssis,1361,359
+social media,1310,145
+web chat,1542,298
+civil,285,198
+web text,1576,214
+photo illustration,1096,420
+event management,564,332
+ssh,1360,391
+digital illustration,482,333
+network security,1001,222
+web application design,1539,278
+desktop support,474,326
+email list building,543,362
+request for proposal design (rfp),1201,201
+digital photography,484,276
+marketing strategy,900,255
+web strategy,1573,103
+gui design,693,172
+blackberry os,174,167
+piano,1110,218
+inbound marketing,734,285
+short story writing,1282,320
+vtiger,1529,307
+phpmyadmin,1107,114
+rhel,1217,355
+powerbuilder,1136,259
+amazon ec2,71,164
+direct marketing,487,196
+social media coaching,1312,177
+mechanical engineering,917,217
+office management,1021,404
+nokia,1010,273
+renewable energy,1198,290
+server administration,1276,243
+patents,1072,303
+appointment setting,104,317
+progress,1159,269
+image advertising,728,269
+economics,522,398
+social networks,1321,346
+custom art,420,235
+magazine layout,878,492
+dj,495,317
+tourism,1434,316
+bpo,192,317
+red hat,1194,59
+software design,1328,188
+simulink,1286,141
+sip,1288,244
+advertisement design,52,293
+letterhead,845,74
+e-learning,511,510
+clean,288,223
+consulting,359,356
+coldfusion,315,59
+health,702,348
+application development,100,455
+telemarketing,1411,286
+adobe after effects,42,213
+solidworks,1336,207
+database design,456,134
+radio,1185,425
+payroll,1080,345
+software development,1329,301
+technical writing,1409,328
+sem,1269,308
+print design,1147,446
+powerpoint,1137,345
+vista,1510,265
+php,1103,484
+rss,1225,258
+communication skills,0,0
+english,0,0
+hindi,0,0
+html,0,0
+java,0,0
+linux,0,0
+mongodb,0,0
+ms,0,0
+mysql,0,0
+perl,0,0
+postgresql,0,0
+python,0,0
+software,0,0
+testing,0,0
+xml,0,0
+analysis,0,0
+architecture,0,0
+business consulting,0,0
+business planning,0,0
+business writing,0,0
+content writing,0,0
+design,0,0
+market research,0,0
+marketing,0,0
+presentations,0,0
+research,0,0
+web content,0,0
+web content writing,0,0
+writing,0,0
+data entry,0,0
+other - admin support,0,0
+virtual assistants,0,0
+.net,0,0
+android,0,0
+c,0,0
+customer satisfaction,0,0
+engineering,0,0
+iphone,0,0
+make,0,0
+web based solutions,0,0
+web development,0,0
+html5,0,0
+joomla,0,0
+magento,0,0
+wordpress,0,0
+access,0,0
+ajax,0,0
+apache,0,0
+api,0,0
+css,0,0
+css3,0,0
+facebook,0,0
+facebook api,0,0
+flash,0,0
+javascript,0,0
+jquery,0,0
+lamp,0,0
+microsoft,0,0
+mvc,0,0
+oop,0,0
+oracle,0,0
+smarty,0,0
+sql,0,0
+mobile web design,0,0
+oscommerce,0,0
+web design,0,0
+web developer,0,0
+woocommerce,0,0
+zen cart,0,0
+business card design,0,0
+logo design,0,0
+email,0,0
+email support,0,0
+http,0,0
+video,0,0
+app development,0,0
+c++,0,0
+corporate,0,0
+corporate identity,0,0
+dreamweaver,0,0
+drupal,0,0
+google maps,0,0
+graphic design,0,0
+iis,0,0
+internet marketing,0,0
+jsp,0,0
+medical,0,0
+networking,0,0
+real estate,0,0
+seo,0,0
+social media marketing,0,0
+social networking,0,0
+web 2.0,0,0
+yahoo,0,0
+zend,0,0
+zend framework,0,0
+responsive web design,0,0
+benefits,0,0
+business development,0,0
+customer service,0,0
+lead generation,0,0
+reports,0,0
+sales,0,0
+training,0,0
+developer,0,0
+advertising,0,0
+asp,0,0
+com,0,0
+blogging,0,0
+brochures,0,0
+community media,0,0
+creative writing,0,0
+digital,0,0
+digital designs,0,0
+https,0,0
+latin,0,0
+newsletters,0,0
+social crm,0,0
+social media blogging,0,0
+social media consulting,0,0
+social media outreach,0,0
+twitter,0,0
+web communities,0,0
+web marketing,0,0
+brochure design,0,0
+corporate identity kit,0,0
+flyer design,0,0
+basic,0,0
+c#,0,0
+excel,0,0
+management,0,0
+project management,0,0
+strategic planning,0,0
+unix,0,0
+vba,0,0
+vbscript,0,0
+visual basic,0,0
+2d design,0,0
+3d,0,0
+3d modeling,0,0
+autodesk inventor,0,0
+concept design,0,0
+industrial,0,0
+industrial design,0,0
+mechanical,0,0
+modeling,0,0
+asp.net,0,0
+blackberry,0,0
+cakephp,0,0
+cocoa,0,0
+codeigniter,0,0
+international,0,0
+ios,0,0
+administrative support,0,0
+basecamp,0,0
+infusionsoft,0,0
+invoicing,0,0
+mailchimp,0,0
+ms office,0,0
+ms office suite,0,0
+salesforce,0,0

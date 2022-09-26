@@ -1,0 +1,452 @@
+skill,skill_id,valuation
+microsoft great plains,937,82
+graphic designer,689,137
+cassandra,256,145
+mmorpg,948,112
+sales brochures,1233,68
+motif,966,75
+mural design,985,165
+abap,18,29
+friendster,637,35
+apple iworks,97,137
+microsoft excel powerpivot,936,70
+audio services,136,106
+social crm,1304,85
+good data,667,137
+book sales,188,94
+faxing,588,90
+java security,798,69
+database consulting,455,61
+immigration,731,125
+business process mapping,222,100
+non profit start up,1013,81
+multimedia animation,984,107
+video compression,1490,149
+product videography,1157,136
+mediawiki,920,88
+web conversion,1549,102
+mobile 2.0,951,130
+ecommerce optimization,520,104
+code review,310,94
+content managed websites,363,160
+community building,332,97
+mac apps,871,38
+restaurants industry,1207,73
+affiliate programs,58,80
+news writing style,1003,71
+video blogging,1488,134
+itil,792,129
+marketing coordination,895,101
+arcgis,107,96
+undefined,1459,124
+dj,495,85
+fact checking,580,60
+css javascript,416,139
+human resources management (hr),719,127
+sqlite,1358,130
+design strategy,470,78
+investment banking,768,108
+vba programming,1474,80
+active listening,33,141
+instructional design,747,40
+robotics,1221,82
+widget,1595,87
+windows desktop,1601,41
+saas,1230,153
+iphone design,780,133
+computer science,348,130
+fiction writing,592,121
+vector design,1477,67
+punctuation,1177,106
+memcached,927,91
+acting,29,108
+sales presentations,1239,83
+fpga,632,128
+windows 7,1598,79
+litigation,859,97
+texture artist,1427,64
+shell scripting,1278,124
+korean,826,67
+final draft,601,53
+financial services,608,93
+magazine design,877,94
+web animation,1538,52
+video effects,1493,83
+ospf,1056,72
+adobe lightroom,50,116
+mathematical modeling,906,44
+clean design,289,124
+prototyping,1167,93
+system analysis,1390,126
+article marketing,118,79
+budgeting,200,162
+vpn,1528,59
+grant writing,686,63
+symbian,1387,125
+vmware,1521,101
+network security,1001,176
+norwegian,1014,70
+coaching,304,135
+filemaker pro,594,98
+powerbuilder,1136,101
+social media blogging,1311,119
+comics,326,69
+wireless,1607,76
+test automation,1421,115
+licensing,847,159
+finnish,612,105
+nokia,1010,90
+cam,246,146
+mobile web design,962,82
+ldap,836,114
+social media coaching,1312,96
+art,115,113
+solomon,1337,127
+gambling,643,46
+application frameworks,101,66
+music videos,991,97
+packaging design,1067,99
+visual c#,1514,75
+git,662,94
+singing,1287,149
+blog development,179,149
+pl,1117,127
+spring,1351,49
+game prototyping,647,94
+epub (electronic publication),558,83
+prolog,1161,63
+ad management,37,133
+ipad development,776,88
+agriculture,61,77
+corporate image,390,91
+landing page design,830,117
+business writing,228,137
+magazine articles,876,126
+lean,840,114
+liferay,848,63
+arduino,113,183
+qa,1180,71
+wireless networking,1609,140
+interior design-commercial,753,57
+croatian,412,126
+software development life cycle,1330,155
+web crawling,1550,113
+bash,160,156
+admin assistant,38,121
+oil painting,1022,88
+application support,102,150
+mobile phone,960,40
+web content creation,1545,131
+poetry,1123,81
+gps,683,47
+intranet,766,156
+presentation design,1141,135
+web security,1567,137
+web standards,1572,102
+fine art,611,38
+government proposals,682,90
+medical writing,926,116
+iphone sdk,782,62
+t-shirt design,1393,120
+paralegal,1071,87
+tutoring,1446,142
+data security,450,163
+bluetooth,184,92
+nosql,1015,86
+algorithm development,67,128
+recipe writing,1192,101
+physics,1109,107
+sms gateway,1299,78
+act,27,67
+andriod apps,77,110
+virtual assistants,1506,160
+management,886,131
+php 5,1104,122
+virtuemart,1508,61
+english,552,156
+excel,566,141
+yahoo,1626,90
+coreldraw,383,67
+advertising,53,145
+telemarketing,1411,123
+animation,82,96
+dhtml,477,111
+blogs,183,78
+application development,100,91
+writing,1618,127
+fiction,591,129
+self,1266,110
+responsive wordpress theme,1205,62
+ipad,774,75
+website development,1583,100
+consulting,359,118
+ios,771,80
+mobile application development,953,112
+product design,1153,136
+j2ee,793,122
+3d animation,9,148
+grammar,685,82
+analysis,75,52
+digital,479,131
+testing,1423,108
+film,596,63
+seo,1273,114
+adobe photoshop,51,24
+basic,161,76
+json,815,157
+paypal,1077,77
+delphi,466,107
+iphone development,781,88
+brochures,198,103
+newsletters,1005,168
+article writing,0,0
+backlinking,0,0
+blog commenting,0,0
+link building,0,0
+search engine optimization (seo),0,0
+design,0,0
+ftp,0,0
+html,0,0
+ms,0,0
+powerpoint,0,0
+research,0,0
+acrobat,0,0
+adobe acrobat,0,0
+dutch,0,0
+german,0,0
+italian,0,0
+audio books,0,0
+english (uk),0,0
+reports,0,0
+surveys,0,0
+transcription,0,0
+video,0,0
+videos,0,0
+data conversion,0,0
+data entry,0,0
+data mining,0,0
+ecommerce,0,0
+email,0,0
+email support,0,0
+medical,0,0
+pdf,0,0
+quickbooks,0,0
+sem,0,0
+.net,0,0
+ajax,0,0
+corel draw,0,0
+css,0,0
+flash,0,0
+graphics,0,0
+indesign,0,0
+joomla,0,0
+mysql,0,0
+php,0,0
+sql,0,0
+wordpress,0,0
+xhtml,0,0
+actionscript,0,0
+asp,0,0
+asp.net,0,0
+billing,0,0
+c,0,0
+c#,0,0
+cakephp,0,0
+developer,0,0
+dojo,0,0
+drupal,0,0
+hibernate,0,0
+java,0,0
+javascript,0,0
+jquery,0,0
+magento,0,0
+networking,0,0
+oscommerce,0,0
+perl,0,0
+phpbb,0,0
+python,0,0
+real estate,0,0
+rest,0,0
+rss,0,0
+ruby,0,0
+smarty,0,0
+social networking,0,0
+struts,0,0
+symfony,0,0
+web 2.0,0,0
+web design,0,0
+web services,0,0
+website design,0,0
+xml,0,0
+zen cart,0,0
+zend,0,0
+zend framework,0,0
+sports writing,0,0
+opencart,0,0
+prestashop,0,0
+socialengine,0,0
+consultant,0,0
+facebook,0,0
+facebook marketing,0,0
+internet marketing,0,0
+lead generation,0,0
+leads,0,0
+market research,0,0
+marketing,0,0
+project management,0,0
+sales,0,0
+smo,0,0
+social media marketing,0,0
+training,0,0
+web marketing,0,0
+japanese,0,0
+reviews,0,0
+artist,0,0
+concept art,0,0
+cover art,0,0
+digital illustration,0,0
+drawing,0,0
+illustration,0,0
+software,0,0
+adobe illustrator,0,0
+web development,0,0
+android,0,0
+html5,0,0
+iphone,0,0
+mobile,0,0
+editing,0,0
+proofreading,0,0
+3d,0,0
+max,0,0
+music,0,0
+music production,0,0
+ecommerce seo,0,0
+woocommerce,0,0
+custom software development,0,0
+software development,0,0
+software solutions,0,0
+freelance,0,0
+typing,0,0
+3d modeling,0,0
+api,0,0
+architectural design,0,0
+design specifications,0,0
+drafting,0,0
+international,0,0
+modeling,0,0
+spanish,0,0
+adobe creative suite,0,0
+corporate,0,0
+dreamweaver,0,0
+materials,0,0
+microsoft,0,0
+promotions,0,0
+templates,0,0
+corporate identity,0,0
+displays,0,0
+logo design,0,0
+photo editing,0,0
+photography,0,0
+graphic design,0,0
+adobe captivate,0,0
+adobe indesign,0,0
+banner ads,0,0
+maya,0,0
+clean,0,0
+spelling,0,0
+articles,0,0
+finance,0,0
+make,0,0
+microsoft word,0,0
+psd,0,0
+search engine marketing (sem),0,0
+flash animation,0,0
+content management,0,0
+mobile applications,0,0
+motion graphics,0,0
+programming,0,0
+fireworks,0,0
+oracle,0,0
+online advertising,0,0
+wordpress plugin,0,0
+app development,0,0
+banner,0,0
+banner design,0,0
+blackberry,0,0
+brochure design,0,0
+iphone app development,0,0
+pay per click,0,0
+plugins,0,0
+user interface design,0,0
+vtiger,0,0
+windows,0,0
+content marketing,0,0
+social media consulting,0,0
+troubleshooting,0,0
+web presence,0,0
+air,0,0
+broadcasting,0,0
+com,0,0
+http,0,0
+https,0,0
+radio,0,0
+sports,0,0
+television,0,0
+translation,0,0
+voice over,0,0
+accounting,0,0
+focus,0,0
+payroll,0,0
+tax,0,0
+construction,0,0
+engineering,0,0
+japanese translation,0,0
+tourism,0,0
+3d graphics,0,0
+poster design,0,0
+academic writing,0,0
+copy editing,0,0
+educational psychology,0,0
+fitness industry,0,0
+health,0,0
+physical fitness,0,0
+test,0,0
+yoga,0,0
+access,0,0
+customer service,0,0
+ms excel,0,0
+ms office,0,0
+ms word,0,0
+joomla!,0,0
+amazon ec2,0,0
+github,0,0
+node.js,0,0
+embroidery,0,0
+rendering,0,0
+creative writing,0,0
+short stories,0,0
+analytics,0,0
+content writing,0,0
+directory submission,0,0
+google analytics,0,0
+google+,0,0
+off page,0,0
+on page,0,0
+on page optimization,0,0
+paypal integration,0,0
+psd to html,0,0
+social bookmarking,0,0
+twitter,0,0
+anime,0,0
+book writing,0,0
+children's book writing,0,0
+e-books,0,0
+ghost writing,0,0
+script writing,0,0
+storyboarding,0,0
+video games,0,0
+3d models,0,0
+autodesk maya,0,0
+inker,0,0
+sequential art,0,0
+mobile development,0,0

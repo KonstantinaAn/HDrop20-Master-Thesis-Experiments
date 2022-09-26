@@ -1,0 +1,370 @@
+skill,skill_id,valuation
+community media,333,166
+comic writing,325,189
+character modelling,267,156
+data backup,439,169
+contract negotiation,372,147
+web campaigns,1541,143
+apple developer,96,64
+human resources consulting (hr),718,144
+ez publish,573,156
+healthcare software,704,190
+community building,332,152
+system software,1392,170
+web content optimization,1547,90
+editorial consulting,525,108
+telugu,1417,144
+crm,409,220
+computer maintenance,345,94
+calculus,239,61
+e-business management,510,154
+data architecture,438,177
+prototype,1166,164
+liveperson,862,65
+cinematography,279,166
+sales plan,1238,67
+corporate law,391,74
+online payments,1029,50
+manufacturing design,891,130
+web os,1560,90
+bank reconciliation,154,166
+amazon s3,73,154
+business rescue,225,175
+rf engineering,1215,110
+apache mahout,87,104
+tax reporting,1400,205
+embedded development,546,59
+java api,797,139
+scorm,1256,85
+iptables,785,26
+sales brochures,1233,161
+mcse,915,107
+ad design,36,89
+paypal api,1078,155
+web security,1567,143
+smm,1297,123
+gps,683,115
+book cover design,186,91
+book illustration,187,84
+essbase,562,187
+3d design,10,116
+rhel,1217,111
+google+,680,134
+experience design,569,158
+direct mail pieces,486,137
+film production,599,169
+mail merge,881,152
+sip,1288,188
+data migration,445,172
+visual basic.net,1513,60
+adobe captivate,45,153
+version control,1482,156
+canvas prints,249,127
+flyers,626,228
+homesite,711,135
+public relations (pr),1172,117
+logistics,867,72
+nosql,1015,120
+active directory,32,126
+moodle,965,184
+cloud based,300,139
+comic book art,322,18
+oral communication,1047,73
+music production,990,119
+alfresco,65,146
+corporate identity kit,389,140
+windows server,1605,121
+sage,1231,129
+coaching,304,121
+video conferencing,1491,132
+ipod,783,125
+mechanical product design,918,62
+admin assistant,38,76
+business coaching,206,149
+software solutions,1334,121
+murals,987,134
+movie magic screenwriter,969,187
+packaging design,1067,83
+textile design,1424,156
+concept development,354,75
+saas,1230,92
+social marketing,1309,184
+e-pub formatting,512,177
+sass,1251,164
+pic,1111,40
+web search,1566,186
+mechanical engineering,917,67
+virtualization,1507,159
+game testing,650,139
+freebsd,633,123
+photo manipulation,1097,146
+business writing,228,181
+web standards,1572,121
+comics,326,161
+manual testing,889,218
+alpha,69,41
+2d art,5,110
+flowcharts,624,241
+2d animation,4,166
+bgp,166,152
+hindi,708,152
+socialengine,1323,105
+database development,457,107
+medical billing,922,135
+controller,374,131
+civil engineering,286,169
+art,115,109
+prototyping,1167,111
+business letters,215,142
+facebook fan page creation,578,92
+sales management,1236,141
+autodesk autocad,141,82
+insurance industry,748,190
+git,662,160
+tcp/ip,1401,137
+youtube api,1632,181
+cad/cam,237,143
+network administration,999,74
+open office,1033,138
+web games,1554,135
+sap,1248,141
+crm databases,410,127
+e-advertising,508,179
+tourism,1434,181
+social media consulting,1313,192
+appointment setting,104,124
+telnet,1416,108
+portuguese translation,1130,80
+blog design,178,132
+content management system (cms),365,100
+ffmpeg,590,128
+motion graphics,968,117
+ebook writing,516,151
+ejb,533,183
+article submission,120,75
+it training,789,112
+inbound marketing,734,125
+fashion illustration,585,52
+digital painting,483,190
+desktop support,474,101
+football,629,173
+invoicing,770,144
+health insurance,703,69
+video games,1494,124
+cartooning,254,101
+sql injection,1356,94
+network security,1001,140
+rdbms,1187,158
+data encoding,442,64
+backlinking,152,122
+broadcasting,196,168
+web maintenance,1557,174
+phpbb,1105,134
+data entry,443,160
+soap,1302,99
+mysql,993,151
+business development,209,203
+templates,1418,157
+pay per click,1074,136
+microsoft sql server,941,203
+responsive web design,1204,208
+smo,1298,171
+medical,921,88
+air,63,147
+psd,1168,177
+wpf,1616,36
+database design,456,112
+reviews,1213,184
+web services,1569,146
+sales,1232,118
+search engine optimization (seo),1262,87
+j2ee,793,132
+json,815,139
+ms office,976,174
+photo editing,1095,91
+xcode,1619,142
+web design,1551,154
+google maps,674,34
+film,596,153
+social media marketing,1315,176
+powerpoint presentations,1138,121
+twitter bootstrap,1449,126
+google analytics,670,143
+content writing,369,156
+maya,912,196
+com,320,145
+troubleshooting,1443,139
+make,884,78
+television,1415,121
+clean,288,114
+adobe after effects,42,177
+api,90,124
+adobe photoshop,0,0
+asp,0,0
+asp.net,0,0
+coreldraw,0,0
+css,0,0
+drupal,0,0
+ecommerce,0,0
+flash,0,0
+html,0,0
+java,0,0
+javascript,0,0
+joomla,0,0
+magento,0,0
+mobile,0,0
+opencart,0,0
+php,0,0
+programming,0,0
+ruby,0,0
+ruby on rails,0,0
+seo,0,0
+virtuemart,0,0
+wordpress,0,0
+zend,0,0
+zend framework,0,0
+graphic design,0,0
+cam,0,0
+italian,0,0
+video,0,0
+voice over,0,0
+directory submission,0,0
+forum posting,0,0
+link building,0,0
+press releases,0,0
+social bookmarking,0,0
+web traffic,0,0
+adobe illustrator,0,0
+animation,0,0
+blog development,0,0
+compositing,0,0
+corporate,0,0
+customer service,0,0
+design,0,0
+developer,0,0
+digital,0,0
+dynamic websites,0,0
+editing,0,0
+flash websites,0,0
+graphics,0,0
+jquery,0,0
+logo design,0,0
+music,0,0
+vfx,0,0
+website development,0,0
+adobe acrobat,0,0
+apex,0,0
+management,0,0
+salesforce,0,0
+security,0,0
+.net,0,0
+android,0,0
+basic,0,0
+c,0,0
+c#,0,0
+c++,0,0
+cocoa,0,0
+css3,0,0
+desktop applications,0,0
+html5,0,0
+ios,0,0
+mobile applications,0,0
+mobile development,0,0
+node.js,0,0
+objective-c,0,0
+phonegap,0,0
+regular expressions,0,0
+vba,0,0
+vbscript,0,0
+visual basic,0,0
+web development,0,0
+windows,0,0
+article writing,0,0
+blog marketing,0,0
+blog writing,0,0
+facebook,0,0
+facebook marketing,0,0
+internet marketing,0,0
+keyword research,0,0
+linkedin,0,0
+pinterest,0,0
+twitter,0,0
+video marketing,0,0
+website promotion,0,0
+english,0,0
+finnish,0,0
+proofreading,0,0
+rewriting,0,0
+swedish,0,0
+translation,0,0
+writing,0,0
+project management,0,0
+market research,0,0
+marketing,0,0
+consulting,0,0
+lamp,0,0
+linux,0,0
+plugins,0,0
+psd to html,0,0
+unix,0,0
+ajax,0,0
+buddypress,0,0
+generator,0,0
+php 5,0,0
+psd to wordpress,0,0
+psd to xhtml,0,0
+responsive wordpress theme,0,0
+wordpress development,0,0
+wordpress plugin,0,0
+xml,0,0
+dreamweaver,0,0
+facebook api,0,0
+.com,0,0
+analysis,0,0
+application design,0,0
+application development,0,0
+architect,0,0
+consultant,0,0
+oracle,0,0
+postgresql,0,0
+system design,0,0
+internet research,0,0
+research,0,0
+software,0,0
+solomon,0,0
+google adsense,0,0
+microcontroller,0,0
+processing,0,0
+testing,0,0
+.net compact framework,0,0
+access,0,0
+authorize.net,0,0
+cakephp,0,0
+captcha,0,0
+email,0,0
+focus,0,0
+interspire,0,0
+linq,0,0
+microsoft,0,0
+ms,0,0
+open source,0,0
+orm,0,0
+oscommerce,0,0
+outsourcing,0,0
+payment gateway integration,0,0
+paypal,0,0
+reports,0,0
+silverlight,0,0
+software development,0,0
+software programming,0,0
+sql,0,0
+sql server,0,0
+vb.net,0,0
+vista,0,0
+visual studio,0,0
+wcf,0,0
+website design,0,0
+windows mobile,0,0
+zen cart,0,0
+shopping carts,0,0
+sugarcrm,0,0
