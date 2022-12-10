@@ -41,29 +41,34 @@ class ExperimentExecutioner:
         :return:
         """
         self.logger.debug("Prepare to run {} ".format(self.algorithm))
+        """
+        :k_constrained parameter: for constrain version
+        if unconstrained version is used, put k_constraint = length(self.workers) 
+        """
+        k_constrained = 4
         if self.algorithm == 'dgreedy':
             self.alg_obj = DistortedGreedy(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                                           self.workers, k=4, _logger=self.logger)
+                                           self.workers, k=k_constrained, _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'dUSM':
-            self.alg_obj = DeterministicUSM(self.obj_func.objective_function_eval, self.workers, k=4, _logger=self.logger)
+            self.alg_obj = DeterministicUSM(self.obj_func.objective_function_eval, self.workers, k=k_constrained, _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'CSG':
             self.alg_obj = CSG(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                               self.workers, k=4, _logger=self.logger)
+                               self.workers, k=k_constrained, _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'Winner':
-            self.opt.set_k_constrained(4)
+            self.opt.set_k_constrained(k_constrained)
             print('k_constrained', self.opt.k_constrained)
             wp_lp_solver = self.opt.wd_lp_solver
             self.alg_obj = WinnerDeetermination(self.obj_func.submodular_function_eval_fast,
                                                 self.obj_func.linear_function_eval,
                                                 self.obj_func.costs, self.workers, wp_lp_solver, self.workers_df,
-                                                self.tasks_df, k=4, _logger=self.logger)
+                                                self.tasks_df, k=k_constrained, _logger=self.logger)
             self.solution = self.alg_obj.run()
         elif self.algorithm == 'ROI':
             self.alg_obj = ROIGreedy(self.obj_func.submodular_function_eval_fast, self.obj_func.linear_function_eval,
-                                     self.workers, k=4, _logger=self.logger)
+                                     self.workers, k=k_constrained, _logger=self.logger)
             self.solution = self.alg_obj.run()
         self.logger.debug("Finished running of {} ".format(self.algorithm))
         obj_eval = self.obj_func.objective_function_eval(self.solution)
@@ -91,8 +96,12 @@ class ExperimentExecutioner:
         :return:
         """
         optimal_uid = self.uid
-
-        self.opt.set_k_constrained(4)
+        """
+        :k_constrained parameter: for constrain version
+        if unconstrained version is used, put k_constraint = length(self.workers) 
+        """
+        k_constrained = 4
+        self.opt.set_k_constrained(k_constrained)
         print('k_constrained', self.opt.k_constrained)
 
         problem_obj, xvals, yvals, optimal_workers_df, optimal_tasks_df = self.opt.wd_ip_solver(task_df.shape[0],
